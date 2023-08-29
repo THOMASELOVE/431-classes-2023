@@ -22,7 +22,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 01 | 2023-08-29 | **[Slides 01](https://thomaselove.github.io/431-slides-2023/class01.html)** | [Code 01](https://thomaselove.github.io/431-slides-2023/class01.qmd) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The **Slides** link provides the version of the slides (in HTML) that I suggest you focus on during class. CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to get the slides to open up in a new tab of your browser.
-- The Quarto file links provide the code I used (in [Quarto](https://quarto.org/)) to build the slides.
+- The Quarto link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - To print RevealJS slides **to pdf** from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
 ## Announcements
