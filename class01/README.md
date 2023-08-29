@@ -56,7 +56,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 - XKCD on [Correlation vs. Causation](https://xkcd.com/552)
 - Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2023/teaching-assistants.html)
 - The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
-- Age-Guessing Activity Form is at https://bit.ly/431-2023-class01-breakout. Some of you will need this during class (one person per group.)
+- Age-Guessing Activity Form is at <https://bit.ly/431-2023-class01-breakout>. Some of you will need this during class (one person per group.)
     - The "[convenient piece of paper](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class01/convenient_piece_of_paper.pdf)" handout (pdf, 3 to a page) 
 - Hans Rosling and "The Joy of Stats" is [on YouTube here](https://www.youtube.com/watch?v=jbkSRLYSojo).
     - The [20 minute version](https://www.youtube.com/watch?v=RUwS1uAdUcI) from 2007 TED talk
