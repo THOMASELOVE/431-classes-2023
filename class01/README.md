@@ -27,7 +27,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Thank you to those of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) (34 of you as of 11:18 PM Monday.) 
+1. Thank you to those of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) (35 of you as of 11:30 PM Monday.) 
     - If you haven't completed this yet, please do so today. 
     - Dr. Love will discuss the Survey results once they are complete. 
         - For now, I'll agree that there's a lot of work in this course, but your predecessors have found it rewarding.
