@@ -23,7 +23,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 - The **Slides** link provides the version of the slides (in HTML) that I suggest you focus on during class. CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to get the slides to open up in a new tab of your browser.
 - The Quarto link allows you to download the code I used (in [Quarto](https://quarto.org/)) to build the slides.
-- To print RevealJS slides **to pdf** from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+- To print RevealJS slides **to pdf** from the HTML Link, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser. For today, I've also provided the [Class 01 Slides as PDF here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class01/431%20Class%2001.pdf) using that approach.
 
 ## Announcements
 
