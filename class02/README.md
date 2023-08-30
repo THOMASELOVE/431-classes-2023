@@ -9,3 +9,5 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 Class | Date | Slides | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 02 | 2023-08-31 | to appear | to appear | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
+- To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
