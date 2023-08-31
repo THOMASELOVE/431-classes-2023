@@ -30,21 +30,21 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Thank you to Kamilla Abdurakhmanov, David Askew, Julia Joo, Kelsey Lewis, Ethan Martin, Samir Memic, Vern Olaker, Gazi Samita and Reina Samuel for serving as recorders for their groups in the Photo Age Guess Activity in Class 01. I appreciate it.
 4. TA Office Hours will begin on Tuesday 2023-09-05. Our Shared Google Drive (431 Fall 2023 Dr Love and Students) contains Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**.
 5. If you're one of the three or four people who hasn't done so yet, please complete the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) today. Remember that you must be logged into Google via your CWRU account to do so. Thanks to those of you who've already completed the survey. 
+6. Seven of you still need to sign up for the [Campuswire discussion forum](https://thomaselove.github.io/431-2023/campuswire.html).
 
 ## Things to Do This Weekend
 
-1. Check the **431 Roster for Students to Check** sheet I've posted to our Shared Google Drive, and let me know if you find an error. If it's OK, no need to do anything. Remember that to access our Shared Google Drive (which is called 431 Fall 2023 Dr Love and Students) you'll need to be logged into Google via your CWRU account.
-2. Bookmark the [main course website](https://thomaselove.github.io/431-2023/), and the books [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/), the [R Graphics Cookbook](https://r-graphics.org/), and perhaps [OpenIntro Statistics](https://www.openintro.org/book/os/). I would also bookmark the [Posit Cheat Sheets](https://posit.co/resources/cheatsheets/) page.
-3. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2022/). Hint: I'll know on Tuesday morning if you've done this.
-4. By Tuesday's class, we're hoping you will read the introduction and Chapter 1 of Spiegelhalter's *The Art of Statistics: How to Learn from Data* as well as sections 1-3 of [R for Data Science](https://r4ds.hadley.nz/).
-5. [Install the software](https://thomaselove.github.io/431-2023/software.html) and [R packages, data and code](https://thomaselove.github.io/431-2023/software.html#installing-r-packages-and-datacode-for-431) you'll need.
-6. Sign up for the (free) [Campuswire discussion forum](https://thomaselove.github.io/431-2023/campuswire.html) if you haven't already.
-7. **Ask us questions**. TA office hours start next Tuesday, but [Campuswire is available now](https://thomaselove.github.io/431-2022/campuswire.html).
-8. Take a look at the following items...
-
+1. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2022/).
+    - Hint: I'll know on **Tuesday at 9 AM** if you've done this. Thanks to the 14 of you who have.
+2. By Tuesday's class, we're hoping you will read the introduction and Chapter 1 of Spiegelhalter's *The Art of Statistics: How to Learn from Data* as well as sections 1-3 of [R for Data Science](https://r4ds.hadley.nz/).
+3. Bookmark the [main course website](https://thomaselove.github.io/431-2023/), and the books [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/), the [R Graphics Cookbook](https://r-graphics.org/), and perhaps [OpenIntro Statistics](https://www.openintro.org/book/os/). I would also bookmark the [Posit Cheat Sheets](https://posit.co/resources/cheatsheets/) page.
+4. [Install the software](https://thomaselove.github.io/431-2023/software.html) and [R packages, data and code](https://thomaselove.github.io/431-2023/software.html#installing-r-packages-and-datacode-for-431) you'll need.
+5. Take a look at the following items:
     - the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html), to see what's ahead of you
     - the [Course Notes](https://thomaselove.github.io/431-notes/) (where I would try to skim from the start through Chapter 3),
     - and at your first substantial assignment: [Lab 01 (due 2023-09-12)](https://github.com/THOMASELOVE/431-labs-2023).
+6. **Ask us questions**. TA office hours start Tuesday, but [Campuswire is available now](https://thomaselove.github.io/431-2022/campuswire.html).
+
 
 ## One Last Thing
 
