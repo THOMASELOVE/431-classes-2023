@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## Today's Opener: The Quick Survey
 
-As you come in, you will receive a paper survey with 15 questions. Please read these instructions carefully before writing anything down.
+As you come in, **please take** (from the box at the back table) a paper survey with 15 questions. Please read these instructions carefully before writing anything down.
 
 1. Introduce yourself to someone near you.
 2. Record the survey answers **for that other person**, while they record your responses.
