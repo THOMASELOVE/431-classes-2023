@@ -29,7 +29,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. We're making every effort to record today's and all subsequent classes in their entirety, which will be posted (in theory) to the same place on [Canvas](https://canvas.case.edu).
 3. Thank you to Kamilla Abdurakhmanov, David Askew, Julia Joo, Kelsey Lewis, Ethan Martin, Samir Memic, Vern Olaker, Gazi Samita and Reina Samuel for serving as recorders for their groups in the Photo Age Guess Activity in Class 01. I appreciate it.
 4. TA Office Hours will begin on Tuesday 2023-09-05. Our Shared Google Drive (431 Fall 2023 Dr Love and Students) contains Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**.
-5. If you're one of the three or four people who hasn't done so yet, please complete the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) today. Remember that you must be logged into Google via your CWRU account to do so. Thanks to those of you who've already completed the survey. 
+5. If you're one of the two or three people who hasn't done so yet, please complete the [Welcome to 431 Survey](https://bit.ly/431-2023-welcome-survey) today. Remember that you must be logged into Google via your CWRU account to do so. Thanks to those of you who've already completed the survey. 
 6. Seven of you still need to sign up for the [Campuswire discussion forum](https://thomaselove.github.io/431-2023/campuswire.html).
 
 ## Things to Do This Weekend
