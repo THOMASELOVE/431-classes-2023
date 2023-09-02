@@ -8,4 +8,4 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-03 | 2023-09-05 | to appear | to appear | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+03 | 2023-09-05 | **[Slides 03](https://thomaselove.github.io/431-slides-2023/class03.html)** | [Code 03](https://thomaselove.github.io/431-slides-2023/class03.qmd)  | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
