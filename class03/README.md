@@ -72,7 +72,25 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
 4. Now is the time (if you haven't already) to [get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2023), which is due Tuesday 2023-09-12 at Noon. 
     - While you don't need to develop a Quarto file for Lab 01, you do need to use R and R Studio a bit.
     - You also need to have read at least the introduction (and ideally, Chapter 1) of Spiegelhalter's *The Art of Statistics*.
-  
+
+## Fifteen Interesting/Fun Facts about Students in this semester's 431 class
+
+1. Everyone in my family has a name related to Christmas!
+2. I am a sprinter on the Track & Field team and hold some records!
+3. I am on a Bollywood fusion dance team at case!
+4. I enjoy rock climbing
+5. I hated soccer entire my life but now I am watching that for my son
+6. I have a tattoo that glows under UV light
+7. I love to sing and used to sing with the Cleveland Orchestra Chorus!
+8. I play drums in a local band.
+9. I played college football during my undergrad.
+10. I was trained in opera vocal performance.
+11. I worked as a crime scene investigator and forensic scientist for 7 to 8 years
+12. My family makes maple syrup here in geauga county
+13. I love gardening! Started to learn about botany this summer as well to get better at gardening and just expand my general knowledge.
+14. This is now the third year I've biked with Case's VeloSano team, a cancer research fundraiser with Cleveland Clinic.
+15. I tried out for the Canadian National Team for Tae Kwon Do in 1987
+
 ## One More Thing
 
 Coming soon.
