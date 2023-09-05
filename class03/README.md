@@ -54,7 +54,7 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
 
 ## Announcements
  
-1. There is a [Minute Paper after Class 03] **link to come**, which you need to complete by NOON Wednesday 2023-09-06. A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you.
+1. Your first assignment is a [Minute Paper after Class 03](https://bit.ly/431-2023-minute-3), which you need to complete by NOON Wednesday 2023-09-06 (tomorrow). A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you.
     - You'll need to be logged into Google via CWRU to complete the Minute Papers. 
     - **Always** complete the Minute Paper even if you weren’t able to attend the most recent class. 
     - More on the Minute Papers [here](https://github.com/THOMASELOVE/431-minute-2023), and [in the Syllabus](https://thomaselove.github.io/431-syllabus-2023/10_assignments.html#minute-papers).
