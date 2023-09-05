@@ -70,7 +70,7 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
     - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
 
 4. Now is the time (if you haven't already) to [get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2023), which is due Tuesday 2023-09-12 at Noon. 
-    - While you don't need to develop a Quarto file for Lab 01, you do need to use R and R Studio a bit.
+    - While you don't need to develop a Quarto file for Lab 01, you do need to use R and R Studio a bit. We have provided you with a template for Lab 1 to help you get started.
     - You also need to have read at least the introduction (and ideally, Chapter 1) of Spiegelhalter's *The Art of Statistics*.
 
 ## Ten Interesting/Fun Facts about Students in this semester's 431 class
@@ -86,7 +86,18 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
 9. This is now the third year I've biked with Case's VeloSano team, a cancer research fundraiser with Cleveland Clinic.
 10. I tried out for the Canadian National Team for Tae Kwon Do in 1987
 
+## What Should I Be Working On?
+
+1. The [Minute Paper after Class 03](https://bit.ly/431-2023-min-03), which is due at **noon Wednesday 2023-09-06**.
+2. Get R and RStudio up and running effectively, if you haven't done so already. Consult the TAs in their office hours or ask questions on Campuswire if you need help.
+3. Read through Chapter 1 of Spiegelhalter's *The Art of Statistics*, and through Chapter 3 of [R for Data Science](https://r4ds.hadley.nz/).
+4. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its deadline: Tuesday 2023-09-12 at Noon.
+5. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class02#things-to-do-this-weekend).
+
 ## One More Thing
 
-Coming soon.
+Thanks very much to the 28 of you who completed the requirements of [Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/13_movies.html) on time, and thus received a little class participation credit. Opportunities like this will appear through the semester, so keep an eye out for them. 
+
+In the meantime, those of you who didn't complete this task already, please do so **today**. Thanks!
+
 
