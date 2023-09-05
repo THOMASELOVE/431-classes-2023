@@ -90,7 +90,7 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
 
 ## What Should I Be Working On?
 
-1. The [Minute Paper after Class 03](https://bit.ly/431-2023-min-03), which is due at **noon Wednesday 2023-09-06**.
+1. The [Minute Paper after Class 03](https://bit.ly/431-2023-minute-3), which is due at **noon Wednesday 2023-09-06**.
 2. Get R and RStudio up and running effectively, if you haven't done so already. Consult the TAs in their office hours or ask questions on Campuswire if you need help.
 3. Read through Chapter 1 of Spiegelhalter's *The Art of Statistics*, and through Chapter 3 of [R for Data Science](https://r4ds.hadley.nz/).
 4. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its deadline: **Tuesday 2023-09-12 at Noon**.
