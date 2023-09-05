@@ -65,7 +65,7 @@ All of this material is also demonstrated in early Chapters of the [Course Notes
     - Professor Love will also hold "drop-in" office hours before and after each class.
     - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
 
-3. I continue to threaten to show a [video from Hans Rosling](https://www.gapminder.org/fw/world-health-chart/). Today, I hope to do just that. 
+3. I continue to threaten to show a [video from Hans Rosling](https://www.gapminder.org/fw/world-health-chart/). If I don't get to it today, I encourage you to watch it yourself (it's about 4 minutes long). 
     - The updated [World Health Chart from Gapminder](https://www.gapminder.org/fw/world-health-chart/) may be of particular interest, and includes links to the [original video](https://www.youtube.com/watch?v=jbkSRLYSojo&feature=emb_imp_woyt) I planned to show to you, and the shorter update I will show today.
     - Some related thoughts, plots and links to data can be found in [Health, Wealth and Education: Is There a Link for Countries?](https://www.stlouisfed.org/open-vault/2021/july/health-wealth-education-link-countries) posted in July 2021 by Heather Hennerich.
 
