@@ -15,7 +15,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. Everyone in my family has a name related to Christmas!
 2. I am a sprinter on the Track & Field team and hold some records!
 3. I am on a Bollywood fusion dance team at case!
-4. I enjoy rock climbing
+4. I enjoy rock climbing.
 5. I hated soccer entire my life but now I am watching that for my son
 6. Megan Thee Stallion is from my hometown.
 7. I recently studied abroad in Spain, and spent a week solo backpacking around Europe.
