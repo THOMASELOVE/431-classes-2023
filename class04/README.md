@@ -10,6 +10,21 @@ Class | Date | Slides | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 04 | 2023-09-07 | **[Slides 04](https://thomaselove.github.io/431-slides-2023/class04.html)** | [Code 04](https://thomaselove.github.io/431-slides-2023/class04.qmd) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Announcements
+
+1. Feedback from Dr. Love on the Minute Paper after Class 03 is [now available on our Shared Drive](https://bit.ly/431-2023-min-03-feedback).
+
+## [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due Tuesday 2023-09-12 at NOON
+
+- On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions up to 12 hours before the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
+- See [Section 12.9 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/12_policies.html#sec-ai) for details on this course’s policies on using AI composition software (such as ChatGPT) for assignments in this course.
+- Lab assignments are submitted through [Canvas](https://canvas.case.edu/). The link to post your responses for each Lab will appear on [Canvas](https://canvas.case.edu/) in time for you to submit the work, usually just after the deadline for the preceding Lab has passed.
+- We **do not** give extensions on Labs. [Here are the full details on the late policy for grading labs](https://github.com/THOMASELOVE/431-labs-2023#late-policy-no-extensions).
+    - Labs that are turned in 1-12 hours after the deadline will lose 10% of available points.
+    - Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points.
+    - Labs turned in more than 48 hours after the deadline will receive no credit.
+- If you are having a problem that prevents you from turning in the Lab within 48 hours of the deadline, *then* you should contact Dr. Love by email, ideally **well before** the Lab is due.
+
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
 1. Everyone in my family has a name related to Christmas!
@@ -22,17 +37,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 8. I’ve never had soft drinks  before coming to the US.
 9. I have 27 cousins!
 10. My family and I really enjoy swimming and scuba diving.
-
-## [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due Tuesday 2023-09-12 at NOON
-
-- On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions up to 12 hours before the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
-- See [Section 12.9 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/12_policies.html#sec-ai) for details on this course’s policies on using AI composition software (such as ChatGPT) for assignments in this course.
-- Lab assignments are submitted through [Canvas](https://canvas.case.edu/). The link to post your responses for each Lab will appear on [Canvas](https://canvas.case.edu/) in time for you to submit the work, usually just after the deadline for the preceding Lab has passed.
-- We **do not** give extensions on Labs. [Here are the full details on the late policy for grading labs](https://github.com/THOMASELOVE/431-labs-2023#late-policy-no-extensions).
-    - Labs that are turned in 1-12 hours after the deadline will lose 10% of available points.
-    - Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points.
-    - Labs turned in more than 48 hours after the deadline will receive no credit.
-- If you are having a problem that prevents you from turning in the Lab within 48 hours of the deadline, *then* you should contact Dr. Love by email, ideally **well before** the Lab is due.
 
 ## What Should I Do This Weekend?
 
