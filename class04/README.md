@@ -25,4 +25,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
-To come.
+[Data is Plural](https://www.data-is-plural.com/) is a weekly newsletter of useful / curious data sets, published by Jeremy Singer-Vine. You can subscribe (free) and/or browse past editions [online](https://www.data-is-plural.com/). [This spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) is a structured archive of over 1700 data sets (at present) along with some notes and community-built tools for looking at these data. I recommend it highly.
+
+
