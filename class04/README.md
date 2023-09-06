@@ -12,7 +12,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback from Dr. Love on the Minute Paper after Class 03 is [now available on our Shared Drive](https://bit.ly/431-2023-min-03-feedback).
+1. Feedback from Dr. Love on [the Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2023/blob/main/README.md#minute-paper-assignments-for-431-in-fall-2023) is [now available on our Shared Drive](https://bit.ly/431-2023-min-03-feedback).
 
 ## [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due Tuesday 2023-09-12 at NOON
 
