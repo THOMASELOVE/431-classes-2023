@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-04 | 2023-09-07 | to appear | to appear | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+04 | 2023-09-07 | **[Slides 04](https://thomaselove.github.io/431-slides-2023/class04.html)** | [Code 04](https://thomaselove.github.io/431-slides-2023/class04.qmd) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
