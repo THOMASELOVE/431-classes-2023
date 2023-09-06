@@ -13,6 +13,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback from Dr. Love on [the Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2023/blob/main/README.md#minute-paper-assignments-for-431-in-fall-2023) is [now available on our Shared Drive](https://bit.ly/431-2023-min-03-feedback).
+2. As of 3 PM Wednesday, 49/58 students had completed the Favorite Movie task [described in Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/13_movies.html). Let's get the last few in, please.
 
 ## [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due Tuesday 2023-09-12 at NOON
 
