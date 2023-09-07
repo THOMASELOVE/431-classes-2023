@@ -13,17 +13,17 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Feedback from Dr. Love on [the Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2023/blob/main/README.md#minute-paper-assignments-for-431-in-fall-2023) is [now available on our Shared Drive](https://bit.ly/431-2023-min-03-feedback). Almost everyone was on time, and everyone eventually completed the Minute Paper. Thank you!
-
-## [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due Tuesday 2023-09-12 at NOON
-
-- On every assignment, Lab, Quiz, project-related task, whatever, we will be delighted to respond to questions up to 12 hours before the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
-- See [Section 12.9 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/12_policies.html#sec-ai) for details on this course’s policies on using AI composition software (such as ChatGPT) for assignments in this course.
-- Lab assignments are submitted through [Canvas](https://canvas.case.edu/). The link to post your responses for each Lab will appear on [Canvas](https://canvas.case.edu/) in time for you to submit the work, usually just after the deadline for the preceding Lab has passed.
-- We **do not** give extensions on Labs. [Here are the full details on the late policy for grading labs](https://github.com/THOMASELOVE/431-labs-2023#late-policy-no-extensions).
-    - Labs that are turned in 1-12 hours after the deadline will lose 10% of available points.
-    - Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points.
-    - Labs turned in more than 48 hours after the deadline will receive no credit.
-- If you are having a problem that prevents you from turning in the Lab within 48 hours of the deadline, *then* you should contact Dr. Love by email, ideally **well before** the Lab is due.
+2. [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due Tuesday 2023-09-12 at NOON.
+    - I have created a brief Zoom recording which shows how I would start doing Lab 1, specifically, how I would build my response using Quarto. I will post the recording and link it here as soon as it is done processing. Please take a look if you're having any trouble getting started.
+    - Some reminders about Labs
+        - We will be delighted to respond to questions up to 12 hours before the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
+        - See [Section 12.9 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/12_policies.html#sec-ai) for details on this course’s policies on using AI composition software (such as ChatGPT) for assignments in this course.
+        - Lab assignments are submitted through [Canvas](https://canvas.case.edu/). The link to post your responses for each Lab will appear on [Canvas](https://canvas.case.edu/) in time for you to submit the work, usually just after the deadline for the preceding Lab has passed.
+        - We **do not** give extensions on Labs. [Here are the full details on the late policy for grading labs](https://github.com/THOMASELOVE/431-labs-2023#late-policy-no-extensions).
+            - Labs that are turned in 1-12 hours after the deadline will lose 10% of available points.
+            - Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points.
+            - Labs turned in more than 48 hours after the deadline will receive no credit.
+        - If you are having a problem that prevents you from turning in the Lab within 48 hours of the deadline, *then* you should contact Dr. Love by email, ideally **well before** the Lab is due.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
