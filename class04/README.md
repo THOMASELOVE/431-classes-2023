@@ -20,7 +20,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - We will be delighted to respond to questions up to 12 hours before the assignment is due. After that time, you may wind up on your own. The reason for this is that Professor Love and the teaching assistants will regularly post responses to frequently asked questions about assignments, and we need sufficient time to accomplish this task.
     - See [Section 12.9 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/12_policies.html#sec-ai) for details on this course’s policies on using AI composition software (such as ChatGPT) for assignments in this course.
     - Lab assignments are submitted through [Canvas](https://canvas.case.edu/). The link to post your responses for each Lab will appear on [Canvas](https://canvas.case.edu/) in time for you to submit the work, usually just after the deadline for the preceding Lab has passed.
-    - We **do not** give extensions on Labs. [Here are the full details on the late policy for grading labs](https://github.com/THOMASELOVE/431-labs-2023#late-policy-no-extensions).
+    - We **do not** give extensions on Labs. [Click here for full details on the late policy for labs](https://github.com/THOMASELOVE/431-labs-2023#late-policy-no-extensions), but here are some highlights.
         - Labs that are turned in 1-12 hours after the deadline will lose 10% of available points.
         - Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points.
         - Labs turned in more than 48 hours after the deadline will receive no credit.
