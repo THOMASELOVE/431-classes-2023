@@ -25,7 +25,7 @@ Class | Date | Slides | Quarto .qmd | Recording
         - Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points.
         - Labs turned in more than 48 hours after the deadline will receive no credit.
     - If you are having a problem that prevents you from turning in the Lab within 48 hours of the deadline, *then* you should contact Dr. Love by email, ideally **well before** the Lab is due.
-4. We'll discuss your Favorite Movies next week. Thanks to everyone for getting that done.
+4. We'll discuss your [Favorite Movies](https://thomaselove.github.io/431-syllabus-2023/13_movies.html) next week. Thanks to everyone for getting that done.
 5. So far, no one (but me) has asked a [question on Campuswire](https://campuswire.com/). I'll take a minute to be sure you all know how to do so, with Lab 1 coming up.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
