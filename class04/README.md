@@ -25,7 +25,8 @@ Class | Date | Slides | Quarto .qmd | Recording
         - Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points.
         - Labs turned in more than 48 hours after the deadline will receive no credit.
     - If you are having a problem that prevents you from turning in the Lab within 48 hours of the deadline, *then* you should contact Dr. Love by email, ideally **well before** the Lab is due.
-4. So far, no one (but me) has asked a [question on Campuswire](https://campuswire.com/). I'll take a minute to be sure you all know how to do so, with Lab 1 coming up.
+4. We'll discuss your Favorite Movies next week. Thanks to everyone for getting that done.
+5. So far, no one (but me) has asked a [question on Campuswire](https://campuswire.com/). I'll take a minute to be sure you all know how to do so, with Lab 1 coming up.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
@@ -45,7 +46,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. Complete [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main), as discussed above. Deadline is noon Tuesday 2023-09-12. Answers will be posted at noon Thursday 2023-09-14.
 2. By Tuesday, you should also have read through Chapter 3 of Spiegelhalter's *The Art of Statistics* and through Chapter 5 (and skim Chapter 11) of [R for Data Science](https://r4ds.hadley.nz/). In the [course notes](https://thomaselove.github.io/431-notes/), Chapters 1-8 touch on some of the things we're discussing now, along with some things we're yet to discuss.
 3. You may want to start looking at [the instructions for Project A](https://thomaselove.github.io/431-projectA-2023/), but we'll start discussing those in earnest in Class 06.
-4. As of 11 AM today, 57/58 students had completed the Favorite Movie task [described in Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/13_movies.html). Let's get the last one in **today**, please.
 
 ## One Last Thing
 
