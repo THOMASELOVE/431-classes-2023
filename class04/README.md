@@ -42,8 +42,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. Complete [Lab 1](https://github.com/THOMASELOVE/431-labs-2023/tree/main), as discussed above. Deadline is noon Tuesday 2023-09-12. Answers will be posted at noon Thursday 2023-09-14.
 2. By Tuesday, you should also have read through Chapter 3 of Spiegelhalter's *The Art of Statistics* and through Chapter 5 (and skim Chapter 11) of [R for Data Science](https://r4ds.hadley.nz/).
-3. As of 11 AM today, 57/58 students had completed the Favorite Movie task [described in Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/13_movies.html). Let's get the last one in **today**, please.
-4. You may want to start looking at [the instructions for Project A](https://thomaselove.github.io/431-projectA-2023/), but we'll start discussing those in earnest in Class 06.
+3. You may want to start looking at [the instructions for Project A](https://thomaselove.github.io/431-projectA-2023/), but we'll start discussing those in earnest in Class 06.
+4. As of 11 AM today, 57/58 students had completed the Favorite Movie task [described in Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2023/13_movies.html). Let's get the last one in **today**, please.
 
 ## One Last Thing
 
