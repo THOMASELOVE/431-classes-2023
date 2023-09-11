@@ -41,16 +41,25 @@ Today (and Thursday), we will work with the `dm_431.csv` data set, which is now 
 
 ## One Last Thing
 
-Here is a list of the 55 movies you mentioned as your favorites, in a particular order which you may be able to guess. More information to come.
+Here are the 55 movies you mentioned as your favorites, ordered in a mysterious way. More information to come.
 
-title | title | title | title | title 
+### Group A
+
+- The Godfather, Mamma Mia!, Interstellar
+
+### Group B
+
+title | title | title | title | title
 :------------: | :------------: | :------------: | :------------: | :------------: 
-The Godfather | Mamma Mia! | Interstellar | - | -
 Raiders of the Lost Ark | Amadeus | Dead Poet's Society | The Little Mermaid (1989) | National Lampoon's Christmas Vacation 
 Home Alone | The Shawshank Redemption | Good Will Hunting | Titanic | Shrek 
 Harry Potter and the Chamber of Secrets | Lord of the Rings: The Two Towers | Pirates of the Caribbean: The Curse of the Black Pearl | The Dark Knight | Night at the Museum: Battle of the Smithsonian 
 Inception | Tangled | Mission Impossible: Ghost Protocol | The Imitation Game | Everything, Everywhere, All at Once 
-- | - | - | - | -
+
+### Group C
+
+title | title | title | title | title
+:------------: | :------------: | :------------: | :------------: | :------------: 
 Alien | Real Genius | Farewell My Concubine | 10 Things I Hate About You | Howl's Moving Castle
 Mean Girls | The Gingerdead Man | Star Wars Episode III: Revenge of the Sith | Pirates of the Caribbean: Dead Man's Chest | Like Stars on Earth (Taare Zameen Par) 
 Ratatouille | Brideshead Revisited | 3 Idiots | Gifted Hands: The Ben Carson Story | Real Steel 
