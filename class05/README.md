@@ -41,31 +41,68 @@ Today (and Thursday), we will work with the `dm_431.csv` data set, which is now 
 
 ## One Last Thing
 
-Here are the 55 movies you mentioned as your favorites, grouped and ordered in a mysterious way. More information to come.
+Here are the 55 movies you sent posters of to describe your favorites, grouped and ordered in a mysterious way so as to encode three pieces of information. Any ideas?
 
 ### Group A
 
-title | title | title 
-:------------: | :------------: | :------------: 
-The Godfather | Mamma Mia! | Interstellar
+1. The Godfather
+2. Mamma Mia!
+3. Interstellar
 
 ### Group B
 
-title | title | title | title | title
-:------------: | :------------: | :------------: | :------------: | :------------: 
-Raiders of the Lost Ark | Amadeus | Dead Poet's Society | The Little Mermaid (1989) | National Lampoon's Christmas Vacation 
-Home Alone | The Shawshank Redemption | Good Will Hunting | Titanic | Shrek 
-Harry Potter and the Chamber of Secrets | Lord of the Rings: The Two Towers | Pirates of the Caribbean: The Curse of the Black Pearl | The Dark Knight | Night at the Museum: Battle of the Smithsonian 
-Inception | Tangled | Mission Impossible: Ghost Protocol | The Imitation Game | Everything, Everywhere, All at Once 
+4. Raiders of the Lost Ark
+5. Amadeus
+6. Dead Poet's Society
+7. The Little Mermaid (1989)
+8. National Lampoon's Christmas Vacation 
+9. Home Alone
+10. The Shawshank Redemption
+11. Good Will Hunting
+12. Titanic
+13. Shrek
+14. Harry Potter and the Chamber of Secrets
+15. Lord of the Rings: The Two Towers
+16. Pirates of the Caribbean: The Curse of the Black Pearl
+17. The Dark Knight
+18. Night at the Museum: Battle of the Smithsonian
+19. Inception
+20. Tangled
+21. Mission Impossible: Ghost Protocol
+22. The Imitation Game
+23. Everything, Everywhere, All at Once 
 
 ### Group C
 
-title | title | title | title | title
-:------------: | :------------: | :------------: | :------------: | :------------: 
-Alien | Real Genius | Farewell My Concubine | 10 Things I Hate About You | Howl's Moving Castle
-Mean Girls | The Gingerdead Man | Star Wars Episode III: Revenge of the Sith | Pirates of the Caribbean: Dead Man's Chest | Like Stars on Earth (Taare Zameen Par) 
-Ratatouille | Brideshead Revisited | 3 Idiots | Gifted Hands: The Ben Carson Story | Real Steel 
-Cloud Atlas | The Hunger Games: Catching Fire | Big Hero 6 | Divergent | Hacksaw Ridge 
-Blade Runner 2049 | Call Me By Your Name | Coco | Crazy Rich Asians | Hereditary 
-Mamma Mia: Here We Go Again | Murder Mystery | Portrait of a Lady on Fire | CODA | A Man Called Otto 
-Barbie | The Little Mermaid (2023)
+24. Alien
+25. Real Genius
+26. Farewell My Concubine
+27. 10 Things I Hate About You
+28. Howl's Moving Castle
+29. Mean Girls
+30. The Gingerdead Man
+31. Star Wars Episode III: Revenge of the Sith
+32. Pirates of the Caribbean: Dead Man's Chest
+33. Like Stars on Earth (Taare Zameen Par)
+34. Ratatouille
+35. Brideshead Revisited
+36. 3 Idiots
+37. Gifted Hands: The Ben Carson Story
+38. Real Steel
+39. Cloud Atlas
+40. The Hunger Games: Catching Fire
+41. Big Hero 6
+42. Divergent
+43. Hacksaw Ridge
+44. Blade Runner 2049
+45. Call Me By Your Name
+46. Coco
+47. Crazy Rich Asians
+48. Hereditary
+49. Mamma Mia: Here We Go Again
+50. Murder Mystery
+51. Portrait of a Lady on Fire
+52. CODA
+53. A Man Called Otto
+54. Barbie
+55. The Little Mermaid (2023)
