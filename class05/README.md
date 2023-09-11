@@ -15,4 +15,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a Minute Paper after Class 05, due Wednesday 2023-09-13 at noon. Please complete it, on time.
-2. 
+2. Today (and Thursday), we will work with the `dm431` data set, which is available on our 431-data page, and also in the data subfolder for this README.
+
+## One Last Thing
+
+![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class05/images/lukito_2020-09-07.PNG)
