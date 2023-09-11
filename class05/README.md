@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class05/images/lukito_2020-09-07.PNG)
+
 ## Today's Slides
 
 Class | Date | Slides | Quarto .qmd | Recording
@@ -39,4 +41,20 @@ Today (and Thursday), we will work with the `dm_431.csv` data set, which is now 
 
 ## One Last Thing
 
-![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class05/images/lukito_2020-09-07.PNG)
+Here is a list of the 55 movies you mentioned as your favorites, in a particular order which you may be able to guess. More information to come.
+
+title | title | title | title | title 
+:------------: | :------------: | :------------: | :------------: | :------------: 
+The Godfather | Mamma Mia! | Interstellar | - | -
+Raiders of the Lost Ark | Amadeus | Dead Poet's Society | The Little Mermaid (1989) | National Lampoon's Christmas Vacation 
+Home Alone | The Shawshank Redemption | Good Will Hunting | Titanic | Shrek 
+Harry Potter and the Chamber of Secrets | Lord of the Rings: The Two Towers | Pirates of the Caribbean: The Curse of the Black Pearl | The Dark Knight | Night at the Museum: Battle of the Smithsonian 
+Inception | Tangled | Mission Impossible: Ghost Protocol | The Imitation Game | Everything, Everywhere, All at Once 
+- | - | - | - | -
+Alien | Real Genius | Farewell My Concubine | 10 Things I Hate About You | Howl's Moving Castle
+Mean Girls | The Gingerdead Man | Star Wars Episode III: Revenge of the Sith | Pirates of the Caribbean: Dead Man's Chest | Like Stars on Earth (Taare Zameen Par) 
+Ratatouille | Brideshead Revisited | 3 Idiots | Gifted Hands: The Ben Carson Story | Real Steel 
+Cloud Atlas | The Hunger Games: Catching Fire | Big Hero 6 | Divergent | Hacksaw Ridge 
+Blade Runner 2049 | Call Me By Your Name | Coco | Crazy Rich Asians | Hereditary 
+Mamma Mia: Here We Go Again | Murder Mystery | Portrait of a Lady on Fire | CODA | A Man Called Otto 
+Barbie | The Little Mermaid (2023)
