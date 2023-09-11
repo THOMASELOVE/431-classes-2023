@@ -10,6 +10,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
 04 | 2023-09-07 | **[Slides 04](https://thomaselove.github.io/431-slides-2023/class04.html)** | [Code 04](https://thomaselove.github.io/431-slides-2023/class04.qmd) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+- To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
 ## Announcements
 
 1. Feedback from Dr. Love on [the Minute Paper after Class 03](https://github.com/THOMASELOVE/431-minute-2023/blob/main/README.md#minute-paper-assignments-for-431-in-fall-2023) is [now available on our Shared Drive](https://bit.ly/431-2023-min-03-feedback). Almost everyone was on time, and everyone eventually completed the Minute Paper. Thank you!
