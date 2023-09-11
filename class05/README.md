@@ -45,7 +45,9 @@ Here are the 55 movies you mentioned as your favorites, grouped and ordered in a
 
 ### Group A
 
-- The Godfather, Mamma Mia!, Interstellar
+title | title | title 
+:------------: | :------------: | :------------: 
+The Godfather | Mamma Mia! | Interstellar
 
 ### Group B
 
