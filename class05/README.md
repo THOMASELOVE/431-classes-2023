@@ -41,7 +41,7 @@ Today (and Thursday), we will work with the `dm_431.csv` data set, which is now 
 
 ## One Last Thing
 
-Here are the 55 movies you mentioned as your favorites, ordered in a mysterious way. More information to come.
+Here are the 55 movies you mentioned as your favorites, grouped and ordered in a mysterious way. More information to come.
 
 ### Group A
 
