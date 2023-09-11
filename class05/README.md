@@ -28,7 +28,7 @@ Detailed [instructions for Project A](https://thomaselove.github.io/431-projectA
 
 - Project A is the first of two real data science projects you’ll be doing this semester. In Project A, you’ll each work with part of the [County Health Rankings 2023](https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation) data. 
 - You can *and should* get started on the [Data](https://thomaselove.github.io/431-projectA-2023/data.html) and [Proposal](https://thomaselove.github.io/431-projectA-2023/proposal.html) materials now. All of that work must be completed in September. The [Analyses](https://thomaselove.github.io/431-projectA-2023/analyses.html) and [Portfolio](https://thomaselove.github.io/431-projectA-2023/portfolio.html) will be done in October.
-- Note that Dr. Love has provided you with several [examples and tips for Project A](https://thomaselove.github.io/431-projectA-2023/examples.html) to help you get started.
+- I have provided several [examples for Project A](https://thomaselove.github.io/431-projectA-2023/examples.html) to help you get started.
 - You can work alone, or with one other person on Project A. If you work as a pair, you create one project together, and each of you receive the same grade.
     - We'll set aside some time in Thursday's Class 06 to let you chat with others and decide if you might like to work as partners.
 - Detailed instructions for [Project B](https://thomaselove.github.io/431-projectA-2022/) will be posted later this semester, but I wouldn't think about that now. Project A is a September/October activity. Project B is a November/December activity.
