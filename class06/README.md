@@ -8,4 +8,13 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :-------------:
-06 | 2023-09-14 | to appear | to appear | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+06 | 2023-09-14 | **[Slides 05 (and 06)](https://thomaselove.github.io/431-slides-2023/class05.html)** | [Code 05 (and 06)](https://thomaselove.github.io/431-slides-2023/class05.qmd) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
+- To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+
+## Announcements
+
+## What to work on this weekend
+
+## One Last Thing
+
