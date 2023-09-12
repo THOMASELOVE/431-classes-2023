@@ -17,11 +17,13 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 05](https://bit.ly/431-2023-minute-5), due Wednesday 2023-09-13 at Noon. Please complete it, on time.
-2. An answer sketch (including grading rubric) for [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) will be posted before class on Thursday to our Shared Google Drive. 
+2. TAs will check all submitted Lab 1 work between now and noon tomorrow. If we don't find your video, your Quarto file and your HTML file, or if you've submitted a faulty HTML file (usually this is because you left `embed-resources: true` out of the YAML at the start of your Quarto file) we'll inform you, and ask you to resubmit. When resubmitting to Canvas, please post everything again - it's just easier on the TAs. Don't worry if Canvas adds a number to the filename at the end of your submission.
+3. If someone answers a question on Canvas that is useful to you, hit the little up arrow next to the answer. This is how those things float to the top of the discussion.
+4. An answer sketch (including grading rubric) for [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) will be posted before class on Thursday to our Shared Google Drive. 
     - Labs that are turned in 1-12 hours after the deadline lose 10% of available points, while Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points. Labs turned in more than 48 hours after the deadline will receive no credit, since by then the Lab Sketch will be posted.
     - Grades and the videos you developed for Question 1 should be available next Tuesday 2023-09-19.
-3. Remember that [Lab 2](https://github.com/THOMASELOVE/431-labs-2023) is due on Tuesday 2023-09-19 at Noon. For that Lab, you will have to do some coding in R. Use what we're doing this week (and what we did last week) to help.
-4. This doesn't matter now, but at the end of the semester, I've changed the time for submitting the final Project B materials on the Calendar to 9 AM on 2023-12-18, instead of noon. Sorry, but I need the extra few hours to review the work and get your grades in on time.
+5. Remember that [Lab 2](https://github.com/THOMASELOVE/431-labs-2023) is due on Tuesday 2023-09-19 at Noon. For that Lab, you will have to do some coding in R. Use what we're doing this week (and what we did last week) to help.
+6. This doesn't matter now, but at the end of the semester, I've changed the time for submitting the final Project B materials on the Calendar to 9 AM on 2023-12-18, instead of noon. Sorry, but I need the extra few hours to review the work and get your grades in on time.
 
 ## Project A - time to get started
 
