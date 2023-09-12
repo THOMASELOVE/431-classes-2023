@@ -21,6 +21,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Labs that are turned in 1-12 hours after the deadline lose 10% of available points, while Labs turned in more than 12 but less than 48 hours after the deadline lose 30% of available points. Labs turned in more than 48 hours after the deadline will receive no credit, since by then the Lab Sketch will be posted.
     - Grades and the videos you developed for Question 1 should be available next Tuesday 2023-09-19.
 3. Remember that [Lab 2](https://github.com/THOMASELOVE/431-labs-2023) is due on Tuesday 2023-09-19 at Noon. For that Lab, you will have to do some coding in R. Use what we're doing this week (and what we did last week) to help.
+4. This doesn't matter now, but at the end of the semester, I've changed the time for submitting the final Project B materials on the Calendar to 9 AM on 2023-12-18, instead of noon. Sorry, but I need the extra few hours to review the work and get your grades in on time.
 
 ## Project A - time to get started
 
