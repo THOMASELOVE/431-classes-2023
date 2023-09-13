@@ -14,13 +14,21 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There was an error in the previously posted version of Question 8 in the [Lab 2 instructions](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab02/lab02.pdf), which now read (changes in bold):
+1. There was an error in the previously posted version of Question 8 in the [Lab 2 instructions](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab02/lab02.pdf), which now reads as follows (changes in bold)... (Thanks and an extra point or two go to the student who pointed this out to me on Campuswire.)
 
 > By now, we'd like you to have read through Chapter 3 of David Spiegelhalter's *The Art of Statistics*. In **questions 6 and 7, we broadly examined** the relationship between county metropolitan status and **the COVID mortality rate. Earlier**, we limited this analysis to just counties in 5 midwestern states. Reflecting on Chapter 3 of *The Art of Statistics*, please write a brief essay (100-150 words) that discusses the process of inductive inference and how that influences the conclusions we can draw from our work in this assignment. As always, use complete and clear English sentences in your essay.
 
-2. 
+2. The Answer Sketch for Lab 1 **will be posted** to our Shared Drive by class time.
+3. Dr. Love's feedback on the Minute Paper after Class 5 **will be posted** by class time.
+4. We'll spend some time today making sure you have a chance to discuss working on Project A with a partner, and address any of your questions about the Data or Proposal activites in Project A.
 
 ## What to work on this weekend
 
+1. Lab 2 is due at noon Tuesday 2023-09-19. Don't forget that [there is a template available, as well as data](https://github.com/THOMASELOVE/431-labs-2023#main-lab-instructions).
+2. Please read through Chapter 4 of *The Art of Statistics* and sections 6-7, 10-11 of [R for Data Science](https://r4ds.hadley.nz/)
+3. This weekend would be a good time to read through [Project A's instructions](https://thomaselove.github.io/431-projectA-2023/), especially the [Data](https://thomaselove.github.io/431-projectA-2023/data.html) and [Proposal](https://thomaselove.github.io/431-projectA-2023/proposal.html) sections. This is material you need to have done by the Proposal deadline, which is Tuesday 2023-10-03 at noon.
+
 ## One Last Thing
+
+Some information on favorite movies **is coming**.
 
