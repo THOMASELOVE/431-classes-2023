@@ -24,7 +24,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## What to work on this weekend
 
-1. Lab 2 is due at noon Tuesday 2023-09-19. Don't forget that [there is a template available, as well as data](https://github.com/THOMASELOVE/431-labs-2023#main-lab-instructions).
+1. [Lab 2](https://github.com/THOMASELOVE/431-labs-2023#main-lab-instructions) is due at noon Tuesday 2023-09-19. Don't forget that [there is a template available, as well as data](https://github.com/THOMASELOVE/431-labs-2023#main-lab-instructions).
 2. Please read through Chapter 4 of *The Art of Statistics* and sections 6-7, 10-11 of [R for Data Science](https://r4ds.hadley.nz/)
 3. This weekend would be a good time to read through [Project A's instructions](https://thomaselove.github.io/431-projectA-2023/), especially the [Data](https://thomaselove.github.io/431-projectA-2023/data.html) and [Proposal](https://thomaselove.github.io/431-projectA-2023/proposal.html) sections. This is material you need to have done by the Proposal deadline, which is Tuesday 2023-10-03 at noon.
 
