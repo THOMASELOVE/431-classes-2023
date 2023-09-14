@@ -15,7 +15,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The Answer Sketch for Lab 1 **will be posted** to our Shared Drive by class time.
+1. The Answer Sketch for Lab 1 **will be posted** to our Shared Drive by 5 PM today.
     - There is **nothing** that upsets me more than students wasting enormous amounts of time. If it took you more than 90 minutes to read the relevant part of *The Art of Statistics* or it took you more than 3 hours to do the actual Lab, you wasted a lot of time. **DO NOT DO THAT!**
     - We have Campuswire open all of the time, and TA office hours every single day. **It's your job** to ask questions of us. If you have spent more than 15 minutes on something and don't have an answer, walk away for a while and do something else. If you still don't have it when you return, ask us a question. I mean it. 
 2. Dr. Love's [feedback on the Minute Paper after Class 5 is now available](https://bit.ly/431-2023-min-05-feedback).
