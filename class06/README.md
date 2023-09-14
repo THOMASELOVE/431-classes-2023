@@ -22,7 +22,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 > By now, we'd like you to have read through Chapter 3 of David Spiegelhalter's *The Art of Statistics*. In **questions 6 and 7, we broadly examined** the relationship between county metropolitan status and **the COVID mortality rate. Earlier**, we limited this analysis to just counties in 5 midwestern states. Reflecting on Chapter 3 of *The Art of Statistics*, please write a brief essay (100-150 words) that discusses the process of inductive inference and how that influences the conclusions we can draw from our work in this assignment. As always, use complete and clear English sentences in your essay.
 
-4. We'll spend some time today making sure you have a chance to discuss working on Project A with a partner, and address any of your questions about the Data or Proposal activites in Project A.
+4. We'll spend some time today making sure you have a chance to discuss working on Project A with a partner, and address any of your questions about the Data or Proposal activites in Project A. We'll answer more questions next week, too.
 
 ## What to work on this weekend
 
@@ -32,5 +32,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
-Some information on favorite movies **is coming**.
+We'll spend a few minutes looking at the **movies_2023-09-14** Google Sheet now in our Shared Drive. This file describes 201 films selected as a "favorite movie" by students in 431 in the Fall 2020, 2021, 2022, and 2023 versions of the course. Next week, we'll do a little more work with these data, to help develop some research questions, but for today, we'll explore the data briefly, and look at how the codebook was developed.
+
+
 
