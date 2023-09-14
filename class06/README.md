@@ -11,6 +11,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 06 | 2023-09-14 | **[Slides 05 (and 06)](https://thomaselove.github.io/431-slides-2023/class05.html)** | [Code 05 (and 06)](https://thomaselove.github.io/431-slides-2023/class05.qmd) | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
+- When we go to the slides today, we will begin with slide **53**. These are the same slides as we posted for Class 05.
 
 ## Announcements
 
