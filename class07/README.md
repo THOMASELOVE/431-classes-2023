@@ -26,7 +26,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Materials for Today's Class
 
-We'll be working with a new data set, called `dm_1000.csv` today. I'll cover the material I didn't get to in the Class 06 slides using these data, as well as several other issues. The `dm_1000.csv` data can be found on [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code), or [in the `data` subfolder on this page](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class07/data/dm_1000.csv).
+We'll be working with a new data set, called `dm_1000.csv` today. The Class 07 slides posted above cover the material I didn't get to in the Class 06 slides, but now using these data instead of the `dm431.csv` data, and they also cover other issues. The `dm_1000.csv` data can be found on [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code), or [in the `data` subfolder on this page](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class07/data/dm_1000.csv).
 
 ## What's Coming Up?
 
@@ -38,17 +38,26 @@ We'll be working with a new data set, called `dm_1000.csv` today. I'll cover the
 
 Today is [an R User's favorite holiday](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day).
 
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 ![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class07/images/Sept_19_2023.png)
 
-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
