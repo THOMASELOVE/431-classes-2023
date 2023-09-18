@@ -14,4 +14,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. You should have received three emails from me yesterday between 4 and 6 PM, with subject headings:
+    - "431 Students: Details on obtaining your Lab Code and Grade/Comments on Lab 1"
+    - "431 Lab Code" and, finally,
+    - "431 Lab 01: more important information and additional feedback"
+2. 
+
 ## One Last Thing
