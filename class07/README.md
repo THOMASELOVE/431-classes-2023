@@ -26,17 +26,24 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 3. **Lab 2** The TAs will inform you by noon Wednesday if they spot a major issue with your Lab 2 submission, which was due today at noon. A major issue means usually that your Quarto file and/or your HTML file is missing from your Canvas submission, or that your HTML file doesn't render properly (usually because you've left out `embed-resources: true` in your YAML.) Dr. Love will post his answer sketch for Lab 2 to our Shared Drive by class time Thursday.
 
-4. **Getting Help** The best ways to get help are:
+4. **Getting Help** The best ways to get help with R or with statistics issues that arise in 431 are:
     1. to visit TA office hours, which are held every day, including weekends.
     2. to pose a question on Campuswire, which Dr. Love and the TAs (at least) will see automatically.
+    3. to talk with Dr. Love or the TAs before or after class.
 
-If you are having trouble getting R to do what you expect it to do, you will need to include a Quarto file in your question here, so we can try to duplicate and then fix your problem. When submitting a Quarto file to Campuswire related to a Lab or other assignment, please select (using the blue button for posting) to post to instructors and TAs only, so that we can see what you've done, but your fellow students cannot. In responding to your question, we'll adjust it so that you and everyone can see your question and answer without seeing all of your code. Please indicate Campuswire posts that are helpful to you when you view them by clicking the up arrow next to those posts.
+If you are having trouble getting R to do what you expect it to do, you will need to include a Quarto file in your question, so we can try to duplicate and then fix your problem. 
+
+- When submitting a Quarto file to Campuswire related to a Lab or other assignment, please select (using the blue button for posting) to post to instructors and TAs only, so that we can see what you've done, but your fellow students cannot. 
+    - In responding to your question, we'll adjust it so that you and everyone can see your question and answer without seeing all of your code. 
+
+Please indicate Campuswire posts that are helpful to you when you view them by clicking the up arrow next to those posts.
 
 5. **When should I email Dr. Love?**
     - When you are responding to an email he sent you.
     - When you have a personal problem that requires you to pause the course.
     - When you are going to miss more than two classes in a row.
     - When you want to ask him or tell him about something personal to you, that *isn't* directly related to how to use R or statistics to do something in a course assignment.
+    - When you're not sure who to get in touch with about something related to 431.
 
 ## Materials for Today's Class
 
