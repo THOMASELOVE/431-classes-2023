@@ -24,7 +24,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 2. **Minute Paper?** There is no Minute Paper this week.
 
-3. **Lab 2** The TAs will inform you by noon Wednesday if they spot a major issue with your Lab 2 submission, which was due today at noon. A major issue means usually that your Quarto file and/or your HTML file is missing from your Canvas submission, or that your HTML file doesn't render properly (usually because you've left out `embed-resources: true` in your YAML. Dr. Love will post his answer sketch for Lab 2 to our Shared Drive by class time Thursday.
+3. **Lab 2** The TAs will inform you by noon Wednesday if they spot a major issue with your Lab 2 submission, which was due today at noon. A major issue means usually that your Quarto file and/or your HTML file is missing from your Canvas submission, or that your HTML file doesn't render properly (usually because you've left out `embed-resources: true` in your YAML.) Dr. Love will post his answer sketch for Lab 2 to our Shared Drive by class time Thursday.
 
 4. **Getting Help** The best ways to get help are:
     1. to visit TA office hours, which are held every day, including weekends.
