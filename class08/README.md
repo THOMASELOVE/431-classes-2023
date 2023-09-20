@@ -15,9 +15,18 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. On Wednesday morning, I fixed a typo in Lab 3, to change the units for bill depth from grams to mm in question 2.
-2. 
+2. The **Answer Sketch** for Lab 2 will be posted to our Shared Drive by class time.
 
 ## What to work on this weekend
 
-## One Last Thing
+1. [Lab 3](https://github.com/THOMASELOVE/431-labs-2023/tree/main#main-lab-instructions) is due next Tuesday 2023-09-26 at noon.
+2. Read through Chapter 5 of *The Art of Statistics* (warning: Chapter 5 is a tricky one), and through Sections 1-7 and 10-12 of [R for Data Science](https://r4ds.hadley.nz/)
+3. Your [Project A proposal](https://thomaselove.github.io/431-projectA-2023/) (for which you'll need to have completed the [Data](https://thomaselove.github.io/431-projectA-2023/data.html) and [Proposal](https://thomaselove.github.io/431-projectA-2023/proposal.html) activities) is due on Tuesday 2023-10-03 at noon.
 
+## Three Last Things
+
+*Nature* has a series of articles from its Points of Significance column gathered under the general heading of [Statistics for biologists](https://www.nature.com/collections/qghhqm/pointsofsignificance) that were recommended to me by a past student, and which I think are really nicely done. Let me call your attention today to:
+
+- [Visualizing samples with box plots](https://www.nature.com/articles/nmeth.2813), by Martin Krzywinski & Naomi Altman from 2014
+- [Importance of being uncertain](https://www.nature.com/articles/nmeth.2613) also by Krzywinski & Altman from 2013
+- [Simple linear regression](https://www.nature.com/articles/nmeth.3627) by Altman & Krzywinski from 2015
