@@ -14,6 +14,9 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. On Wednesday morning, I fixed a typo in Lab 3, to change the units for bill depth from grams to mm in question 2.
+2. 
+
 ## What to work on this weekend
 
 ## One Last Thing
