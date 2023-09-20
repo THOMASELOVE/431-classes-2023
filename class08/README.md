@@ -4,6 +4,10 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+## On Writing Dates
+
+![](https://imgs.xkcd.com/comics/iso_8601.png) [Link at XKCD](https://xkcd.com/1179)
+
 ## Today's Slides
 
 Class | Date | Slides | Quarto .qmd | Recording
@@ -16,6 +20,19 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. On Wednesday morning, I fixed a typo in Lab 3, to change the units for bill depth from grams to mm in question 2.
 2. The **Answer Sketch** for Lab 2 will be posted to our Shared Drive by class time.
+
+## RStudio's Appearance
+
+- At home, I use the following RStudio setup, which you can customize by visiting **Tools**... **Global Options** and then selecting Appearance
+    - RStudio theme: Modern
+    - Zoom: 100%
+    - Editor font: Lucida Console
+    - Editor font size: 11 (or 12, depending on my eyes)
+    - Editor theme: Tomorrow Night Bright
+
+## Today's Activity
+
+- Here is the link to today's breakout activity.
 
 ## What to work on this weekend
 
