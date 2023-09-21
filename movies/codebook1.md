@@ -29,7 +29,7 @@ list_2023	| # of students who mentioned this film in the Fall 2023 version of 43
 
 There are 20 different categories listed. Remember that each film could have 1, 2 or 3 categories in the `imdb_categories` variable. Across the 201 films in the `movies_2023-09-14` data, 15 have one category, 44 have two, and the remaining 142 have three.
 
-Category | # of Films with this Category
+Category | # of Films
 ---------: | --------:
 Action | 51
 Adventure | 67
