@@ -25,9 +25,9 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 - At home, I use the following RStudio setup, which you can customize by visiting **Tools**... **Global Options** and then selecting Appearance
     - RStudio theme: Modern
-    - Zoom: 100%
+    - Zoom: 125%
     - Editor font: Lucida Console
-    - Editor font size: 11 (or 12, depending on my eyes)
+    - Editor font size: 12
     - Editor theme: Tomorrow Night Bright
 
 ## Today's Activity
