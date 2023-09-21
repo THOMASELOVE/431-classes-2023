@@ -32,7 +32,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Today's Activity
 
-- Here is the link to today's breakout activity.
+- Here is the link to [today's breakout activity](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1.md).
 
 ## What to work on this weekend
 
