@@ -4,7 +4,7 @@ To be completed on 2023-09-21 (Class 08).
 
 ## The Five Variables We're Focusing On Today
 
-We will use the `movies_2023-09-14` data in the `favorite_movies` directory on our Shared Drive, which describes 201 films mentioned as "favorites" by students in 431 for Fall 2020, 2021, 2022 or 2023. The data are [also found here](data/movies_2023-09-14.csv).
+We will use the `movies_2023-09-14` data in the `favorite_movies` directory on our Shared Drive, which describes 201 films mentioned as "favorites" by students in 431 for Fall 2020, 2021, 2022 or 2023. The data are [also found here](movies_2023-09-14.csv).
 
 There are five variables (`year`, `length`, `imdb_categories`, `imdb_ratings`, and `imdb_stars`) that we will focus on today...
 
