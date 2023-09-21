@@ -19,7 +19,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. On Wednesday morning, I fixed a typo in [Lab 3](https://github.com/THOMASELOVE/431-labs-2023) Question 2, to change the units for bill depth from grams to mm.
-2. The **Answer Sketch** for Lab 2 will be posted to our Shared Drive by class time.
+2. The **Answer Sketch** for Lab 2 is posted to our Shared Drive.
 
 ## RStudio's Appearance
 
