@@ -31,6 +31,6 @@ You'll have between 15 and 20 minutes to accomplish the following tasks.
     - As an example that fits at least (a) and (c), we might ask "Do dramas last longer than comedy films?" which could be answered using the `length` and `imdb_categories` variables, although (b) is a problem since some films are not listed as either Drama or Comedy.
     - The current version (dated 2023-09-14) of the movies data is available on our Shared Google Drive, and [also here](data/movies_2023-09-14.csv).
     - Here is the [full codebook that explains what the other variables in the data mean](codebook1.md) but for today, we're sticking to the five variables listed above.
-4. Look at the [list of films](movie_list.md). Alphabetically, what is the first film (i.e., lowest `film_id` value) that **all** of the members of your breakout group have seen? 
+4. Look at this [list of films](movie_list.md). Alphabetically, what is the first film (i.e., lowest `film_id` value) that **all** of the members of your breakout group have seen? 
     - [The form](https://bit.ly/431-2023-movies-1) asks you to type in that film's `film_id` value and name. If there isn't a film on the list that you've all seen, you'll type in "We couldn't find one."
 5. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2023-movies-1) to report your group's results and has submitted the form successfully (they should receive an email confirmation.)
