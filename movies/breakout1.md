@@ -18,6 +18,8 @@ Variable | Sample Value | Explanation
 **`imdb_ratings`** | 1,200,000 | Number of Star Ratings (IMDB)
 **`imdb_stars`** | 8.4 | Weighted Average Rating (IMDB)
 
+Note that some details on [the `imdb_categories` data are available to you at this link](codebook1.md#more-on-imdb_categories).
+
 ## Your Task(s) for Today
 
 You'll have between 15 and 20 minutes to accomplish the following tasks.
