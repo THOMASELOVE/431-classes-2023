@@ -7,4 +7,5 @@ For each movie, I gathered several additional characteristics from the [Internet
 ## Breakout Session 1
 
 - Here's our [first breakout activity](breakout1.md), which we will go through in Class 08 (2023-09-21).
+- Here are some [results of that first breakout activity](breakout1_results.md), which we will discuss in Class 09 (2023-09-26).
 
