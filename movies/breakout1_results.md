@@ -1,6 +1,6 @@
 # Favorite Movies Breakout 1 Results
 
-I received responses from 10 groups, including 49 students.
+I received responses from 10 groups, including 49 students. Special thanks to those of you who submitted the forms.
 
 ## Exploratory Questions
 
