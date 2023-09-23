@@ -14,5 +14,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. There is a Minute Paper after Class 9, due tomorrow (Wednesday 2023-09-27) at Noon. **Link to come**.
+2. Results of the Favorite Movies Breakout Activity from Class 08 [can be found here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md).
+
 ## One Last Thing
 
