@@ -33,6 +33,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
-Results of the Favorite Movies Breakout Activity from Class 08 [can be found here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md). We'll answer some of your questions and address some common R and Quarto challenges, in Class 10 on Thursday.
+Results of the Favorite Movies Breakout Activity from Class 08 [can be found here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md). 
+
+We'll answer some of the questions you developed around these data, and address some common R and Quarto challenges, in Class 10 on Thursday.
 
 
