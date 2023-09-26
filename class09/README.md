@@ -15,7 +15,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 9](https://bit.ly/431-2023-minute-9), due tomorrow (Wednesday 2023-09-27) at Noon. The link is <https://bit.ly/431-2023-minute-9>.
-2. Grades and Feedback on Lab 2 are now available in the 431 Grades Roster on our Shared Drive.
+2. Grades and Feedback on Lab 2 are now available in the **431 Grades Roster** on our Shared Drive. Please review our comments there.
 3. Results of the Favorite Movies Breakout Activity from Class 08 [can be found here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md).
 
 ## One Last Thing
