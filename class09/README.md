@@ -17,7 +17,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. There is a [Minute Paper after Class 9](https://bit.ly/431-2023-minute-9), due tomorrow (Wednesday 2023-09-27) at Noon. The link is <https://bit.ly/431-2023-minute-9>.
 2. Grades and Feedback on Lab 2 are now available in the **431 Grades Roster** on our Shared Drive. Please review our comments there.
 3. Now might be a good time to [update your R packages](https://thomaselove.github.io/431-2023/software.html#updating-your-r-packages).
-4. Remember that your [Project A proposal](https://thomaselove.github.io/431-projectA-2023/) is due next Tuesday 2023-10-03 at noon.
+4. Remember that your [Project A proposal](https://thomaselove.github.io/431-projectA-2023/) is due next Tuesday 2023-10-03 at noon. We'll tell you more about how we'll grade those proposals in Class 10 on Thursday.
  
 ## Materials for Today's Class
 
@@ -27,4 +27,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
-Results of the Favorite Movies Breakout Activity from Class 08 [can be found here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md).
+Results of the Favorite Movies Breakout Activity from Class 08 [can be found here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md). We'll answer some of your questions and address some common R and Quarto challenges, in Class 10 on Thursday.
+
+
