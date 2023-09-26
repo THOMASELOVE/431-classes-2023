@@ -20,7 +20,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 4. Remember that your [Project A proposal](https://thomaselove.github.io/431-projectA-2023/) is due next Tuesday 2023-10-03 at noon.
     - We'll tell you more about how we'll grade those proposals in Class 10 on Thursday.
     - I want to be sure you're all aware of the [Project A Examples](https://thomaselove.github.io/431-projectA-2023/examples.html).
-5. Campuswire etiquette:
+5. [Campuswire](https://thomaselove.github.io/431-2023/campuswire.html) etiquette:
     - Please don't thank us for a useful answer. Just upvote it by clicking the up arrow next to the post.
     - If you have a question about a Lab that involves R, include the Quarto file, and post it *to the Instructors and TAs only*. Don't just post the error message, or just post a screen shot. By all means, post those things, but also attach your Quarto file. Otherwise, you are just wasting your time, and I hate when students' time is wasted.
     - Posts on Campuswire automatically appear in my email. No reason to send to both places.
