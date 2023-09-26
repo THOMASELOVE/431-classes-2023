@@ -17,6 +17,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. There is a [Minute Paper after Class 9](https://bit.ly/431-2023-minute-9), due tomorrow (Wednesday 2023-09-27) at Noon. The link is <https://bit.ly/431-2023-minute-9>.
 2. Grades and Feedback on Lab 2 are now available in the **431 Grades Roster** on our Shared Drive. Please review our comments there.
 3. Now might be a good time to [update your R packages](https://thomaselove.github.io/431-2023/software.html#updating-your-r-packages).
+4. Remember that your [Project A proposal](https://thomaselove.github.io/431-projectA-2023/) is due next Tuesday 2023-10-03 at noon.
  
 ## Materials for Today's Class
 
