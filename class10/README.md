@@ -16,7 +16,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. The Lab 3 Answer Sketch will be posted to our Shared Drive **by class time**.
     - I sent out Lab 3 Question 7 feedback and grades via email on Wednesday 2023-09-27. Email me if you didn't get this information.
-2. I've identified four essays we liked in response to Lab 2 Question 8, and shared them in our Shared Drive. You'll find them in the Lab Answer Sketches folder.
+2. I've identified four essays we liked in response to Lab 2 Question 8, and shared them in our Shared Drive.
+    - You'll find them in the Lab Answer Sketches folder.
 3. Feedback on the Minute Paper after Class 9 will be posted **by class time**.
 4. A description of the **17** item Proposal Checklist that you should check before submitting your Project A is **now available**.
     - You'll find it in our Shared Drive in the **Project A Proposal Materials** folder.
