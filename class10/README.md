@@ -21,7 +21,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Feedback on the Minute Paper after Class 9 will be posted **by class time**.
 4. A description of the **17** item Proposal Checklist that you should check before submitting your Project A is **now available**.
     - You'll find it in our Shared Drive in the **Project A Proposal Materials** folder.
-    - This is how the TAs and I will be evaluating your proposals.
+    - This is how the TAs and I will be evaluating your proposals. Nothing in this document should come as a surprise if you've read the instructions and used the template and sample project proposal.
     - I also revised the Project A Proposal Template and Sample Project A Proposal on Wednesday at 2 PM to include the distinct values check and missingness check in Section 11. You'll find all the relevant files (qmd and html) in our Shared Drive in the **Project A Proposal Materials** folder. (I just had the labels backwards.)
 
 ## One Last Thing
