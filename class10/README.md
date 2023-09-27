@@ -19,7 +19,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. I've identified four essays we liked in response to Lab 2 Question 8, and shared them in our Shared Drive.
     - You'll find them in the Lab Answer Sketches folder.
 3. Feedback on the Minute Paper after Class 9 will be posted **by class time**.
-4. A description of the **17** item Proposal Checklist that you should check before submitting your Project A is **now available**.
+    - The Course Grades Roster on our Shared Drive has grades on Labs 1 and 2, as well as the Minute Papers.
+4. The **17** item Proposal Checklist that you should check before submitting your Project A is **now available**.
     - You'll find it in our Shared Drive in the **Project A Proposal Materials** folder.
     - This is how the TAs and I will be evaluating your proposals. Nothing in this document should come as a surprise if you've read the instructions and used the template and sample project proposal.
     - I also revised the Project A Proposal Template and Sample Project A Proposal on Wednesday at 2 PM to include the distinct values check and missingness check in Section 11. You'll find all the relevant files (qmd and html) in our Shared Drive in the **Project A Proposal Materials** folder. (I just had the labels backwards.)
