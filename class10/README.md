@@ -21,7 +21,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Feedback on the Minute Paper after Class 9 is now available at <https://bit.ly/431-2023-min-09-feedback>.
     - The Course Grades Roster on our Shared Drive has grades on Labs 1 and 2, as well as the Minute Papers.
 4. The **17** item Proposal Checklist that you should check before submitting your Project A [is now available](https://bit.ly/431-2023-projectA-proposal-checklist).
-    - You'll find it in our Shared Drive in the **Project A Proposal Materials** folder, or visit <https://bit.ly/431-2023-projectA-proposal-checklist>.
+    - You'll find it in [our Shared Drive](https://drive.google.com/file/d/1Az0_5kBEaugxGZ-OcSJ78NRDgDOektPf/view?usp=drive_link) in the **Project A Proposal Materials** folder, or visit <https://bit.ly/431-2023-projectA-proposal-checklist>.
     - This is how the TAs and I will be evaluating your proposals.
     - Nothing in this document should come as a surprise if you've read the [Project A instructions](https://thomaselove.github.io/431-projectA-2023/) and used the [Project A Proposal Template](https://rpubs.com/TELOVE/projectA-proposal-template) and [Sample Project Proposal](https://rpubs.com/TELOVE/projectA-sample-proposal).
     - I also slightly revised the Project A Proposal Template and Sample Project A Proposal on Wednesday at 2 PM to include the distinct values check and missingness check in Section 11.
