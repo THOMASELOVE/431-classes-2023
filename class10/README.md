@@ -14,7 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The Lab 3 Answer Sketch will be posted to our Shared Drive **by class time**.
+1. The Lab 3 Answer Sketch is now posted to our Shared Drive.
     - I sent out Lab 3 Question 7 feedback and grades via email on Wednesday 2023-09-27. Email me if you didn't get this information.
 2. I've identified four essays we liked in response to Lab 2 Question 8, and shared them in our Shared Drive.
     - You'll find them in the Lab Answer Sketches folder.
