@@ -32,6 +32,9 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 Today's slides provide answers to the questions identified in the [Favorite Movies Breakout Session 1](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md), back in Class 08.
 
+- We will ingest our data from the Google Sheet called **movies_2023-09-14** found [in our Shared Drive](https://docs.google.com/spreadsheets/d/1qJnQWSjXyOXFZOO8VZixpgZWbraUW66SfP5hE5bKW4k)
+- We will again (briefly) use [the `Love-boost.R` script](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/Love-boost.R) to get us access to the `bootdif()` function.
+
 ## What Should I Be Working On This Weekend?
 
 1. [Project A's Proposal](https://thomaselove.github.io/431-projectA-2023/), due at noon on Tuesday 2023-10-03.
