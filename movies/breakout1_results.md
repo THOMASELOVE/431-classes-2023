@@ -4,7 +4,8 @@ I received responses from 10 groups, including 49 students. Special thanks to th
 
 ## Exploratory Questions
 
-*Note*: For questions using the same variables, I've modified the wording so that I could collapse across groups more easily.
+- *Note 1*: For questions using the same variables, I've modified the wording so that I could collapse across groups more easily.
+- *Note 2*: We analyzed these questions in [Class 10](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class10).
 
 Q# | Question | Variables | Group(s)
 --: | :-----------------------: | :-----------------------: | :------------------------------------------:
