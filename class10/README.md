@@ -28,6 +28,10 @@ Class | Date | Slides | Quarto .qmd | Recording
         - You'll find all the relevant files (qmd and html) in [our Shared Drive](https://drive.google.com/file/d/1Az0_5kBEaugxGZ-OcSJ78NRDgDOektPf/view?usp=drive_link) in the **Project A Proposal Materials** folder.
         - The only change I made was to put the Missingness label on the missingness check and the Distinct Values label on the distinct values check. I'd mixed them up in the earlier version.
 
+## Today's Materials
+
+Today's slides provide answers to the questions identified in the [Favorite Movies Breakout Session 1](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout1_results.md), back in Class 08.
+
 ## What Should I Be Working On This Weekend?
 
 1. [Project A's Proposal](https://thomaselove.github.io/431-projectA-2023/), due at noon on Tuesday 2023-10-03.
