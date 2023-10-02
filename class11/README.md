@@ -23,6 +23,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Regarding Project A
 
 1. Some people chose states with FIPS codes that started with zeros and may have had problems as a result pulling in the 2018 data. I sent out a .Rds file of the 2018 data to try to address this issue once I became aware of it Sunday evening, and you'll find that file on [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code).
+2. Current Status of Project A Proposal Review is summarized [at this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 
 ## One Last Thing
 
