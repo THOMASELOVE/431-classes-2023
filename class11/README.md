@@ -18,10 +18,11 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Lab 3 grades and feedback for Questions 1-6 will be posted to our Course Grades Roster **by class time**.
     - I revised the Answer Sketch for Lab 3, Question 5 to incorporate information on how I identified where Cuyahoga County's results fell on the plot. You'll find this on our Shared Drive.
 3. Instructions and materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) will be made available to you **this Thursday 2023-10-05 at 5 PM**. The Quiz is due at noon Tuesday 2023-10-10.
+4. Part B of [our Course Notes](https://thomaselove.github.io/431-notes/) will be posted **by class time**.
 
 ## Regarding Project A
 
-1. Some people chose states with FIPS codes that started with zeros and may have had problems as a result pulling in the 2018 data. I sent out a .Rds file of the 2018 data to try to address this issue once I became aware of it Sunday evening, and you'll find it on our 431-data page.
+1. Some people chose states with FIPS codes that started with zeros and may have had problems as a result pulling in the 2018 data. I sent out a .Rds file of the 2018 data to try to address this issue once I became aware of it Sunday evening, and you'll find that file on [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code).
 2. 
 
 
