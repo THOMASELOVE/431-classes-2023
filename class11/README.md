@@ -15,16 +15,14 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 11](https://bit.ly/431-2023-minute-11), due tomorrow (Wednesday) at noon. The link is <https://bit.ly/431-2023-minute-11>.
-2. Lab 3 grades and feedback for Questions 1-6 are now posted to our Course Grades Roster on our Shared Drive. Please take a look.
-    - I also revised the Answer Sketch for Lab 3, Question 5 to incorporate information on how I identified where Cuyahoga County's results fell on the plot. You'll also find this revised sketch on our Shared Drive.
-3. Instructions and materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) will be made available to you **this Thursday 2023-10-05 at 5 PM**. The Quiz is due at noon Tuesday 2023-10-10.
-4. Part B of [our Course Notes](https://thomaselove.github.io/431-notes/) (Chapters 18-28) are now posted.
+2. Lab 3 grades and feedback for Questions 1-6 are now posted to our 431 Grades Roster for Students on our Shared Drive. Please take a look.
+    - I also revised the Answer Sketch for Lab 3, Question 5 to incorporate information on how I identified where Cuyahoga County's results fell on the plot. You'll also find this revised sketch on our Shared Drive's Lab Answer Sketches folder.
+3. Part B of [our Course Notes](https://thomaselove.github.io/431-notes/) (Chapters 18-28) are now posted.
+4. Instructions and materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) will be made available to you **this Thursday 2023-10-05 at 5 PM**. The Quiz is due at noon Tuesday 2023-10-10.
 
 ## Regarding Project A
 
 1. Some people chose states with FIPS codes that started with zeros and may have had problems as a result pulling in the 2018 data. I sent out a .Rds file of the 2018 data to try to address this issue once I became aware of it Sunday evening, and you'll find that file on [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code).
-2. 
-
 
 ## One Last Thing
 
