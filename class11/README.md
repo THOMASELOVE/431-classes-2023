@@ -25,7 +25,7 @@ Final materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) wi
 
 - All links to Quiz 1 materials will be found at <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1> as they become available.
 - I will share a **draft** of the Instructions for Quiz 1 (no questions, just the general instructions) by **class time today**.
-- Quiz 1 is due at noon on Tuesday 2023-10-10, and you will submit your results using the Google Form Answer Sheet I will provide on Thursday.
+- Quiz 1 is due at noon on Tuesday 2023-10-10. Submit your responses using the Google Form Answer Sheet I'll provide Thursday.
 - Fair materials for Quiz 1 include the following (which doesn't mean I'll hit all of these things)...
     - [Classes](https://github.com/THOMASELOVE/431-classes-2023/tree/main) 1-12, including the Slides and the READMEs,
     - our [Course Notes](https://thomaselove.github.io/431-notes/) (all of Part A, and the little bit of Part B that is also covered in classes 1-12),
