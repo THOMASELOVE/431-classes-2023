@@ -21,6 +21,12 @@ Class | Date | Slides | Quarto .qmd | Recording
 4. Final materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) will be made available to you **this Thursday 2023-10-05 at 5 PM**.
     - I will share a **draft** of the Instructions for Quiz 1 (no questions, just the general instructions) by **class time today**.
     - Quiz 1 is due at noon on Tuesday 2023-10-10, and you will submit your results using the Google Form Answer Sheet I will provide on Thursday.
+    - Fair materials for Quiz 1 include the following (which doesn't mean I'll hit all of these things)...
+        - Classes 1-12,
+        - our Course Notes (mostly Part A, but a little of Part B as covered in classes 1-12),
+        - Spiegelhalter's *Art of Statistics* through Chapter 6,
+        - [R4DS](https://r4ds.hadley.nz/) Sections 1-12, and
+        - our Minute Papers and Favorite Movies work through Class 12.
 
 ## Regarding Project A
 
