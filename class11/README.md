@@ -22,8 +22,14 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Regarding Project A
 
-1. Some people chose states with FIPS codes that started with zeros and may have had problems as a result pulling in the 2018 data. I sent out a .Rds file of the 2018 data to try to address this issue once I became aware of it Sunday evening, and you'll find that file on [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code).
-2. Current Status of Project A Proposal Review is summarized [at this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
+Current Status of Project A Proposal Review is summarized [at this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
+
+- Remember that the Project A Checklist found on our Shared Drive includes the 17 things we're looking for in these reviews.
+- You will get a response from Dr. Love in your email **tonight** if you submitted the work on time but there is an obvious issue with Things 1, 2, or 3 in your submission.
+    - If this happens, we will stop reviewing your work there, and we will expect your revision (related to Things 1-3) by **9 AM Thursday 2023-10-05**.
+    - If you don't hear from me tonight, it means we're satisfied enough with Things 1-3 that we'll go ahead and review your entire submitted proposal for Things 4-17.
+- Our aim is to have a response to all of you regarding Things 1-17 no later than 5 PM Friday 2023-10-06.
+    - Since you'll be doing the Quiz at that time, if you receive an email from Dr. Love after the Quiz is out stating that a further revision of your proposal is required before we can approve it, then that revision will be due at 9 AM on Thursday 2023-10-12.
 
 ## One Last Thing
 
