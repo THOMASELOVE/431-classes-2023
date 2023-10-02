@@ -15,8 +15,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 11](https://bit.ly/431-2023-minute-11), due tomorrow (Wednesday) at noon. The link is <https://bit.ly/431-2023-minute-11>.
-2. Lab 3 grades and feedback for Questions 1-6 will be posted to our Course Grades Roster **by class time**.
-    - I revised the Answer Sketch for Lab 3, Question 5 to incorporate information on how I identified where Cuyahoga County's results fell on the plot. You'll find this on our Shared Drive.
+2. Lab 3 grades and feedback for Questions 1-6 are now posted to our Course Grades Roster on our Shared Drive. Please take a look.
+    - I also revised the Answer Sketch for Lab 3, Question 5 to incorporate information on how I identified where Cuyahoga County's results fell on the plot. You'll also find this revised sketch on our Shared Drive.
 3. Instructions and materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) will be made available to you **this Thursday 2023-10-05 at 5 PM**. The Quiz is due at noon Tuesday 2023-10-10.
 4. Part B of [our Course Notes](https://thomaselove.github.io/431-notes/) will be posted **by class time**.
 
