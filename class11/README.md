@@ -27,11 +27,14 @@ Final materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) wi
 - I will share a **draft** of the Instructions for Quiz 1 (no questions, just the general instructions) by **class time today**.
 - Quiz 1 is due at noon on Tuesday 2023-10-10, and you will submit your results using the Google Form Answer Sheet I will provide on Thursday.
 - Fair materials for Quiz 1 include the following (which doesn't mean I'll hit all of these things)...
-    - Classes 1-12,
-    - our Course Notes (mostly Part A, but a little of Part B as covered in classes 1-12),
+    - [Classes](https://github.com/THOMASELOVE/431-classes-2023/tree/main) 1-12, including the Slides and the READMEs,
+    - our [Course Notes](https://thomaselove.github.io/431-notes/) (all of Part A, and the little bit of Part B that is also covered in classes 1-12),
     - Spiegelhalter's *Art of Statistics* through Chapter 6,
-    - [R4DS](https://r4ds.hadley.nz/) Sections 1-12, and
-    - our Minute Papers and Favorite Movies work through Class 12.
+    - [R4DS](https://r4ds.hadley.nz/) Sections 1-12, 
+    - [Labs](https://github.com/THOMASELOVE/431-labs-2023) 1-3,
+    - our [Minute Papers](https://github.com/THOMASELOVE/431-minute-2023) after classes 3, 5, 9 and 11,
+    - our [Favorite Movies work](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies) through Class 10, and
+    - the Data and Proposal parts of [Project A](https://thomaselove.github.io/431-projectA-2023/).
 
 ## Regarding Project A
 
