@@ -18,15 +18,20 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Lab 3 grades and feedback for Questions 1-6 are now posted to our 431 Grades Roster for Students on our Shared Drive. Please take a look.
     - I also revised the Answer Sketch for Lab 3, Question 5 to incorporate information on how I identified where Cuyahoga County's results fell on the plot. You'll also find this revised sketch on our Shared Drive's Lab Answer Sketches folder.
 3. Part B of [our Course Notes](https://thomaselove.github.io/431-notes/) (Chapters 18-28) is now posted.
-4. Final materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) will be made available to you **this Thursday 2023-10-05 at 5 PM**.
-    - I will share a **draft** of the Instructions for Quiz 1 (no questions, just the general instructions) by **class time today**.
-    - Quiz 1 is due at noon on Tuesday 2023-10-10, and you will submit your results using the Google Form Answer Sheet I will provide on Thursday.
-    - Fair materials for Quiz 1 include the following (which doesn't mean I'll hit all of these things)...
-        - Classes 1-12,
-        - our Course Notes (mostly Part A, but a little of Part B as covered in classes 1-12),
-        - Spiegelhalter's *Art of Statistics* through Chapter 6,
-        - [R4DS](https://r4ds.hadley.nz/) Sections 1-12, and
-        - our Minute Papers and Favorite Movies work through Class 12.
+
+## Regarding Quiz 1
+
+Final materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023) will be made available to you **this Thursday 2023-10-05 at 5 PM**.
+
+- All links to Quiz 1 materials will be found at <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1> as they become available.
+- I will share a **draft** of the Instructions for Quiz 1 (no questions, just the general instructions) by **class time today**.
+- Quiz 1 is due at noon on Tuesday 2023-10-10, and you will submit your results using the Google Form Answer Sheet I will provide on Thursday.
+- Fair materials for Quiz 1 include the following (which doesn't mean I'll hit all of these things)...
+    - Classes 1-12,
+    - our Course Notes (mostly Part A, but a little of Part B as covered in classes 1-12),
+    - Spiegelhalter's *Art of Statistics* through Chapter 6,
+    - [R4DS](https://r4ds.hadley.nz/) Sections 1-12, and
+    - our Minute Papers and Favorite Movies work through Class 12.
 
 ## Regarding Project A
 
