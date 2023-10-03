@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 8:00 AM`
+as of `2023-10-03 at 8:15 AM`
 
 ## Approved Proposals
 
@@ -36,6 +36,7 @@ G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G311 | Samir Memic | (title will need to change for Portfolio) Examination of County Characteristics and Their Effects on Health Outcomes
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
+G391 | Sakshi Pandit | (title will need to change for Portfolio) Analyzing Different Health Outcomes
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
 G451 | Justin Robinson | (title will need to change for Portfolio) Exploration of Health-Related Factors in six selected U.S. States
 G461 | Reina Samuel | (title will need to change for Portfolio) An Analysis Of How Different Factors Impact Health Outcomes Using CHR 2023 Data
@@ -52,7 +53,6 @@ G042 | Sarah Albalawi & Gazi Shamita
 G121 | Ryan Deng
 G151 | Mary Gerrity
 G342 | Lydia Mitchell & Manu Bulusu <br /> (awaiting one-page submission from Manu)
-G391 | Sakshi Pandit
 G412 | Mauli Patel & Max Parfyonov
 G471 | Manish Sarkar
 G481 | Robert Schauner
