@@ -16,8 +16,8 @@ G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use,
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G032 | Abrar Alamoudi & <br /> Parishma Guttoo | (revised by TEL) Diabetes mortality, physical inactivity and adult obesity in the Midwest
-G051 | Naif Alqahtani | (revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
+G032 | Abrar Alamoudi & <br /> Parishma Guttoo | (title revised by TEL) Diabetes mortality, physical inactivity and adult obesity in the Midwest
+G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
 G071 | David Askew | Socioeconomics and preventative health
 G161 | Trent George | A Deeper Dive into Mental Health
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
@@ -29,12 +29,12 @@ G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G311 | Samir Memic | Examination of County Characteristics and Their Effects on Health Outcomes
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
-G431 | Camaryn Petersen | (revised by TEL) Unemployment and Smoking in Great Lake States
+G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
 G451 | Justin Robinson | Exploration of Health-Related Factors in six selected U.S. States
 G461 | Reina Samuel | (title will need to change for Portfolio) An Analysis Of How Different Factors Impact Health Outcomes Using CHR 2023 Data
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title will need to change for Portfolio) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G531 | Jordan Smith | Tailgating the Game of Population Health
-G541 | Liz Stanley | (revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
+G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
 ## Proposals Requiring Additional Work before TAs can review (See email from Dr. Love for revision request details)
 
