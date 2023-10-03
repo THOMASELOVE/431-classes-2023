@@ -52,6 +52,7 @@ G471 | Manish Sarkar | Mental and physical health related analysis using CHR-202
 G481 | Robert Schauner | Comparing Sleep Insufficncies between 2018 and 2023
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title will need to change for Portfolio) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G501 | Himiede Wilson-Sesay | (title will need to change for Portfolio) An Investigation and Analysis of US Health Indicators by States
+G511 | Kareena Shah | (title will need to change for Portfolio) Relationships Between Public Health Determinants and Outcomes in US Counties
 G531 | Jordan Smith | Tailgating the Game of Population Health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 G561 | Kexin Zhang | Three Independent Health Analysis in States with the Largest Populations
@@ -63,7 +64,6 @@ Group | Investigator(s) | Note
 G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon
 G111 | Dario Cabal | revision expected by Wednesday 2023-10-04 at noon
 G321 | Gayan (Sam) Samuditha | revision expected by Wednesday 2023-10-04 at noon
-G511 | Kareena Shah | revision expected by Tuesday 2023-10-03 at 8 PM
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
 
