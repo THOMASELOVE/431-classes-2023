@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 11:45 AM`
+as of `2023-10-03 at 12:02 PM`
 
 ## Approved Proposals
 
@@ -59,14 +59,16 @@ G561 | Kexin Zhang | Three Independent Health Analysis in States with the Larges
 
 Group | Investigator(s) 
 -----: | :----------------------------: 
-G021 | Mostafa Abouzaid
+G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon
+G111 | Dario Cabal | revision expected by Wednesday 2023-10-04 at noon
+G511 | Kareena Shah | revision expected by Tuesday 2023-10-03 at 8 PM
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
 
-- Dario Cabal
-- Richael Gambrah
-- Vetrica Le Maitre (expected Friday noon)
-- Gayan (Sam) Samuditha
-- Krishna Mridha (expected Wednesday 9 AM)
-- Tony Nunnery
-- Kareena Shah
+Investigator | Note
+:--------------------------: | :----------------------------------------
+Richael Gambrah | no word from student
+Vetrica Le Maitre | initial work expected Friday 2023-10-06 at noon
+Gayan (Sam) Samuditha | no word from student
+Krishna Mridha | initial work expected Wednesday 2023-10-04 at 9 AM
+Tony Nunnery | no word from student
