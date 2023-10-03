@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 12:11 PM`
+as of `2023-10-03 at 5:45 PM`
 
 ## Approved Proposals
 
@@ -41,6 +41,7 @@ G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G311 | Samir Memic | (title will need to change for Portfolio) Examination of County Characteristics and Their Effects on Health Outcomes
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title will need to change for Portfolio) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
+G371 | Tony Nunnery | (TEL revised) Community Health and Wellness in Counties of Six States
 G391 | Sakshi Pandit | (title will need to change for Portfolio) Analyzing Different Health Outcomes
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
@@ -61,6 +62,7 @@ Group | Investigator(s) | Note
 -----: | :--------------------: | :------------------------------------------------- 
 G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon
 G111 | Dario Cabal | revision expected by Wednesday 2023-10-04 at noon
+G321 | Gayan (Sam) Samuditha | revision expected by Wednesday 2023-10-04 at noon
 G511 | Kareena Shah | revision expected by Tuesday 2023-10-03 at 8 PM
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
@@ -69,6 +71,4 @@ Investigator | Note
 :--------------------------: | :----------------------------------------
 Richael Gambrah | no word from student
 Vetrica Le Maitre | initial work expected Friday 2023-10-06 at noon
-Gayan (Sam) Samuditha | no word from student
 Krishna Mridha | initial work expected Wednesday 2023-10-04 at 9 AM
-Tony Nunnery | no word from student
