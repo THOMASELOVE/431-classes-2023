@@ -32,11 +32,11 @@ Complete materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/
 Current Status of Project A Proposal Review is summarized [at this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 
 - Remember that the Project A Checklist found on our Shared Drive includes 17 things (labeled Thing 1 - Thing 17) that we're looking for in these reviews.
-- You will get a response from Dr. Love in your email **tonight** if you submitted the work on time but there is an obvious issue with Things 1, 2, or 3 in your submission.
-    - If this happens, we will stop reviewing your work there, and we will expect your revision by **9 AM Thursday 2023-10-05**.
+- You will get a response from Dr. Love in your email **no later than tonight** if you submitted the work on time but there is an obvious issue with Things 1, 2, or 3 in your submission.
+    - If this happens, we will stop reviewing your work there, and we will specify a time by which you need to submit a revision.
     - If you don't hear from me tonight, it means we're satisfied enough with Things 1-3 that we'll go ahead and review your entire submitted proposal for Things 4-17.
 - Our aim is to have a response to all of you regarding Things 1-17 no later than 5 PM Friday 2023-10-06.
-    - Since you'll be doing Quiz 1 at that time, if you receive an email from Dr. Love after the Quiz is out stating that a further revision of your proposal is required before we can approve it, then that revision will be due at 9 AM on Thursday 2023-10-12.
+    - Since you'll be doing Quiz 1 at that time, if you receive an email from Dr. Love after the Quiz is out stating that a further revision of your proposal is required before we can approve it, then that revision will be due after the Quiz deadline.
 
 ## One Last Thing
 
