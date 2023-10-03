@@ -37,6 +37,7 @@ G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G311 | Samir Memic | (title will need to change for Portfolio) Examination of County Characteristics and Their Effects on Health Outcomes
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
+G342 | Lydia Mitchell & <br /> Manu Bulusu (need 1 page from Manu) | (title will need to change for Portfolio) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G391 | Sakshi Pandit | (title will need to change for Portfolio) Analyzing Different Health Outcomes
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
@@ -55,7 +56,6 @@ G021 | Mostafa Abouzaid
 G042 | Sarah Albalawi & Gazi Shamita
 G062 | Walaa Alshaia & Qiao Wang
 G121 | Ryan Deng
-G342 | Lydia Mitchell & Manu Bulusu <br /> (awaiting one-page submission from Manu)
 G481 | Robert Schauner
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
