@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 10:05 AM`
+as of `2023-10-03 at 10:20 AM`
 
 ## Approved Proposals
 
@@ -42,6 +42,7 @@ G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in 
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
 G451 | Justin Robinson | (title will need to change for Portfolio) Exploration of Health-Related Factors in six selected U.S. States
 G461 | Reina Samuel | (title will need to change for Portfolio) An Analysis Of How Different Factors Impact Health Outcomes Using CHR 2023 Data
+G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title will need to change for Portfolio) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G531 | Jordan Smith | Tailgating the Game of Population Health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
@@ -55,7 +56,6 @@ G042 | Sarah Albalawi & Gazi Shamita
 G062 | Walaa Alshaia & Qiao Wang
 G121 | Ryan Deng
 G342 | Lydia Mitchell & Manu Bulusu <br /> (awaiting one-page submission from Manu)
-G471 | Manish Sarkar
 G481 | Robert Schauner
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
