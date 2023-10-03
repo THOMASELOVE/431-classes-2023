@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 10:20 AM`
+as of `2023-10-03 at 10:30 AM`
 
 ## Approved Proposals
 
@@ -17,7 +17,7 @@ G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use,
 - None yet.
 
 
-## Proposals which have passed an initial check of Things 1-3 and are now awaiting TA review
+## Proposals which have passed an initial check and now await TA review
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
