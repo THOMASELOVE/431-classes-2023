@@ -59,7 +59,7 @@ G481 | Robert Schauner
 
 ## Proposal Not Yet Reviewed / Not Yet Submitted
 
-- Walaa Alshaia & Qiao Wang
+- Walaa Alshaia & Qiao Wang (Qiao has submitted the one-pager, awaiting full submission from Walaa)
 - Dario Cabal
 - Richael Gambrah
 - Vetrica Le Maitre
