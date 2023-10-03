@@ -27,8 +27,10 @@ G071 | David Askew | Socioeconomics and preventative health
 G161 | Trent George | A Deeper Dive into Mental Health
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
 G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
+G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
 G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title will need to change for Portfolio) Variable selection and preprocessing for health study in Northeastern States 
 G252 | Elaine Liu & <br /> Xiuyuan Lang | (title will need to change for Portfolio) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
+G261 | Zunren (Jack) Liu | (title will need to change for Portfolio) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title will need to change for Portfolio) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
@@ -49,8 +51,6 @@ G021 | Mostafa Abouzaid
 G042 | Sarah Albalawi & Gazi Shamita
 G121 | Ryan Deng
 G151 | Mary Gerrity
-G201 | Kartik Lakhotiya
-G261 | Zunren (Jack) Liu
 G342 | Lydia Mitchell & Manu Bulusu
 G391 | Sakshi Pandit
 G412 | Mauli Patel & Max Parfyonov
