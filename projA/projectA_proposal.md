@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 8:15 AM`
+as of `2023-10-03 at 10:05 AM`
 
 ## Approved Proposals
 
@@ -24,6 +24,7 @@ Group | Investigator(s) | Title
 G032 | Abrar Alamoudi & <br /> Parishma Guttoo | (title revised by TEL) Diabetes mortality, physical inactivity and adult obesity in the Midwest
 G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
 G071 | David Askew | Socioeconomics and preventative health
+G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G161 | Trent George | A Deeper Dive into Mental Health
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
 G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
@@ -50,8 +51,8 @@ Group | Investigator(s)
 -----: | :----------------------------: 
 G021 | Mostafa Abouzaid
 G042 | Sarah Albalawi & Gazi Shamita
+G062 | Walaa Alshaia & Qiao Wang
 G121 | Ryan Deng
-G151 | Mary Gerrity
 G342 | Lydia Mitchell & Manu Bulusu <br /> (awaiting one-page submission from Manu)
 G412 | Mauli Patel & Max Parfyonov
 G471 | Manish Sarkar
@@ -59,7 +60,6 @@ G481 | Robert Schauner
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
 
-- Walaa Alshaia & Qiao Wang (Qiao has submitted the one-pager, awaiting full submission from Walaa)
 - Dario Cabal
 - Richael Gambrah
 - Vetrica Le Maitre (expected Friday noon)
