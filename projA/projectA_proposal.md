@@ -57,14 +57,14 @@ G412 | Mauli Patel & Max Parfyonov
 G471 | Manish Sarkar
 G481 | Robert Schauner
 
-## Proposal Not Yet Reviewed / Not Yet Submitted
+## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
 
 - Walaa Alshaia & Qiao Wang (Qiao has submitted the one-pager, awaiting full submission from Walaa)
 - Dario Cabal
 - Richael Gambrah
-- Vetrica Le Maitre
+- Vetrica Le Maitre (expected Friday noon)
 - Gayan (Sam) Samuditha
-- Krishna Mridha
+- Krishna Mridha (expected Wednesday 9 AM)
 - Tony Nunnery
 - Juan Perez
 - Himiede Wilson-Sesay
