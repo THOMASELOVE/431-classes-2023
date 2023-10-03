@@ -40,3 +40,5 @@ Current Status of Project A Proposal Review is summarized [at this link](https:/
 
 ## One Last Thing
 
+Student membership in the American Statistical Association is open to anyone in a degree program and costs just $25 per year. If you're interested in [becoming an ASA member](https://www.amstat.org/membership/become-a-member/membership-options), I strongly recommend it, and [more information is available in this PDF flyer](https://www.amstat.org/docs/default-source/amstat-documents/mbr-studentflyer.pdf?v=1023).
+
