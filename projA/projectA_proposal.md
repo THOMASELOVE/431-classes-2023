@@ -51,7 +51,7 @@ G021 | Mostafa Abouzaid
 G042 | Sarah Albalawi & Gazi Shamita
 G121 | Ryan Deng
 G151 | Mary Gerrity
-G342 | Lydia Mitchell & Manu Bulusu
+G342 | Lydia Mitchell & Manu Bulusu <br /> (awaiting one-page submission from Manu)
 G391 | Sakshi Pandit
 G412 | Mauli Patel & Max Parfyonov
 G471 | Manish Sarkar
