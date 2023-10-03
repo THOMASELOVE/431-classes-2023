@@ -57,8 +57,8 @@ G561 | Kexin Zhang | Three Independent Health Analysis in States with the Larges
 
 ## Proposals Requiring Additional Work (See email from Dr. Love for revision request details)
 
-Group | Investigator(s) 
------: | :----------------------------: 
+Group | Investigator(s) | Note
+-----: | :--------------------: | :------------------------------------------------- 
 G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon
 G111 | Dario Cabal | revision expected by Wednesday 2023-10-04 at noon
 G511 | Kareena Shah | revision expected by Tuesday 2023-10-03 at 8 PM
