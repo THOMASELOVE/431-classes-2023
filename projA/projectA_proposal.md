@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 9:45 PM`
+as of `2023-10-03 at 9:45 PM`. I think we're going to wind up with **49** project proposals.
 
 ## Approved Proposals
 
