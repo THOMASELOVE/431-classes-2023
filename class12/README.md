@@ -14,7 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback on the Minute Paper after Class 11 will be posted **by class time**.
+1. Feedback on the Minute Paper after Class 11 [is now available](https://bit.ly/431-2023-min-11-feedback).
 2. Current Status of Project A Proposal Reviews is found [at this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 3. Complete materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) will be [posted here](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) **by 5 PM today**.
     - Remember that [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) is due **Tuesday 2023-10-10 at noon**.
