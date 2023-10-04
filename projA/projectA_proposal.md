@@ -14,7 +14,7 @@ G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on h
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
-## Proposals reviewed by TAs and Dr. Love which need a first revision (see email from Dr. Love)
+## Proposals requiring a first revision before the Quiz (see email from Dr. Love)
 
 Group | Investigator(s) | Title | Revision due
 -----: | :----------------------------: | :------------------------------------------------------------------------------- | :--------------:
