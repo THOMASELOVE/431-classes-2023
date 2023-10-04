@@ -22,6 +22,7 @@ G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Por
 G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities | THU 10-05 Noon
 G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States | THU 10-05 Noon
 G071 | David Askew | Socioeconomics and preventative health | THU 10-05 Noon
+G531 | Jordan Smith | Tailgating the Game of Population Health | THU 10-05 Noon
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
@@ -60,7 +61,6 @@ G481 | Robert Schauner | Comparing Sleep Insufficncies between 2018 and 2023
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title will need to change for Portfolio) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G501 | Himiede Wilson-Sesay | (title will need to change for Portfolio) An Investigation and Analysis of US Health Indicators by States
 G511 | Kareena Shah | (title will need to change for Portfolio) Relationships Between Public Health Determinants and Outcomes in US Counties
-G531 | Jordan Smith | Tailgating the Game of Population Health
 G561 | Kexin Zhang | Three Independent Health Analysis in States with the Largest Populations
 
 ## Proposals Requiring Additional Work from Students before TA review commences (See email from Dr. Love for revision request details)
