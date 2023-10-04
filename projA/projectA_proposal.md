@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-04 at 12:30 PM`. I think we're going to wind up with **49** project proposals.
+as of `2023-10-04 at 3:20 PM`. I think we're going to wind up with **49** project proposals.
 
 ## Approved Proposals
 
@@ -33,6 +33,7 @@ Group | Investigator(s) | Title
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
+G021 | Mostafa Abouzaid | Evolving Health Landscapes of some midwest U.S. Counties
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G161 | Trent George | A Deeper Dive into Mental Health
@@ -67,7 +68,6 @@ G561 | Kexin Zhang | Three Independent Health Analysis in States with the Larges
 
 Group | Investigator(s) | Note
 -----: | :--------------------: | :------------------------------------------------- 
-G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon (now expected at 5 PM)
 G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
 G361 | Krishna Mridha | revision expected by Thursday 2023-10-05 at 9 AM
 
