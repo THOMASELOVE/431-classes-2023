@@ -11,6 +11,7 @@ G092 | Alyssia Broncano & <br /> Michelle Raymond | Health outcomes based on soc
 G281 | Ethan Martin | County-level social determinants of health and substance use outcomes
 G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on health and mortality
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
+G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
 ## Proposals which have completed TA review and are awaiting Dr. Love's final review
 
@@ -54,7 +55,6 @@ G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title will need to
 G501 | Himiede Wilson-Sesay | (title will need to change for Portfolio) An Investigation and Analysis of US Health Indicators by States
 G511 | Kareena Shah | (title will need to change for Portfolio) Relationships Between Public Health Determinants and Outcomes in US Counties
 G531 | Jordan Smith | Tailgating the Game of Population Health
-G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 G561 | Kexin Zhang | Three Independent Health Analysis in States with the Largest Populations
 
 ## Proposals Requiring Additional Work (See email from Dr. Love for revision request details)
