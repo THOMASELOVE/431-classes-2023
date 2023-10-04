@@ -28,7 +28,7 @@ The source for today's data is [Saliva or Nasopharyngeal Swab Specimens for Dete
 ## What to Work on this Weekend
 
 1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) due Tuesday 2023-10-10 at noon.
-2. Once that is submitted, you can work on your Project A (either revising the proposal or moving on to the Analyses) and read *The Art of Statistics* Chapter 7.
+2. Once that is submitted, you can work on your [Project A](https://thomaselove.github.io/431-projectA-2023/) (either revising the proposal or moving on to the Analyses) and read *The Art of Statistics* Chapter 7.
 
 ## One Last Thing
 
