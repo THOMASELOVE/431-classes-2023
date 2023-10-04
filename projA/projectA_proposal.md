@@ -19,8 +19,8 @@ G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mor
 Group | Investigator(s) | Title | Revision due
 -----: | :----------------------------: | :------------------------------------------------------------------------------- | :--------------:
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Portfolio) CHR 2023 Social Factors and Health Outcomes | THU 10-05 Noon
-G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities | 
-G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States
+G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities | THU 10-05 Noon
+G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States | THU 10-05 Noon
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
