@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-04 at 11:30 AM`. I think we're going to wind up with **49** project proposals.
+as of `2023-10-04 at 12:30 PM`. I think we're going to wind up with **49** project proposals.
 
 ## Approved Proposals
 
@@ -21,6 +21,7 @@ Group | Investigator(s) | Title | Revision due
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Portfolio) CHR 2023 Social Factors and Health Outcomes | THU 10-05 Noon
 G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities | THU 10-05 Noon
 G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States | THU 10-05 Noon
+G071 | David Askew | Socioeconomics and preventative health | THU 10-05 Noon
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
@@ -31,7 +32,6 @@ Group | Investigator(s) | Title
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G071 | David Askew | Socioeconomics and preventative health
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G161 | Trent George | A Deeper Dive into Mental Health
@@ -45,6 +45,7 @@ G271 | Bhavya Mahesh | (title will need to change for Portfolio) Examining CHR-2
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G311 | Samir Memic | (title will need to change for Portfolio) Examination of County Characteristics and Their Effects on Health Outcomes
+G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title will need to change for Portfolio) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G371 | Tony Nunnery | (TEL revised) Community Health and Wellness in Counties of Six States
@@ -68,7 +69,6 @@ Group | Investigator(s) | Note
 -----: | :--------------------: | :------------------------------------------------- 
 G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon
 G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
-G321 | Gayan (Sam) Samuditha | revision expected by Wednesday 2023-10-04 at noon
 G361 | Krishna Mridha | revision expected by Thursday 2023-10-05 at 9 AM
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
