@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-03 at 10:15 PM`. I think we're going to wind up with **49** project proposals.
+as of `2023-10-04 at 11:30 AM`. I think we're going to wind up with **49** project proposals.
 
 ## Approved Proposals
 
@@ -14,13 +14,23 @@ G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on h
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
-## Proposals which have passed an initial check and are now under deeper review by the TAs and Dr. Love
+## Proposals reviewed by TAs and Dr. Love which need a first revision (see email from Dr. Love)
+
+Group | Investigator(s) | Title | Revision due
+-----: | :----------------------------: | :------------------------------------------------------------------------------- | :--------------:
+G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Portfolio) CHR 2023 Social Factors and Health Outcomes | THU 10-05 Noon
+G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities | 
+G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States
+
+## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Portfolio) CHR 2023 Social Factors and Health Outcomes
-G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
-G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States
+
+## Proposals which have passed an initial check and are now under deeper review by the TAs
+
+Group | Investigator(s) | Title 
+-----: | :----------------------------: | :-------------------------------------------------------------------------------
 G071 | David Askew | Socioeconomics and preventative health
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
@@ -52,7 +62,7 @@ G511 | Kareena Shah | (title will need to change for Portfolio) Relationships Be
 G531 | Jordan Smith | Tailgating the Game of Population Health
 G561 | Kexin Zhang | Three Independent Health Analysis in States with the Largest Populations
 
-## Proposals Requiring Additional Work (See email from Dr. Love for revision request details)
+## Proposals Requiring Additional Work from Students before TA review commences (See email from Dr. Love for revision request details)
 
 Group | Investigator(s) | Note
 -----: | :--------------------: | :------------------------------------------------- 
