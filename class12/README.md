@@ -21,5 +21,15 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Remember that the **only** way to get help with [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) is to send an email to **`431-help at case dot edu`**.
     - Good luck!
 
+## Today's Data
+
+The source for today's data is [Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2016359) by Anne L. Wyllie, et al. N Engl J Med 2020; 383:1283-1286 [DOI: 10.1056/NEJMc2016359](https://www.nejm.org/doi/full/10.1056/NEJMc2016359) (2020-09-24).
+
+## What to Work on this Weekend
+
+1. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) due Tuesday 2023-10-10 at noon.
+2. Once that is submitted, you can work on your Project A (either revising the proposal or moving on to the Analyses) and read *The Art of Statistics* Chapter 7.
+
 ## One Last Thing
 
+![](images/rhodes_2022-10-02.png)
