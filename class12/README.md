@@ -19,7 +19,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Complete materials for [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) will be [posted here](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) **by 5 PM today**.
     - Remember that [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) is due **Tuesday 2023-10-10 at noon**.
     - Remember that the **only** way to get help with [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz1) is to send an email to **`431-help at case dot edu`**.
-    - Good luck with the Quiz!
+    - Good luck!
 
 ## One Last Thing
 
