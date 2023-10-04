@@ -67,7 +67,7 @@ G561 | Kexin Zhang | Three Independent Health Analysis in States with the Larges
 
 Group | Investigator(s) | Note
 -----: | :--------------------: | :------------------------------------------------- 
-G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon
+G021 | Mostafa Abouzaid | revision expected by Wednesday 2023-10-04 at noon (now expected at 5 PM)
 G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
 G361 | Krishna Mridha | revision expected by Thursday 2023-10-05 at 9 AM
 
