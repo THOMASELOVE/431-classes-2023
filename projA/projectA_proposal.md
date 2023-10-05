@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-04 at 8:20 PM`. I think we're going to wind up with **49** project proposals.
+as of `2023-10-05 at 12:50 PM`. I think we're going to wind up with **49** project proposals.
 
 ## Approved Proposals
 
@@ -14,15 +14,20 @@ G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on h
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
+## First revision under review by Dr. Love
+
+Group | Investigator(s) | Title 
+-----: | :----------------------------: | :-------------------------------------------------------------------------------
+G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
+G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States 
+G071 | David Askew | Socioeconomics and preventative health 
+G531 | Jordan Smith | Tailgating the Game of Population Health
+
 ## First revision due at Noon Thursday 2023-10-05 (see email from Dr. Love)
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Portfolio) CHR 2023 Social Factors and Health Outcomes 
-G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
-G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States 
-G071 | David Askew | Socioeconomics and preventative health 
-G531 | Jordan Smith | Tailgating the Game of Population Health
 
 ## First revision due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
