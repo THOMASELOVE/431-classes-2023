@@ -17,7 +17,7 @@ G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mor
 ## Proposals requiring a first revision due at Noon Thursday 2023-10-05 (see email from Dr. Love)
 
 Group | Investigator(s) | Title 
------: | :----------------------------: | :----------------------------------------------------------------------- 
+-----: | :----------------------------: | :-------------------------------------------------------------------------------
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Portfolio) CHR 2023 Social Factors and Health Outcomes 
 G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
 G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States 
@@ -27,7 +27,7 @@ G531 | Jordan Smith | Tailgating the Game of Population Health
 ## Proposals requiring a first revision due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
 Group | Investigator(s) | Title 
------: | :----------------------------: | :-----------------------------------------------------
+-----: | :----------------------------: | :-------------------------------------------------------------------------------
 G161 | Trent George | A Deeper Dive into Mental Health
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
