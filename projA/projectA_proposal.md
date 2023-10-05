@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-04 at 3:20 PM`. I think we're going to wind up with **49** project proposals.
+as of `2023-10-04 at 8:20 PM`. I think we're going to wind up with **49** project proposals.
 
 ## Approved Proposals
 
@@ -24,19 +24,25 @@ G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfol
 G071 | David Askew | Socioeconomics and preventative health | THU 10-05 Noon
 G531 | Jordan Smith | Tailgating the Game of Population Health | THU 10-05 Noon
 
+## Proposals requiring a first revision due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
+
+Group | Investigator(s) | Title 
+-----: | :----------------------------: | :-----------------------------------------------------
+G161 | Trent George | A Deeper Dive into Mental Health
+
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
+None
 
-## Proposals which have passed an initial check and are now under deeper review by the TAs
+## Proposals which have passed an initial check and are actively under review by the TAs
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 G021 | Mostafa Abouzaid | Evolving Health Landscapes of some midwest U.S. Counties
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
-G161 | Trent George | A Deeper Dive into Mental Health
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
 G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
 G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
@@ -50,6 +56,7 @@ G311 | Samir Memic | (title will need to change for Portfolio) Examination of Co
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title will need to change for Portfolio) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
+G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G371 | Tony Nunnery | (TEL revised) Community Health and Wellness in Counties of Six States
 G391 | Sakshi Pandit | (title will need to change for Portfolio) Analyzing Different Health Outcomes
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
@@ -69,7 +76,6 @@ G561 | Kexin Zhang | Three Independent Health Analysis in States with the Larges
 Group | Investigator(s) | Note
 -----: | :--------------------: | :------------------------------------------------- 
 G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
-G361 | Krishna Mridha | revision expected by Thursday 2023-10-05 at 9 AM
 
 ## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
 
