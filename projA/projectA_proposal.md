@@ -14,7 +14,7 @@ G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on h
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
-## Proposals requiring a first revision due at Noon Thursday 2023-10-05 (see email from Dr. Love)
+## First revision due at Noon Thursday 2023-10-05 (see email from Dr. Love)
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfol
 G071 | David Askew | Socioeconomics and preventative health 
 G531 | Jordan Smith | Tailgating the Game of Population Health
 
-## Proposals requiring a first revision due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
+## First revision due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
@@ -36,7 +36,7 @@ Group | Investigator(s) | Title
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 None
 
-## Proposals which have passed an initial check and are actively under review by the TAs
+## Proposals actively under review by the TAs
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
