@@ -1,51 +1,36 @@
 # Status of Project A Proposals
 
-as of `2023-10-05 at 12:50 PM`. I think we're going to wind up with **49** project proposals.
+as of `2023-10-06 at 11:00 AM`. I think we're going to wind up with **48-49** project proposals.
 
 ## Approved Proposals
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 G032 | Abrar Alamoudi & <br /> Parishma Guttoo | (title revised by TEL) Diabetes mortality, physical inactivity and adult obesity in the Midwest
+G051 | Naif Alqahtani | The Relationship between Lifestyle Patterns and Comorbidities
+G062 | Walaa Alshaia & <br /> Qiao Wang | (title revised by TEL) Assessing Sleep and Health, Diabetes and Obesity among U.S Adults 
 G081 | John Barron | CHR-2023: The Association of Insufficient Sleep with the Prevalence of Diabetes
 G092 | Alyssia Broncano & <br /> Michelle Raymond | Health outcomes based on societal influence in Ohio and surrounding states
 G281 | Ethan Martin | County-level social determinants of health and substance use outcomes
 G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on health and mortality
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
+G531 | Jordan Smith | Tailgating the Game of Population Health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
-## First revision under review by Dr. Love
+## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G051 | Naif Alqahtani | (title revised by TEL) The Relationship between Lifestyle Patterns and Comorbidities
-G062 | Walaa Alshaia & <br /> Qiao Wang | (title will need to change for Portfolio) Analyzing Trends and Associations in Health Factors and Outcomes in Six States 
-G071 | David Askew | Socioeconomics and preventative health 
-G531 | Jordan Smith | Tailgating the Game of Population Health
-
-## First revision due at Noon Thursday 2023-10-05 (see email from Dr. Love)
-
-Group | Investigator(s) | Title 
------: | :----------------------------: | :-------------------------------------------------------------------------------
-G042 | Sarah Albalawi & <br /> Gazi Shamita | (title will need to change for Portfolio) CHR 2023 Social Factors and Health Outcomes 
-
-## First revision due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
-
-Group | Investigator(s) | Title 
------: | :----------------------------: | :-------------------------------------------------------------------------------
+G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
+G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G161 | Trent George | A Deeper Dive into Mental Health
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-None
-
-## Proposals actively under review by the TAs
-
-Group | Investigator(s) | Title 
------: | :----------------------------: | :-------------------------------------------------------------------------------
 G021 | Mostafa Abouzaid | Evolving Health Landscapes of some midwest U.S. Counties
+G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
@@ -76,15 +61,9 @@ G501 | Himiede Wilson-Sesay | (title will need to change for Portfolio) An Inves
 G511 | Kareena Shah | (title will need to change for Portfolio) Relationships Between Public Health Determinants and Outcomes in US Counties
 G561 | Kexin Zhang | Three Independent Health Analysis in States with the Largest Populations
 
-## Proposals Requiring Additional Work from Students before TA review commences (See email from Dr. Love for revision request details)
-
-Group | Investigator(s) | Note
------: | :--------------------: | :------------------------------------------------- 
-G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
-
-## Proposals Not Yet Reviewed / Not Yet Submitted to Canvas
+## Proposals Not Yet Submitted to Canvas
 
 Investigator | Note
 :--------------------------: | :----------------------------------------
 Richael Gambrah | no word from student
-Vetrica Le Maitre | initial work expected Friday 2023-10-06 at noon
+Vetrica Le Maitre | expected Friday 2023-10-06 at noon
