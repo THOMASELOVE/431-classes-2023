@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 11:28 AM`. I think we're going to wind up with **48-49** project proposals.
+as of `2023-10-06 at 12:30 PM`. I think we'll have **48 or 49** project proposals.
 
 ## Approved Proposals
 
@@ -26,6 +26,7 @@ G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mor
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
+G021 | Mostafa Abouzaid | (title needs to change) Evolving Health Landscapes of some midwest U.S. Counties
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G161 | Trent George | A Deeper Dive into Mental Health
@@ -35,7 +36,6 @@ G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency be
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G021 | Mostafa Abouzaid | Evolving Health Landscapes of some midwest U.S. Counties
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
