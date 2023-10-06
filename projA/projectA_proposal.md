@@ -47,7 +47,7 @@ G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title will need to change for Portfolio) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
-G371 | Tony Nunnery | (TEL revised) Community Health and Wellness in Counties of Six States
+G371 | Tony Nunnery | (title revised by TEL) Community Health and Wellness in Counties of Six States
 G391 | Sakshi Pandit | (title will need to change for Portfolio) Analyzing Different Health Outcomes
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
