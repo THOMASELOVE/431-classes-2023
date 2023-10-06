@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 11:00 AM`. I think we're going to wind up with **48-49** project proposals.
+as of `2023-10-06 at 11:06 AM`. I think we're going to wind up with **48-49** project proposals.
 
 ## Approved Proposals
 
@@ -11,9 +11,14 @@ G051 | Naif Alqahtani | The Relationship between Lifestyle Patterns and Comorbid
 G062 | Walaa Alshaia & <br /> Qiao Wang | (title revised by TEL) Assessing Sleep and Health, Diabetes and Obesity among U.S Adults 
 G081 | John Barron | CHR-2023: The Association of Insufficient Sleep with the Prevalence of Diabetes
 G092 | Alyssia Broncano & <br /> Michelle Raymond | Health outcomes based on societal influence in Ohio and surrounding states
+G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
+G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
+G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
 G281 | Ethan Martin | County-level social determinants of health and substance use outcomes
+G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on health and mortality
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
+G461 | Reina Samuel | (title needs to change) An Analysis Of How Different Factors Impact Health Outcomes Using CHR 2023 Data
 G531 | Jordan Smith | Tailgating the Game of Population Health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 
@@ -33,15 +38,11 @@ G021 | Mostafa Abouzaid | Evolving Health Landscapes of some midwest U.S. Counti
 G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
-G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
-G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
-G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
 G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title will need to change for Portfolio) Variable selection and preprocessing for health study in Northeastern States 
 G252 | Elaine Liu & <br /> Xiuyuan Lang | (title will need to change for Portfolio) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
 G261 | Zunren (Jack) Liu | (title will need to change for Portfolio) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title will need to change for Portfolio) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
-G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G311 | Samir Memic | (title will need to change for Portfolio) Examination of County Characteristics and Their Effects on Health Outcomes
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
@@ -53,7 +54,6 @@ G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in 
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
 G451 | Justin Robinson | (title will need to change for Portfolio) Exploration of Health-Related Factors in six selected U.S. States
-G461 | Reina Samuel | (title will need to change for Portfolio) An Analysis Of How Different Factors Impact Health Outcomes Using CHR 2023 Data
 G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
 G481 | Robert Schauner | Comparing Sleep Insufficncies between 2018 and 2023
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title will need to change for Portfolio) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
