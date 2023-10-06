@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 2:02 PM`. At present, we have **44** submitted project proposals.
+as of `2023-10-06 at 2:10 PM`. At present, we have **44** submitted project proposals.
 
 - 11 of the projects were submitted by groups of two investigators
 - The other 33 were submitted by individual investigators.
@@ -62,10 +62,3 @@ G451 | Justin Robinson | (title needs to change) Exploration of Health-Related F
 G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title needs to change) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G511 | Kareena Shah | (title needs to change) Relationships Between Public Health Determinants and Outcomes in US Counties
-
-## Proposals Not Yet Submitted to Canvas
-
-Investigator | Note
-:--------------------------: | :----------------------------------------
-Richael Gambrah | no word from student
-Vetrica Le Maitre | expected Friday 2023-10-06 at noon
