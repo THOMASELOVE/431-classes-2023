@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 1:15 PM`. I think we'll have **48 or 49** project proposals.
+as of `2023-10-06 at 1:40 PM`. I think we'll have **48 or 49** project proposals.
 
 ## Approved Proposals
 
@@ -14,6 +14,7 @@ G092 | Alyssia Broncano & <br /> Michelle Raymond | Health outcomes based on soc
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
 G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
 G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
+G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title needs to change) Variable selection and preprocessing for health study in Northeastern States 
 G281 | Ethan Martin | County-level social determinants of health and substance use outcomes
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
@@ -52,7 +53,6 @@ G511 | Kareena Shah | (title needs to change) Relationships Between Public Healt
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
-G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title needs to change) Variable selection and preprocessing for health study in Northeastern States 
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G311 | Samir Memic | (title needs to change) Examination of County Characteristics and Their Effects on Health Outcomes
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
