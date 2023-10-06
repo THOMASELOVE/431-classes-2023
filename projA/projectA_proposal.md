@@ -29,6 +29,7 @@ Group | Investigator(s) | Title
 G021 | Mostafa Abouzaid | (title needs to change) Evolving Health Landscapes of some midwest U.S. Counties
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
+G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G161 | Trent George | A Deeper Dive into Mental Health
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
@@ -37,7 +38,6 @@ G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency be
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title needs to change) Variable selection and preprocessing for health study in Northeastern States 
