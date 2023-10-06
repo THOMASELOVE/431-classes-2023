@@ -5,7 +5,7 @@ as of `2023-10-06 at 11:06 AM`. I think we're going to wind up with **48-49** pr
 ## Approved Proposals
 
 Group | Investigator(s) | Title 
------: | :----------------------------: | :-------------------------------------------------------------------------------
+-----: | :-------------------------------------: | :-------------------------------------------------------------------------------
 G032 | Abrar Alamoudi & <br /> Parishma Guttoo | (title revised by TEL) Diabetes mortality, physical inactivity and adult obesity in the Midwest
 G051 | Naif Alqahtani | The Relationship between Lifestyle Patterns and Comorbidities
 G062 | Walaa Alshaia & <br /> Qiao Wang | (title revised by TEL) Assessing Sleep and Health, Diabetes and Obesity among U.S Adults 
