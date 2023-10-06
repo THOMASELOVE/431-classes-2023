@@ -1,9 +1,9 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 2:02 PM`. At present, we have **45** submitted project proposals.
+as of `2023-10-06 at 2:02 PM`. At present, we have **44** submitted project proposals.
 
 - 11 of the projects were submitted by groups of two investigators
-- The other 34 were submitted by individual investigators.
+- The other 33 were submitted by individual investigators.
 
 ## Approved Proposals
 
@@ -39,7 +39,7 @@ G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis i
 
 ## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
-There are **20** proposals which require a revision, due at 9 AM Thursday 2023-10-12.
+There are **19** proposals which require a revision, due at 9 AM Thursday 2023-10-12.
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
