@@ -1,13 +1,13 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 2:10 PM`. At present, we have **44** submitted project proposals.
+as of `2023-10-06 at 2:40 PM`. At present, we have **44** submitted project proposals.
 
 - 11 of the projects were submitted by groups of two investigators
 - The other 33 were submitted by individual investigators.
 
 ## Approved Proposals
 
-There are **25** approved proposals.
+There are **26** approved proposals.
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
@@ -24,6 +24,7 @@ G281 | Ethan Martin | County-level social determinants of health and substance u
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G301 | Osmary Medina | Premature death and ethnicity in the Great Lakes
 G311 | Samir Memic | (title needs to change) Examination of County Characteristics and Their Effects on Health Outcomes
+G331 | Kathryn Menta | (title needs to change) Analysis of Various Health Determinants Across States I Have Lived In or Visited
 G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on health and mortality
 G371 | Tony Nunnery | (title revised by TEL) Community Health and Wellness in Counties of Six States
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
@@ -39,7 +40,7 @@ G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis i
 
 ## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
-There are **19** proposals which require a revision, due at 9 AM Thursday 2023-10-12.
+There are **18** proposals which require a revision, due at 9 AM Thursday 2023-10-12.
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
@@ -54,7 +55,6 @@ G252 | Elaine Liu & <br /> Xiuyuan Lang | (title needs to change) Assessing the 
 G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
-G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title needs to change) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
