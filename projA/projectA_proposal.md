@@ -1,7 +1,6 @@
-# Status of Project A Proposals as of `2023-10-06 at 2:40 PM`. 
+# Status of Project A Proposals as of `2023-10-06 at 7:20 PM`. 
 
-At present, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
-
+We have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
 ## Approved Proposals
 
@@ -36,20 +35,23 @@ G531 | Jordan Smith | Tailgating the Game of Population Health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
 G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis in States with the Largest Populations
 
-## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
+## Revisions Dr. Love has received and will review soon
 
-There are **18** proposals which require a revision, due at 9 AM Thursday 2023-10-12.
+Group | Investigator(s) | Title 
+-----: | :----------------------------: | :-------------------------------------------------------------------------------
+G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
+G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
+G252 | Elaine Liu & <br /> Xiuyuan Lang | (title needs to change) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
+
+## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 G021 | Mostafa Abouzaid | (title needs to change) Evolving Health Landscapes of some midwest U.S. Counties
-G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G121 | Ryan Deng | (title needs to change) Investigation on the association between drinking and mental state
-G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G161 | Trent George | A Deeper Dive into Mental Health
-G252 | Elaine Liu & <br /> Xiuyuan Lang | (title needs to change) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
 G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
