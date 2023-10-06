@@ -1,9 +1,7 @@
-# Status of Project A Proposals
+# Status of Project A Proposals as of `2023-10-06 at 2:40 PM`. 
 
-as of `2023-10-06 at 2:40 PM`. At present, we have **44** submitted project proposals.
+At present, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
-- 11 of the projects were submitted by groups of two investigators
-- The other 33 were submitted by individual investigators.
 
 ## Approved Proposals
 
