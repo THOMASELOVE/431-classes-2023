@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 12:30 PM`. I think we'll have **48 or 49** project proposals.
+as of `2023-10-06 at 12:40 PM`. I think we'll have **48 or 49** project proposals.
 
 ## Approved Proposals
 
@@ -30,6 +30,7 @@ G021 | Mostafa Abouzaid | (title needs to change) Evolving Health Landscapes of 
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G161 | Trent George | A Deeper Dive into Mental Health
+G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
@@ -45,7 +46,6 @@ G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G311 | Samir Memic | (title needs to change) Examination of County Characteristics and Their Effects on Health Outcomes
-G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title needs to change) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
