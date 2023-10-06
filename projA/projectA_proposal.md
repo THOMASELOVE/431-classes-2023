@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 11:06 AM`. I think we're going to wind up with **48-49** project proposals.
+as of `2023-10-06 at 11:28 AM`. I think we're going to wind up with **48-49** project proposals.
 
 ## Approved Proposals
 
@@ -29,6 +29,7 @@ Group | Investigator(s) | Title
 G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G161 | Trent George | A Deeper Dive into Mental Health
+G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
@@ -38,28 +39,27 @@ G021 | Mostafa Abouzaid | Evolving Health Landscapes of some midwest U.S. Counti
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
-G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title will need to change for Portfolio) Variable selection and preprocessing for health study in Northeastern States 
-G252 | Elaine Liu & <br /> Xiuyuan Lang | (title will need to change for Portfolio) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
-G261 | Zunren (Jack) Liu | (title will need to change for Portfolio) Analysis with data from CHR-2023
-G271 | Bhavya Mahesh | (title will need to change for Portfolio) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
+G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title needs to change) Variable selection and preprocessing for health study in Northeastern States 
+G252 | Elaine Liu & <br /> Xiuyuan Lang | (title needs to change) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
+G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
+G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
-G311 | Samir Memic | (title will need to change for Portfolio) Examination of County Characteristics and Their Effects on Health Outcomes
+G311 | Samir Memic | (title needs to change) Examination of County Characteristics and Their Effects on Health Outcomes
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
-G342 | Lydia Mitchell & <br /> Manu Bulusu | (title will need to change for Portfolio) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
+G342 | Lydia Mitchell & <br /> Manu Bulusu | (title needs to change) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G371 | Tony Nunnery | (title revised by TEL) Community Health and Wellness in Counties of Six States
-G391 | Sakshi Pandit | (title will need to change for Portfolio) Analyzing Different Health Outcomes
+G391 | Sakshi Pandit | (title needs to change) Analyzing Different Health Outcomes
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
-G451 | Justin Robinson | (title will need to change for Portfolio) Exploration of Health-Related Factors in six selected U.S. States
+G451 | Justin Robinson | (title needs to change) Exploration of Health-Related Factors in six selected U.S. States
 G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
-G481 | Robert Schauner | Comparing Sleep Insufficncies between 2018 and 2023
-G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title will need to change for Portfolio) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
-G501 | Himiede Wilson-Sesay | (title will need to change for Portfolio) An Investigation and Analysis of US Health Indicators by States
-G511 | Kareena Shah | (title will need to change for Portfolio) Relationships Between Public Health Determinants and Outcomes in US Counties
-G561 | Kexin Zhang | Three Independent Health Analysis in States with the Largest Populations
+G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title needs to change) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
+G501 | Himiede Wilson-Sesay | (title needs to change) An Investigation and Analysis of US Health Indicators by States
+G511 | Kareena Shah | (title needs to change) Relationships Between Public Health Determinants and Outcomes in US Counties
+G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis in States with the Largest Populations
 
 ## Proposals Not Yet Submitted to Canvas
 
