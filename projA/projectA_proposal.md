@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 12:55 PM`. I think we'll have **48 or 49** project proposals.
+as of `2023-10-06 at 1:10 PM`. I think we'll have **48 or 49** project proposals.
 
 ## Approved Proposals
 
@@ -33,8 +33,11 @@ G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G161 | Trent George | A Deeper Dive into Mental Health
 G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
+G342 | Lydia Mitchell & <br /> Manu Bulusu | (title needs to change) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G451 | Justin Robinson | (title needs to change) Exploration of Health-Related Factors in six selected U.S. States
 G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
+G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title needs to change) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
+G511 | Kareena Shah | (title needs to change) Relationships Between Public Health Determinants and Outcomes in US Counties
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
 
@@ -48,7 +51,6 @@ G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predic
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G311 | Samir Memic | (title needs to change) Examination of County Characteristics and Their Effects on Health Outcomes
 G331 | Kathryn Menta | Analysis of Various Health Determinants Across States I Have Lived or Visited
-G342 | Lydia Mitchell & <br /> Manu Bulusu | (title needs to change) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G371 | Tony Nunnery | (title revised by TEL) Community Health and Wellness in Counties of Six States
 G391 | Sakshi Pandit | (title needs to change) Analyzing Different Health Outcomes
@@ -56,9 +58,7 @@ G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in 
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
 G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
-G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title needs to change) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G501 | Himiede Wilson-Sesay | (title needs to change) An Investigation and Analysis of US Health Indicators by States
-G511 | Kareena Shah | (title needs to change) Relationships Between Public Health Determinants and Outcomes in US Counties
 G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis in States with the Largest Populations
 
 ## Proposals Not Yet Submitted to Canvas
