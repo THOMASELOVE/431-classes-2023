@@ -39,9 +39,9 @@ G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis i
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 Social Factors and Health Outcomes 
+G042 | Sarah Albalawi & <br /> Gazi Shamita | CHR 2023 Diabetes Prevalence and Social Associations
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
-G252 | Elaine Liu & <br /> Xiuyuan Lang | (title needs to change) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
+G252 | Elaine Liu & <br /> Xiuyuan Lang | (title revised by TEL) High School Completion and Percent of Flu Vaccinations in CHR-2023
 
 ## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
