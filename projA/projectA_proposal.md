@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-as of `2023-10-06 at 12:40 PM`. I think we'll have **48 or 49** project proposals.
+as of `2023-10-06 at 12:55 PM`. I think we'll have **48 or 49** project proposals.
 
 ## Approved Proposals
 
@@ -31,7 +31,9 @@ G042 | Sarah Albalawi & <br /> Gazi Shamita | (title needs to change) CHR 2023 S
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G161 | Trent George | A Deeper Dive into Mental Health
+G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
+G451 | Justin Robinson | (title needs to change) Exploration of Health-Related Factors in six selected U.S. States
 G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 
 ## Proposals reviewed by TAs awaiting accept/revise decisions from Dr. Love
@@ -42,7 +44,6 @@ G121 | Ryan Deng | Investigation on the association between drinking and mental 
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title needs to change) Variable selection and preprocessing for health study in Northeastern States 
 G252 | Elaine Liu & <br /> Xiuyuan Lang | (title needs to change) Assessing the Impact of Social Determinants on Health Outcomes Using CHR-2023
-G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G291 | Kyle McGill Percy | Income Equality and Its Impact on Health Outcomes
 G311 | Samir Memic | (title needs to change) Examination of County Characteristics and Their Effects on Health Outcomes
@@ -54,7 +55,6 @@ G391 | Sakshi Pandit | (title needs to change) Analyzing Different Health Outcom
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
-G451 | Justin Robinson | (title needs to change) Exploration of Health-Related Factors in six selected U.S. States
 G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title needs to change) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G501 | Himiede Wilson-Sesay | (title needs to change) An Investigation and Analysis of US Health Indicators by States
