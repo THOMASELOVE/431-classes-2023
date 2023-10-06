@@ -35,7 +35,7 @@ G161 | Trent George | A Deeper Dive into Mental Health
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 G021 | Mostafa Abouzaid | Evolving Health Landscapes of some midwest U.S. Counties
-G111 | Dario Cabal | revision expected by Thursday 2023-10-05 at 9 AM
+G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G121 | Ryan Deng | Investigation on the association between drinking and mental state
 G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title will need to change for Portfolio) Variable selection and preprocessing for health study in Northeastern States 
