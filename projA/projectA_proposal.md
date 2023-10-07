@@ -1,4 +1,6 @@
-# Status of Project A Proposals as of `2023-10-06 at 10 PM`. 
+# Status of Project A Proposals
+
+Last Update: **SAT 2023-10-07** at **12:35 PM**
 
 As of the time listed above, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
