@@ -14,7 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There is a Minute Paper after Class 13, due Wednesday 2023-10-11 at noon. It will be posted **by class time**.
+1. There is a [Minute Paper after Class 13](https://bit.ly/431-2023-minute-13), due Wednesday 2023-10-11 at noon.
 2. Quiz 1 results and an answer sketch will be available by class time on Thursday 2023-10-12. The Quiz 1 Google Form will **close at the start of class** today.
 3. Project A Proposal Status [updates are here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 
