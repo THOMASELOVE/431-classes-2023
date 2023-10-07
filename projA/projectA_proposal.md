@@ -1,10 +1,10 @@
 # Status of Project A Proposals as of `2023-10-06 at 10 PM`. 
 
-We have **44** proposals: 11 from teams of two, and 33 from individual investigators.
+As of the time listed above, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
 ## Approved Proposals
 
-There are **28** approved proposals.
+Dr. Love has approved **28** of the proposals.
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
