@@ -41,7 +41,6 @@ G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis i
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 
 ## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
@@ -51,6 +50,7 @@ G021 | Mostafa Abouzaid | (title needs to change) Evolving Health Landscapes of 
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G121 | Ryan Deng | (title needs to change) Investigation on the association between drinking and mental state
+G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G161 | Trent George | A Deeper Dive into Mental Health
 G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
