@@ -4,11 +4,11 @@ Last Update: **SUN 2023-10-08** at **6:35 PM**
 
 As of the time listed above, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
-## Revisions Dr. Love has received and will review soon
+## Revisions Dr. Love has received but not yet reviewed.
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-None.
+None. I am up to date.
 
 ## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
