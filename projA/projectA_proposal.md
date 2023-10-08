@@ -44,6 +44,7 @@ G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis i
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
+None.
 
 ## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
@@ -60,7 +61,7 @@ G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title needs to change) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
-G451 | Justin Robinson | (title needs to change) Exploration of Health-Related Factors in six selected U.S. States
+G451 | Justin Robinson | Examining the Relationship of Physical Inactivity and Mental Health – CHR 2023
 G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title needs to change) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G511 | Kareena Shah | (title needs to change) Relationships Between Public Health Determinants and Outcomes in US Counties
