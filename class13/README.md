@@ -18,6 +18,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Quiz 1 results and an answer sketch will be available by class time on Thursday 2023-10-12.
     - **REMINDER** This note is a reminder to Dr. Love to close the Quiz 1 Google Form **at 1 PM** today.
 3. Project A Proposal Status [updates are here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
+4. When creating a Quarto file, place a blank line before and after
+    - every code chunk
+    - every header
+    - every new paragraph
 
 More to come.
 
