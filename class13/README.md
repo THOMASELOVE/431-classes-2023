@@ -21,7 +21,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Some Important Tips
 
-1. Some Things to Avoid in Titles (although they're OK in subtitles), at least in work you do with me. Clear statements are the goal. Most of these ideas apply to research questions, too.
+1. Some Things to Avoid in Titles (although they're OK in subtitles), at least in work you do with me. Clear statements are the goal. *Most of these ideas apply to research questions, and to titles of graphs and other exhibits, too*.
     - Study titles that aren't specific at all, like "Analyzing Data from NHANES" or "Studying County Health Rankings"
     - Throat-clearing phrases like "An Analysis of", "A Study of", "Investigating", "Research" and the like, which can almost always be dropped.
     - Terms I've specifically ruled out: "Project", "431", "Proposal", "Portfolio".
