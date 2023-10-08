@@ -31,7 +31,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Abbreviations, most especially acronyms and initialisms (other than, in Project A, CHR-2023.)
     - Titles that imply a causal effect when your study cannot possibly find one. "Does Smoking Cause Insufficient Sleep?" in Project A, for example.
     - (Project A-specific) Titles that imply you'll be looking at individuals when your study involves counties within US states, or titles that imply you've done any sort of random sampling or randomization in the work.
-    - (Project A-specific) Titles that are more than 80 characters long.
+    - (specific to Projects A and B for 431) Titles that are more than 80 characters long.
 2. When creating a Quarto file, place a blank line **before and after** every code chunk, every header and every paragraph of text. Otherwise, you are asking for trouble.
 
 ## One Last Thing
