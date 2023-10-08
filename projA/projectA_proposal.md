@@ -1,12 +1,12 @@
 # Status of Project A Proposals
 
-Last Update: **SAT 2023-10-07** at **12:35 PM**
+Last Update: **SUN 2023-10-08** at **6:35 PM**
 
 As of the time listed above, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
 ## Approved Proposals
 
-Dr. Love has approved **28** of the proposals.
+Dr. Love has approved **29** of the proposals.
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
@@ -16,6 +16,7 @@ G051 | Naif Alqahtani | The Relationship between Lifestyle Patterns and Comorbid
 G062 | Walaa Alshaia & <br /> Qiao Wang | (title revised by TEL) Assessing Sleep and Health, Diabetes and Obesity among U.S Adults 
 G081 | John Barron | CHR-2023: The Association of Insufficient Sleep with the Prevalence of Diabetes
 G092 | Alyssia Broncano & <br /> Michelle Raymond | Health outcomes based on societal influence in Ohio and surrounding states
+G151 | Mary Garrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
 G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
 G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
@@ -52,7 +53,6 @@ G021 | Mostafa Abouzaid | (title needs to change) Evolving Health Landscapes of 
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G121 | Ryan Deng | (title needs to change) Investigation on the association between drinking and mental state
-G151 | Mary Gerrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G161 | Trent George | A Deeper Dive into Mental Health
 G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
