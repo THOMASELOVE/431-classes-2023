@@ -18,12 +18,21 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Quiz 1 results and an answer sketch will be available by class time on Thursday 2023-10-12.
     - **REMINDER** This note is a reminder to Dr. Love to close the Quiz 1 Google Form **at 1 PM** today.
 3. Project A Proposal Status [updates are here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
-4. When creating a Quarto file, place a blank line before and after
-    - every code chunk
-    - every header
-    - every new paragraph
 
-More to come.
+## Some Important Tips
+
+1. Some Things to Avoid in Titles (although they're OK in subtitles), at least in work you do with me. Clear statements are the goal. Most of these ideas apply to research questions, too.
+    - Study titles that aren't specific at all, like "Analyzing Data from NHANES" or "Studying County Health Rankings"
+    - Throat-clearing phrases like "An Analysis of", "A Study of", "Investigating", "Research" and the like, which can almost always be dropped.
+    - Terms I've specifically ruled out: "Project", "431", "Proposal", "Portfolio".
+    - Titles that focus on the methods you'll use rather than the questions you'll answer.
+    - "Correlation" - most of the time, you're looking at more than just a correlation - "Association" is usually better, or maybe "Relationship".
+    - Non-specific determiner words that don't tell us anything specific, like: "Various", "Several", "Some", and so forth.
+    - Abbreviations, most especially acronyms and initialisms (other than, in Project A, CHR-2023.)
+    - Titles that imply a causal effect when your study cannot possibly find one. "Does Smoking Cause Insufficient Sleep?" in Project A, for example.
+    - (Project A-specific) Titles that imply you'll be looking at individuals when your study involves counties within US states, or titles that imply you've done any sort of random sampling or randomization in the work.
+    - (Project A-specific) Titles that are more than 80 characters long.
+2. When creating a Quarto file, place a blank line **before and after** every code chunk, every header and every paragraph of text. Otherwise, you are asking for trouble.
 
 ## One Last Thing
 
