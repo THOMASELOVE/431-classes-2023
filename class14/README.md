@@ -14,6 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
 
 ## One Last Thing
 
