@@ -12,8 +12,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 - To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
-![](perfors_2022-09-23.png)
-
 ## Announcements
 
 1. There is a [Minute Paper after Class 13](https://bit.ly/431-2023-minute-13), due Wednesday 2023-10-11 at noon.
@@ -39,3 +37,4 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
+![](perfors_2022-09-23.png)
