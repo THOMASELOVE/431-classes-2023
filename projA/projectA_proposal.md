@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-Last Update: **SUN 2023-10-08** at **7:05 PM**
+Last Update: **MON 2023-10-09** at **9:40 AM**
 
 As of the time listed above, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
@@ -25,14 +25,13 @@ G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (title needs to change) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
-G451 | Justin Robinson | Examining the Relationship of Physical Inactivity and Mental Health – CHR 2023
 G481 | Robert Schauner | (title revised by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (title needs to change) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G511 | Kareena Shah | (title needs to change) Relationships Between Public Health Determinants and Outcomes in US Counties
 
 ## Approved Proposals
 
-Dr. Love has approved **29** of the proposals, which I've split into groups of ten in the tables below.
+Dr. Love has approved **30** of the proposals, which I've split into groups of ten in the tables below.
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
@@ -65,6 +64,7 @@ Group | Investigator(s) | Title
 G391 | Sakshi Pandit | (title needs to change) Analyzing Different Health Outcomes
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
+G451 | Justin Robinson | Examining the Relationship of Physical Inactivity and Mental Health – CHR 2023
 G461 | Reina Samuel | (title needs to change) An Analysis Of How Different Factors Impact Health Outcomes Using CHR 2023 Data
 G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
 G501 | Himiede Wilson-Sesay | (title needs to change) An Investigation and Analysis of US Health Indicators by States
