@@ -17,3 +17,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
+"[How to Do Bad Biomarker Research](https://hbiostat.org/blog/post/badb/)" by Frank Harrell is an October 2022 blog post which...
+
+> covers some of the bad statistical practices that have crept into biomarker research, including setting the bar too low for demonstrating that biomarker information is new, believing that winning biomarkers are really “winners”, and improper use of continuous variables. Step-by-step guidance is given for ensuring that a biomarker analysis is not reproducible and does not provide clinically useful information.
+
+If you're interested in the subject, I encourage you to take a look.
