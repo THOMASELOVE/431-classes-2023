@@ -30,7 +30,7 @@ G511 | Kareena Shah | (*title needs to change*) Relationships Between Public Hea
 
 ## Approved Proposals
 
-Dr. Love has approved **31** of the proposals, which I've split into groups of ten in the tables below.
+Dr. Love has approved **31** of the proposals, which are split into groups of ten in the tables below.
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
