@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-Last Update: **MON 2023-10-09** at **9:40 AM**
+Last Update: **TUE 2023-10-10** at **12:00 AM**
 
 As of the time listed above, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
 
@@ -17,7 +17,6 @@ Group | Investigator(s) | Title
 G021 | Mostafa Abouzaid | (title needs to change) Evolving Health Landscapes of some midwest U.S. Counties
 G071 | David Askew | (title needs to change) Socioeconomics and preventative health 
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
-G121 | Ryan Deng | (title needs to change) Investigation on the association between drinking and mental state
 G161 | Trent George | A Deeper Dive into Mental Health
 G261 | Zunren (Jack) Liu | (title needs to change) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (title needs to change) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
@@ -31,7 +30,7 @@ G511 | Kareena Shah | (title needs to change) Relationships Between Public Healt
 
 ## Approved Proposals
 
-Dr. Love has approved **30** of the proposals, which I've split into groups of ten in the tables below.
+Dr. Love has approved **31** of the proposals, which I've split into groups of ten in the tables below.
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
@@ -41,13 +40,14 @@ G051 | Naif Alqahtani | The Relationship between Lifestyle Patterns and Comorbid
 G062 | Walaa Alshaia & <br /> Qiao Wang | (title revised by TEL) Assessing Sleep and Health, Diabetes and Obesity among U.S Adults 
 G081 | John Barron | CHR-2023: The Association of Insufficient Sleep with the Prevalence of Diabetes
 G092 | Alyssia Broncano & <br /> Michelle Raymond | Health outcomes based on societal influence in Ohio and surrounding states
+G121 | Ryan Deng | (title revised by TEL) Drinking and its effect on mental wellness in CHR-2023
 G151 | Mary Garrity | Does Excessive Drinking Occur with Insomnia or Not Eating in 6 US States?
 G181 | Claire Jansson-Knodell | Examining Select Predictors of Poor Physical and Mental Health Using CHR Data
 G191 | Julia Joo | Diabetes, Sleep Insufficiency, and Adult Obesity: A Cross-Sectional Study
-G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
+G201 | Kartik Lakhotiya | 2023 County Health Analyses: Alcohol, Activity, Diabetes Insights (vs 2018)
 G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | (title needs to change) Variable selection and preprocessing for health study in Northeastern States 
 G252 | Elaine Liu & <br /> Xiuyuan Lang | (title revised by TEL) High School Completion and Percent of Flu Vaccinations in CHR-2023
 G281 | Ethan Martin | County-level social determinants of health and substance use outcomes
@@ -57,10 +57,10 @@ G311 | Samir Memic | (title needs to change) Examination of County Characteristi
 G331 | Kathryn Menta | (title needs to change) Analysis of Various Health Determinants Across States I Have Lived In or Visited
 G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on health and mortality
 G371 | Tony Nunnery | (title revised by TEL) Community Health and Wellness in Counties of Six States
-G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
+G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
 G391 | Sakshi Pandit | (title needs to change) Analyzing Different Health Outcomes
 G421 | Juan Perez | (title revised by TEL) Socioeconomic Status and Environmental Health Factors in U.S. Counties
 G431 | Camaryn Petersen | (title revised by TEL) Unemployment and Smoking in Great Lake States
@@ -70,5 +70,8 @@ G471 | Manish Sarkar | Mental and physical health related analysis using CHR-202
 G501 | Himiede Wilson-Sesay | (title needs to change) An Investigation and Analysis of US Health Indicators by States
 G531 | Jordan Smith | Tailgating the Game of Population Health
 G541 | Liz Stanley | (title revised by TEL) Mammography screening, premature mortality, and mentally unhealthy days
+
+Group | Investigator(s) | Title 
+-----: | :-------------------------------------: | :-----------------------------------------------------------------
 G561 | Kexin Zhang | (title needs to change) Three Independent Health Analysis in States with the Largest Populations
 
