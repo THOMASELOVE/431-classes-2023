@@ -34,7 +34,8 @@ Class | Date | Slides | Quarto .qmd | Recording
     - (Project A-specific) Titles that imply you'll be looking at individuals when your study involves counties within US states, or titles that imply you've done any sort of random sampling or randomization in the work.
     - (specific to Projects A and B for 431) Titles that are more than 80 characters long.
 2. When creating a Quarto file, place a blank line **before and after** every code chunk, every header and every paragraph of text. Otherwise, you are asking for trouble.
-
+3. The [CWRU Writing Resource Center](https://case.edu/artsci/writing/resources/writing-resource-center) provides support for writers. If you're having trouble, this is a great place to get some help.
+ 
 ## One Last Thing
 
 ![](perfors_2022-09-23.png)
