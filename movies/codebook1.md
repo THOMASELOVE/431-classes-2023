@@ -24,6 +24,10 @@ list_2020	| # of students who mentioned this film in the Fall 2020 version of 43
 list_2021	| # of students who mentioned this film in the Fall 2021 version of 431
 list_2022	| # of students who mentioned this film in the Fall 2022 version of 431
 list_2023	| # of students who mentioned this film in the Fall 2023 version of 431
+rt_critics | % of critics who favorably reviewed the film (via Rotten Tomatoes)
+rt_audience | % of audience reviewers who were favorable about the film (via Rotten Tomatoes)
+
+- Note that the two `rt_` variables are available only for films mentioned by students in the Fall 2023 version of 431.
 
 ## More on `imdb_categories`
 
