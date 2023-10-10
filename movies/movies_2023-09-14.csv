@@ -1,202 +1,202 @@
-film_id,film,year,length,mpa,imdb_categories,star_1,star_2,star_3,director,imdb_ratings,imdb_stars,imdb_pct10,imdb_link,dr_love,mentions,list_2020,list_2021,list_2022,list_2023
-1,3 Idiots,2009,170,PG-13,"Comedy, Drama",Aamir Khan,Madhavan,Mona Singh,Rajkumar Hirani,"417,000",8.4,37.3,https://www.imdb.com/title/tt1187043/,No,1,0,0,0,1
-2,8 1/2,1963,138,NR,Drama,Marcello Mastroianni,Anouk Aimee,Claudia Cardinale,Federico Fellini,"122,000",8,27.2,https://www.imdb.com/title/tt0056801/,No,1,1,0,0,0
-3,10 Things I Hate About You,1999,97,PG-13,"Comedy, Drama, Romance",Heath Ledger,Julia Stiles,Joseph Gordon-Levitt,Gil Junger,"366,000",7.3,14.9,https://www.imdb.com/title/tt0147800/,No,1,0,0,0,1
-4,2001: A Space Odyssey,1968,149,G,"Adventure, Sci-Fi",Keir Dullea,Gary Lockwood,William Sylvester,Stanley Kubrick,"697,000",8.3,30.1,https://www.imdb.com/title/tt0062622/,Yes,1,0,1,0,0
-5,About Elly (Darbareye Elly),2009,119,TV-PG,"Drama, Mystery",Golshifteh Farahani,Shahab Hosseini,Taraneh Alidoosti,Asghar Farhadi,"56,000",7.9,22.1,https://www.imdb.com/title/tt1360860/,No,1,0,0,1,0
-6,About Time,2013,123,R,"Comedy, Drama, Fantasy",Domnhall Gleason,Rachel McAdams,Bill Nighy,Richard Curtis,"371,000",7.8,17.1,https://www.imdb.com/title/tt2194499/,No,2,2,0,0,0
-7,Alien,1979,117,R,"Horror, Sci-Fi",Sigourney Weaver,Tom Skerritt,John Hurt,Ridley Scott,"918,000",8.5,22.7,https://www.imdb.com/title/tt0078748/,No,1,0,0,0,1
-8,Amadeus,1984,160,PG,"Biography, Drama, Music",F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Milos Forman,"416,000",8.4,22.5,https://www.imdb.com/title/tt0086879/,Yes,1,0,0,0,1
-9,Avatar,2009,162,PG-13,"Action, Adventure, Fantasy",Sam Worthington,Zoe Saldana,Sigourney Weaver,James Camerson,"1,400,000",7.9,21.2,https://www.imdb.com/title/tt0499549/,No,1,1,0,0,0
-10,Avengers: Infinity War,2018,149,PG-13,"Action, Adventure, Sci-Fi","Robert Downey, Jr.",Chris Evans,Mark Ruffalo,Anthony Russo & Joe Russo,"1,200,000",8.4,32.4,https://www.imdb.com/title/tt4154756/,Yes,1,1,0,0,0
-11,Avengers: Endgame,2019,181,PG-13,"Action, Adventure, Drama","Robert Downey, Jr.",Chris Hemsworth,Mark Ruffalo,Anthony Russo & Joe Russo,"1,200,000",8.4,34.2,https://www.imdb.com/title/tt4154796/,Yes,3,1,1,1,0
-12,Back to the Future,1985,116,PG,"Adventure, Comedy, Sci-Fi",Michael J. Fox,Christopher Lloyd,Lea Thompson,Robert Zemeckis,"1,300,000",8.5,25.6,https://www.imdb.com/title/tt0088763/,Yes,2,1,0,1,0
-13,Back to the Future Part II,1989,108,PG,"Adventure, Comedy, Sci-Fi",Michael J. Fox,Christopher Lloyd,Lea Thompson,Robert Zemeckis,"557,000",7.8,15,https://www.imdb.com/title/tt0096874/,Yes,1,0,1,0,0
-14,Barbie,2023,114,PG-13,"Adventure, Comedy, Fantasy",Margot Robbie,Ryan Gosling,Issa Rae,Greta Gerwig,"285,000",7.3,16.1,https://www.imdb.com/title/tt1517268/,No,1,0,0,0,1
-15,Beaches,1988,123,PG-13,"Comedy, Drama, Music",Bette Midler,Barbara Hershey,John Heard,Garry Marshall,"28,000",7,17.9,https://www.imdb.com/title/tt0094715/,No,1,1,0,0,0
-16,Bee Movie,2007,91,PG,"Animation, Adventure, Comedy",Jerry Seinfeld,Renee Zellweger,Matthew Broderick,Simon J Smith & Steve Hickner,"173,000",6.1,6.2,https://www.imdb.com/title/tt0389790/,Yes,1,0,0,1,0
-17,Beetlejuice,1988,92,PG,"Comedy, Fantasy",Alec Baldwin,Geena Davis,Michael Keaton,Tim Burton,"321,000",7.5,12.7,https://www.imdb.com/title/tt0094721/,Yes,1,1,0,0,0
-18,Being John Malkovich,1999,113,R,"Comedy, Drama, Fantasy",John Cusack,Cameron Diaz,Catherine Keener,Spike Jonze,"347,000",7.7,12.3,https://www.imdb.com/title/tt0120601/,No,1,1,0,0,0
-19,Big Hero 6,2014,102,PG,"Animation, Action, Adventure",Ryan Potter,Scott Adsit,Jamie Chung,Don Hall & Chris Williams,"485,000",7.8,14.3,https://www.imdb.com/title/tt2245084/,No,1,0,0,0,1
-20,The Big Lebowski,1998,117,R,"Comedy, Crime, Sport",Jeff Bridges,John Goodman,Julianne Moore,Joel Coen & Ethan Coen,"837,000",8.1,21.7,https://www.imdb.com/title/tt0118715/,Yes,1,1,0,0,0
-21,Black Panther,2018,134,PG-13,"Action, Adventure, Sci-Fi",Chadwick Boseman,Michael B. Jordan,Lupita Nyong'o,Ryan Coogler,"814,000",7.3,14,https://www.imdb.com/title/tt1825683/,Yes,1,1,0,0,0
-22,Black Swan,2010,108,R,"Drama, Thriller",Natalie Portman,Mila Kunis,Vincent Cassel,Darren Aronovsky,"799,000",8,15.4,https://www.imdb.com/title/tt0947798/,No,1,1,0,0,0
-23,Blade Runner 2049,2017,164,R,"Action, Drama, Mystery",Harrison Ford,Ryan Gosling,Ana de Armas,Denis Villeneuve,"622,000",8,17.6,https://www.imdb.com/title/tt1856101/,No,1,0,0,0,1
-24,Blue Velvet,1986,120,R,"Drama, Mystery, Thriller",Isabella Rossellini,Kyle MacLachlan,Dennis Hopper,David Lynch,"209,000",7.7,15.7,https://www.imdb.com/title/tt0090756/,Yes,1,0,1,0,0
-25,The Breakfast Club,1985,97,R,"Comedy, Drama",Emilio Estevez,Judd Nelson,Molly Ringwald,John Hughes,"423,000",7.8,17,https://www.imdb.com/title/tt0088847/,Yes,1,0,0,1,0
-26,Brideshead Revisited,2008,153,PG-13,"Drama, Romance",Matthew Goode,Patrick Malahide,Hayley Atwell,Julian Jarrold,"13,000",6.7,7.9,https://www.imdb.com/title/tt0412536/,No,1,0,0,0,1
-27,Call Me By Your Name,2017,132,R,"Drama, Romance",Timothee Chalamet,Armie Hammer,Michael Stuhlbarg,Luca Guadagnino,"297,000",7.8,22.2,https://www.imdb.com/title/tt5726616/,No,1,0,0,0,1
-28,Capharnaum,2018,126,R,Drama,Zain Al Rafeea,Yordanos Shiferaw,Boluwatife T. Bankole,Nadine Labaki,"99,000",8.4,24.8,https://www.imdb.com/title/tt8267604/,No,1,0,1,0,0
-29,Captain Marvel,2019,123,PG-13,"Action, Adventure, Sci-Fi",Brie Larson,Samuel L. Jackson,Ben Mendelsohn,Anna Boden & Ryan Fleck,"590,000",6.8,9.1,https://www.imdb.com/title/tt4154664/,Yes,1,0,0,1,0
-30,Casablanca,1942,102,PG,"Drama, Romance, War",Humphrey Bogart,Ingrid Bergman,Paul Henreid,Michael Curtiz,"591,000",8.5,29.6,https://www.imdb.com/title/tt0034583/,Yes,1,0,1,0,0
-31,Castle in the Sky (Tenkû no shiro Rapyuta),1986,125,PG,"Animation, Adventure, Drama",Mayumi Tanaka,Keiko Yokozawa,Kotoe Hatsui,Hayao Miyazaki,"175,000",8,17.2,https://www.imdb.com/title/tt0092067/,No,1,1,0,0,0
-32,Cloud Atlas,2012,172,R,"Action, Drama, Mystery",Tom Hanks,Halle Berry,Hugh Grant,"Tom Tykwer, Lana Wachowski, Lilly Wachowski","369,000",7.4,15.6,https://www.imdb.com/title/tt1371111/,No,2,0,1,0,1
-33,Clueless,1995,97,PG-13,"Comedy, Romance",Alicia Silverstone,Stacey Dash,Brittany Murphy,Amy Heckerling,"235,000",6.9,11.6,https://www.imdb.com/title/tt0112697/,No,1,0,0,1,0
-34,Coco,2017,105,PG,"Animation, Adventure, Drama",Anthony Gonzalez,Gael Garcia Bernal,Benjamin Bratt,"Lee Unkrich, Adiran Molina","553,000",8.4,24.6,https://www.imdb.com/title/tt2380307/,No,1,0,0,0,1
-35,CODA,2021,111,PG-13,"Comedy, Drama, Music",Emilia Jones,Marlee Matlin,Troy Kotsur,Stan Heder,"152,000",8,19.1,https://www.imdb.com/title/tt10366460/,No,1,0,0,0,1
-36,Coming To America,1988,116,R,"Comedy, Romance",Eddie Murphy,Arsenio Hall,James Earl Jones,John Landis,"217,000",7.1,10.1,https://www.imdb.com/title/tt0094898/,Yes,1,1,0,0,0
-37,Crazy Rich Asians,2018,120,PG-13,"Comedy, Drama, Romance",Constance Wu,Henry Golding,Michelle Yeoh,Jon M. Chu,"183,000",6.9,9.3,https://www.imdb.com/title/tt3104988/,No,1,0,0,0,1
-38,The Dark Knight Rises,2012,164,PG-13,"Action, Adventure",Christian Bale,Heath Ledger,Aaron Eckhardt,Christopher Nolan,"1,800,000",8.4,27.4,https://www.imdb.com/title/tt1345836/,Yes,2,1,1,0,0
-39,The Dark Knight,2008,152,PG-13,"Action, Crime, Drama",Christian Bale,Tom Hardy,Anne Hathaway,Christopher Nolan,"2,800,000",9,45.4,https://www.imdb.com/title/tt0468569/,Yes,4,1,1,1,1
-40,Dead Poet's Society,1989,128,PG,"Comedy, Drama",Robin Williams,Robert Sean Leonard,Ethan Hawke,Peter Weir,"521,000",8.1,18.6,https://www.imdb.com/title/tt0097165/,Yes,1,0,0,0,1
-41,The Departed,2006,151,R,"Crime, Drama, Thriller",Leonardo DiCaprio,Matt Damon,Jack Nicholson,Martin Scorsese,"1,400,000",8.5,22.6,https://www.imdb.com/title/tt0407887/,Yes,1,0,1,0,0
-42,Despicable Me,2010,95,PG,"Animation, Adventure, Comedy",Steve Carell,Jason Segel,Russell Brand,Pierre Coffin & Chris Renaud,"568,000",7.6,12.2,https://www.imdb.com/title/tt1323594/,Yes,1,0,1,0,0
-43,Dilwale Dulhania Le Jayenge,1995,181,NR,"Drama, Romance",Shah Rukh Khan,Kajol,Amrish Puri,Aditya Chopra,"74,000",8,42.7,https://www.imdb.com/title/tt0112870/,No,1,0,0,1,0
-44,Divergent,2014,139,PG-13,"Action, Adventure, Mystery",Shailene Woodley,Theo James,Kate Winslet,Neil Burger,"477,000",6.6,11.2,https://www.imdb.com/title/tt1840309/,No,1,0,0,0,1
-45,Doctor Zhivago,1965,197,PG-13,"Drama, Romance, War",Omar Sharif,Julie Christie,Geraldine Chaplin,David Lean,"80,000",7.9,20.8,https://www.imdb.com/title/tt0059113/,No,1,0,1,0,0
-46,Elf,2003,97,PG,"Adventure, Comedy, Family",Will Ferrell,James Caan,Bob Newhart,Jon Favreau,"290,000",7.1,13.2,https://www.imdb.com/title/tt0319343/,Yes,1,0,0,1,0
-47,Eternal Sunshine of the Spotless Mind,2004,108,R,"Drama, Romance, Sci-Fi",Jim Carrey,Kate Winslet,Tom Wilkinson,Michel Gondry,"1,000,000",8.3,23.2,https://www.imdb.com/title/tt0338013/,No,1,1,0,0,0
-48,Eurovision Song Contest: The Story of Fire Saga,2020,123,PG-13,"Comedy, Music",Will Ferrell,Rachel McAdams,Dan Stevens,David Dobkin,"99,000",6.5,9.5,https://www.imdb.com/title/tt8580274/,Yes,2,1,1,0,0
-49,Everybody Wants Some!!,2016,117,R,Comedy,Blake Jenner,Tyler Hoechlin,Ryan Guzman,Richard Linklater,"57,000",6.9,6.6,https://www.imdb.com/title/tt2937696/,No,1,1,0,0,0
-50,"Everything, Everywhere, All at Once",2022,139,R,"Action, Adventure, Comedy",Michelle Yeoh,Stephanie Hsu,Jamie Lee Curtis,Daniel Kwan & Daniel Scheinert,"477,000",7.8,23.6,https://www.imdb.com/title/tt6710474/,Yes,2,0,0,1,1
-51,Face/Off,1997,138,R,"Action, Crime, Sci-Fi",John Travolta,Nicolas Cage,Joan Allen,John Woo,"391,000",7.3,8.8,https://www.imdb.com/title/tt0119094/,Yes,1,1,0,0,0
-52,Farewell My Concubine,1993,171,R,"Drama, Music, Romance",Leslie Cheung,Fengyi Zhang,Gong Li,Kaige Chen,"32,000",8.1,28.9,https://www.imdb.com/title/tt0106332/,No,2,1,0,0,1
-53,A Fistful of Dollars,1964,99,R,"Action, Drama, Western",Clint Eastwood,Gian Maria Volonte,Marianne Koch,Sergio Leone,"226,000",7.9,13.1,https://www.imdb.com/title/tt0058461/,No,1,0,1,0,0
-54,Flags of our Fathers,2006,135,R,"Action, Adventure, Drama",Ryan Phillippe,Barry Pepper,Joseph Cross,Clint Eastwood,"127,000",7.1,6.1,https://www.imdb.com/title/tt0418689/,No,1,0,1,0,0
-55,Full Metal Jacket,1987,116,R,"Drama, War",Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Stanley Kubrick,"769,000",8.3,16.4,https://www.imdb.com/title/tt0093058/,No,1,0,0,1,0
-56,Gattaca,1997,106,PG-13,"Drama, Sci-Fi, Thriller",Ethan Hawke,Uma Thurman,Jude Law,Andrew Niccol,"315,000",7.7,12.8,https://www.imdb.com/title/tt0119177/,No,2,0,1,1,0
-57,Get Out,2017,104,R,"Horror, Mystery, Thriller",Daniel Kaluuya,Allison Williams,Bradley Whitford,Jordan Peele,"655,000",7.8,11.6,https://www.imdb.com/title/tt5052448/,No,1,0,1,0,0
-58,Get Smart,2008,110,PG-13,"Action, Adventure, Comedy",Steve Carell,Anne Hathaway,Alan Arkin,Peter Segal,"225,000",6.5,5.8,https://www.imdb.com/title/tt0425061/,Yes,1,1,0,0,0
-59,Ghost,1990,127,PG-13,"Drama, Fantasy, Romance",Patrick Swayze,Demi Moore,Whoopi Goldberg,Jerry Zucker,"229,000",7.1,9.9,https://www.imdb.com/title/tt0099653/,No,1,0,1,0,0
-60,Gifted Hands: The Ben Carson Story,2009,90,NR,"Biography, Drama",Cuba Gooding Jr,Kimberly Elise,Aunjanue Ellis-Taylor,Thomas Carter,"15,000",7.5,15.9,https://www.imdb.com/title/tt1295085/,No,1,0,0,0,1
-61,The Gingerdead Man,2005,70,NR,"Comedy, Fantasy, Horror",Gary Busey,Robin Sydney,Ryan Locke,Charles Band,"4,300",3.4,9.3,https://www.imdb.com/title/tt0364376/,No,1,0,0,0,1
-62,The Girl with the Dragon Tattoo,2011,158,R,"Crime, Drama, Mystery",Daniel Craig,Rooney Mara,Christopher Plummer,David Fincher,"480,000",7.8,11,https://www.imdb.com/title/tt1568346/,No,1,1,0,0,0
-63,The Godfather,1972,175,R,"Crime, Drama",Marlon Brando,Al Pacino,James Caan,Francis Ford Coppola,"1,900,000",9.2,51.6,https://www.imdb.com/title/tt0068646/,Yes,3,1,0,0,2
-64,Good Will Hunting,1997,126,R,"Drama, Romance",Matt Damon,Ben Affleck,Robin Williams,Gus Van Sant,"1,000,000",8.3,19.7,https://www.imdb.com/title/tt0119217/,Yes,1,0,0,0,1
-65,The Grand Budapest Hotel,2014,99,R,"Adventure, Comedy, Crime",Ralph Fiennes,F. Murray Abraham,Edward Norton,Wes Anderson,"856,000",8.1,16.2,https://www.imdb.com/title/tt2278388/,No,2,1,1,0,0
-66,Gravity,2013,91,PG-13,"Drama, Sci-Fi, Thriller",Sandra Bullock,George Clooney,Ed Harris,Alfonso Cuaron,"847,000",7.7,12.1,https://www.imdb.com/title/tt1454468/,No,1,0,0,1,0
-67,The Great Muppet Caper,1981,97,G,"Adventure, Comedy, Crime",Jim Henson,Frank Oz,Dave Goelz,Jim Henson,"16,000",7.1,12.7,https://www.imdb.com/title/tt0082474/,Yes,1,0,1,0,0
-68,The Greatest Showman,2017,105,PG,"Biography, Drama, Musical",Hugh Jackman,Michelle Williams,Zac Efron,Michael Gracey,"299,000",7.5,22.1,https://www.imdb.com/title/tt1485796/,No,1,1,0,0,0
-69,The Green Mile,1999,189,R,"Crime, Drama, Fantasy",Tom Hanks,Michael Clarke Duncan,David Morse,Frank Darabont,"1,400,000",8.6,26.7,https://www.imdb.com/title/tt0120689/,Yes,1,0,1,0,0
-70,The Grey,2011,117,R,"Action, Adventure, Drama",Liam Neeson,Dermot Mulroney,Frank Grillo,Joe Carnahan,"259,000",6.7,6.9,https://www.imdb.com/title/tt1601913/,No,1,1,0,0,0
-71,Hacksaw Ridge,2016,139,R,"Biography, Drama, History",Andrew Garfield,Sam Worthington,Luke Bracey,Mel Gibson,"565,000",8.1,19,https://www.imdb.com/title/tt2119532/,No,1,0,0,0,1
-72,Harold and Maude,1971,91,PG,"Comedy, Drama, Romance",Ruth Gordon,Bud Cort,Vivian Pickles,Hal Ashby,"80,000",7.9,23.8,https://www.imdb.com/title/tt0067185/,No,1,1,0,0,0
-73,Harry Potter and The Sorcerer's Stone,2001,152,PG,"Adventure, Family, Fantasy",Daniel Radcliffe,Rupert Grint,Richard Harris,Chris Columbus,"823,000",7.6,18.3,https://www.imdb.com/title/tt0241527/,Yes,1,0,0,1,0
-74,Harry Potter and the Chamber of Secrets,2002,161,PG,"Adventure, Family, Fantasy",Daniel Radcliffe,Rupert Grint,Emma Watson,Chris Columbus,"667,000",7.4,14.9,https://www.imdb.com/title/tt0295297,Yes,1,0,0,0,1
-75,The Hateful Eight,2015,168,R,"Crime, Drama, Mystery",Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,Quentin Tarantino,"635,000",7.8,11.8,https://www.imdb.com/title/tt3460252/,No,1,1,0,0,0
-76,Hereditary,2018,127,R,"Drama, Horror, Mystery",Toni Collette,Milly Shapiro,Gabriel Byrne,Ari Aster,"352,000",7.3,11.4,https://www.imdb.com/title/tt7784604/,No,1,0,0,0,1
-77,Hidden Figures,2016,127,PG,"Biography, Drama, History",Taraji P. Henson,Octavia Spencer,Janelle Monae,Theodore Melfi,"245,000",7.8,14.5,https://www.imdb.com/title/tt4846340/,No,1,1,0,0,0
-78,High School Musical 2,2007,104,TV-G,"Comedy, Drama, Family",Zac Efron,Vanessa Hudgens,Ashley Tisdale,Kenny Ortega,"64,000",5.2,14.4,https://www.imdb.com/title/tt0810900/,No,1,0,0,1,0
-79,The Hobbit: An Unexpected Journey,2012,169,PG-13,"Adventure, Fantasy",Martin Freeman,Ian McKellen,Richard Armitage,Peter Jackson,"852,000",7.8,18.6,https://www.imdb.com/title/tt0903624/,Yes,1,0,0,1,0
-80,Hocus Pocus,1993,96,PG,"Comedy, Family, Fantasy",Bette Midler,Sarah Jessica Parker,Kathy Najimy,Kenny Ortega,"147,000",6.9,20.6,https://www.imdb.com/title/tt0107120/,No,1,0,0,1,0
-81,Home Alone,1990,103,PG,"Comedy, Family",Macauley Culkin,Joe Pesci,Daniel Stern,Chris Columbus,"612,000",7.7,16.2,https://www.imdb.com/title/tt0099785/,Yes,2,1,0,0,1
-82,Hot Fuzz,2007,121,R,"Action, Comedy, Mystery",Simon Pegg,Nick Frost,Martin Freeman,Edgar Wright,"523,000",7.8,16.5,https://www.imdb.com/title/tt0425112/,Yes,1,1,0,0,0
-83,House Party 2,1991,94,R,"Comedy, Drama, Music",Christopher Reid,Christopher Martin,Martin Lawrence,George Jackson & Doug McHenry,"7,000",5.3,9.4,https://www.imdb.com/title/tt0102065/,No,1,1,0,0,0
-84,How the Grinch Stole Christmas,2000,104,PG,"Comedy, Family, Fantasy",Jim Carrey,Taylor Momsen,Jeffrey Tambor,Ron Howard,"271,000",6.3,10.3,https://www.imdb.com/title/tt0170016/,No,1,1,0,0,0
-85,Howl's Moving Castle,2004,119,PG,"Animation, Adventure, Family",Chieko Baisho,Takuya Kimura,Tatsuya Gashuin,Hayao Miyazaki,"423,000",8.2,22.7,https://www.imdb.com/title/tt0347149/,No,1,0,0,0,1
-86,The Hunger Games,2012,142,PG-13,"Action, Adventure, Sci-Fi",Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Gary Ross,"960,000",7.2,12.7,https://www.imdb.com/title/tt1392170/,No,1,0,1,0,0
-87,The Hunger Games: Catching Fire,2013,146,PG-13,"Action, Adventure, Sci-Fi",Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Francis Lawrence,"692,000",7.5,14.3,https://www.imdb.com/title/tt1951264/,No,1,0,0,0,1
-88,The Imitation Game,2014,114,PG-13,"Biography, Drama, Thriller",Benedict Cumberbatch,Keira Knightley,Matthew Goode,Morten Tyldum,"802,000",8,13.8,https://www.imdb.com/title/tt2084970/,Yes,1,0,0,0,1
-89,In The Heights,2021,143,PG-13,"Drama, Music, Musical",Anthony Ramos,Corey Hawkins,Leslie Grace,Jon M. Chu,"50,000",7.3,16.5,https://www.imdb.com/title/tt1321510/,Yes,1,0,1,0,0
-90,Inception,2010,148,PG-13,"Action, Adventure, Sci-Fi",Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Christopher Nolan,"2,500,000",8.8,34.5,https://www.imdb.com/title/tt1375666/,Yes,6,2,2,1,1
-91,Inglorious Basterds,2009,153,R,"Adventure, Drama, War",Brad Pitt,Diane Kruger,Eli Roth,Quentin Tarantino,"1,500,000",8.3,20.1,https://www.imdb.com/title/tt0361748/,Yes,1,0,0,1,0
-92,Interstellar,2014,169,PG-13,"Adventure, Drama, Sci-Fi",Matthew McConaughey,Anne Hathaway,Jessica Chastain,Christopher Nolan,"2,000,000",8.7,37.4,https://www.imdb.com/title/tt0816692/,No,6,1,1,2,2
-93,Iron Man,2008,126,PG-13,"Action, Adventure, Sci-Fi","Robert Downey, Jr.",Gwyneth Paltrow,Terrence Howard,Jon Favreau,"1,100,000",7.9,14,https://www.imdb.com/title/tt0371746/,Yes,1,0,1,0,0
-94,Jab We Met,2007,138,NR,"Comedy, Drama, Romance",Shahid Kapoor,Kareena Kapoor,Tarun Arora,Imtiaz Ali,"56,000",7.9,19.3,https://www.imdb.com/title/tt1093370/,No,1,0,1,0,0
-95,John Wick,2014,101,R,"Action, Crime, Thriller",Keanu Reeves,Michael Nyqvist,Alfie Allen,Chad Stahelski & David Leitch,"712,000",7.4,12.9,https://www.imdb.com/title/tt2911666/,Yes,1,0,1,0,0
-96,Joker,2019,122,R,"Crime, Drama, Thriller",Joaquin Phoenix,Robert DeNiro,Zazie Beetz,Todd Phillips,"1,400,000",8.4,28.5,https://www.imdb.com/title/tt7286456/,No,1,0,0,1,0
-97,Jurassic Park,1993,127,PG-13,"Action, Adventure, Sci-Fi",Sam Neill,Laura Dern,Jeff Goldblum,Steven Spielberg,"1,000,000",8.2,18.7,https://www.imdb.com/title/tt0107290/,No,1,0,0,1,0
-98,Kiki's Delivery Service,1989,103,G,"Animation, Adventure, Drama",Kirsten Dunst,Minami Takayama,Rei Sakuma,Hayao Miyazaki,"156,000",7.8,14.7,https://www.imdb.com/title/tt0097814/,No,1,0,1,0,0
-99,The King's Speech,2010,118,R,"Biography, Drama, History",Colin Firth,Geoffrey Rush,Helena Bonham Carter,Tom Hooper,"697,000",8,12.2,https://www.imdb.com/title/tt1504320/,Yes,1,1,0,0,0
-100,La La Land,2016,128,PG-13,"Comedy, Drama, Music",Ryan Gosling,Emma Stone,Rosemarie DeWitt,Damien Chazelle,"633,000",8,21.5,https://www.imdb.com/title/tt3783958/,Yes,2,2,0,0,0
-101,The Legend of 1900,1998,169,R,"Drama, Music, Romance",Tim Roth,Pruitt Taylor Vince,Melanie Thierry,Giuseppe Tornatore,"67,000",8,22.3,https://www.imdb.com/title/tt0120731/,No,1,0,0,1,0
-102,Life As We Know It,2010,114,PG-13,"Comedy, Drama, Romance",Katherine Heigl,Josh Duhamel,Josh Lucas,Greg Berlanti,"137,000",6.5,8.8,https://www.imdb.com/title/tt1055292/,No,1,1,0,0,0
-103,Life Is Beautiful,1997,116,PG-13,"Comedy, Drama, Romance",Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Roberto Benigni,"721,000",8.6,31.8,https://www.imdb.com/title/tt0118799/,No,1,0,0,1,0
-104,Like Stars on Earth (Taare Zameen Par),2007,165,PG,"Drama, Family",Darsheel Safary,Aamir Khan,Tanay Chheda,"Aamir Khan, Amole Gupte","201,000",8.3,32.2,https://www.imdb.com/title/tt0986264/,No,1,0,0,0,1
-105,The Little Mermaid (1989),1989,83,G,"Animation, Adventure, Family",Jodi Benson,Samuel E. Wright,Rene Auberjonois,Ron Clements & John Musker,"282,000",7.6,16.3,https://www.imdb.com/title/tt0097757/,Yes,1,0,0,0,1
-106,The Little Mermaid (2023),2023,135,PG,"Adventure, Family, Fantasy",Halle Bailey,Jonah Hauer-King,Melissa McCarthy,Rob Marshall,"117,000",7.2,14.5,https://www.imdb.com/title/tt5971474/,No,1,0,0,0,1
-107,Little Miss Sunshine,2006,101,R,"Comedy, Drama",Steve Carell,Toni Collette,Greg Kinnear,Jonathan Dayton & Valerie Faris,"503,000",7.8,14.8,https://www.imdb.com/title/tt0449059/,No,1,0,0,1,0
-108,Little Women,2019,135,PG,"Drama, Romance",Saoirse Ronan,Emma Watson,Florence Pugh,Greta Gerwig,"228,000",7.8,13.9,https://www.imdb.com/title/tt3281548/,No,1,0,1,0,0
-109,The Lobster,2015,119,R,"Drama, Romance, Sci-Fi",Colin Farrell,Rachel Weisz,Jessica Barden,Yorgos Lanthimos,"275,000",7.1,6.6,https://www.imdb.com/title/tt3464902/,No,1,0,0,1,0
-110,Lord of the Rings: The Fellowship of the Ring,2001,178,PG-13,"Action, Adventure, Drama",Elijah Wood,Ian McKellen,Orlando Bloom,Peter Jackson,"1,900,000",8.8,38.4,https://www.imdb.com/title/tt0120737/,Yes,3,1,0,2,0
-111,Lord of the Rings: The Two Towers,2002,179,PG-13,"Action, Adventure, Drama",Elijah Wood,Ian McKellen,Viggo Mortensen,Peter Jackson,"1,700,000",8.8,35.4,https://www.imdb.com/title/tt0167261/,Yes,2,0,1,0,1
-112,Lord of the Rings: The Return of the King,2003,201,PG-13,"Action, Adventure, Drama",Elijah Wood,Viggo Mortensen,Ian McKellen,Peter Jackson,"1,900,000",9,43.4,https://www.imdb.com/title/tt0167260/,Yes,2,0,0,2,0
-113,Loving Adults,2022,104,TV-MA,"Crime, Drama, Thriller",Dar Salim,Sonja Richter,Sus N. J. Wilkins,Barbara Topsoe-Rothenborg,"12,000",6.5,4.3,https://www.imdb.com/title/tt14592948/,No,1,0,0,1,0
-114,The Machinist,2004,101,R,"Drama, Thriller",Christian Bale,Jennifer Jason Leigh,Aitana Sánchez-Gijón,Brad Anderson,"406,000",7.6,9.1,https://www.imdb.com/title/tt0361862/,No,1,0,1,0,0
-115,Madea Goes To Jail,2009,103,PG-13,"Comedy, Crime, Drama",Tyler Perry,Keshia Knight Pulliam,Derek Luke,Tyler Perry,"13,000",4.5,15.4,https://www.imdb.com/title/tt1142800/,No,1,0,1,0,0
-116,Mamma Mia!,2008,108,PG-13,"Comedy, Musical, Romance",Meryl Streep,Pierce Brosnan,Amanda Seyfried,Phyllida Lloyd,"263,000",6.5,12,https://www.imdb.com/title/tt0795421/,Yes,2,0,0,0,2
-117,Mamma Mia: Here We Go Again,2018,114,PG-13,"Comedy, Musical, Romance",Lily James,Amanda Seyfried,Meryl Streep,Ol Parker,"104,000",6.6,12,https://www.imdb.com/title/tt6911608/,No,2,0,1,0,1
-118,A Man Called Otto,2022,126,PG-13,"Comedy, Drama",Tom Hanks,Mariana Trevino,Rachel Keller,Marc Forster,"126,000",7.5,14,https://www.imdb.com/title/tt7405458/,No,1,0,0,0,1
-119,Manchester by the Sea,2016,137,R,Drama,Casey Affleck,Michelle Williams,Kyle Chandler,Kenneth Lonergan,"299,000",7.8,11.7,https://www.imdb.com/title/tt4034228/,No,1,0,0,1,0
-120,Marley & Me,2008,115,PG,"Drama, Family, Romance",Owen Wilson,Jennifer Aniston,Eric Dane,David Frankel,"164,000",7,11.5,https://www.imdb.com/title/tt0822832/,No,1,0,0,1,0
-121,Matilda,1996,102,PG,"Comedy, Family, Fantasy",Danny DeVito,Rhea Perlman,Mara Wilson,Danny DeVito,"167,000",7,12,https://www.imdb.com/title/tt0117008/,No,1,1,0,0,0
-122,The Matrix,1999,136,R,"Action, Sci-Fi",Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Lana Wachowski & Lilly Wachowski,"2,000,000",8.7,30.3,https://www.imdb.com/title/tt0133093/,Yes,1,1,0,0,0
-123,Me Before You,2016,106,PG-13,"Drama, Romance",Emilia Clarke,Sam Claflin,Janet McTeer,Thea Sharrock,"274,000",7.4,14.7,https://www.imdb.com/title/tt2674426/,No,1,0,1,0,0
-124,Mean Girls,2004,97,PG-13,Comedy,Lindsay Lohan,Jonathan Bennett,Rachel McAdams,Mark Waters,"407,000",7.1,14.1,https://www.imdb.com/title/tt0377092/,No,1,0,0,0,1
-125,Memento,2000,113,R,"Mystery, Thriller",Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Christopher Nolan,"1,300,000",8.4,21.8,https://www.imdb.com/title/tt0209144/,Yes,1,1,0,0,0
-126,Memoirs of a Geisha,2005,145,PG-13,"Drama, Romance",Ziyi Zhang,Ken Watanabe,Michelle Yeoh,Rob Marshall,"157,000",7.3,13.1,https://www.imdb.com/title/tt0397535/,No,1,0,0,1,0
-127,Mission Impossible II,2000,123,PG-13,"Action, Adventure, Thriller",Tom Cruise,Dougray Scott,Thandiwe Newton,John Woo,"367,000",6.1,3.8,https://www.imdb.com/title/tt0120755/,Yes,1,1,0,0,0
-128,Mission Impossible: Ghost Protocol,2011,132,PG-13,"Action, Adventure, Thriller",Tom Cruise,Jeremy Renner,Simon Pegg,Brad Bird,"516,000",7.4,8.8,https://www.imdb.com/title/tt1229238/,Yes,1,0,0,0,1
-129,Moneyball,2011,133,PG-13,"Biography, Drama, Sport",Brad Pitt,Robin Wright,Jonah Hill,Bennett Miller,"448,000",7.6,7.1,https://www.imdb.com/title/tt1210166/,Yes,1,0,0,1,0
-130,Monte Carlo,2011,109,PG,"Adventure, Comedy, Family",Selena Gomez,Leighton Meester,Katie Cassidy,Thomas Bezucha,"47,000",5.8,13.1,https://www.imdb.com/title/tt1067774/,No,1,1,0,0,0
-131,Moonlight,2016,111,R,Drama,Mahershala Ali,Naomie Harris,Trevante Rhodes,Barry Jenkins,"323,000",7.4,11.4,https://www.imdb.com/title/tt4975722/,No,1,0,1,0,0
-132,Murder Mystery,2019,97,PG-13,"Action, Comedy, Crime",Adam Sandler,Jennifer Aniston,Luke Evans,Kyle Newacheck,"160,000",6,4.4,https://www.imdb.com/title/tt1618434/,No,1,0,0,0,1
-133,My Big Fat Greek Wedding,2002,95,PG,"Comedy, Drama, Romance",Nia Vardalos,John Corbett,Michael Constantine,Joel Zwick,"139,000",6.6,9.2,https://www.imdb.com/title/tt0259446/,No,1,1,0,0,0
-134,My Fair Lady,1964,170,G,"Drama, Family, Musical",Audrey Hepburn,Rex Harrison,Stanley Holloway,George Cukor,"99,000",7.8,18.6,https://www.imdb.com/title/tt0058385/,Yes,1,0,0,1,0
-135,Mystery Men,1999,121,PG-13,"Action, Comedy, Fantasy",Ben Stiller,Janeane Garofalo,William H. Macy,Kinka Usher,"70,000",6.1,6.5,https://www.imdb.com/title/tt0132347/,Yes,1,0,1,0,0
-136,National Lampoon's Christmas Vacation,1989,97,PG-13,Comedy,Chevy Chase,Beverly D'Angelo,Juliette Lewis,Jeremiah S. Chechik,"206,000",7.5,21,https://www.imdb.com/title/tt0097958/,Yes,1,0,0,0,1
-137,Night at the Museum: Battle of the Smithsonian,2009,105,PG,"Adventure, Comedy, Family",Ben Stiller,Owen Wilson,Amy Adams,Shawn Levy,"207,000",6,4.6,https://www.imdb.com/title/tt1078912/,Yes,1,0,0,0,1
-138,No Country for Old Men,2007,122,R,"Crime, Drama, Thriller",Tommy Lee Jones,Javier Bardem,Josh Brolin,"Ethan Coen, Joel Coen","1,000,000",8.2,17.9,https://www.imdb.com/title/tt0477348/,No,1,0,0,1,0
-139,Notting Hill,1999,124,PG-13,"Comedy, Drama, Romance",Hugh Grant,Julia Roberts,Richard McCabe,Roger Mitchell,"329,000",7.2,9.9,https://www.imdb.com/title/tt0125439/,Yes,1,1,0,0,0
-140,The Parent Trap,1998,128,PG,"Adventure, Comedy, Drama",Lindsay Lohan,Dennis Quaid,Natasha Richardson,Nancy Meyers,"148,000",6.6,12.4,https://www.imdb.com/title/tt0120783/,No,1,1,0,0,0
-141,Pather Panchali,1955,125,NR,Drama,Kanu Bannerjee,Karuna Bannerjee,Subir Banerjee,Satyajit Ray,"36,000",8.2,36.6,https://www.imdb.com/title/tt0048473/,No,1,1,0,0,0
-142,The Peanut Butter Falcon,2019,97,PG-13,"Adventure, Comedy, Drama",Zack Gottsagen,Ann Pierce,Dakota Johnson,"Tyler Nilson, Michael Schwartz","97,000",7.6,10.7,https://www.imdb.com/title/tt4364194/,No,1,0,0,1,0
-143,The Perks of Being A Wallflower,2012,103,PG-13,Drama,Logan Lerman,Emma Watson,Ezra Miller,Stephen Chbosky,"534,000",7.9,18.9,https://www.imdb.com/title/tt1659337/,No,1,0,0,1,0
-144,The Pianist,2002,150,R,"Biography, Drama, Music",Adrien Brody,Thomas Kretschmann,Frank Finlay,Roman Polanski,"876,000",8.5,23.4,https://www.imdb.com/title/tt0253474/,No,1,0,0,1,0
-145,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,PG-13,"Action, Adventure, Fantasy",Johnny Depp,Geoffrey Rush,Orlando Bloom,Gore Verbinski,"1,200,000",8.1,18.6,https://www.imdb.com/title/tt0325980/,Yes,1,0,0,0,1
-146,Pirates of the Caribbean: Dead Man's Chest,2006,151,PG-13,"Action, Adventure, Fantasy",Johnny Depp,Orlando Bloom,Keira Knightley,Gore Verbinski,"747,000",7.4,12.8,https://www.imdb.com/title/tt0383574/,No,1,0,0,0,1
-147,The Platform,2019,94,NR,"Horror, Sci-Fi, Thriller",Ivan Massague,Zorion Eguileor,Antonia San Juan,Galder Gaztelu-Urrutia,"254,000",7,5.9,https://www.imdb.com/title/tt8228288/,No,1,0,1,0,0
-148,Porco Rosso,1992,94,PG,"Animation, Adventure, Comedy",Shuichiro Moriyama,Tokiko Kato,Bunshi Katsura Vi,Hayao Miyazaki,"96,000",7.7,12,https://www.imdb.com/title/tt0104652/,No,1,0,1,0,0
-149,Portrait of a Lady on Fire,2019,122,R,"Drama, Romance",Noemie Merlant,Adele Haenel,Luana Bajrami,Celine Sciamma,"102,000",8.1,20.8,https://www.imdb.com/title/tt8613070/,No,1,0,0,0,1
-150,Pride & Prejudice,2005,129,PG,"Drama, Romance",Keira Knightley,Matthew Macfadyen,Brenda Blethyn,Joe Wright,"316,000",7.8,22.5,https://www.imdb.com/title/tt0414387/,No,1,1,0,0,0
-151,The Princess Bride,1987,98,PG,"Adventure, Family, Fantasy",Cary Elwes,Mandy Patinkin,Robin Wright,Rob Reiner,"440,000",8,25.8,https://www.imdb.com/title/tt0093779/,Yes,1,0,1,0,0
-152,Pulp Fiction,1994,154,R,"Crime, Drama",John Travolta,Uma Thurman,Samuel L. Jackson,Quentin Tarantino,"2,100,000",8.9,36.1,https://www.imdb.com/title/tt0110912/,Yes,1,0,1,0,0
-153,The Pursuit of Happyness,2006,117,PG-13,"Biography, Drama",Will Smith,Thandiwe Newton,Jaden Smith,Gabriele Muccino,"541,000",8,18.7,https://www.imdb.com/title/tt0454921/,No,1,0,0,1,0
-154,Raiders of the Lost Ark,1981,115,PG,"Action, Adventure",Harrison Ford,Karen Allen,Paul Freeman,Steven Spielberg,"1,000,000",8.4,23.6,https://www.imdb.com/title/tt0082971/,Yes,1,0,0,0,1
-155,Ratatouille,2007,111,G,"Animation, Adventure, Comedy",Brad Garrett,Lou Romano,Patton Oswalt,Brad Bird & Jan Pinkava,"786,000",8.1,17.7,https://www.imdb.com/title/tt0382932/,No,1,0,0,0,1
-156,Real Genius,1985,108,PG,"Comedy, Romance, Sci-Fi",Val Kilmer,Gabe Jarret,Michelle Meyrink,Martha Coolidge,"37,000",6.9,14.2,https://www.imdb.com/title/tt0089886/,No,1,0,0,0,1
-157,Real Steel,2011,147,PG-13,"Action, Drama, Sci-Fi",Hugh Jackman,Evangeline Lilly,Dakota Goyo,Shawn Levy,"346,000",7.1,10.2,https://www.imdb.com/title/tt0433035/,No,1,0,0,0,1
-158,Remember the Titans,2000,113,PG,"Biography, Drama, Sport",Denzel Washington,Will Patton,Wood Harris,Boaz Yakin,"226,000",7.8,15.9,https://www.imdb.com/title/tt0210945/,No,1,0,1,0,0
-159,Reservoir Dogs,1992,99,R,"Crime, Drama, Thriller",Harvey Keitel,Tim Roth,Michael Madsen,Quentin Tarantino,"1,100,000",8.3,17.4,https://www.imdb.com/title/tt0105236/,Yes,1,0,1,0,0
-160,Resident Evil,2002,100,R,"Action, Horror, Sci-Fi",Milla Jovovich,Michelle Rodriguez,Ryan McCluskey,Paul W. S. Anderson,"281,000",6.6,8.9,https://www.imdb.com/title/tt0120804/,No,1,1,0,0,0
-161,Rise of the Guardians,2012,97,PG,"Animation, Adventure, Comedy",Hugh Jackman,Alec Baldwin,Isla Fisher,Peter Ramsey,"187,000",7.2,14.4,https://www.imdb.com/title/tt1446192/,No,1,0,1,0,0
-162,The Rite,2011,114,PG-13,"Drama, Horror, Mystery",Colin O'Donoghue,Anthony Hopkins,Ciaran Hinds,Mikael Hafstrom,"101,000",6,5.4,https://www.imdb.com/title/tt1161864/,No,1,0,0,1,0
-163,The Room,2003,99,R,Drama,Tommy Wiseau,Juliette Danielle,Greg Sestero,Tommy Wiseau,"93,000",3.6,22.6,https://www.imdb.com/title/tt0368226/,Yes,1,0,0,1,0
-164,The Royal Tenenbaums,2001,110,R,"Comedy, Drama",Gene Hackman,Gwyneth Paltrow,Anjelica Huston,Wes Anderson,"306,000",7.6,15.6,https://www.imdb.com/title/tt0265666/,No,1,0,1,0,0
-165,Scent of a Woman,1992,156,R,Drama,Al Pacino,Chris O'Donnell,James Rebhorn,Martin Brest,"317,000",8,19.5,https://www.imdb.com/title/tt0105323/,No,2,1,0,1,0
-166,Scott Pilgrim vs. The World,2010,112,PG-13,"Action, Comedy, Fantasy",Michael Cera,Mary Elizabeth Winstead,Kieran Culkin,Edgar Wright,"448,000",7.5,15.1,https://www.imdb.com/title/tt0446029/,No,1,1,0,0,0
-167,The Secret Life of Walter Mitty,2013,114,PG,"Comedy, Drama, Fantasy",Ben Stiller,Kristen Wiig,Jon Daly,Ben Stiller,"330,000",7.3,11.6,https://www.imdb.com/title/tt0359950/,No,2,1,1,0,0
-168,Seven Psychopaths,2012,110,R,"Comedy, Crime",Colin Farrell,Woody Harrelson,Sam Rockwell,Martin McDonagh,"269,000",7.1,6.9,https://www.imdb.com/title/tt1931533/,No,1,1,0,0,0
-169,Seven Samurai,1954,207,NR,"Action, Drama",Toshiro Mifune,Takashi Shimura,Keiko Tsushima,Akira Kurosawa,"357,000",8.6,33.4,https://www.imdb.com/title/tt0047478/,No,1,0,0,1,0
-170,The Shawshank Redemption,1994,142,R,Drama,Tim Robbins,Morgan Freeman,Bob Gunton,Frank Darabont,"2,800,000",9.3,55,https://www.imdb.com/title/tt0111161/,Yes,6,1,1,3,1
-171,Shrek,2001,90,PG,"Animation, Adventure, Comedy",Mike Myers,Eddie Murphy,Cameron Diaz,Andrew Adamson & Vicky Jenson,"710,000",7.9,14.3,https://www.imdb.com/title/tt0126029/,Yes,1,0,0,0,1
-172,The Silence of the Lambs,1991,118,R,"Crime, Drama, Thriller",Jodie Foster,Anthony Hopkins,Scott Glenn,Jonathan Demme,"1,500,000",8.6,23.5,https://www.imdb.com/title/tt0102926/,Yes,1,1,0,0,0
-173,Skyfall,2012,143,PG-13,"Action, Adventure, Thriller",Daniel Craig,Javier Bardem,Naomie Harris,Sam Mendes,"716,000",7.8,12.1,https://www.imdb.com/title/tt1074638/,Yes,1,0,1,0,0
-174,Sorry To Bother You,2018,112,R,"Comedy, Drama, Fantasy",LaKeith Stanfield,Tessa Thompson,Jermaine Fowler,Boots Riley,"85,000",6.9,6.1,https://www.imdb.com/title/tt5688932/,No,2,0,1,1,0
-175,Soul,2020,100,PG,"Animation, Adventure, Comedy",Jamie Foxx,Tina Fey,Graham Norton,Pete Docter & Kemp Powers,"356,000",8,18.1,https://www.imdb.com/title/tt2948372/,No,1,0,1,0,0
-176,Spider Man: Into The Spider-Verse,2018,117,PG,"Animation, Action, Adventure",Shameik Moore,Jake Johnson,Hailee Steinfeld,"Bob Persichetti, Peter Ramsey, Rodney Rothman","627,000",8.4,25.9,https://www.imdb.com/title/tt4633694/,Yes,1,0,1,0,0
-177,Spirited Away,2001,125,PG,"Animation, Adventure, Family",Daveigh Chase,Suzanne Pleshette,Miyu Irino,Hayao Miyazaki,"808,000",8.6,31,https://www.imdb.com/title/tt0245429/,No,3,1,2,0,0
-178,Star Wars Episode III: Revenge of the Sith,2005,140,PG-13,"Action, Adventure, Fantasy",Hayden Christensen,Natalie Portman,Ewan McGregor,George Lucas,"822,000",7.6,17.3,https://www.imdb.com/title/tt0121766/,No,1,0,0,0,1
-179,Star Wars: Episode IV - A New Hope,1977,121,PG,"Action, Adventure, Fantasy",Mark Hamill,Harrison Ford,Carrie Fisher,George Lucas,"1,400,000",8.6,30.8,https://www.imdb.com/title/tt0076759/,Yes,1,0,1,0,0
-180,Star Wars: Episode V - The Empire Strikes Back,1980,124,PG,"Action, Adventure, Fantasy",Mark Hamill,Harrison Ford,Carrie Fisher,Irvin Kershner,"1,300,000",8.7,33.9,https://www.imdb.com/title/tt0080684/,Yes,1,0,0,1,0
-181,Star Wars: Episode VI - Return of the Jedi,1983,131,PG,"Action, Adventure, Fantasy",Mark Hamill,Harrison Ford,Carrie Fisher,Richard Marquand,"1,100,000",8.3,22,https://www.imdb.com/title/tt0086190/,Yes,1,0,0,1,0
-182,Still Walking,2008,115,NR,Drama,Hiroshi Abe,Yiu Natsukawa,You,Hirokazu Koreeda,"18,000",7.9,12.9,https://www.imdb.com/title/tt1087578/,No,1,1,0,0,0
-183,Takers,2010,107,PG-13,"Action, Crime, Thriller",Matt Dillon,Paul Walker,Idris Elba,John Luessenhop,"65,000",6.2,7.7,https://www.imdb.com/title/tt1135084/,No,1,1,0,0,0
-184,Tangled,2010,100,PG,"Animation, Adventure, Comedy",Mandy Moore,Zachary Levi,Donna Murphy,Nathan Greno & Byron Howard,"477,000",7.7,16.4,https://www.imdb.com/title/tt0398286/,Yes,2,1,0,0,1
-185,Thor: Love and Thunder,2022,118,PG-13,"Action, Adventure, Comedy",Chris Hemsworth,Natalie Portman,Christian Bale,Taika Waititi,"377,000",6.2,7.3,https://www.imdb.com/title/tt10648342/,No,1,0,0,1,0
-186,Titanic,1997,134,PG-13,"Drama, Romance",Leonardo DiCaprio,Kate Winslet,Billy Zane,James Cameron,"1,200,000",7.9,23.1,https://www.imdb.com/title/tt0120338/,Yes,3,1,1,0,1
-187,Toni Erdmann,2016,162,R,"Comedy, Drama",Sandra Huller,Peter Simonischek,Michael Wittenborn,Maren Ade,"50,000",7.3,8.9,https://www.imdb.com/title/tt4048272/,No,1,0,0,1,0
-188,Top Gun,1986,110,PG,"Action, Drama",Tom Cruise,Tim Robbins,Kelly McGillis,Tony Scott,"484,000",6.9,10.4,https://www.imdb.com/title/tt0092099/,Yes,3,1,0,2,0
-189,Trollhunter,2010,103,PG-13,"Drama, Fantasy, Horror",Otto Jespersen,Robert Stoltenberg,Knut Naerum,Andre Ovredal,"78,000",6.9,7.2,https://www.imdb.com/title/tt1740707/,No,1,0,0,1,0
-190,Trolls,2016,92,PG,"Animation, Adventure, Comedy",Anna Kendrick,Justin Timberlake,Zooey Deschanel,Mike Mitchell & Walt Dohrn,"87,000",6.4,9.1,https://www.imdb.com/title/tt1679335/,No,1,0,1,0,0
-191,The Truman Show,1998,103,PG,"Comedy, Drama",Jim Carrey,Ed Harris,Laura Linney,Peter Weir,"1,100,000",8.2,15.8,https://www.imdb.com/title/tt0120382/,Yes,2,0,0,2,0
-192,Twister,1996,113,PG-13,"Action, Adventure, Thriller",Helen Hunt,Bill Paxton,Cary Elwes,Jan De Bont,"206,000",6.5,6.8,https://www.imdb.com/title/tt0117998/,Yes,1,0,1,0,0
-193,V for Vendetta,2005,132,R,"Action, Drama, Sci-Fi",Hugo Weaving,Natalie Portman,Rupert Graves,James McTeigue,"1,200,000",8.2,21.8,https://www.imdb.com/title/tt0434409/,No,1,0,1,0,0
-194,Waking Life,2001,99,R,"Animation, Drama, Fantasy",Ethan Hawke,Wiley Wiggins,Julie Delpy,Richard Linklater,"66,000",7.7,22.8,https://www.imdb.com/title/tt0243017/,No,1,1,0,0,0
-195,A Walk to Remember,2002,101,PG,"Drama, Romance",Mandy Moore,Shane West,Peter Coyote,Adam Shankman,"217,000",7.3,22.5,https://www.imdb.com/title/tt0281358/,No,1,0,0,1,0
-196,War of the Worlds,2015,116,PG-13,"Action, Adventure, Sci-Fi",Tom Cruise,Dakota Fanning,Tim Robbins,Steven Spielberg,"465,000",6.5,5.6,https://www.imdb.com/title/tt0407304/,No,1,0,1,0,0
-197,What About Bob?,1991,99,PG,Comedy,Bill Murray,Richard Dreyfuss,Julie Hagerty,Frank Oz,"73,000",7,10.4,https://www.imdb.com/title/tt0103241/,No,1,0,1,0,0
-198,When Harry Met Sally,1989,95,R,"Comedy, Drama, Romance",Billy Crystal,Meg Ryan,Carrie Fisher,Rob Reiner,"232,000",7.7,13.2,https://www.imdb.com/title/tt0098635/,Yes,1,1,0,0,0
-199,Whiplash,2014,106,R,"Drama, Music",Miles Teller,J. K. Simmons,Melissa Benoist,Damien Chazelle,"930,000",8.5,22.5,https://www.imdb.com/title/tt2582802/,No,1,0,1,0,0
-200,Yeh Jawaani hai Deewani,2013,160,NR,"Drama, Musical, Romance",Ranbir Kapoor,Deepika Padukone,Aditya Roy Kapoor,Ayan Mukerji,"49,000",7.2,9.8,https://www.imdb.com/title/tt2178470/,No,1,1,0,0,0
-201,Zoolander,2001,90,PG-13,Comedy,Ben Stiller,Owen Wilson,Christine Taylor,Ben Stiller,"284,000",6.5,7.7,https://www.imdb.com/title/tt0196229/,No,1,0,0,1,0
+film_id,film,year,length,mpa,imdb_categories,star_1,star_2,star_3,director,imdb_ratings,imdb_stars,imdb_pct10,imdb_link,dr_love,mentions,list_2020,list_2021,list_2022,list_2023,rt_critics,rt_audience
+1,3 Idiots,2009,170,PG-13,"Comedy, Drama",Aamir Khan,Madhavan,Mona Singh,Rajkumar Hirani,"417,000",8.4,37.3,https://www.imdb.com/title/tt1187043/,No,1,0,0,0,1,100,93
+2,8 1/2,1963,138,NR,Drama,Marcello Mastroianni,Anouk Aimee,Claudia Cardinale,Federico Fellini,"122,000",8.0,27.2,https://www.imdb.com/title/tt0056801/,No,1,1,0,0,0,,
+3,10 Things I Hate About You,1999,97,PG-13,"Comedy, Drama, Romance",Heath Ledger,Julia Stiles,Joseph Gordon-Levitt,Gil Junger,"366,000",7.3,14.9,https://www.imdb.com/title/tt0147800/,No,1,0,0,0,1,71,69
+4,2001: A Space Odyssey,1968,149,G,"Adventure, Sci-Fi",Keir Dullea,Gary Lockwood,William Sylvester,Stanley Kubrick,"697,000",8.3,30.1,https://www.imdb.com/title/tt0062622/,Yes,1,0,1,0,0,,
+5,About Elly (Darbareye Elly),2009,119,TV-PG,"Drama, Mystery",Golshifteh Farahani,Shahab Hosseini,Taraneh Alidoosti,Asghar Farhadi,"56,000",7.9,22.1,https://www.imdb.com/title/tt1360860/,No,1,0,0,1,0,,
+6,About Time,2013,123,R,"Comedy, Drama, Fantasy",Domnhall Gleason,Rachel McAdams,Bill Nighy,Richard Curtis,"371,000",7.8,17.1,https://www.imdb.com/title/tt2194499/,No,2,2,0,0,0,,
+7,Alien,1979,117,R,"Horror, Sci-Fi",Sigourney Weaver,Tom Skerritt,John Hurt,Ridley Scott,"918,000",8.5,22.7,https://www.imdb.com/title/tt0078748/,No,1,0,0,0,1,98,94
+8,Amadeus,1984,160,PG,"Biography, Drama, Music",F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Milos Forman,"416,000",8.4,22.5,https://www.imdb.com/title/tt0086879/,Yes,1,0,0,0,1,89,95
+9,Avatar,2009,162,PG-13,"Action, Adventure, Fantasy",Sam Worthington,Zoe Saldana,Sigourney Weaver,James Camerson,"1,400,000",7.9,21.2,https://www.imdb.com/title/tt0499549/,No,1,1,0,0,0,,
+10,Avengers: Infinity War,2018,149,PG-13,"Action, Adventure, Sci-Fi","Robert Downey, Jr.",Chris Evans,Mark Ruffalo,Anthony Russo & Joe Russo,"1,200,000",8.4,32.4,https://www.imdb.com/title/tt4154756/,Yes,1,1,0,0,0,,
+11,Avengers: Endgame,2019,181,PG-13,"Action, Adventure, Drama","Robert Downey, Jr.",Chris Hemsworth,Mark Ruffalo,Anthony Russo & Joe Russo,"1,200,000",8.4,34.2,https://www.imdb.com/title/tt4154796/,Yes,3,1,1,1,0,,
+12,Back to the Future,1985,116,PG,"Adventure, Comedy, Sci-Fi",Michael J. Fox,Christopher Lloyd,Lea Thompson,Robert Zemeckis,"1,300,000",8.5,25.6,https://www.imdb.com/title/tt0088763/,Yes,2,1,0,1,0,,
+13,Back to the Future Part II,1989,108,PG,"Adventure, Comedy, Sci-Fi",Michael J. Fox,Christopher Lloyd,Lea Thompson,Robert Zemeckis,"557,000",7.8,15.0,https://www.imdb.com/title/tt0096874/,Yes,1,0,1,0,0,,
+14,Barbie,2023,114,PG-13,"Adventure, Comedy, Fantasy",Margot Robbie,Ryan Gosling,Issa Rae,Greta Gerwig,"285,000",7.3,16.1,https://www.imdb.com/title/tt1517268/,No,1,0,0,0,1,88,83
+15,Beaches,1988,123,PG-13,"Comedy, Drama, Music",Bette Midler,Barbara Hershey,John Heard,Garry Marshall,"28,000",7.0,17.9,https://www.imdb.com/title/tt0094715/,No,1,1,0,0,0,,
+16,Bee Movie,2007,91,PG,"Animation, Adventure, Comedy",Jerry Seinfeld,Renee Zellweger,Matthew Broderick,Simon J Smith & Steve Hickner,"173,000",6.1,6.2,https://www.imdb.com/title/tt0389790/,Yes,1,0,0,1,0,,
+17,Beetlejuice,1988,92,PG,"Comedy, Fantasy",Alec Baldwin,Geena Davis,Michael Keaton,Tim Burton,"321,000",7.5,12.7,https://www.imdb.com/title/tt0094721/,Yes,1,1,0,0,0,,
+18,Being John Malkovich,1999,113,R,"Comedy, Drama, Fantasy",John Cusack,Cameron Diaz,Catherine Keener,Spike Jonze,"347,000",7.7,12.3,https://www.imdb.com/title/tt0120601/,No,1,1,0,0,0,,
+19,Big Hero 6,2014,102,PG,"Animation, Action, Adventure",Ryan Potter,Scott Adsit,Jamie Chung,Don Hall & Chris Williams,"485,000",7.8,14.3,https://www.imdb.com/title/tt2245084/,No,1,0,0,0,1,90,91
+20,The Big Lebowski,1998,117,R,"Comedy, Crime, Sport",Jeff Bridges,John Goodman,Julianne Moore,Joel Coen & Ethan Coen,"837,000",8.1,21.7,https://www.imdb.com/title/tt0118715/,Yes,1,1,0,0,0,,
+21,Black Panther,2018,134,PG-13,"Action, Adventure, Sci-Fi",Chadwick Boseman,Michael B. Jordan,Lupita Nyong'o,Ryan Coogler,"814,000",7.3,14.0,https://www.imdb.com/title/tt1825683/,Yes,1,1,0,0,0,,
+22,Black Swan,2010,108,R,"Drama, Thriller",Natalie Portman,Mila Kunis,Vincent Cassel,Darren Aronovsky,"799,000",8.0,15.4,https://www.imdb.com/title/tt0947798/,No,1,1,0,0,0,,
+23,Blade Runner 2049,2017,164,R,"Action, Drama, Mystery",Harrison Ford,Ryan Gosling,Ana de Armas,Denis Villeneuve,"622,000",8.0,17.6,https://www.imdb.com/title/tt1856101/,No,1,0,0,0,1,88,88
+24,Blue Velvet,1986,120,R,"Drama, Mystery, Thriller",Isabella Rossellini,Kyle MacLachlan,Dennis Hopper,David Lynch,"209,000",7.7,15.7,https://www.imdb.com/title/tt0090756/,Yes,1,0,1,0,0,,
+25,The Breakfast Club,1985,97,R,"Comedy, Drama",Emilio Estevez,Judd Nelson,Molly Ringwald,John Hughes,"423,000",7.8,17.0,https://www.imdb.com/title/tt0088847/,Yes,1,0,0,1,0,,
+26,Brideshead Revisited,2008,153,PG-13,"Drama, Romance",Matthew Goode,Patrick Malahide,Hayley Atwell,Julian Jarrold,"13,000",6.7,7.9,https://www.imdb.com/title/tt0412536/,No,1,0,0,0,1,62,52
+27,Call Me By Your Name,2017,132,R,"Drama, Romance",Timothee Chalamet,Armie Hammer,Michael Stuhlbarg,Luca Guadagnino,"297,000",7.8,22.2,https://www.imdb.com/title/tt5726616/,No,1,0,0,0,1,94,86
+28,Capharnaum,2018,126,R,Drama,Zain Al Rafeea,Yordanos Shiferaw,Boluwatife T. Bankole,Nadine Labaki,"99,000",8.4,24.8,https://www.imdb.com/title/tt8267604/,No,1,0,1,0,0,,
+29,Captain Marvel,2019,123,PG-13,"Action, Adventure, Sci-Fi",Brie Larson,Samuel L. Jackson,Ben Mendelsohn,Anna Boden & Ryan Fleck,"590,000",6.8,9.1,https://www.imdb.com/title/tt4154664/,Yes,1,0,0,1,0,,
+30,Casablanca,1942,102,PG,"Drama, Romance, War",Humphrey Bogart,Ingrid Bergman,Paul Henreid,Michael Curtiz,"591,000",8.5,29.6,https://www.imdb.com/title/tt0034583/,Yes,1,0,1,0,0,,
+31,Castle in the Sky (Tenkû no shiro Rapyuta),1986,125,PG,"Animation, Adventure, Drama",Mayumi Tanaka,Keiko Yokozawa,Kotoe Hatsui,Hayao Miyazaki,"175,000",8.0,17.2,https://www.imdb.com/title/tt0092067/,No,1,1,0,0,0,,
+32,Cloud Atlas,2012,172,R,"Action, Drama, Mystery",Tom Hanks,Halle Berry,Hugh Grant,"Tom Tykwer, Lana Wachowski, Lilly Wachowski","369,000",7.4,15.6,https://www.imdb.com/title/tt1371111/,No,2,0,1,0,1,66,66
+33,Clueless,1995,97,PG-13,"Comedy, Romance",Alicia Silverstone,Stacey Dash,Brittany Murphy,Amy Heckerling,"235,000",6.9,11.6,https://www.imdb.com/title/tt0112697/,No,1,0,0,1,0,,
+34,Coco,2017,105,PG,"Animation, Adventure, Drama",Anthony Gonzalez,Gael Garcia Bernal,Benjamin Bratt,"Lee Unkrich, Adiran Molina","553,000",8.4,24.6,https://www.imdb.com/title/tt2380307/,No,1,0,0,0,1,97,94
+35,CODA,2021,111,PG-13,"Comedy, Drama, Music",Emilia Jones,Marlee Matlin,Troy Kotsur,Stan Heder,"152,000",8.0,19.1,https://www.imdb.com/title/tt10366460/,No,1,0,0,0,1,94,91
+36,Coming To America,1988,116,R,"Comedy, Romance",Eddie Murphy,Arsenio Hall,James Earl Jones,John Landis,"217,000",7.1,10.1,https://www.imdb.com/title/tt0094898/,Yes,1,1,0,0,0,,
+37,Crazy Rich Asians,2018,120,PG-13,"Comedy, Drama, Romance",Constance Wu,Henry Golding,Michelle Yeoh,Jon M. Chu,"183,000",6.9,9.3,https://www.imdb.com/title/tt3104988/,No,1,0,0,0,1,91,76
+38,The Dark Knight Rises,2012,164,PG-13,"Action, Adventure",Christian Bale,Heath Ledger,Aaron Eckhardt,Christopher Nolan,"1,800,000",8.4,27.4,https://www.imdb.com/title/tt1345836/,Yes,2,1,1,0,0,,
+39,The Dark Knight,2008,152,PG-13,"Action, Crime, Drama",Christian Bale,Tom Hardy,Anne Hathaway,Christopher Nolan,"2,800,000",9.0,45.4,https://www.imdb.com/title/tt0468569/,Yes,4,1,1,1,1,94,94
+40,Dead Poet's Society,1989,128,PG,"Comedy, Drama",Robin Williams,Robert Sean Leonard,Ethan Hawke,Peter Weir,"521,000",8.1,18.6,https://www.imdb.com/title/tt0097165/,Yes,1,0,0,0,1,84,92
+41,The Departed,2006,151,R,"Crime, Drama, Thriller",Leonardo DiCaprio,Matt Damon,Jack Nicholson,Martin Scorsese,"1,400,000",8.5,22.6,https://www.imdb.com/title/tt0407887/,Yes,1,0,1,0,0,,
+42,Despicable Me,2010,95,PG,"Animation, Adventure, Comedy",Steve Carell,Jason Segel,Russell Brand,Pierre Coffin & Chris Renaud,"568,000",7.6,12.2,https://www.imdb.com/title/tt1323594/,Yes,1,0,1,0,0,,
+43,Dilwale Dulhania Le Jayenge,1995,181,NR,"Drama, Romance",Shah Rukh Khan,Kajol,Amrish Puri,Aditya Chopra,"74,000",8.0,42.7,https://www.imdb.com/title/tt0112870/,No,1,0,0,1,0,,
+44,Divergent,2014,139,PG-13,"Action, Adventure, Mystery",Shailene Woodley,Theo James,Kate Winslet,Neil Burger,"477,000",6.6,11.2,https://www.imdb.com/title/tt1840309/,No,1,0,0,0,1,41,69
+45,Doctor Zhivago,1965,197,PG-13,"Drama, Romance, War",Omar Sharif,Julie Christie,Geraldine Chaplin,David Lean,"80,000",7.9,20.8,https://www.imdb.com/title/tt0059113/,No,1,0,1,0,0,,
+46,Elf,2003,97,PG,"Adventure, Comedy, Family",Will Ferrell,James Caan,Bob Newhart,Jon Favreau,"290,000",7.1,13.2,https://www.imdb.com/title/tt0319343/,Yes,1,0,0,1,0,,
+47,Eternal Sunshine of the Spotless Mind,2004,108,R,"Drama, Romance, Sci-Fi",Jim Carrey,Kate Winslet,Tom Wilkinson,Michel Gondry,"1,000,000",8.3,23.2,https://www.imdb.com/title/tt0338013/,No,1,1,0,0,0,,
+48,Eurovision Song Contest: The Story of Fire Saga,2020,123,PG-13,"Comedy, Music",Will Ferrell,Rachel McAdams,Dan Stevens,David Dobkin,"99,000",6.5,9.5,https://www.imdb.com/title/tt8580274/,Yes,2,1,1,0,0,,
+49,Everybody Wants Some!!,2016,117,R,Comedy,Blake Jenner,Tyler Hoechlin,Ryan Guzman,Richard Linklater,"57,000",6.9,6.6,https://www.imdb.com/title/tt2937696/,No,1,1,0,0,0,,
+50,"Everything, Everywhere, All at Once",2022,139,R,"Action, Adventure, Comedy",Michelle Yeoh,Stephanie Hsu,Jamie Lee Curtis,Daniel Kwan & Daniel Scheinert,"477,000",7.8,23.6,https://www.imdb.com/title/tt6710474/,Yes,2,0,0,1,1,94,86
+51,Face/Off,1997,138,R,"Action, Crime, Sci-Fi",John Travolta,Nicolas Cage,Joan Allen,John Woo,"391,000",7.3,8.8,https://www.imdb.com/title/tt0119094/,Yes,1,1,0,0,0,,
+52,Farewell My Concubine,1993,171,R,"Drama, Music, Romance",Leslie Cheung,Fengyi Zhang,Gong Li,Kaige Chen,"32,000",8.1,28.9,https://www.imdb.com/title/tt0106332/,No,2,1,0,0,1,90,93
+53,A Fistful of Dollars,1964,99,R,"Action, Drama, Western",Clint Eastwood,Gian Maria Volonte,Marianne Koch,Sergio Leone,"226,000",7.9,13.1,https://www.imdb.com/title/tt0058461/,No,1,0,1,0,0,,
+54,Flags of our Fathers,2006,135,R,"Action, Adventure, Drama",Ryan Phillippe,Barry Pepper,Joseph Cross,Clint Eastwood,"127,000",7.1,6.1,https://www.imdb.com/title/tt0418689/,No,1,0,1,0,0,,
+55,Full Metal Jacket,1987,116,R,"Drama, War",Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Stanley Kubrick,"769,000",8.3,16.4,https://www.imdb.com/title/tt0093058/,No,1,0,0,1,0,,
+56,Gattaca,1997,106,PG-13,"Drama, Sci-Fi, Thriller",Ethan Hawke,Uma Thurman,Jude Law,Andrew Niccol,"315,000",7.7,12.8,https://www.imdb.com/title/tt0119177/,No,2,0,1,1,0,,
+57,Get Out,2017,104,R,"Horror, Mystery, Thriller",Daniel Kaluuya,Allison Williams,Bradley Whitford,Jordan Peele,"655,000",7.8,11.6,https://www.imdb.com/title/tt5052448/,No,1,0,1,0,0,,
+58,Get Smart,2008,110,PG-13,"Action, Adventure, Comedy",Steve Carell,Anne Hathaway,Alan Arkin,Peter Segal,"225,000",6.5,5.8,https://www.imdb.com/title/tt0425061/,Yes,1,1,0,0,0,,
+59,Ghost,1990,127,PG-13,"Drama, Fantasy, Romance",Patrick Swayze,Demi Moore,Whoopi Goldberg,Jerry Zucker,"229,000",7.1,9.9,https://www.imdb.com/title/tt0099653/,No,1,0,1,0,0,,
+60,Gifted Hands: The Ben Carson Story,2009,90,NR,"Biography, Drama",Cuba Gooding Jr,Kimberly Elise,Aunjanue Ellis-Taylor,Thomas Carter,"15,000",7.5,15.9,https://www.imdb.com/title/tt1295085/,No,1,0,0,0,1,NA,85
+61,The Gingerdead Man,2005,70,NR,"Comedy, Fantasy, Horror",Gary Busey,Robin Sydney,Ryan Locke,Charles Band,"4,300",3.4,9.3,https://www.imdb.com/title/tt0364376/,No,1,0,0,0,1,NA,28
+62,The Girl with the Dragon Tattoo,2011,158,R,"Crime, Drama, Mystery",Daniel Craig,Rooney Mara,Christopher Plummer,David Fincher,"480,000",7.8,11.0,https://www.imdb.com/title/tt1568346/,No,1,1,0,0,0,,
+63,The Godfather,1972,175,R,"Crime, Drama",Marlon Brando,Al Pacino,James Caan,Francis Ford Coppola,"1,900,000",9.2,51.6,https://www.imdb.com/title/tt0068646/,Yes,3,1,0,0,2,97,98
+64,Good Will Hunting,1997,126,R,"Drama, Romance",Matt Damon,Ben Affleck,Robin Williams,Gus Van Sant,"1,000,000",8.3,19.7,https://www.imdb.com/title/tt0119217/,Yes,1,0,0,0,1,97,94
+65,The Grand Budapest Hotel,2014,99,R,"Adventure, Comedy, Crime",Ralph Fiennes,F. Murray Abraham,Edward Norton,Wes Anderson,"856,000",8.1,16.2,https://www.imdb.com/title/tt2278388/,No,2,1,1,0,0,,
+66,Gravity,2013,91,PG-13,"Drama, Sci-Fi, Thriller",Sandra Bullock,George Clooney,Ed Harris,Alfonso Cuaron,"847,000",7.7,12.1,https://www.imdb.com/title/tt1454468/,No,1,0,0,1,0,,
+67,The Great Muppet Caper,1981,97,G,"Adventure, Comedy, Crime",Jim Henson,Frank Oz,Dave Goelz,Jim Henson,"16,000",7.1,12.7,https://www.imdb.com/title/tt0082474/,Yes,1,0,1,0,0,,
+68,The Greatest Showman,2017,105,PG,"Biography, Drama, Musical",Hugh Jackman,Michelle Williams,Zac Efron,Michael Gracey,"299,000",7.5,22.1,https://www.imdb.com/title/tt1485796/,No,1,1,0,0,0,,
+69,The Green Mile,1999,189,R,"Crime, Drama, Fantasy",Tom Hanks,Michael Clarke Duncan,David Morse,Frank Darabont,"1,400,000",8.6,26.7,https://www.imdb.com/title/tt0120689/,Yes,1,0,1,0,0,,
+70,The Grey,2011,117,R,"Action, Adventure, Drama",Liam Neeson,Dermot Mulroney,Frank Grillo,Joe Carnahan,"259,000",6.7,6.9,https://www.imdb.com/title/tt1601913/,No,1,1,0,0,0,,
+71,Hacksaw Ridge,2016,139,R,"Biography, Drama, History",Andrew Garfield,Sam Worthington,Luke Bracey,Mel Gibson,"565,000",8.1,19.0,https://www.imdb.com/title/tt2119532/,No,1,0,0,0,1,84,91
+72,Harold and Maude,1971,91,PG,"Comedy, Drama, Romance",Ruth Gordon,Bud Cort,Vivian Pickles,Hal Ashby,"80,000",7.9,23.8,https://www.imdb.com/title/tt0067185/,No,1,1,0,0,0,,
+73,Harry Potter and The Sorcerer's Stone,2001,152,PG,"Adventure, Family, Fantasy",Daniel Radcliffe,Rupert Grint,Richard Harris,Chris Columbus,"823,000",7.6,18.3,https://www.imdb.com/title/tt0241527/,Yes,1,0,0,1,0,,
+74,Harry Potter and the Chamber of Secrets,2002,161,PG,"Adventure, Family, Fantasy",Daniel Radcliffe,Rupert Grint,Emma Watson,Chris Columbus,"667,000",7.4,14.9,https://www.imdb.com/title/tt0295297,Yes,1,0,0,0,1,82,80
+75,The Hateful Eight,2015,168,R,"Crime, Drama, Mystery",Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,Quentin Tarantino,"635,000",7.8,11.8,https://www.imdb.com/title/tt3460252/,No,1,1,0,0,0,,
+76,Hereditary,2018,127,R,"Drama, Horror, Mystery",Toni Collette,Milly Shapiro,Gabriel Byrne,Ari Aster,"352,000",7.3,11.4,https://www.imdb.com/title/tt7784604/,No,1,0,0,0,1,90,70
+77,Hidden Figures,2016,127,PG,"Biography, Drama, History",Taraji P. Henson,Octavia Spencer,Janelle Monae,Theodore Melfi,"245,000",7.8,14.5,https://www.imdb.com/title/tt4846340/,No,1,1,0,0,0,,
+78,High School Musical 2,2007,104,TV-G,"Comedy, Drama, Family",Zac Efron,Vanessa Hudgens,Ashley Tisdale,Kenny Ortega,"64,000",5.2,14.4,https://www.imdb.com/title/tt0810900/,No,1,0,0,1,0,,
+79,The Hobbit: An Unexpected Journey,2012,169,PG-13,"Adventure, Fantasy",Martin Freeman,Ian McKellen,Richard Armitage,Peter Jackson,"852,000",7.8,18.6,https://www.imdb.com/title/tt0903624/,Yes,1,0,0,1,0,,
+80,Hocus Pocus,1993,96,PG,"Comedy, Family, Fantasy",Bette Midler,Sarah Jessica Parker,Kathy Najimy,Kenny Ortega,"147,000",6.9,20.6,https://www.imdb.com/title/tt0107120/,No,1,0,0,1,0,,
+81,Home Alone,1990,103,PG,"Comedy, Family",Macauley Culkin,Joe Pesci,Daniel Stern,Chris Columbus,"612,000",7.7,16.2,https://www.imdb.com/title/tt0099785/,Yes,2,1,0,0,1,66,80
+82,Hot Fuzz,2007,121,R,"Action, Comedy, Mystery",Simon Pegg,Nick Frost,Martin Freeman,Edgar Wright,"523,000",7.8,16.5,https://www.imdb.com/title/tt0425112/,Yes,1,1,0,0,0,,
+83,House Party 2,1991,94,R,"Comedy, Drama, Music",Christopher Reid,Christopher Martin,Martin Lawrence,George Jackson & Doug McHenry,"7,000",5.3,9.4,https://www.imdb.com/title/tt0102065/,No,1,1,0,0,0,,
+84,How the Grinch Stole Christmas,2000,104,PG,"Comedy, Family, Fantasy",Jim Carrey,Taylor Momsen,Jeffrey Tambor,Ron Howard,"271,000",6.3,10.3,https://www.imdb.com/title/tt0170016/,No,1,1,0,0,0,,
+85,Howl's Moving Castle,2004,119,PG,"Animation, Adventure, Family",Chieko Baisho,Takuya Kimura,Tatsuya Gashuin,Hayao Miyazaki,"423,000",8.2,22.7,https://www.imdb.com/title/tt0347149/,No,1,0,0,0,1,87,93
+86,The Hunger Games,2012,142,PG-13,"Action, Adventure, Sci-Fi",Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Gary Ross,"960,000",7.2,12.7,https://www.imdb.com/title/tt1392170/,No,1,0,1,0,0,,
+87,The Hunger Games: Catching Fire,2013,146,PG-13,"Action, Adventure, Sci-Fi",Jennifer Lawrence,Josh Hutcherson,Liam Hemsworth,Francis Lawrence,"692,000",7.5,14.3,https://www.imdb.com/title/tt1951264/,No,1,0,0,0,1,90,89
+88,The Imitation Game,2014,114,PG-13,"Biography, Drama, Thriller",Benedict Cumberbatch,Keira Knightley,Matthew Goode,Morten Tyldum,"802,000",8.0,13.8,https://www.imdb.com/title/tt2084970/,Yes,1,0,0,0,1,90,91
+89,In The Heights,2021,143,PG-13,"Drama, Music, Musical",Anthony Ramos,Corey Hawkins,Leslie Grace,Jon M. Chu,"50,000",7.3,16.5,https://www.imdb.com/title/tt1321510/,Yes,1,0,1,0,0,,
+90,Inception,2010,148,PG-13,"Action, Adventure, Sci-Fi",Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Christopher Nolan,"2,500,000",8.8,34.5,https://www.imdb.com/title/tt1375666/,Yes,6,2,2,1,1,87,91
+91,Inglorious Basterds,2009,153,R,"Adventure, Drama, War",Brad Pitt,Diane Kruger,Eli Roth,Quentin Tarantino,"1,500,000",8.3,20.1,https://www.imdb.com/title/tt0361748/,Yes,1,0,0,1,0,,
+92,Interstellar,2014,169,PG-13,"Adventure, Drama, Sci-Fi",Matthew McConaughey,Anne Hathaway,Jessica Chastain,Christopher Nolan,"2,000,000",8.7,37.4,https://www.imdb.com/title/tt0816692/,No,6,1,1,2,2,73,86
+93,Iron Man,2008,126,PG-13,"Action, Adventure, Sci-Fi","Robert Downey, Jr.",Gwyneth Paltrow,Terrence Howard,Jon Favreau,"1,100,000",7.9,14.0,https://www.imdb.com/title/tt0371746/,Yes,1,0,1,0,0,,
+94,Jab We Met,2007,138,NR,"Comedy, Drama, Romance",Shahid Kapoor,Kareena Kapoor,Tarun Arora,Imtiaz Ali,"56,000",7.9,19.3,https://www.imdb.com/title/tt1093370/,No,1,0,1,0,0,,
+95,John Wick,2014,101,R,"Action, Crime, Thriller",Keanu Reeves,Michael Nyqvist,Alfie Allen,Chad Stahelski & David Leitch,"712,000",7.4,12.9,https://www.imdb.com/title/tt2911666/,Yes,1,0,1,0,0,,
+96,Joker,2019,122,R,"Crime, Drama, Thriller",Joaquin Phoenix,Robert DeNiro,Zazie Beetz,Todd Phillips,"1,400,000",8.4,28.5,https://www.imdb.com/title/tt7286456/,No,1,0,0,1,0,,
+97,Jurassic Park,1993,127,PG-13,"Action, Adventure, Sci-Fi",Sam Neill,Laura Dern,Jeff Goldblum,Steven Spielberg,"1,000,000",8.2,18.7,https://www.imdb.com/title/tt0107290/,No,1,0,0,1,0,,
+98,Kiki's Delivery Service,1989,103,G,"Animation, Adventure, Drama",Kirsten Dunst,Minami Takayama,Rei Sakuma,Hayao Miyazaki,"156,000",7.8,14.7,https://www.imdb.com/title/tt0097814/,No,1,0,1,0,0,,
+99,The King's Speech,2010,118,R,"Biography, Drama, History",Colin Firth,Geoffrey Rush,Helena Bonham Carter,Tom Hooper,"697,000",8.0,12.2,https://www.imdb.com/title/tt1504320/,Yes,1,1,0,0,0,,
+100,La La Land,2016,128,PG-13,"Comedy, Drama, Music",Ryan Gosling,Emma Stone,Rosemarie DeWitt,Damien Chazelle,"633,000",8.0,21.5,https://www.imdb.com/title/tt3783958/,Yes,2,2,0,0,0,,
+101,The Legend of 1900,1998,169,R,"Drama, Music, Romance",Tim Roth,Pruitt Taylor Vince,Melanie Thierry,Giuseppe Tornatore,"67,000",8.0,22.3,https://www.imdb.com/title/tt0120731/,No,1,0,0,1,0,,
+102,Life As We Know It,2010,114,PG-13,"Comedy, Drama, Romance",Katherine Heigl,Josh Duhamel,Josh Lucas,Greg Berlanti,"137,000",6.5,8.8,https://www.imdb.com/title/tt1055292/,No,1,1,0,0,0,,
+103,Life Is Beautiful,1997,116,PG-13,"Comedy, Drama, Romance",Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Roberto Benigni,"721,000",8.6,31.8,https://www.imdb.com/title/tt0118799/,No,1,0,0,1,0,,
+104,Like Stars on Earth (Taare Zameen Par),2007,165,PG,"Drama, Family",Darsheel Safary,Aamir Khan,Tanay Chheda,"Aamir Khan, Amole Gupte","201,000",8.3,32.2,https://www.imdb.com/title/tt0986264/,No,1,0,0,0,1,93,96
+105,The Little Mermaid (1989),1989,83,G,"Animation, Adventure, Family",Jodi Benson,Samuel E. Wright,Rene Auberjonois,Ron Clements & John Musker,"282,000",7.6,16.3,https://www.imdb.com/title/tt0097757/,Yes,1,0,0,0,1,91,88
+106,The Little Mermaid (2023),2023,135,PG,"Adventure, Family, Fantasy",Halle Bailey,Jonah Hauer-King,Melissa McCarthy,Rob Marshall,"117,000",7.2,14.5,https://www.imdb.com/title/tt5971474/,No,1,0,0,0,1,67,94
+107,Little Miss Sunshine,2006,101,R,"Comedy, Drama",Steve Carell,Toni Collette,Greg Kinnear,Jonathan Dayton & Valerie Faris,"503,000",7.8,14.8,https://www.imdb.com/title/tt0449059/,No,1,0,0,1,0,,
+108,Little Women,2019,135,PG,"Drama, Romance",Saoirse Ronan,Emma Watson,Florence Pugh,Greta Gerwig,"228,000",7.8,13.9,https://www.imdb.com/title/tt3281548/,No,1,0,1,0,0,,
+109,The Lobster,2015,119,R,"Drama, Romance, Sci-Fi",Colin Farrell,Rachel Weisz,Jessica Barden,Yorgos Lanthimos,"275,000",7.1,6.6,https://www.imdb.com/title/tt3464902/,No,1,0,0,1,0,,
+110,Lord of the Rings: The Fellowship of the Ring,2001,178,PG-13,"Action, Adventure, Drama",Elijah Wood,Ian McKellen,Orlando Bloom,Peter Jackson,"1,900,000",8.8,38.4,https://www.imdb.com/title/tt0120737/,Yes,3,1,0,2,0,,
+111,Lord of the Rings: The Two Towers,2002,179,PG-13,"Action, Adventure, Drama",Elijah Wood,Ian McKellen,Viggo Mortensen,Peter Jackson,"1,700,000",8.8,35.4,https://www.imdb.com/title/tt0167261/,Yes,2,0,1,0,1,95,95
+112,Lord of the Rings: The Return of the King,2003,201,PG-13,"Action, Adventure, Drama",Elijah Wood,Viggo Mortensen,Ian McKellen,Peter Jackson,"1,900,000",9.0,43.4,https://www.imdb.com/title/tt0167260/,Yes,2,0,0,2,0,,
+113,Loving Adults,2022,104,TV-MA,"Crime, Drama, Thriller",Dar Salim,Sonja Richter,Sus N. J. Wilkins,Barbara Topsoe-Rothenborg,"12,000",6.5,4.3,https://www.imdb.com/title/tt14592948/,No,1,0,0,1,0,,
+114,The Machinist,2004,101,R,"Drama, Thriller",Christian Bale,Jennifer Jason Leigh,Aitana Sánchez-Gijón,Brad Anderson,"406,000",7.6,9.1,https://www.imdb.com/title/tt0361862/,No,1,0,1,0,0,,
+115,Madea Goes To Jail,2009,103,PG-13,"Comedy, Crime, Drama",Tyler Perry,Keshia Knight Pulliam,Derek Luke,Tyler Perry,"13,000",4.5,15.4,https://www.imdb.com/title/tt1142800/,No,1,0,1,0,0,,
+116,Mamma Mia!,2008,108,PG-13,"Comedy, Musical, Romance",Meryl Streep,Pierce Brosnan,Amanda Seyfried,Phyllida Lloyd,"263,000",6.5,12.0,https://www.imdb.com/title/tt0795421/,Yes,2,0,0,0,2,55,66
+117,Mamma Mia: Here We Go Again,2018,114,PG-13,"Comedy, Musical, Romance",Lily James,Amanda Seyfried,Meryl Streep,Ol Parker,"104,000",6.6,12.0,https://www.imdb.com/title/tt6911608/,No,2,0,1,0,1,79,66
+118,A Man Called Otto,2022,126,PG-13,"Comedy, Drama",Tom Hanks,Mariana Trevino,Rachel Keller,Marc Forster,"126,000",7.5,14.0,https://www.imdb.com/title/tt7405458/,No,1,0,0,0,1,70,97
+119,Manchester by the Sea,2016,137,R,Drama,Casey Affleck,Michelle Williams,Kyle Chandler,Kenneth Lonergan,"299,000",7.8,11.7,https://www.imdb.com/title/tt4034228/,No,1,0,0,1,0,,
+120,Marley & Me,2008,115,PG,"Drama, Family, Romance",Owen Wilson,Jennifer Aniston,Eric Dane,David Frankel,"164,000",7.0,11.5,https://www.imdb.com/title/tt0822832/,No,1,0,0,1,0,,
+121,Matilda,1996,102,PG,"Comedy, Family, Fantasy",Danny DeVito,Rhea Perlman,Mara Wilson,Danny DeVito,"167,000",7.0,12.0,https://www.imdb.com/title/tt0117008/,No,1,1,0,0,0,,
+122,The Matrix,1999,136,R,"Action, Sci-Fi",Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Lana Wachowski & Lilly Wachowski,"2,000,000",8.7,30.3,https://www.imdb.com/title/tt0133093/,Yes,1,1,0,0,0,,
+123,Me Before You,2016,106,PG-13,"Drama, Romance",Emilia Clarke,Sam Claflin,Janet McTeer,Thea Sharrock,"274,000",7.4,14.7,https://www.imdb.com/title/tt2674426/,No,1,0,1,0,0,,
+124,Mean Girls,2004,97,PG-13,Comedy,Lindsay Lohan,Jonathan Bennett,Rachel McAdams,Mark Waters,"407,000",7.1,14.1,https://www.imdb.com/title/tt0377092/,No,1,0,0,0,1,84,66
+125,Memento,2000,113,R,"Mystery, Thriller",Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Christopher Nolan,"1,300,000",8.4,21.8,https://www.imdb.com/title/tt0209144/,Yes,1,1,0,0,0,,
+126,Memoirs of a Geisha,2005,145,PG-13,"Drama, Romance",Ziyi Zhang,Ken Watanabe,Michelle Yeoh,Rob Marshall,"157,000",7.3,13.1,https://www.imdb.com/title/tt0397535/,No,1,0,0,1,0,,
+127,Mission Impossible II,2000,123,PG-13,"Action, Adventure, Thriller",Tom Cruise,Dougray Scott,Thandiwe Newton,John Woo,"367,000",6.1,3.8,https://www.imdb.com/title/tt0120755/,Yes,1,1,0,0,0,,
+128,Mission Impossible: Ghost Protocol,2011,132,PG-13,"Action, Adventure, Thriller",Tom Cruise,Jeremy Renner,Simon Pegg,Brad Bird,"516,000",7.4,8.8,https://www.imdb.com/title/tt1229238/,Yes,1,0,0,0,1,93,76
+129,Moneyball,2011,133,PG-13,"Biography, Drama, Sport",Brad Pitt,Robin Wright,Jonah Hill,Bennett Miller,"448,000",7.6,7.1,https://www.imdb.com/title/tt1210166/,Yes,1,0,0,1,0,,
+130,Monte Carlo,2011,109,PG,"Adventure, Comedy, Family",Selena Gomez,Leighton Meester,Katie Cassidy,Thomas Bezucha,"47,000",5.8,13.1,https://www.imdb.com/title/tt1067774/,No,1,1,0,0,0,,
+131,Moonlight,2016,111,R,Drama,Mahershala Ali,Naomie Harris,Trevante Rhodes,Barry Jenkins,"323,000",7.4,11.4,https://www.imdb.com/title/tt4975722/,No,1,0,1,0,0,,
+132,Murder Mystery,2019,97,PG-13,"Action, Comedy, Crime",Adam Sandler,Jennifer Aniston,Luke Evans,Kyle Newacheck,"160,000",6.0,4.4,https://www.imdb.com/title/tt1618434/,No,1,0,0,0,1,44,45
+133,My Big Fat Greek Wedding,2002,95,PG,"Comedy, Drama, Romance",Nia Vardalos,John Corbett,Michael Constantine,Joel Zwick,"139,000",6.6,9.2,https://www.imdb.com/title/tt0259446/,No,1,1,0,0,0,,
+134,My Fair Lady,1964,170,G,"Drama, Family, Musical",Audrey Hepburn,Rex Harrison,Stanley Holloway,George Cukor,"99,000",7.8,18.6,https://www.imdb.com/title/tt0058385/,Yes,1,0,0,1,0,,
+135,Mystery Men,1999,121,PG-13,"Action, Comedy, Fantasy",Ben Stiller,Janeane Garofalo,William H. Macy,Kinka Usher,"70,000",6.1,6.5,https://www.imdb.com/title/tt0132347/,Yes,1,0,1,0,0,,
+136,National Lampoon's Christmas Vacation,1989,97,PG-13,Comedy,Chevy Chase,Beverly D'Angelo,Juliette Lewis,Jeremiah S. Chechik,"206,000",7.5,21.0,https://www.imdb.com/title/tt0097958/,Yes,1,0,0,0,1,70,86
+137,Night at the Museum: Battle of the Smithsonian,2009,105,PG,"Adventure, Comedy, Family",Ben Stiller,Owen Wilson,Amy Adams,Shawn Levy,"207,000",6.0,4.6,https://www.imdb.com/title/tt1078912/,Yes,1,0,0,0,1,44,47
+138,No Country for Old Men,2007,122,R,"Crime, Drama, Thriller",Tommy Lee Jones,Javier Bardem,Josh Brolin,"Ethan Coen, Joel Coen","1,000,000",8.2,17.9,https://www.imdb.com/title/tt0477348/,No,1,0,0,1,0,,
+139,Notting Hill,1999,124,PG-13,"Comedy, Drama, Romance",Hugh Grant,Julia Roberts,Richard McCabe,Roger Mitchell,"329,000",7.2,9.9,https://www.imdb.com/title/tt0125439/,Yes,1,1,0,0,0,,
+140,The Parent Trap,1998,128,PG,"Adventure, Comedy, Drama",Lindsay Lohan,Dennis Quaid,Natasha Richardson,Nancy Meyers,"148,000",6.6,12.4,https://www.imdb.com/title/tt0120783/,No,1,1,0,0,0,,
+141,Pather Panchali,1955,125,NR,Drama,Kanu Bannerjee,Karuna Bannerjee,Subir Banerjee,Satyajit Ray,"36,000",8.2,36.6,https://www.imdb.com/title/tt0048473/,No,1,1,0,0,0,,
+142,The Peanut Butter Falcon,2019,97,PG-13,"Adventure, Comedy, Drama",Zack Gottsagen,Ann Pierce,Dakota Johnson,"Tyler Nilson, Michael Schwartz","97,000",7.6,10.7,https://www.imdb.com/title/tt4364194/,No,1,0,0,1,0,,
+143,The Perks of Being A Wallflower,2012,103,PG-13,Drama,Logan Lerman,Emma Watson,Ezra Miller,Stephen Chbosky,"534,000",7.9,18.9,https://www.imdb.com/title/tt1659337/,No,1,0,0,1,0,,
+144,The Pianist,2002,150,R,"Biography, Drama, Music",Adrien Brody,Thomas Kretschmann,Frank Finlay,Roman Polanski,"876,000",8.5,23.4,https://www.imdb.com/title/tt0253474/,No,1,0,0,1,0,,
+145,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,PG-13,"Action, Adventure, Fantasy",Johnny Depp,Geoffrey Rush,Orlando Bloom,Gore Verbinski,"1,200,000",8.1,18.6,https://www.imdb.com/title/tt0325980/,Yes,1,0,0,0,1,80,86
+146,Pirates of the Caribbean: Dead Man's Chest,2006,151,PG-13,"Action, Adventure, Fantasy",Johnny Depp,Orlando Bloom,Keira Knightley,Gore Verbinski,"747,000",7.4,12.8,https://www.imdb.com/title/tt0383574/,No,1,0,0,0,1,53,72
+147,The Platform,2019,94,NR,"Horror, Sci-Fi, Thriller",Ivan Massague,Zorion Eguileor,Antonia San Juan,Galder Gaztelu-Urrutia,"254,000",7.0,5.9,https://www.imdb.com/title/tt8228288/,No,1,0,1,0,0,,
+148,Porco Rosso,1992,94,PG,"Animation, Adventure, Comedy",Shuichiro Moriyama,Tokiko Kato,Bunshi Katsura Vi,Hayao Miyazaki,"96,000",7.7,12.0,https://www.imdb.com/title/tt0104652/,No,1,0,1,0,0,,
+149,Portrait of a Lady on Fire,2019,122,R,"Drama, Romance",Noemie Merlant,Adele Haenel,Luana Bajrami,Celine Sciamma,"102,000",8.1,20.8,https://www.imdb.com/title/tt8613070/,No,1,0,0,0,1,97,92
+150,Pride & Prejudice,2005,129,PG,"Drama, Romance",Keira Knightley,Matthew Macfadyen,Brenda Blethyn,Joe Wright,"316,000",7.8,22.5,https://www.imdb.com/title/tt0414387/,No,1,1,0,0,0,,
+151,The Princess Bride,1987,98,PG,"Adventure, Family, Fantasy",Cary Elwes,Mandy Patinkin,Robin Wright,Rob Reiner,"440,000",8.0,25.8,https://www.imdb.com/title/tt0093779/,Yes,1,0,1,0,0,,
+152,Pulp Fiction,1994,154,R,"Crime, Drama",John Travolta,Uma Thurman,Samuel L. Jackson,Quentin Tarantino,"2,100,000",8.9,36.1,https://www.imdb.com/title/tt0110912/,Yes,1,0,1,0,0,,
+153,The Pursuit of Happyness,2006,117,PG-13,"Biography, Drama",Will Smith,Thandiwe Newton,Jaden Smith,Gabriele Muccino,"541,000",8.0,18.7,https://www.imdb.com/title/tt0454921/,No,1,0,0,1,0,,
+154,Raiders of the Lost Ark,1981,115,PG,"Action, Adventure",Harrison Ford,Karen Allen,Paul Freeman,Steven Spielberg,"1,000,000",8.4,23.6,https://www.imdb.com/title/tt0082971/,Yes,1,0,0,0,1,93,96
+155,Ratatouille,2007,111,G,"Animation, Adventure, Comedy",Brad Garrett,Lou Romano,Patton Oswalt,Brad Bird & Jan Pinkava,"786,000",8.1,17.7,https://www.imdb.com/title/tt0382932/,No,1,0,0,0,1,96,87
+156,Real Genius,1985,108,PG,"Comedy, Romance, Sci-Fi",Val Kilmer,Gabe Jarret,Michelle Meyrink,Martha Coolidge,"37,000",6.9,14.2,https://www.imdb.com/title/tt0089886/,No,1,0,0,0,1,77,83
+157,Real Steel,2011,147,PG-13,"Action, Drama, Sci-Fi",Hugh Jackman,Evangeline Lilly,Dakota Goyo,Shawn Levy,"346,000",7.1,10.2,https://www.imdb.com/title/tt0433035/,No,1,0,0,0,1,60,73
+158,Remember the Titans,2000,113,PG,"Biography, Drama, Sport",Denzel Washington,Will Patton,Wood Harris,Boaz Yakin,"226,000",7.8,15.9,https://www.imdb.com/title/tt0210945/,No,1,0,1,0,0,,
+159,Reservoir Dogs,1992,99,R,"Crime, Drama, Thriller",Harvey Keitel,Tim Roth,Michael Madsen,Quentin Tarantino,"1,100,000",8.3,17.4,https://www.imdb.com/title/tt0105236/,Yes,1,0,1,0,0,,
+160,Resident Evil,2002,100,R,"Action, Horror, Sci-Fi",Milla Jovovich,Michelle Rodriguez,Ryan McCluskey,Paul W. S. Anderson,"281,000",6.6,8.9,https://www.imdb.com/title/tt0120804/,No,1,1,0,0,0,,
+161,Rise of the Guardians,2012,97,PG,"Animation, Adventure, Comedy",Hugh Jackman,Alec Baldwin,Isla Fisher,Peter Ramsey,"187,000",7.2,14.4,https://www.imdb.com/title/tt1446192/,No,1,0,1,0,0,,
+162,The Rite,2011,114,PG-13,"Drama, Horror, Mystery",Colin O'Donoghue,Anthony Hopkins,Ciaran Hinds,Mikael Hafstrom,"101,000",6.0,5.4,https://www.imdb.com/title/tt1161864/,No,1,0,0,1,0,,
+163,The Room,2003,99,R,Drama,Tommy Wiseau,Juliette Danielle,Greg Sestero,Tommy Wiseau,"93,000",3.6,22.6,https://www.imdb.com/title/tt0368226/,Yes,1,0,0,1,0,,
+164,The Royal Tenenbaums,2001,110,R,"Comedy, Drama",Gene Hackman,Gwyneth Paltrow,Anjelica Huston,Wes Anderson,"306,000",7.6,15.6,https://www.imdb.com/title/tt0265666/,No,1,0,1,0,0,,
+165,Scent of a Woman,1992,156,R,Drama,Al Pacino,Chris O'Donnell,James Rebhorn,Martin Brest,"317,000",8.0,19.5,https://www.imdb.com/title/tt0105323/,No,2,1,0,1,0,,
+166,Scott Pilgrim vs. The World,2010,112,PG-13,"Action, Comedy, Fantasy",Michael Cera,Mary Elizabeth Winstead,Kieran Culkin,Edgar Wright,"448,000",7.5,15.1,https://www.imdb.com/title/tt0446029/,No,1,1,0,0,0,,
+167,The Secret Life of Walter Mitty,2013,114,PG,"Comedy, Drama, Fantasy",Ben Stiller,Kristen Wiig,Jon Daly,Ben Stiller,"330,000",7.3,11.6,https://www.imdb.com/title/tt0359950/,No,2,1,1,0,0,,
+168,Seven Psychopaths,2012,110,R,"Comedy, Crime",Colin Farrell,Woody Harrelson,Sam Rockwell,Martin McDonagh,"269,000",7.1,6.9,https://www.imdb.com/title/tt1931533/,No,1,1,0,0,0,,
+169,Seven Samurai,1954,207,NR,"Action, Drama",Toshiro Mifune,Takashi Shimura,Keiko Tsushima,Akira Kurosawa,"357,000",8.6,33.4,https://www.imdb.com/title/tt0047478/,No,1,0,0,1,0,,
+170,The Shawshank Redemption,1994,142,R,Drama,Tim Robbins,Morgan Freeman,Bob Gunton,Frank Darabont,"2,800,000",9.3,55.0,https://www.imdb.com/title/tt0111161/,Yes,6,1,1,3,1,91,98
+171,Shrek,2001,90,PG,"Animation, Adventure, Comedy",Mike Myers,Eddie Murphy,Cameron Diaz,Andrew Adamson & Vicky Jenson,"710,000",7.9,14.3,https://www.imdb.com/title/tt0126029/,Yes,1,0,0,0,1,88,90
+172,The Silence of the Lambs,1991,118,R,"Crime, Drama, Thriller",Jodie Foster,Anthony Hopkins,Scott Glenn,Jonathan Demme,"1,500,000",8.6,23.5,https://www.imdb.com/title/tt0102926/,Yes,1,1,0,0,0,,
+173,Skyfall,2012,143,PG-13,"Action, Adventure, Thriller",Daniel Craig,Javier Bardem,Naomie Harris,Sam Mendes,"716,000",7.8,12.1,https://www.imdb.com/title/tt1074638/,Yes,1,0,1,0,0,,
+174,Sorry To Bother You,2018,112,R,"Comedy, Drama, Fantasy",LaKeith Stanfield,Tessa Thompson,Jermaine Fowler,Boots Riley,"85,000",6.9,6.1,https://www.imdb.com/title/tt5688932/,No,2,0,1,1,0,,
+175,Soul,2020,100,PG,"Animation, Adventure, Comedy",Jamie Foxx,Tina Fey,Graham Norton,Pete Docter & Kemp Powers,"356,000",8.0,18.1,https://www.imdb.com/title/tt2948372/,No,1,0,1,0,0,,
+176,Spider Man: Into The Spider-Verse,2018,117,PG,"Animation, Action, Adventure",Shameik Moore,Jake Johnson,Hailee Steinfeld,"Bob Persichetti, Peter Ramsey, Rodney Rothman","627,000",8.4,25.9,https://www.imdb.com/title/tt4633694/,Yes,1,0,1,0,0,,
+177,Spirited Away,2001,125,PG,"Animation, Adventure, Family",Daveigh Chase,Suzanne Pleshette,Miyu Irino,Hayao Miyazaki,"808,000",8.6,31.0,https://www.imdb.com/title/tt0245429/,No,3,1,2,0,0,,
+178,Star Wars Episode III: Revenge of the Sith,2005,140,PG-13,"Action, Adventure, Fantasy",Hayden Christensen,Natalie Portman,Ewan McGregor,George Lucas,"822,000",7.6,17.3,https://www.imdb.com/title/tt0121766/,No,1,0,0,0,1,79,66
+179,Star Wars: Episode IV - A New Hope,1977,121,PG,"Action, Adventure, Fantasy",Mark Hamill,Harrison Ford,Carrie Fisher,George Lucas,"1,400,000",8.6,30.8,https://www.imdb.com/title/tt0076759/,Yes,1,0,1,0,0,,
+180,Star Wars: Episode V - The Empire Strikes Back,1980,124,PG,"Action, Adventure, Fantasy",Mark Hamill,Harrison Ford,Carrie Fisher,Irvin Kershner,"1,300,000",8.7,33.9,https://www.imdb.com/title/tt0080684/,Yes,1,0,0,1,0,,
+181,Star Wars: Episode VI - Return of the Jedi,1983,131,PG,"Action, Adventure, Fantasy",Mark Hamill,Harrison Ford,Carrie Fisher,Richard Marquand,"1,100,000",8.3,22.0,https://www.imdb.com/title/tt0086190/,Yes,1,0,0,1,0,,
+182,Still Walking,2008,115,NR,Drama,Hiroshi Abe,Yiu Natsukawa,You,Hirokazu Koreeda,"18,000",7.9,12.9,https://www.imdb.com/title/tt1087578/,No,1,1,0,0,0,,
+183,Takers,2010,107,PG-13,"Action, Crime, Thriller",Matt Dillon,Paul Walker,Idris Elba,John Luessenhop,"65,000",6.2,7.7,https://www.imdb.com/title/tt1135084/,No,1,1,0,0,0,,
+184,Tangled,2010,100,PG,"Animation, Adventure, Comedy",Mandy Moore,Zachary Levi,Donna Murphy,Nathan Greno & Byron Howard,"477,000",7.7,16.4,https://www.imdb.com/title/tt0398286/,Yes,2,1,0,0,1,89,87
+185,Thor: Love and Thunder,2022,118,PG-13,"Action, Adventure, Comedy",Chris Hemsworth,Natalie Portman,Christian Bale,Taika Waititi,"377,000",6.2,7.3,https://www.imdb.com/title/tt10648342/,No,1,0,0,1,0,,
+186,Titanic,1997,134,PG-13,"Drama, Romance",Leonardo DiCaprio,Kate Winslet,Billy Zane,James Cameron,"1,200,000",7.9,23.1,https://www.imdb.com/title/tt0120338/,Yes,3,1,1,0,1,88,69
+187,Toni Erdmann,2016,162,R,"Comedy, Drama",Sandra Huller,Peter Simonischek,Michael Wittenborn,Maren Ade,"50,000",7.3,8.9,https://www.imdb.com/title/tt4048272/,No,1,0,0,1,0,,
+188,Top Gun,1986,110,PG,"Action, Drama",Tom Cruise,Tim Robbins,Kelly McGillis,Tony Scott,"484,000",6.9,10.4,https://www.imdb.com/title/tt0092099/,Yes,3,1,0,2,0,,
+189,Trollhunter,2010,103,PG-13,"Drama, Fantasy, Horror",Otto Jespersen,Robert Stoltenberg,Knut Naerum,Andre Ovredal,"78,000",6.9,7.2,https://www.imdb.com/title/tt1740707/,No,1,0,0,1,0,,
+190,Trolls,2016,92,PG,"Animation, Adventure, Comedy",Anna Kendrick,Justin Timberlake,Zooey Deschanel,Mike Mitchell & Walt Dohrn,"87,000",6.4,9.1,https://www.imdb.com/title/tt1679335/,No,1,0,1,0,0,,
+191,The Truman Show,1998,103,PG,"Comedy, Drama",Jim Carrey,Ed Harris,Laura Linney,Peter Weir,"1,100,000",8.2,15.8,https://www.imdb.com/title/tt0120382/,Yes,2,0,0,2,0,,
+192,Twister,1996,113,PG-13,"Action, Adventure, Thriller",Helen Hunt,Bill Paxton,Cary Elwes,Jan De Bont,"206,000",6.5,6.8,https://www.imdb.com/title/tt0117998/,Yes,1,0,1,0,0,,
+193,V for Vendetta,2005,132,R,"Action, Drama, Sci-Fi",Hugo Weaving,Natalie Portman,Rupert Graves,James McTeigue,"1,200,000",8.2,21.8,https://www.imdb.com/title/tt0434409/,No,1,0,1,0,0,,
+194,Waking Life,2001,99,R,"Animation, Drama, Fantasy",Ethan Hawke,Wiley Wiggins,Julie Delpy,Richard Linklater,"66,000",7.7,22.8,https://www.imdb.com/title/tt0243017/,No,1,1,0,0,0,,
+195,A Walk to Remember,2002,101,PG,"Drama, Romance",Mandy Moore,Shane West,Peter Coyote,Adam Shankman,"217,000",7.3,22.5,https://www.imdb.com/title/tt0281358/,No,1,0,0,1,0,,
+196,War of the Worlds,2015,116,PG-13,"Action, Adventure, Sci-Fi",Tom Cruise,Dakota Fanning,Tim Robbins,Steven Spielberg,"465,000",6.5,5.6,https://www.imdb.com/title/tt0407304/,No,1,0,1,0,0,,
+197,What About Bob?,1991,99,PG,Comedy,Bill Murray,Richard Dreyfuss,Julie Hagerty,Frank Oz,"73,000",7.0,10.4,https://www.imdb.com/title/tt0103241/,No,1,0,1,0,0,,
+198,When Harry Met Sally,1989,95,R,"Comedy, Drama, Romance",Billy Crystal,Meg Ryan,Carrie Fisher,Rob Reiner,"232,000",7.7,13.2,https://www.imdb.com/title/tt0098635/,Yes,1,1,0,0,0,,
+199,Whiplash,2014,106,R,"Drama, Music",Miles Teller,J. K. Simmons,Melissa Benoist,Damien Chazelle,"930,000",8.5,22.5,https://www.imdb.com/title/tt2582802/,No,1,0,1,0,0,,
+200,Yeh Jawaani hai Deewani,2013,160,NR,"Drama, Musical, Romance",Ranbir Kapoor,Deepika Padukone,Aditya Roy Kapoor,Ayan Mukerji,"49,000",7.2,9.8,https://www.imdb.com/title/tt2178470/,No,1,1,0,0,0,,
+201,Zoolander,2001,90,PG-13,Comedy,Ben Stiller,Owen Wilson,Christine Taylor,Ben Stiller,"284,000",6.5,7.7,https://www.imdb.com/title/tt0196229/,No,1,0,0,1,0,,
