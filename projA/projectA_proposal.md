@@ -1,8 +1,8 @@
 # Status of Project A Proposals
 
-Last Update: **TUE 2023-10-10** at **10:50 AM**
+Last Update: **TUE 2023-10-10** at **10:10 PM**
 
-As of the time listed above, we have **44** proposals: 11 from teams of two, and 33 from individual investigators.
+We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
 ## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
 
@@ -12,6 +12,7 @@ G021 | Mostafa Abouzaid | (*title needs to change*) Evolving Health Landscapes o
 G071 | David Askew | (*title needs to change*) Socioeconomics and preventative health 
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G161 | Trent George | A Deeper Dive into Mental Health
+G221 | Vetrica Le Maitre | (no title yet)
 G261 | Zunren (Jack) Liu | (*title needs to change*) Analysis with data from CHR-2023
 G271 | Bhavya Mahesh | (*title needs to change*) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
