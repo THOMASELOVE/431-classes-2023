@@ -19,7 +19,12 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Minute Paper grades are posted to the 431 Grades Roster on our Shared Drive.
 3. A Quiz 1 answer sketch including results will be posted **by class time**.
     - Students who took the Quiz will be informed by email of their results **by class time**.
-4. 
+4. Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
+5. Examples of studies *similar to* Project A Analysis 1, Analysis 2, and Analysis 3, but using [the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies), will be posted **by class time**.
+    - I wrote these documents to help you get a feel for what we are looking for in the Analyses for Project A, and to make the scope of that work a bit clearer. The documents are *suggestive*, but definitely **not prescriptive** (as opposed to the Proposal material which was and is mostly prescriptive.)
+    - Use **your own** words, not mine, in preparing your analytic work for Project A. Thanks.
+    - More importantly, use your judgment to decide what to include in your Project A portfolio regarding these issues.
+    - Remember that [more isn't necessarily better](https://thomaselove.github.io/431-projectA-2023/portfolio.html#hint-more-isnt-better.).
 
 ## One Last Thing
 
