@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-Last Update: **WED 2023-10-11** at **2:30 PM**
+Last Update: **WED 2023-10-11** at **5:20 PM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
@@ -18,7 +18,6 @@ G271 | Bhavya Mahesh | (*title needs to change*) Examining CHR-2023 Data to Pred
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G342 | Lydia Mitchell & <br /> Manu Bulusu | (*title needs to change*) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
 G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in Midwest Counties: CHR 2023 Research Analysis
-G481 | Robert Schauner | (title **revised** by TEL) Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | (*title needs to change*) Investigating Health Outcomes and Predictors in Counties within 6 U.S. States
 G511 | Kareena Shah | (*title needs to change*) Relationships Between Public Health Determinants and Outcomes in US Counties
 
@@ -27,6 +26,7 @@ G511 | Kareena Shah | (*title needs to change*) Relationships Between Public Hea
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
 G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
+G481 | Robert Schauner | Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 
 ## Approved Proposals
 
