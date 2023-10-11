@@ -15,6 +15,11 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
+2. Feedback on the Minute Paper after Class 13 will be posted **by class time**.
+    - Minute Paper grades are posted to the 431 Grades Roster on our Shared Drive.
+3. A Quiz 1 answer sketch including results will be posted **by class time**.
+    - Students who took the Quiz will be informed by email of their results **by class time**.
+4. 
 
 ## One Last Thing
 
