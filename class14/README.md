@@ -14,8 +14,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. A Quiz 1 answer sketch including results will be posted **by class time**.
-    - Students who took the Quiz will be informed by email of their results **by class time**.
+1. A Quiz 1 answer sketch including results is [available on our Shared Drive](https://drive.google.com/file/d/1lLVFE5f2oPByAo1W_0Yw4qVjX2siMlFz/view?usp=drive_link).
+    - Emails went out Wednesday 2023-10-11 to all students describing their individual results. If you didn't get that email, contact Dr. Love.
     - If you didn't do as well as you would have liked, my best advice is to review what went wrong so you improve your understanding, then work on Project A.
 2. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
 3. Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
