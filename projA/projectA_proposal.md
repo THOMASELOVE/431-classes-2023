@@ -4,13 +4,7 @@ Last Update: **THU 2023-10-12** at **9:41 AM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
-## Revision required: due at 9 AM on Thursday 2023-10-12 (see email from Dr. Love)
-
-Group | Investigator(s) | Title 
------: | :----------------------------: | :-------------------------------------------------------------------------------
-G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
-
-## Revisions Dr. Love has received and is actively reviewing
+## Proposals Dr. Love is actively reviewing
 
 - In the order in which they were received
 
@@ -25,6 +19,7 @@ G021 | Mostafa Abouzaid | Midwest Wellness: Analyzing Health Trends & Income Equ
 G511 | Kareena Shah | The Relationship Between Adult Smoking and Unemployment Rates
 G271 | Bhavya Mahesh | (title **revised** by TEL) Association between Smoking and Premature Death in CHR-2023
 G221 | Vetrica Le Maitre | Public Health Trends by County in Six Distinct US Regions Using CHR 2023 & 2018
+G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 
 ## Approved Proposals
 
