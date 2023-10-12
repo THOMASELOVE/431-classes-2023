@@ -1,10 +1,10 @@
 # Status of Project A Proposals
 
-Last Update: **THU 2023-10-12** at **11:40 AM**
+Last Update: **THU 2023-10-12** at **11:50 AM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
-## Proposals Dr. Love is reviewing today
+## Proposals Dr. Love will review after class today
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
