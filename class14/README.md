@@ -48,6 +48,7 @@ I wrote these documents to help you get a feel for what we are looking for in th
 2. Project A proposal (if necessary) and once that is approved, [Project A analyses](https://thomaselove.github.io/431-projectA-2023/analyses.html).
     - Note that Project A is due Tuesday 2023-10-31 at noon.
 3. Read *The Art of Statistics* through Chapter 8.
+4. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
 
 ## One Last Thing
 
