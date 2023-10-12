@@ -18,7 +18,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Emails went out Wednesday 2023-10-11 to all students describing their individual results. If you didn't get the email, contact Dr. Love.
     - If you didn't do as well as you would have liked, my best advice is to review what went wrong so you improve your understanding, then focus on Project A.
 2. Also, it's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
-3. Feedback on the Minute Paper after Class 13 will be posted **by class time**.
+3. Feedback on the Minute Paper after Class 13 [is now available](https://bit.ly/431-2023-min-13-feedback).
     - Minute Paper grades are posted to the 431 Grades Roster on our Shared Drive.
 4. [Lab 4](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab04/lab04.pdf) was revised (specifically, **shortened**) on 2023-10-11 by Dr. Love. Please make sure you do [the current version](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab04/lab04.pdf), dated 2023-10-11, which has **5** questions instead of 6.
     - If you've already done the lab, don't worry, since I just eliminated the old Question 6, and I will add that question to one of the later Labs, while Questions 1-5 are the same as they were before, just with different allotments of points.
