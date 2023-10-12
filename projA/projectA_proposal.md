@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-Last Update: **THU 2023-10-12** at **11:10 AM**
+Last Update: **THU 2023-10-12** at **11:40 AM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
@@ -12,16 +12,15 @@ G161 | Trent George | A Deeper Dive into Mental Health
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
 G021 | Mostafa Abouzaid | Midwest Wellness: Analyzing Health Trends & Income Equality
 G511 | Kareena Shah | The Relationship Between Adult Smoking and Unemployment Rates
-G271 | Bhavya Mahesh | (title **revised** by TEL) Association between Smoking and Premature Death in CHR-2023
-G221 | Vetrica Le Maitre | Public Health Trends by County in Six Distinct US Regions Using CHR 2023 & 2018
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 
 ## Proposals Needing Revision (due FRI 2023-10-13 at 7 PM)
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
+G221 | Vetrica Le Maitre | Public Health Trends by County in Six Distinct US Regions Using CHR 2023 & 2018
+G271 | Bhavya Mahesh | (title **revised** by TEL) Association between Smoking and Premature Death in CHR-2023
 G342 | Lydia Mitchell & <br /> Manu Bulusu | Assessing Adult Smoking’s Impact on Premature Death in the US with CHR-2023 Data
-
 
 ## Approved Proposals
 
