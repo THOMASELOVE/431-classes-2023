@@ -4,7 +4,7 @@ Last Update: **THU 2023-10-12** at **10:30 AM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
-## Proposals Dr. Love is actively reviewing
+## Proposals Dr. Love is reviewing today
 
 - In the order in which they were received
 
