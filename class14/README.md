@@ -21,7 +21,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Feedback on the Minute Paper after Class 13 will be posted **by class time**.
     - Minute Paper grades are posted to the 431 Grades Roster on our Shared Drive.
 4. [Lab 4](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab04/lab04.pdf) was revised (specifically, **shortened**) on 2023-10-11 by Dr. Love. Please make sure you do [the current version](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab04/lab04.pdf), dated 2023-10-11, which has **5** questions instead of 6.
-    - If you've already done the lab, don't worry, since I just eliminated the old Question 6, and I will add that question to one of the later Labs.
+    - If you've already done the lab, don't worry, since I just eliminated the old Question 6, and I will add that question to one of the later Labs, while Questions 1-5 are the same as they were before, just with different allotments of points.
 
 ## Project A Proposal Status
 
