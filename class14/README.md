@@ -27,6 +27,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 
+- A problem lots of people had (which I mostly didn't mention, but will look for more closely in the portfolios) is that in the codebook (Section 11) you need to specify the years when the data were actually collected by County Health Rankings for your chosen outcome and predictor variables. Look [here for those details](https://www.countyhealthrankings.org/explore-health-rankings/county-health-rankings-measures).
+
 ## Sample Analyses related to Project A
 
 I built examples of studies *similar to* Project A [Analysis 1](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis1.html), [Analysis 2](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis2.html), and [Analysis 3](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis3.html), but using [the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies). 
