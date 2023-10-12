@@ -9,3 +9,8 @@ For each movie, I gathered several additional characteristics from the [Internet
 - Here's our [first breakout activity](breakout1.md), which we will go through in Class 08 (2023-09-21).
 - Here are some [results of that first breakout activity](breakout1_results.md), which we will discuss in Class 09 (2023-09-26).
 
+## Sample Analyses related to Project A
+
+- Sample Analysis 1 (simple regression): [View Analysis 1 HTML], [Download Analysis 1 code (qmd)](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/431-movies-analysis1.qmd)
+- Sample Analysis 2 (independent samples): [View Analysis 2 HTML], [Download Analysis 2 code (qmd)](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/431-movies-analysis2.qmd)
+- Sample Analysis 3 (paired samples): [View Analysis 3 HTML], [Download Analysis 3 code (qmd)](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/431-movies-analysis3.qmd)
