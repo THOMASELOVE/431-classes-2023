@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-Last Update: **WED 2023-10-11** at **10:50 PM**
+Last Update: **THU 2023-10-12** at **8:30 AM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
@@ -8,25 +8,27 @@ We have **45** proposals: 11 from teams of two, and 34 from individual investiga
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G021 | Mostafa Abouzaid | (*title needs to change*) Evolving Health Landscapes of some midwest U.S. Counties
-G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
-G161 | Trent George | A Deeper Dive into Mental Health
-G221 | Vetrica Le Maitre | (no title yet)
-G271 | Bhavya Mahesh | (*title needs to change*) Examining CHR-2023 Data to Predict Trends in Various Health Outcomes
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
-G342 | Lydia Mitchell & <br /> Manu Bulusu | (*title needs to change*) Investigating Various Determinants of Health from 6 states using CHR 2023 Data
-G511 | Kareena Shah | (*title needs to change*) Relationships Between Public Health Determinants and Outcomes in US Counties
 
-## Revisions Dr. Love has received but not yet reviewed.
+## Revisions Dr. Love has received and is actively reviewing
+
+- In the order in which they were received
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G071 | David Askew | Socio-economical impact on flu vaccination and diabetes in six republican states 
-G261 | Zunren (Jack) Liu | Relationship between physical health and obesity
-G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
-G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in 6 Midwest States: County-Level Analysis
 G481 | Robert Schauner | Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | The Impact of Economic Factors on Health in Counties within 6 U.S. States
+G412 | Mauli Patel & <br /> Maksim Parfyonov | Social Determinants of Health in 6 Midwest States: County-Level Analysis
+G261 | Zunren (Jack) Liu | Relationship between physical health and obesity
+G071 | David Askew | Socio-economical impact on flu vaccination and diabetes in six republican states 
+G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
+G342 | Lydia Mitchell & <br /> Manu Bulusu | Assessing Adult Smoking’s Impact on Premature Death in the US with CHR-2023 Data
+G161 | Trent George | A Deeper Dive into Mental Health
+G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
+G021 | Mostafa Abouzaid | Midwest Wellness: Analyzing Health Trends & Income Equality
+G511 | Kareena Shah | The Relationship Between Adult Smoking and Unemployment Rates
+G271 | Bhavya Mahesh | (TEL revised title) Association between Smoking and Premature Death in CHR-2023
+G221 | Vetrica Le Maitre | Public Health Trends by County in Six Distinct US Regions Using CHR 2023 & 2018
 
 ## Approved Proposals
 
