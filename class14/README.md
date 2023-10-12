@@ -28,6 +28,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 
 - A problem lots of people had (which I mostly didn't mention, but will look for more closely in the portfolios) is that in the codebook (Section 11) you need to specify the years when the data were actually collected by County Health Rankings for your chosen outcome and predictor variables. Look [here for those details](https://www.countyhealthrankings.org/explore-health-rankings/county-health-rankings-measures).
+- Another suggestion, in advance of doing your analyses... try to get through the whole Project A without using the word "significant". The reasons why will be clearer after next Thursday's class.
 
 ## Sample Analyses related to Project A
 
@@ -50,7 +51,10 @@ I wrote these documents to help you get a feel for what we are looking for in th
 2. Project A proposal (if necessary) and once that is approved, [Project A analyses](https://thomaselove.github.io/431-projectA-2023/analyses.html).
     - Note that Project A is due Tuesday 2023-10-31 at noon.
 3. Read *The Art of Statistics* through Chapter 8.
-4. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
+4. In anticipation of next Thursday's session, you might want to skim through:
+    - [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*
+    - The American Statistical Association’s 2016 [Statement on p-Values: Context, Process and Purpose](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108).
+6. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
 
 ## One Last Thing
 
