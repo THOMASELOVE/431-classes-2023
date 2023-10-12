@@ -18,14 +18,27 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Emails went out Wednesday 2023-10-11 to all students describing their individual results. If you didn't get that email, contact Dr. Love.
     - If you didn't do as well as you would have liked, my best advice is to review what went wrong so you improve your understanding, then work on Project A.
 2. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
-3. Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
-4. Examples of studies *similar to* Project A Analysis 1, Analysis 2, and Analysis 3, but using [the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies), will be posted **by class time**.
-    - I wrote these documents to help you get a feel for what we are looking for in the Analyses for Project A, and to make the scope of that work a bit clearer. The documents are *suggestive*, but definitely **not prescriptive** (as opposed to the Proposal material which was and is mostly prescriptive.)
-    - Use **your own** words, not mine, in preparing your analytic work for Project A. Thanks.
-    - More importantly, use your judgment to decide what to include in your Project A portfolio regarding these issues.
-    - Remember that [more isn't necessarily better](https://thomaselove.github.io/431-projectA-2023/portfolio.html#hint-more-isnt-better.).
-5. Feedback on the Minute Paper after Class 13 will be posted **by class time**.
+3. Feedback on the Minute Paper after Class 13 will be posted **by class time**.
     - Minute Paper grades are posted to the 431 Grades Roster on our Shared Drive.
+
+## Project A
+
+1. Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
+
+## Sample Analyses related to Project A
+
+I built examples of studies *similar to* Project A [Analysis 1](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis1.html), [Analysis 2](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis2.html), and [Analysis 3](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis3.html), but using [the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies). 
+
+- Sample Analysis 1 (simple regression): [View Analysis 1 HTML](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis1.html), and [Download Analysis 1 code (qmd)](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/431-movies-analysis1.qmd)
+- Sample Analysis 2 (independent samples): [View Analysis 2 HTML](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis2.html), and [Download Analysis 2 code (qmd)](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/431-movies-analysis2.qmd)
+- Sample Analysis 3 (paired samples): [View Analysis 3 HTML](https://thomaselove.github.io/431-projectA-2023/431-movies-analysis3.html), and [Download Analysis 3 code (qmd)](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/data-and-code/431-movies-analysis3.qmd)
+- You'll also find these materials linked on our [Project A Examples](https://thomaselove.github.io/431-projectA-2023/examples.html) page.
+
+I wrote these documents to help you get a feel for what we are looking for in the [Analyses for Project A](https://thomaselove.github.io/431-projectA-2023/analyses.html), and to make the scope of that work a bit clearer. The documents are *suggestive*, but definitely **not prescriptive** (as opposed to the [Proposal material](https://thomaselove.github.io/431-projectA-2023/proposal.html) which was and is mostly prescriptive.)
+
+- Use **your own** words, not mine, in preparing your analytic work for Project A. Thanks.
+- More importantly, use your judgment to decide what to include in your Project A portfolio regarding these issues.
+- Remember that [more isn't better](https://thomaselove.github.io/431-projectA-2023/portfolio.html#hint-more-isnt-better.), as I wrote in the Project A instructions.
 
 ## One Last Thing
 
