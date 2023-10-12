@@ -1,6 +1,6 @@
 # Status of Project A Proposals
 
-Last Update: **THU 2023-10-12** at **9:55 AM**
+Last Update: **THU 2023-10-12** at **10:30 AM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
@@ -10,7 +10,6 @@ We have **45** proposals: 11 from teams of two, and 34 from individual investiga
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
-G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G342 | Lydia Mitchell & <br /> Manu Bulusu | Assessing Adult Smoking’s Impact on Premature Death in the US with CHR-2023 Data
 G161 | Trent George | A Deeper Dive into Mental Health
 G111 | Dario Cabal | Household Income, Sleep, and Drinking for Mid-West States
@@ -22,7 +21,7 @@ G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 
 ## Approved Proposals
 
-Dr. Love has approved **36** proposals, which are split into groups of ten in the tables below.
+Dr. Love has approved **37** proposals, which are split into groups of ten in the tables below.
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
@@ -53,6 +52,7 @@ G331 | Kathryn Menta | (*title needs to change*) Analysis of Various Health Dete
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
 G352 | Noel Moore & <br /> Kelsey Lewis | Analyzing the impact of lifestyle on health and mortality
+G361 | Krishna Mridha | CHR-2023: Linking Economic Factors to Health Outcomes and Smoking
 G371 | Tony Nunnery | (title **revised** by TEL) Community Health and Wellness in Counties of Six States
 G382 | Vern Olaker & <br /> Jacob Gardner | Relationships between substance use, socioeconomic status, and mental health
 G391 | Sakshi Pandit | (*title needs to change*) Analyzing Different Health Outcomes
@@ -61,10 +61,10 @@ G421 | Juan Perez | (title **revised** by TEL) Socioeconomic Status and Environm
 G431 | Camaryn Petersen | (title **revised** by TEL) Unemployment and Smoking in Great Lake States
 G451 | Justin Robinson | Examining the Relationship of Physical Inactivity and Mental Health – CHR 2023
 G461 | Reina Samuel | (*title needs to change*) An Analysis Of How Different Factors Impact Health Outcomes Using CHR 2023 Data
-G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
+G471 | Manish Sarkar | Mental and physical health related analysis using CHR-2023 data
 G481 | Robert Schauner | Comparing Sleep Insufficiency between 2018 and 2023 in US Counties
 G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov | The Impact of Economic Factors on Health in Counties within 6 U.S. States
 G501 | Himiede Wilson-Sesay | (*title needs to change*) An Investigation and Analysis of US Health Indicators by States
