@@ -21,7 +21,8 @@ G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 
 ## Approved Proposals
 
-Dr. Love has approved **37** proposals, which are split into groups of ten in the tables below.
+- Dr. Love has approved **37** proposals, which are split into groups of ten in the tables below.
+- A problem lots of people had (which I mostly didn't mention, but will look for more closely in the portfolios) is that in the codebook (Section 11) you need to specify the years when the data were actually collected by County Health Rankings for your chosen outcome and predictor variables. Look [here for those details](https://www.countyhealthrankings.org/explore-health-rankings/county-health-rankings-measures).
 
 Group | Investigator(s) | Title 
 -----: | :-------------------------------------: | :-----------------------------------------------------------------
