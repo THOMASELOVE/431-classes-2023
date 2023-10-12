@@ -15,15 +15,17 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. A Quiz 1 answer sketch including results is [available on our Shared Drive](https://drive.google.com/file/d/1lLVFE5f2oPByAo1W_0Yw4qVjX2siMlFz/view?usp=drive_link).
-    - Emails went out Wednesday 2023-10-11 to all students describing their individual results. If you didn't get that email, contact Dr. Love.
-    - If you didn't do as well as you would have liked, my best advice is to review what went wrong so you improve your understanding, then work on Project A.
-2. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
+    - Emails went out Wednesday 2023-10-11 to all students describing their individual results. If you didn't get the email, contact Dr. Love.
+    - If you didn't do as well as you would have liked, my best advice is to review what went wrong so you improve your understanding, then focus on Project A.
+2. Also, it's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
 3. Feedback on the Minute Paper after Class 13 will be posted **by class time**.
     - Minute Paper grades are posted to the 431 Grades Roster on our Shared Drive.
+4. [Lab 4](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab04/lab04.pdf) was revised (specifically, **shortened**) on 2023-10-11 by Dr. Love. Please make sure you do [the current version](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab04/lab04.pdf), dated 2023-10-11, which has **5** questions instead of 6.
+    - If you've already done the lab, don't worry, since I just eliminated the old Question 6, and I will add that question to one of the later Labs.
 
-## Project A
+## Project A Proposal Status
 
-1. Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
+Project A Proposal Status information [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 
 ## Sample Analyses related to Project A
 
@@ -39,6 +41,13 @@ I wrote these documents to help you get a feel for what we are looking for in th
 - Use **your own** words, not mine, in preparing your analytic work for Project A. Thanks.
 - More importantly, use your judgment to decide what to include in your Project A portfolio regarding these issues.
 - Remember that [more isn't better](https://thomaselove.github.io/431-projectA-2023/portfolio.html#hint-more-isnt-better.), as I wrote in the Project A instructions.
+
+## What to work on this weekend
+
+1. [Lab 4](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab04/lab04.pdf) (now with just **5** questions) is due next Tuesday, 2023-10-17 at noon.
+2. Project A proposal (if necessary) and once that is approved, [Project A analyses](https://thomaselove.github.io/431-projectA-2023/analyses.html).
+    - Note that Project A is due Tuesday 2023-10-31 at noon.
+3. Read *The Art of Statistics* through Chapter 8.
 
 ## One Last Thing
 
