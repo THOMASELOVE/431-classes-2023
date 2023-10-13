@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](Vickers_2022-11-14.png)
+
 ## Today's Slides
 
 Class | Date | Slides | Quarto .qmd | Recording
