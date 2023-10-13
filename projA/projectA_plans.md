@@ -61,21 +61,9 @@ Projects | Analysis 2 Outcome
 
 Projects | Analysis 2 Predictor
 :-: | :--------------------------------------------------------------------------------------------
-Adult obesity
-Adult obesity
-Adult obesity
-Adult smoking
-Adult smoking
-Adult smoking
-Age 65 and older
-Age 65 and older
-Excessive drinking
-Excessive drinking
-Food insecurity
-Food insecurity
-Food Insecurity
-Food Insecurity
-Food Insecurity
+3 | Adult obesity, Adult smoking
+2 | Age 65 and older, Excessive drinking
+5 | Food insecurity
 Gender Pay Gap
 High School Completion
 High School Completion
