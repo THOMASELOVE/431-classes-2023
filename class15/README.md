@@ -16,8 +16,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Project A Proposals
 
-- Project A Proposal Status is available at <https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md>
-- Some trivia and interesting details from the 45 Project A Proposals are available at <https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_plans.md>
+- Updated Project A Proposal Status [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md)
+- Some trivia and interesting details from [the 45 Project A Proposals are available, too](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_plans.md).
 
 ### Two Common Styling Problems
  
