@@ -15,10 +15,11 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a Minute Paper after Class 15, due Wednesday 2023-10-18 at noon. We'll post it **by class time**.
-2. Today's class makes substantial use of [the pwr package in R](https://github.com/heliosdrm/pwr) to address some issues related to power and sample size calculations associated with assessing differences in population means, or in population proportions.
+2. Remember that we don't have class next Tuesday 2023-10-24, or TA hours next Monday or Tuesday thanks to Fall Break. Campuswire will be open.
+3. Today's class makes substantial use of [the pwr package in R](https://github.com/heliosdrm/pwr) to address some issues related to power and sample size calculations associated with assessing differences in population means, or in population proportions.
     - Sections 22 and 27 of our Course Notes are particularly relevant.
     - Another resource to consider is [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) which uses the `pwrss` package instead, and which looks very promising.
-3. On Thursday, we will discuss statistical significance and p values further. Here are three things you might want to glance at before that session:
+4. On Thursday, we will discuss statistical significance and p values further. Here are three things you might want to glance at before that session:
     - "[Not even scientists can easily explain p values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)" by Christie Aschwanden at FiveThirtyEight.
     - [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*.
     - The American Statistical Association’s 2016 [Statement on p-Values: Context, Process and Purpose](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108).
