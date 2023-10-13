@@ -72,8 +72,8 @@ Projects | Analysis 2 Predictor
 Predictor | Cutpoints
 :------------------: | -------------------------------------------------------------------------
 Unemployment | (4.08, 4.72), (4.15, 4.79), (4.51, 5.29),  (4.60, 5.20), (4.65, 5.32), <br /> (4.68, 5.26), (4.99, 5.86), unsettled
-Food insecurity | 
-Median Household Income |
+Food insecurity | (10.5, 12.0), (10.5, 12.0), (11.8, 14.1), (12.4, 13.9), (12.4, 13.9)
+Median Household Income | (49.5, 55.1), (51.2, 57.2), (53.9, 59.8), (56.6, 61.9), (58.3, 63.8)
 
 # Analysis 3 Selections
 
