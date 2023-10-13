@@ -37,7 +37,7 @@ Projects | Analysis 1 Outcome
 4 | Poor or fair health
 3 | Premature age-adjusted mortality
 2 | Flu Vaccinations
-1 | Air pollution - particulate matter, Broadband Access, Excessive drinking, Income inequality, Mammography screening, Poor physical health days, Social associations
+1 | Air pollution - particulate matter, Broadband Access, Excessive drinking, Income inequality, <br /> Mammography screening, Poor physical health days, Social associations
 
 Projects | Analysis 1 Predictor
 :-: | :--------------------------------------------------------------------------------------------
