@@ -15,5 +15,11 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 
-## One Last Thing
+## One Last Thing: On Managing an R Project
 
+Jenny Bryan is the main person I listen to on these and many other issues. Consider:
+
+- [How To Name Files](https://speakerdeck.com/jennybc/how-to-name-files)
+- [Project-oriented workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) at tidyverse.org from Jenny Bryan.
+    - or try [A Project-Oriented Workflow](https://whattheyforgot.org/project-oriented-workflow.html) from [What They Forgot to Teach You About R](https://whattheyforgot.org/) by Jenny Bryan and Jim Hester.
+- [STAT 545](https://stat545.com/r-basics.html) includes an outstanding set of resources to help you work better in R, and do more effective data analysis.
