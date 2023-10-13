@@ -23,7 +23,7 @@ Count | State(s) | -- | Count | State(s) | -- | Count | State(s) | -- | Count | 
 15 | FL, IN | -- | 9 | MN | -- | 5 | AL, GA, IA, WV | -- | 1 | ND, NE, NM, OK, UT
 14 | CA | -- | 8 | NC, WI | -- | 4 | CO, MD, MS, VA | -- | 0 | MT, SD
 
-## How many counties in your sample?
+## How many counties are in your sample?
 
 ```
 3 | 40 40 
@@ -39,7 +39,7 @@ Count | State(s) | -- | Count | State(s) | -- | Count | State(s) | -- | Count | 
 8 | 00 00
 ```
 
-## Analysis 1 Selections 
+## Analysis 1 Variable Selections 
 
 Projects | Analysis 1 Outcome
 :-: | :--------------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ Projects | Analysis 1 Predictor
 2 | Adult obesity, Age 65 and older, High School Completion
 1 | Diabetes prevalence, Driving alone to work, Food environment index, Income inequality, <br /> Not proficient in English, Poor or fair health, Poor physical health days, Social associations
 
-## Analysis 2 Selections
+## Analysis 2 Variable Selections
 
 Projects | Analysis 2 Outcome
 :-: | :--------------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ Unemployment | (4.08, 4.72), (4.15, 4.79), (4.51, 5.29),  (4.60, 5.20), (4.65, 5
 Food insecurity | (10.5, 12.0), (10.5, 12.0), (11.8, 14.1), (12.4, 13.9), (12.4, 13.9)
 Median Household Income | (49.5, 55.1), (51.2, 57.2), (53.9, 59.8), (56.6, 61.9), (58.3, 63.8)
 
-## Analysis 3 Selections
+## Analysis 3 Variable Selections
 
 Projects | Analysis 3 Outcome
 :-: | :--------------------------------------------------------------------------------------------
@@ -97,7 +97,7 @@ Projects | Analysis 3 Outcome
 2 | Poor physical health days
 1 | Diabetes prevalence
 
-## Matches
+## Matches on States and/or Selected Variables
 
 - G092 and G471 have the same states (505 counties): OH IN KY MI PA WV and each uses Insufficient Sleep in Analysis 3.
 - G032 and G412 have the same states (524 counties): OH IL IN MI MN WI and each uses Adult obesity in Analysis 3.
@@ -105,7 +105,7 @@ Projects | Analysis 3 Outcome
 - G242 and G431 have the same states (494 counties): OH IL IN MI NY PA but don't use the same variables in their three analyses.
 - No two projects share the same Analysis 1 variables and Analysis 2 outcome.
 
-## R Packages
+## R Packages Loaded with library()
 
 - 35 projects loaded the "Big 5": (Hmisc, janitor, naniar, sessioninfo, and tidyverse) <br /> *these were the packages included in sample materials*
 - One project each loaded (in addition to the Big 5):
@@ -120,7 +120,9 @@ Projects | Analysis 3 Outcome
     - Another loaded the Big 5 - sessioninfo + xfun and gt
     - Finally, one loaded the Big 5 - sessioninfo + xfun and formattable and kableExtra and knitr
 
-## Lines of Quarto Code
+## Lines of Quarto Code Written
+
+Across 45 projects, we reviewed nearly **11,500** lines of Quarto code.
 
 ```
 1 | 84 92
