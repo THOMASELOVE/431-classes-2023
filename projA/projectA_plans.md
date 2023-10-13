@@ -6,7 +6,7 @@ Of the 45 submitted project proposals,
 
 - **12** had a problem because they used something other than `date: last-modified` in their YAML. Please correct your YAML in your portfolio (we'll be looking for this.)
     - Groups in this situation were: G062, G181, G201, G261, G271, G301, G321, G371, G412, G471, G501, and G511.
-- **29** had a styling problem in their Quarto file, in that at least once they neglected to include a blank before and after every code chunk, every header (or subheader) and every paragraph. Again, we'd really like you to fix this.
+- **29** neglected (at least once) to include a blank line before and after every code chunk, every header (or subheader) and every paragraph. Again, we'd really like you to fix this by the time you submit your portfolio.
     - Groups in this situation included: G032, G042, G051, G081, G092, G111, G121, G151, G161, G181, G221, G242, G252, G281, G301, G311, G342, G352, G382, G391, G412, G431, G451, G471, G492, G501, G511, G531, G561
 - Project group codes are specified on the [Project A Proposal Status page](projectAproposal.md)
 - You may be interested in [the styler package](https://github.com/r-lib/styler), which can be used on existing Quarto (or R or R Markdown) code to adapt it to [the tidyverse style guide](https://style.tidyverse.org/).
