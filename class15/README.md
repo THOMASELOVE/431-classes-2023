@@ -14,6 +14,24 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+## Project A Proposals
+
+- Project A Proposal Status is available at <https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md>
+- Some trivia and interesting details from the 45 Project A Proposals are available at <https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_plans.md>
+
+### Two Common Styling Problems
+ 
+Of the 45 submitted project proposals,
+
+- **12** had a problem because they used something other than `date: last-modified` in their YAML. Please correct your YAML in your portfolio (we'll be looking for this.)
+    - Groups in this situation were: G062, G181, G201, G261, G271, G301, G321, G371, G412, G471, G501, and G511.
+- **29** had a styling problem in their Quarto file, in that at least once they neglected to include a blank before and after every code chunk, every header (or subheader) and every paragraph. Again, we'd really like you to fix this.
+    - Groups in this situation included: G032, G042, G051, G081, G092, G111, G121, G151, G161, G181, G221, G242, G252, G281, G301, G311, G342, G352, G382, G391, G412, G431, G451, G471, G492, G501, G511, G531, G561
+- Project group codes are specified on the [Project A Proposal Status page](projectAproposal.md)
+
+You may be interested in [the styler package](https://github.com/r-lib/styler), which can be used on existing Quarto (or R or R Markdown) code to adapt it to [the tidyverse style guide](https://style.tidyverse.org/).
+
+- This wouldn't resolve misspellings (hit F7 in RStudio) or the `date` or blank line issues mentioned above, but is still of some use.
 
 ## One Last Thing
 
