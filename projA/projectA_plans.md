@@ -2,7 +2,7 @@
 
 ## Which states were selected?
 
-45 projects, so we have 45 selecting OH, naturally.
+45 projects, so we have 45 selecting **OH**, naturally.
 
 Count | State(s) | -- | Count | State(s) | -- | Count | State(s) | -- | Count | State(s)
 ----: | :-----: | -- | ----: | :-----: | -- | ----: | :-----: | -- | ----: | :-----: 
@@ -61,39 +61,11 @@ Projects | Analysis 2 Outcome
 
 Projects | Analysis 2 Predictor
 :-: | :--------------------------------------------------------------------------------------------
-3 | Adult obesity, Adult smoking
-2 | Age 65 and older, Excessive drinking
-5 | Food insecurity
-Gender Pay Gap
-High School Completion
-High School Completion
-High School Completion
-Income inequality
-Income inequality
-Income inequality
-Insufficient sleep
-Insufficient Sleep
-Median Household Income
-Median Household Income
-Median Household Income
-Median Household Income
-Median Household Income
-Non-Hispanic White
-Physical Inactivity
-Physical Inactivity
-Poor physical health days
-Rural
-Rural
-Social associations
-Unemployment
-Unemployment
-Unemployment
-Unemployment
-Unemployment
-Unemployment
-Unemployment
-Unemployment
-Uninsured
+8 | Unemployment
+5 | Food insecurity, Median Household Income
+3 | Adult obesity, Adult smoking, High School Completion, Income Inequality
+2 | Age 65 and older, Excessive drinking, Insufficient sleep, Physical Inactivity, Rural
+1 | Gender Pay Gap, Non-Hispanic White, Poor physical health days, Social associations, Uninsured
 
 # Analysis 3 Selections
 
