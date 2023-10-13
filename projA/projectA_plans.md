@@ -26,3 +26,16 @@ Count | State(s) | -- | Count | State(s) | -- | Count | State(s) | -- | Count | 
 7 |
 8 | 00 00
 ```
+
+## Selected Variables 
+
+### Analysis 1 outcomes
+
+7: Diabetes prevalence
+6: Adult obesity, Poor mental health days
+5: Adult smoking, Premature death
+4: Poor or fair health
+3: Premature age-adjusted mortality
+2: Flu Vaccinations
+1: Air pollution - particulate matter, Broadband Access, Excessive drinking, Income inequality
+1: Mammography screening, Poor physical health days, Social associations
