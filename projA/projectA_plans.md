@@ -30,7 +30,7 @@ Count | State(s) | -- | Count | State(s) | -- | Count | State(s) | -- | Count | 
 ## Analysis 1 Variables 
 
 Projects | Analysis 1 Outcome
--: | :--------------------------------------------------------------------------------------------
+:-: | :--------------------------------------------------------------------------------------------
 7 | Diabetes prevalence
 6 | Adult obesity, Poor mental health days
 5 | Adult smoking, Premature death
@@ -40,7 +40,7 @@ Projects | Analysis 1 Outcome
 1 | Air pollution - particulate matter, Broadband Access, Excessive drinking, Income inequality <br /> Mammography screening, Poor physical health days, Social associations
 
 Projects | Analysis 1 Predictor
--: | :--------------------------------------------------------------------------------------------
+:-: | :--------------------------------------------------------------------------------------------
 6 | Adult smoking
 5 | Median household income
 4 | Insufficient sleep, Unemployment
