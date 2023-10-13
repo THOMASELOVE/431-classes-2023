@@ -67,9 +67,7 @@ Projects | Analysis 2 Predictor
 2 | Age 65 and older, Excessive drinking, Insufficient sleep, Physical Inactivity, Rural
 1 | Gender Pay Gap, Non-Hispanic White, Poor physical health days, Social associations, <br /> Uninsured
 
-### Cutpoints for Analysis 2
-
-Predictor | Cutpoints
+Predictor | Cutpoints for the Most Common Analysis 2 Predictors
 :------------------: | -------------------------------------------------------------------------
 Unemployment | (4.08, 4.72), (4.15, 4.79), (4.51, 5.29),  (4.60, 5.20), (4.65, 5.32), <br /> (4.68, 5.26), (4.99, 5.86), unsettled
 Food insecurity | (10.5, 12.0), (10.5, 12.0), (11.8, 14.1), (12.4, 13.9), (12.4, 13.9)
