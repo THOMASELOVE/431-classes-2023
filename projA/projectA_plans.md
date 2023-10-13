@@ -37,7 +37,7 @@ Projects | Analysis 1 Outcome
 4 | Poor or fair health
 3 | Premature age-adjusted mortality
 2 | Flu Vaccinations
-1 | Air pollution - particulate matter, Broadband Access, Excessive drinking, Income inequality <br /> Mammography screening, Poor physical health days, Social associations
+1 | Air pollution - particulate matter, Broadband Access, Excessive drinking, Income inequality, Mammography screening, Poor physical health days, Social associations
 
 Projects | Analysis 1 Predictor
 :-: | :--------------------------------------------------------------------------------------------
@@ -46,7 +46,7 @@ Projects | Analysis 1 Predictor
 4 | Insufficient sleep, Unemployment
 3 | Excessive drinking, Physical inactivity, Rural, Uninsured
 2 | Adult obesity, Age 65 and older, High School Completion
-1 | Diabetes prevalence, Driving alone to work, Food environment index, Income inequality <br /> Not proficient in English, Poor or fair health, Poor physical health days, Social associations
+1 | Diabetes prevalence, Driving alone to work, Food environment index, Income inequality, Not proficient in English, Poor or fair health, Poor physical health days, Social associations
 
 # Analysis 2 Selections
 
@@ -71,48 +71,10 @@ Projects | Analysis 2 Predictor
 
 Projects | Analysis 3 Outcome
 :-: | :--------------------------------------------------------------------------------------------
-Adult obesity
-Adult obesity
-Adult obesity
-Adult obesity
-Adult obesity
-Adult smoking
-Adult smoking
-Adult smoking
-Adult smoking
-Adult smoking
-Diabetes prevalence
-Excessive drinking
-Excessive drinking
-Excessive drinking
-Excessive drinking
-Food insecurity
-Food insecurity
-Food insecurity
-Food insecurity
-Food insecurity
-Insufficient sleep
-Insufficient Sleep
-Insufficient Sleep
-Insufficient Sleep
-Insufficient Sleep
-Insufficient Sleep
-Insufficient Sleep
-Insufficient Sleep
-Physical inactivity
-Physical inactivity
-Physical inactivity
-Physical inactivity
-Physical inactivity
-Physical inactivity
-Poor mental health days
-Poor mental health days
-Poor mental health days
-Poor mental health days
-Poor mental health days
-Poor mental health days
-Poor physical health days
-Poor physical health days
-Premature death
-Premature death
-Premature death
+8 | Insufficient Sleep
+6 | Physical inactivity, Poor mental health days
+5 | Adult obesity, Adult smoking, Food insecurity
+4 | Excessive drinking
+3 | Premature death
+2 | Poor physical health days
+1 | Diabetes prevalence
