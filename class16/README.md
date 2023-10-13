@@ -4,6 +4,10 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](https://imgs.xkcd.com/comics/epistemic_uncertainty.png)
+
+Source: https://xkcd.com/2440/, where the hover text for this entry is "Luckily, unlike in our previous study, we have no reason to believe Evangeline the Adulterator gained access to our stored doses. *Epistemology* is the investigation of what distinguishes justified belief from opinion. It is a branch of philosophy dealing with the theory of knowledge, especially with regard to its methods, validity, and scope. 
+
 ## Today's Slides
 
 Class | Date | Slides | Quarto .qmd | Recording
@@ -16,7 +20,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. Remember that we don't have class next Tuesday 2023-10-24, or TA hours next Monday or Tuesday thanks to Fall Break. Campuswire will be open.
 2. Feedback on the Minute Paper after Class 15 will be posted **by class time**.
-3. 
 
 ## Materials Discussed in Today's Class
 
