@@ -27,7 +27,7 @@ Count | State(s) | -- | Count | State(s) | -- | Count | State(s) | -- | Count | 
 8 | 00 00
 ```
 
-## Selected Variables 
+## Analysis 1 Variables 
 
 Projects | Analysis 1 Outcome
 -: | :--------------------------------------------------------------------------------------------
@@ -38,3 +38,12 @@ Projects | Analysis 1 Outcome
 3 | Premature age-adjusted mortality
 2 | Flu Vaccinations
 1 | Air pollution - particulate matter, Broadband Access, Excessive drinking, Income inequality <br /> Mammography screening, Poor physical health days, Social associations
+
+Projects | Analysis 1 Predictor
+-: | :--------------------------------------------------------------------------------------------
+6 | Adult smoking
+5 | Median household income
+4 | Insufficient sleep, Unemployment
+3 | Excessive drinking, Physical inactivity, Rural, Uninsured
+2 | Adult obesity, Age 65 and older, High School Completion
+1 | Diabetes prevalence, Driving alone to work, Food environment index, Income inequality <br /> Not proficient in English, Poor or fair health, Poor physical health days, Social associations
