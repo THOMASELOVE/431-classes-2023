@@ -67,6 +67,14 @@ Projects | Analysis 2 Predictor
 2 | Age 65 and older, Excessive drinking, Insufficient sleep, Physical Inactivity, Rural
 1 | Gender Pay Gap, Non-Hispanic White, Poor physical health days, Social associations, <br /> Uninsured
 
+### Cutpoints for Analysis 2
+
+Predictor | Cutpoints
+:------------------: | -------------------------------------------------------------------------
+Unemployment | (4.08, 4.72), (4.15, 4.79), (4.51, 5.29),  (4.60, 5.20), (4.65, 5.32), <br /> (4.68, 5.26), (4.99, 5.86), unsettled
+Food insecurity | 
+Median Household Income |
+
 # Analysis 3 Selections
 
 Projects | Analysis 3 Outcome
