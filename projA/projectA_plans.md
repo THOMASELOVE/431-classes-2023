@@ -46,7 +46,7 @@ Projects | Analysis 1 Predictor
 4 | Insufficient sleep, Unemployment
 3 | Excessive drinking, Physical inactivity, Rural, Uninsured
 2 | Adult obesity, Age 65 and older, High School Completion
-1 | Diabetes prevalence, Driving alone to work, Food environment index, Income inequality, Not proficient in English, Poor or fair health, Poor physical health days, Social associations
+1 | Diabetes prevalence, Driving alone to work, Food environment index, Income inequality, <br /> Not proficient in English, Poor or fair health, Poor physical health days, Social associations
 
 # Analysis 2 Selections
 
@@ -65,7 +65,7 @@ Projects | Analysis 2 Predictor
 5 | Food insecurity, Median Household Income
 3 | Adult obesity, Adult smoking, High School Completion, Income Inequality
 2 | Age 65 and older, Excessive drinking, Insufficient sleep, Physical Inactivity, Rural
-1 | Gender Pay Gap, Non-Hispanic White, Poor physical health days, Social associations, Uninsured
+1 | Gender Pay Gap, Non-Hispanic White, Poor physical health days, Social associations, <br /> Uninsured
 
 # Analysis 3 Selections
 
