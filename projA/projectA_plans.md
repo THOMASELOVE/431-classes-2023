@@ -84,3 +84,26 @@ Projects | Analysis 3 Outcome
 3 | Premature death
 2 | Poor physical health days
 1 | Diabetes prevalence
+
+# Matches
+
+- G092 and G471 have the same states (505 counties): OH IN KY MI PA WV and each uses Insufficient Sleep in Analysis 3.
+- G032 and G412 have the same states (524 counties): OH IL IN MI MN WI and each uses Adult obesity in Analysis 3.
+- G271 and G461 have the same states (340 counties): OH FL IL NJ WA WY but don't use the same variables in their three analyses.
+- G242 and G431 have the same states (494 counties): OH IL IN MI NY PA but don't use the same variables in their three analyses.
+- No two projects share the same Analysis 1 variables and Analysis 2 outcome.
+
+# R Packages
+
+- 35 projects loaded the "Big 5": (Hmisc, janitor, naniar, sessioninfo, and tidyverse) <br /> *these were the packages included in sample materials*
+- One project each loaded (in addition to the Big 5):
+    - broom and patchwork
+    - broom and kableExtra and patchwork
+    - gt and patchwork
+    - htmlTable
+    - kableExtra
+    - knitr
+    - mosaic
+- One project loaded the Big 5 - sessioninfo + xfun
+    - Another loaded the Big 5 - sessioninfo + xfun and gt
+    - Finally, one loaded the Big 5 - sessioninfo + xfun and formattable and kableExtra and knitr
