@@ -4,7 +4,7 @@ Last Update: **THU 2023-10-12** at **8:55 PM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
-## Proposals Dr. Love will review after class today
+## Proposals Dr. Love will review tonight
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | :-------------------------------------------------------------------------------
