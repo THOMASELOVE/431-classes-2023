@@ -20,6 +20,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. Remember that we don't have class next Tuesday 2023-10-24, or TA hours next Monday or Tuesday thanks to Fall Break. Campuswire will be open.
 2. Feedback on the Minute Paper after Class 15 will be posted **by class time**.
+3. An answer sketch for Lab 4 will be posted **by class time**.
 
 ## Materials Discussed in Today's Class
 
