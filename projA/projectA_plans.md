@@ -107,3 +107,17 @@ Projects | Analysis 3 Outcome
 - One project loaded the Big 5 - sessioninfo + xfun
     - Another loaded the Big 5 - sessioninfo + xfun and gt
     - Finally, one loaded the Big 5 - sessioninfo + xfun and formattable and kableExtra and knitr
+
+# Lines of Quarto Code
+
+```
+1 | 84 92
+2 | 05 19
+2 | 20 22 22 24 25 26 28 28 33 33 37 39 39            N: 45
+2 | 40 42 43 44 47 51 53 53 54 59 59                  MEAN = 255.4, SD = 40.2
+2 | 63 63 68 69 69 69 72 76 79                        MEDIAN = 251
+2 | 80 89 92 95                                       QUARTILES: (228, 270.5)
+3 | 10
+3 | 27 34
+HI: 419
+```
