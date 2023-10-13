@@ -14,6 +14,15 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. There is a Minute Paper after Class 15, due Wednesday 2023-10-18 at noon. We'll post it **by class time**.
+2. Today's class makes substantial use of [the pwr package in R](https://github.com/heliosdrm/pwr) to address some issues related to power and sample size calculations associated with assessing differences in population means, or in population proportions.
+    - Sections 22 and 27 of our Course Notes are particularly relevant.
+    - Another resource to consider is [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) which uses the `pwrss` package instead, and which looks very promising.
+3. On Thursday, we will discuss statistical significance and p values further. Here are three things you might want to glance at before that session:
+    - You might also want to read (and watch the video) from FiveThirtyEight on "[Not even scientists can easily explain p values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)" by Christie Aschwanden.
+    - [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*.
+    - The American Statistical Association’s 2016 [Statement on p-Values: Context, Process and Purpose](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108).
+
 ## Project A Proposals
 
 - Updated Project A Proposal Status [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md)
@@ -28,6 +37,8 @@ Of the 45 submitted project proposals,
 - **29** neglected (at least once) to include a blank line before and after every code chunk, every header (or subheader) and every paragraph. Again, we'd really like you to fix this by the time you submit your portfolio.
     - Groups in this situation included: G032, G042, G051, G081, G092, G111, G121, G151, G161, G181, G221, G242, G252, G281, G301, G311, G342, G352, G382, G391, G412, G431, G451, G471, G492, G501, G511, G531, G561
 - Project group codes are specified on the [Project A Proposal Status page](projectAproposal.md)
+
+### Styling Your Code
 
 You may be interested in [the styler package](https://github.com/r-lib/styler), which can be used on existing Quarto (or R or R Markdown) code to adapt it to [the tidyverse style guide](https://style.tidyverse.org/).
 
