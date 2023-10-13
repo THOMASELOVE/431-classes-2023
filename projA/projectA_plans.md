@@ -61,9 +61,98 @@ Projects | Analysis 2 Outcome
 
 Projects | Analysis 2 Predictor
 :-: | :--------------------------------------------------------------------------------------------
+Adult obesity
+Adult obesity
+Adult obesity
+Adult smoking
+Adult smoking
+Adult smoking
+Age 65 and older
+Age 65 and older
+Excessive drinking
+Excessive drinking
+Food insecurity
+Food insecurity
+Food Insecurity
+Food Insecurity
+Food Insecurity
+Gender Pay Gap
+High School Completion
+High School Completion
+High School Completion
+Income inequality
+Income inequality
+Income inequality
+Insufficient sleep
+Insufficient Sleep
+Median Household Income
+Median Household Income
+Median Household Income
+Median Household Income
+Median Household Income
+Non-Hispanic White
+Physical Inactivity
+Physical Inactivity
+Poor physical health days
+Rural
+Rural
+Social associations
+Unemployment
+Unemployment
+Unemployment
+Unemployment
+Unemployment
+Unemployment
+Unemployment
+Unemployment
+Uninsured
 
 # Analysis 3 Selections
 
 Projects | Analysis 3 Outcome
 :-: | :--------------------------------------------------------------------------------------------
-
+Adult obesity
+Adult obesity
+Adult obesity
+Adult obesity
+Adult obesity
+Adult smoking
+Adult smoking
+Adult smoking
+Adult smoking
+Adult smoking
+Diabetes prevalence
+Excessive drinking
+Excessive drinking
+Excessive drinking
+Excessive drinking
+Food insecurity
+Food insecurity
+Food insecurity
+Food insecurity
+Food insecurity
+Insufficient sleep
+Insufficient Sleep
+Insufficient Sleep
+Insufficient Sleep
+Insufficient Sleep
+Insufficient Sleep
+Insufficient Sleep
+Insufficient Sleep
+Physical inactivity
+Physical inactivity
+Physical inactivity
+Physical inactivity
+Physical inactivity
+Physical inactivity
+Poor mental health days
+Poor mental health days
+Poor mental health days
+Poor mental health days
+Poor mental health days
+Poor mental health days
+Poor physical health days
+Poor physical health days
+Premature death
+Premature death
+Premature death
