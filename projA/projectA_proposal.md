@@ -1,10 +1,10 @@
 # Status of Project A Proposals
 
-Last Update: **SAT 2023-10-14** at **Noon**
+Last Update: **SAT 2023-10-14** at **4:30 PM**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
-## Proposals Dr. Love has received, and will review by the end of the day Sunday
+## Proposals Dr. Love has received, and will review by 10 PM Sunday
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | ---------------------------------------------------------------------
