@@ -4,20 +4,15 @@ Last Update: **SAT 2023-10-14** at **Noon**
 
 We have **45** proposals: 11 from teams of two, and 34 from individual investigators.
 
-## Proposals Dr. Love has received, and will review soon
+## Proposals Dr. Love has received, and will review by the end of the day Sunday
 
 Group | Investigator(s) | Title 
 -----: | :----------------------------: | ---------------------------------------------------------------------
+G021 | Mostafa Abouzaid | Midwest Wellness: Analyzing Health Trends & Income Equality 
 G221 | Vetrica Le Maitre | Public Health Trends by County in Six Distinct US Regions Using CHR 2023 & 2018 
 G271 | Bhavya Mahesh | Association between Smoking and Premature Death in CHR-2023 
 G321 | Gayan (Sam) Samuditha | CHR-2023: Unemployment and Premature Death
 G342 | Lydia Mitchell & <br /> Manu Bulusu | Assessing Adult Smoking’s Impact on Premature Death in the US with CHR-2023 Data
-
-## Proposals Needing Revision
-
-Group | Investigator(s) | Title | Due
------: | :----------------------------: | --------------------------------------- | -----------
-G021 | Mostafa Abouzaid | Midwest Wellness: Analyzing Health Trends & Income Equality | SAT 2023-10-14 Noon
 
 ## Approved Proposals
 
