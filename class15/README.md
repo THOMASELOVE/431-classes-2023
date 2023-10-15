@@ -17,21 +17,29 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a [Minute Paper after Class 15](https://bit.ly/431-2023-minute-15), due Wednesday 2023-10-18 at noon. The link is <https://bit.ly/431-2023-minute-15>.
-2. Remember that we don't have class next Tuesday 2023-10-24, or TA hours next Monday or Tuesday thanks to Fall Break. Campuswire will be open.
-3. Part C of the Course Notes should be posted **by class time**.
-4. Instructions for Lab 5 will be posted **by class time**.
+2. Thanks to Fall Break,
+    - we don't have class next Tuesday 2023-10-24, and 
+    - we won't hold TA hours next Monday 2023-10-23 or Tuesday 2023-10-24, but [Campuswire](https://thomaselove.github.io/431-2023/campuswire.html) will remain open, and
+    - Lab 5 is due Thursday 2023-10-26 at Noon instead of the usual Tuesday submission. Instructions for Lab 5 will be posted **by class time**.
+4. Part C of the Course Notes should be posted **by class time**.
 5. An answer sketch for Lab 4 will be posted on Thursday 2023-10-19 by class time.
-6. Today's class makes substantial use of [the pwr package in R](https://github.com/heliosdrm/pwr) to address some issues related to power and sample size calculations associated with assessing differences in population means, or in population proportions.
-    - Sections 22 and 27 of our Course Notes are particularly relevant.
-    - Another resource to consider is [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) which uses the `pwrss` package instead, and which looks very promising.
-7. On Thursday, we will discuss statistical significance and p values further. Here are three things you might want to glance at before that session:
-    - "[Not even scientists can easily explain p values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)" by Christie Aschwanden at FiveThirtyEight.
-    - [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*.
-    - The American Statistical Association’s 2016 [Statement on p-Values: Context, Process and Purpose](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108).
+
+## This Week
+
+Today's class makes substantial use of [the pwr package in R](https://github.com/heliosdrm/pwr) to address some issues related to power and sample size calculations associated with assessing differences in population means, or in population proportions.
+
+- Sections 22 and 27 of our Course Notes are particularly relevant.
+- Another resource to consider is [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) which uses the `pwrss` package instead, and which looks very promising.
+
+On Thursday, we will discuss statistical significance and p values further. Here are three things you might want to glance at before that session:
+
+- "[Not even scientists can easily explain p values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)" by Christie Aschwanden at FiveThirtyEight.
+- [Statistical Inference in the 21st Century: A World Beyond p < 0.05](https://amstat.tandfonline.com/toc/utas20/73/sup1) from 2019 in *The American Statistician*.
+- The American Statistical Association’s 2016 [Statement on p-Values: Context, Process and Purpose](http://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108).
 
 ## Project A Proposals
 
-- The Project A materials (Portfolio Report (which includes qmd, Rds and HTML), "Highlight" Video and Self-Evaluation) are all due to Canvas at noon on Tuesday 2023-10-31 (two weeks from today.)
+- The Project A materials (Portfolio Report (which includes qmd, Rds and HTML), "Highlight" Video and Self-Evaluation) are due to Canvas at noon on Tuesday 2023-10-31 (two weeks from today.)
 - Updated Project A Proposal Status [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 - Some trivia and interesting details from [the 45 Project A Proposals are available, too](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_plans.md).
 - Don't forget about the [Sample Project A-style Analyses using the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class14#sample-analyses-related-to-project-a) we discussed last Thursday.
@@ -43,11 +51,11 @@ Class | Date | Slides | Quarto .qmd | Recording
 - **12** of the 45 proposals had a problem because they used something other than `date: last-modified` in their YAML. Please correct your YAML in your portfolio (we'll be looking for this.)
 - **29** of the 45 proposals neglected (at least once) to include a blank line before and after every code chunk, every header (or subheader) and every paragraph. Again, we'd really like you to fix this by the time you submit your portfolio.
 
-### Styling Your Code
+## Styling Your Quarto Code
 
 You may be interested in [the styler package](https://github.com/r-lib/styler), which can be used on existing Quarto (or R or R Markdown) code to adapt it to [the tidyverse style guide](https://style.tidyverse.org/).
 
-- This wouldn't resolve misspellings (hit F7 in RStudio) or the `date` or blank line issues mentioned above, but is still of some use.
+- This wouldn't resolve misspellings (hit F7 in RStudio to address this, to a degree) or the `date` or blank line issues mentioned above, but is still useful.
 
 ## One Last Thing
 
