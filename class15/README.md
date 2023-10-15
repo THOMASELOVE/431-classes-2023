@@ -51,7 +51,7 @@ On Thursday, we will discuss statistical significance and p values further. Here
 ## Four Common Issues with the Project A Proposals
 
 - A problem lots of people had (which I mostly didn't mention, but will look for more closely in the portfolios) is that in the codebook (Section 11) you need to specify the years when the data were actually collected by County Health Rankings for your chosen outcome and predictor variables. Look [here for those details](https://www.countyhealthrankings.org/explore-health-rankings/county-health-rankings-measures).
-- Try to get through all of Project A without using the word "significant". The reasons why will be clearer after next Thursday's class.
+- Try to get through all of Project A without using the word "significant". The reasons why will be clearer after Thursday's class.
 - **12** of the 45 proposals had a problem because they used something other than `date: last-modified` in their YAML. Please correct your YAML in your portfolio (we'll be looking for this.)
 - **29** of the 45 proposals neglected (at least once) to include a blank line before and after every code chunk, every header (or subheader) and every paragraph. Again, we'd really like you to fix this by the time you submit your portfolio.
 
