@@ -52,7 +52,8 @@ Some other resources for learning more after today's talk are:
 
 ## What to Work on This Weekend (through Wednesday)
 
-1. Lab 5, due **THURSDAY** 2023-10-26 at noon.
+1. [Lab 5](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab05/lab05.pdf) due **THURSDAY** 2023-10-26.
+    - Although this Lab has 10 questions, you are to answer only seven. Everyone will answer questions 1, 5, 9 and 10, but some will then choose to answer 2-4 and others 6-8. Doing all ten questions will yield no benefit to your grade on the Lab, although it might help increase your understanding for the Project.
 2. Project A, due Tuesday 2023-10-31.
 3. Read *The Art of Statistics* through Chapter 9.
 4. It's never too early to start working on [Lab X](https://thomaselove.github.io/431-labX/).
