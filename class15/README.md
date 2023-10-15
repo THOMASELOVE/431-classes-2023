@@ -23,12 +23,14 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Lab 5 is due Thursday 2023-10-26 at Noon instead of the usual Tuesday submission.
 3. [Instructions for Lab 5](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab05/lab05.pdf) are now available.
     - Although this Lab has 10 questions, you are to answer only seven. Everyone will answer questions 1, 5, 9 and 10, but some will then choose to answer 2-4 and others will answer 6-8. Doing all ten questions will yield no benefit to your grade on the Lab, although it might help increase your understanding for Project A analyses 2 and 3.
+    - We have already covered all the material we will cover in class that related to Lab 5.
+    - Spiegelhalter Chapter 6 is crucial reading before you do Lab 5 Question 10.
 4. [Part C of the Course Notes](https://thomaselove.github.io/431-notes/29-mult_reg_intro.html) (Chapters 29-35) is now posted. This completes the [Fall 2023 Course Notes](https://thomaselove.github.io/431-notes/).
 5. An answer sketch for Lab 4 will be posted on Thursday 2023-10-19 by class time.
 
 ## This Week
 
-Today's class makes substantial use of [the pwr package in R](https://github.com/heliosdrm/pwr) to address some issues related to power and sample size calculations associated with assessing differences in population means, or in population proportions.
+Today's class makes some use of [the pwr package in R](https://github.com/heliosdrm/pwr) to address some issues related to power and sample size calculations associated with assessing differences in population means, or in population proportions.
 
 - Sections 22 and 27 of our Course Notes are particularly relevant.
 - Another resource to consider is [A Practical Guide to Statistical Power and Sample Size Calculations in R](https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html) which uses the `pwrss` package instead, and which looks very promising.
