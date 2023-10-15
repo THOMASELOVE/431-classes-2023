@@ -16,7 +16,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There is a Minute Paper after Class 15, due Wednesday 2023-10-18 at noon. We'll post it **by class time**.
+1. There is a [Minute Paper after Class 15](https://bit.ly/431-2023-minute-15), due Wednesday 2023-10-18 at noon. The link is <https://bit.ly/431-2023-minute-15>.
 2. Remember that we don't have class next Tuesday 2023-10-24, or TA hours next Monday or Tuesday thanks to Fall Break. Campuswire will be open.
 3. Part C of the Course Notes should be posted **by class time**.
 4. Instructions for Lab 5 will be posted **by class time**.
