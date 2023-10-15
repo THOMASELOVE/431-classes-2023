@@ -21,7 +21,8 @@ Class | Date | Slides | Quarto .qmd | Recording
     - we don't have class next Tuesday 2023-10-24, and 
     - we won't hold TA hours next Monday 2023-10-23 or Tuesday 2023-10-24, but [Campuswire](https://thomaselove.github.io/431-2023/campuswire.html) will remain open, and
     - Lab 5 is due Thursday 2023-10-26 at Noon instead of the usual Tuesday submission.
-3. Instructions for Lab 5 will be posted **by class time**.
+3. [Instructions for Lab 5](https://github.com/THOMASELOVE/431-labs-2023/blob/main/lab05/lab05.pdf) are now available.
+    - Although this Lab has 10 questions, you are to answer only seven. Everyone will answer questions 1, 5, 9 and 10, but some will then choose to answer 2-4 and others 6-8. Doing all ten questions will yield no benefit to your grade, although it might help increase your understanding.
 4. [Part C of the Course Notes](https://thomaselove.github.io/431-notes/29-mult_reg_intro.html) (Chapters 29-35) is now posted. This completes the [Fall 2023 Course Notes](https://thomaselove.github.io/431-notes/).
 5. An answer sketch for Lab 4 will be posted on Thursday 2023-10-19 by class time.
 
