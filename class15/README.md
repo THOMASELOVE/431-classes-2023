@@ -34,17 +34,14 @@ Class | Date | Slides | Quarto .qmd | Recording
 - The Project A materials (Portfolio Report (which includes qmd, Rds and HTML), "Highlight" Video and Self-Evaluation) are all due to Canvas at noon on Tuesday 2023-10-31 (two weeks from today.)
 - Updated Project A Proposal Status [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 - Some trivia and interesting details from [the 45 Project A Proposals are available, too](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_plans.md).
-- Don't forget about the [Sample Project A-style Analyses using the Favorite Movies data(https://github.com/THOMASELOVE/431-classes-2023/tree/main/class14#sample-analyses-related-to-project-a) we discussed last Thursday.
+- Don't forget about the [Sample Project A-style Analyses using the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class14#sample-analyses-related-to-project-a) we discussed last Thursday.
 
 ## Four Common Issues with the Project A Proposals
 
 - A problem lots of people had (which I mostly didn't mention, but will look for more closely in the portfolios) is that in the codebook (Section 11) you need to specify the years when the data were actually collected by County Health Rankings for your chosen outcome and predictor variables. Look [here for those details](https://www.countyhealthrankings.org/explore-health-rankings/county-health-rankings-measures).
 - Try to get through all of Project A without using the word "significant". The reasons why will be clearer after next Thursday's class.
 - **12** of the 45 proposals had a problem because they used something other than `date: last-modified` in their YAML. Please correct your YAML in your portfolio (we'll be looking for this.)
-    - Groups in this situation were: G062, G181, G201, G261, G271, G301, G321, G371, G412, G471, G501, and G511.
 - **29** of the 45 proposals neglected (at least once) to include a blank line before and after every code chunk, every header (or subheader) and every paragraph. Again, we'd really like you to fix this by the time you submit your portfolio.
-    - Groups in this situation included: G032, G042, G051, G081, G092, G111, G121, G151, G161, G181, G221, G242, G252, G281, G301, G311, G342, G352, G382, G391, G412, G431, G451, G471, G492, G501, G511, G531, G561
-- Project group codes are specified on the [Project A Proposal Status page](projectAproposal.md)
 
 ### Styling Your Code
 
