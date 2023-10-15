@@ -20,7 +20,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Thanks to Fall Break,
     - we don't have class next Tuesday 2023-10-24, and 
     - we won't hold TA hours next Monday 2023-10-23 or Tuesday 2023-10-24, but [Campuswire](https://thomaselove.github.io/431-2023/campuswire.html) will remain open, and
-    - Lab 5 is due Thursday 2023-10-26 at Noon instead of the usual Tuesday submission. Instructions for Lab 5 will be posted **by class time**.
+    - Lab 5 is due Thursday 2023-10-26 at Noon instead of the usual Tuesday submission.
+3. Instructions for Lab 5 will be posted **by class time**.
 4. Part C of the Course Notes should be posted **by class time**.
 5. An answer sketch for Lab 4 will be posted on Thursday 2023-10-19 by class time.
 
