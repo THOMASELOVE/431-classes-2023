@@ -25,6 +25,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Although this Lab has 10 questions, you are to answer only seven. Everyone will answer questions 1, 5, 9 and 10, but some will then choose to answer 2-4 and others will answer 6-8. Doing all ten questions will yield no benefit to your grade on the Lab, although it might help increase your understanding for Project A analyses 2 and 3.
     - We have already covered all the material we will cover in class that related to Lab 5.
     - Spiegelhalter Chapter 6 is crucial reading before you do Lab 5 Question 10.
+    - Instructions for the remaining Labs 6 and 7 (due in November) as well as Lab X [are now available](https://github.com/THOMASELOVE/431-labs-2023/tree/main).
 4. [Part C of the Course Notes](https://thomaselove.github.io/431-notes/29-mult_reg_intro.html) (Chapters 29-35) is now posted. This completes the [Fall 2023 Course Notes](https://thomaselove.github.io/431-notes/).
 5. An answer sketch for Lab 4 will be posted on Thursday 2023-10-19 by class time.
 
