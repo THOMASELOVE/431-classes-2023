@@ -14,6 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. Here is a nice [Editorial by Jeff Witmer](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415) (from Oberlin College) at the *Journal of Statistics Education* which is *a position paper on the use of p-values, statistical inference, terminology, and related ideas*. I got a lot out of it, and there's a lot here related to our discussion in Class 16.
 
 ## One Last Thing: On Managing an R Project
 
