@@ -28,6 +28,9 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Instructions for the remaining Labs 6 and 7 (due in November) as well as Lab X [are now available](https://github.com/THOMASELOVE/431-labs-2023/tree/main).
 4. [Part C of the Course Notes](https://thomaselove.github.io/431-notes/29-mult_reg_intro.html) (Chapters 29-35) is now posted. This completes the [Fall 2023 Course Notes](https://thomaselove.github.io/431-notes/).
 5. An answer sketch for Lab 4 will be posted on Thursday 2023-10-19 by class time.
+6. Complete [Project B instructions](https://thomaselove.github.io/431-projectB-2023/) are now available.
+    - I strongly suggest ignoring them until you have completed Project A, with the possible exception of using the [Study 1 Sample Report](https://thomaselove.github.io/431-projectB-2023/sample-study1.html) for Project B as a way to review some key issues in confidence interval estimation when comparing means.
+    - The first deadline associated with Project B is the [Registration Form](https://bit.ly/431-projB-registration-2023), which is due at 9 AM on Tuesday 2023-11-14.
 
 ## This Week
 
