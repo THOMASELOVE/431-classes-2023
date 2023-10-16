@@ -45,7 +45,7 @@ On Thursday, we will discuss statistical significance and p values further. Here
 ## Project A Proposals
 
 - The Project A materials (Portfolio Report (which includes qmd, Rds and HTML), "Highlight" Video and Self-Evaluation) are due to Canvas at noon on Tuesday 2023-10-31 (two weeks from today.)
-- Updated Project A Proposal Status [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
+- All Project A Proposals have been approved. Status [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_proposal.md).
 - Some trivia and interesting details from [the 45 Project A Proposals are available, too](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/projectA_plans.md).
 - Don't forget about the [Sample Project A-style Analyses using the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class14#sample-analyses-related-to-project-a) we discussed last Thursday.
 
