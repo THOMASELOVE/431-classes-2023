@@ -16,7 +16,7 @@ You'll have 15-20 minutes to accomplish the following tasks.
     - The other variable you suggest should be **quantitative**, so that it takes values across a range of numerical results, and has units of measurement. 
         - An example (that you shouldn't use, since I have it already) would be the percentage of raters on IMDB that rated the film at the maximum level (10 stars) which is a percentage ranging from 0% to 100%. This is available by clicking on the number of people who rated the film on the main IMDB page.
         - In this work, we'll require a quantitative variable to be any quantity that has at minimum 11 different observed values in our set of films. Eleven is too small a count, really, to declare something "quantitative" in practice, but we'll make the best of it.
-4. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2023-movies-2) to report your group's results and has submitted the form successfully (they should receive an email confirmation.)
+4. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2023-movies-2) to report your group's response and has submitted the form successfully (they should receive an email confirmation.)
 
 ## The Variables Included In `movies_2023-09-14`
 
