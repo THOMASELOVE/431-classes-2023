@@ -65,6 +65,10 @@ You may be interested in [the styler package](https://github.com/r-lib/styler), 
 
 - This wouldn't resolve misspellings (hit F7 in RStudio to address this, to a degree) or the `date` or blank line issues mentioned above, but is still useful.
 
+## Breakout Session 2 for Favorite Movies is coming soon...
+
+See [this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout2.md) for details. We'll get to this today if we have time.
+
 ## One Last Thing
 
 [Teaching the Difficult Past of Statistics to Improve the Future](https://www.tandfonline.com/doi/full/10.1080/26939169.2023.2224407) by Lee Kennedy-Shaffer is an interesting paper. Here's the abstract:
