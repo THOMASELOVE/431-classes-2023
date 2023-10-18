@@ -49,4 +49,4 @@ list_2023	| # of students who mentioned this film in the Fall 2023 version of 43
 rt_critics | % of critics who favorably reviewed the film (via Rotten Tomatoes)
 rt_audience | % of audience reviewers who were favorable about the film (via Rotten Tomatoes)
 
-- Note that the two `rt_` variables are available in our existing file only for films mentioned by students in the Fall 2023 version of 431 in the current data, but Dr. Love is also gathering these two variables for all of the other movies.
+- Note that the two `rt_` variables are available in our existing file only for films mentioned by students in the Fall 2023 version of 431 in the current data, but Dr. Love has also gathered these two variables for all of the other movies.
