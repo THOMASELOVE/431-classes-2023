@@ -1,6 +1,6 @@
 # Favorite Movies: Breakout Activity 2
 
-To be completed soon, perhaps as early as Class 15 (2023-10-17)
+Started during Class 15 (2023-10-17). Completed during Class 16 (2023-10-19)
 
 ## Your Task(s) for Today
 
