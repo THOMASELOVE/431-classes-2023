@@ -22,6 +22,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Feedback on the Minute Paper after Class 15 will be posted **by class time**.
 3. An answer sketch for Lab 4 will be posted **by class time**.
 
+## Breakout Session 2 on Favorite Movies
+
+We'll spend 15 minutes today on [Breakout 2](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout2.md) today. Please join the group you were with on Tuesday, or (if you missed Tuesday's class) join an existing group.
+
 ## Materials Discussed in Today's Class
 
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
