@@ -4,7 +4,7 @@ Started during Class 15 (2023-10-17). Completed during Class 16 (2023-10-19)
 
 ## Your Task(s) for Today
 
-You'll have 15-20 minutes to accomplish the following tasks.
+You'll have 15 minutes to accomplish the following tasks.
 
 1. Form a group of 4-6 people. Come up with a memorable name for your group that each of you will be able to remember on Thursday. If your group has fewer than 4 or more than 6 people, raise your hand, and we'll change the groups around.
 2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2023-movies-2>. Try to have someone who hasn't done this for prior work do this, so I can spread around the credit.
