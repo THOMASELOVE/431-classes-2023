@@ -6,7 +6,7 @@ Started during Class 15 (2023-10-17). Completed during Class 16 (2023-10-19)
 
 You'll have 15 minutes to accomplish the following tasks.
 
-1. Form a group of 4-6 people. Come up with a memorable name for your group that each of you will be able to remember on Thursday. If your group has fewer than 4 or more than 6 people, raise your hand, and we'll change the groups around.
+1. Form a group of 4-6 people. Come up with a memorable name for your group that each of you will be able to remember at our next class meeting. If your group has fewer than 4 or more than 6 people, raise your hand, and we'll change the groups around.
 2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2023-movies-2>. Try to have someone who hasn't done this for prior work do this, so I can spread around the credit.
 3. As a group, you will identify **two new variables** (one **categorical** and one **quantitative**) available on the internet (not necessarily on IMDB) that could be added to the data to expand on what could be studied here in an interesting way. For each variable, we're hoping you will (a) identify a URL on the internet where those data seem to be available and (b) identify a **meaningful exploratory question** that incorporates that variable, along with at least one of the variables we have available in the existing data base. 
     - The current list of variables is [in the codebook](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/codebook1.md) and also at the bottom of this page.
