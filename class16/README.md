@@ -22,6 +22,15 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. [Feedback on the Minute Paper after Class 15](https://bit.ly/431-2023-min-15-feedback) is now available.
 3. An answer sketch for Lab 4 will be posted to our Shared Drive **by class time**.
 
+## Project A: Adjustments to Analysis 1 instructions
+
+On the Analyses page for Analysis 1, [section 2.3.1 (Residual Analysis)](https://thomaselove.github.io/431-projectA-2023/analyses.html#residual-analysis) used to have five parts, now it has just four.
+
+- The old part 5 was "assess whether fitting a robust linear model (using the rlm() function in the MASS package) produces a meaningfully different fit than an ordinary least squares model. (If so, this would indicate that your OLS model may be influenced by outliers.)"
+    - We are no longer requiring you to do this. If you've already done it, OK. If you haven't, then skip it.
+
+- Also in Analysis 1, when selecting a transformation, use of a Box-Cox plot is not important. Feel encouraged to simply fit the three transformations on your own, select the one that works best, and show just that one, along with the plot of the raw data.
+
 ## Breakout Session 2 on Favorite Movies
 
 We'll spend 15 minutes today on [Breakout 2](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout2.md) today. Please join the group you were with on Tuesday, or (if you missed Tuesday's class) join an existing group.
