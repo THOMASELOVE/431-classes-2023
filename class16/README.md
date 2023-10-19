@@ -19,8 +19,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Remember that we don't have class next Tuesday 2023-10-24, or TA hours next Monday or Tuesday thanks to Fall Break. Campuswire will be open.
-2. Feedback on the Minute Paper after Class 15 will be posted **by class time**.
-3. An answer sketch for Lab 4 will be posted **by class time**.
+2. [Feedback on the Minute Paper after Class 15](https://bit.ly/431-2023-min-15-feedback) is now available.
+3. An answer sketch for Lab 4 will be posted to our Shared Drive **by class time**.
 
 ## Breakout Session 2 on Favorite Movies
 
@@ -52,7 +52,6 @@ Some other resources for learning more after today's talk are:
 - You may also be interested in this piece at pbs.org about a NOVA program entitled "[Rethinking Science's Magic Number](https://www.pbs.org/wgbh/nova/article/rethinking-sciences-magic-number/)".
 - I have given several talks on "Rethinking Statistical Significance" in recent years. The Github repository (90 minutes at MetroHealth Medical Center and the Center for Health Care Research and Policy, with an audio recording) is at https://github.com/THOMASELOVE/rethink, if you're a glutton for punishment.
 - [Why p values are like puppies](https://www.youtube.com/watch?v=9jW9G8MO4PQ) is a 3:29 YouTube Video by Cassie Kozyrkov, MS, Chief Decision Scientist, Google Inc. It explains how to understand and interpret *p* values in an intuitive way using an example based on puppies.
-
 
 ## What to Work on This Weekend (through Wednesday)
 
