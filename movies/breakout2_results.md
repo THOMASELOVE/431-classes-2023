@@ -12,8 +12,8 @@ Bechdel Buddies | Bechdel-Wallace Test | [bechdeltest](https://bechdeltest.com/)
 Aliens | Bechdel-Wallace Test | [bechdeltest](https://bechdeltest.com/) | Do movies that pass the Bechdel test have lower IMBD_ratings?
 Outliers | Oscar Winner? | [oscars.org](https://www.oscars.org/oscars/ceremonies/2023) | Is there an association between Winner of an Oscar and imdb_rating?
 Spark Minds | Oscar Winner since 2003? | [today.com](https://www.today.com/popculture/complete-list-every-best-picture-oscar-winner-ever-t107617) | Who are the top five actors listed as the first star in films winning the most Oscar awards from 2003 to 2023?
-Stats R Fun	| Main Language | [filmcrave.com](https://www.filmcrave.com/list_language_movie.php?language=English) | Do movies made initially in English have a higher proportion of action/adventure movies compared to other languages?
-Paranormal Distribution | Bacon number (of first actor) | [Oracle of Bacon](https://oracleofbacon.org/) | What is the mode bacon number across 1st actors listed in our dataset? 
+Stats R Fun	| Main Language | [filmcrave.com](https://www.filmcrave.com/list_language_movie.php?language=English) | Do movies made in English have a higher proportion of action/adventure movies compared to other languages?
+Paranormal Distribution | Bacon number (of first actor) | [Oracle of Bacon](https://oracleofbacon.org/) | What is the modal Bacon number across 1st actors in our dataset? 
 
 ## Suggested Quantitative Variables
 
@@ -24,6 +24,6 @@ Outliers | Movie Revenue | [boxofficemojo](https://www.boxofficemojo.com/year/) 
 Bechdel Brothers | Total Gross Revenue | [the-numbers](https://www.the-numbers.com/) | How does total gross change over time?
 Bechdel Buddies  | Total Gross Revenue  | [the-numbers](https://www.the-numbers.com/) | Do number of mentions have an association with total gross revenue?  
 Stats R Fun | Worldwide gross Revenue | [the-numbers](https://www.the-numbers.com/) | Do higher rated movies have a higher worldwide gross financial performance record?
-Aliens | Money  | [the-numbers](https://www.the-numbers.com/) | Do movies with higher rt_critics values made more money?
+Aliens | Money  | [the-numbers](https://www.the-numbers.com/) | Do movies with higher rt_critics values make more money?
 How R you | Number of theaters  | [the-numbers](https://www.the-numbers.com/) | Does the number of theaters the movie played in increase as the imdb ratings increase? 
 Paranormal Distribution | Net worth (of first actor)  | [celebritynetworth](https://www.celebritynetworth.com/) | Is there a relationship between bacon number and net worth of first listed actors? 
