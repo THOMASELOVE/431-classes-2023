@@ -15,15 +15,18 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Here is a nice [Editorial by Jeff Witmer](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415) (from Oberlin College) at the *Journal of Statistics Education* which is *a position paper on the use of p-values, statistical inference, terminology, and related ideas*. I got a lot out of it, and there's a lot here related to our discussion in Class 16.
-2. I have posted some of the responses to [Lab 3](https://github.com/THOMASELOVE/431-labs-2023) Question 6 that we liked to our Shared Drive in the Lab Answer Sketches folder.
+2. We have posted some of the responses to [Lab 3](https://github.com/THOMASELOVE/431-labs-2023) Question 6 that we liked to our Shared Drive in the Lab Answer Sketches folder.
 3. We will post grades and feedback for [Lab 4](https://github.com/THOMASELOVE/431-labs-2023), along with a couple of the better responses for Questions 1-4 **by class time**.
 4. We will post an Answer Sketch for [Lab 5](https://github.com/THOMASELOVE/431-labs-2023) on Saturday 2023-10-28 by noon.
-5. Your final Project A Portfolio is due to Canvas at **noon** on **Tuesday 2023-10-31**.
+5. Your final [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/portfolio.html) is due to Canvas at **noon** on **Tuesday 2023-10-31**.
     - Please submit the qmd, rds, HTML and video (mp4) files all together to the Project A Portfolio assignment on [Canvas](https://canvas.case.edu).
-    - If you have a partner, one of you must submit the one-pager stating who your partner is and that they will submit the materials.
-    - Your video should be a maximum of 3 minutes. That will be hard to do. If your submitted video is over 3 minutes and 15 seconds, you will be penalized.
-    - Remember to also complete the [Self-Evaluation form](https://bit.ly/431-projectA-self-evaluation-2023). If you have a partner, **each** of you must do this separately.
-    - I posted the [dates and sources for variables in Analysis 3 that come from CHR 2018](https://thomaselove.github.io/431-projectA-2023/data.html#data-task-5.-add-2018-data-for-your-analysis-3-outcome) to the Project A Data page on Sunday. Please get this information into your Codebook (Section 11.)
+        - Try to avoid submitting anything other than those four files.
+        - If you have a partner, one of you must submit the one-pager stating who your partner is and that they will submit the materials, while the other submits the 4 files.
+    - Your [highlight video](https://thomaselove.github.io/431-projectA-2023/portfolio.html#the-highlight-video) should be a maximum of 3 minutes. That will be hard to do. Read the instructions carefully.
+        - If your submitted video is over 3 minutes and 15 seconds, you will be penalized.
+    - Do not forget to complete the [Self-Evaluation form](https://bit.ly/431-projectA-self-evaluation-2023).
+        - If you have a partner, **each** of you must complete this form separately.
+    - I posted the [dates and sources for variables in Analysis 3 that come from CHR 2018](https://thomaselove.github.io/431-projectA-2023/data.html#data-task-5.-add-2018-data-for-your-analysis-3-outcome) to the Project A Data page on Sunday 2023-10-22. Please get this information into your Codebook (Section 11.)
 
 ## One Last Thing: On Managing an R Project
 
