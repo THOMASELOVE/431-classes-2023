@@ -6,10 +6,10 @@ I received responses from 8 groups. Special thanks to those of you who submitted
 
 Group | Suggested Variable | Source | Exploratory Question
 --------- | ---------------- | ------------- | ---------------------------------------------------------------------
-How R you | Bechdel Test - Is the movie 1, 2, 3, or none? | [bechdeltest.com](https://bechdeltest.com/) | What's the relationship between the date the movie was released and the Bechdel score? 
-Bechdel brothers | Bechdel Test | [bechdeltest.com](https://bechdeltest.com/) | Does movie pass the Bechdel Test?
-Bechdel Buddies | Bechdel Test (yes or no) | [bechdeltest.com](https://bechdeltest.com/) | Does the pass rate of the Bechdel Test increase with time (year of release)?  
-Aliens | Passing the Bechdel test | [bechdeltest.com](https://bechdeltest.com/) | Do movies that pass the Bechdel test have lower IMBD_ratings?
+How R you | Bechdel Test - Is the movie 1, 2, 3, or none? | [bechdeltest](https://bechdeltest.com/) | What's the relationship between the date the movie was released and the Bechdel score? 
+Bechdel brothers | Bechdel Test | [bechdeltest](https://bechdeltest.com/) | Does movie pass the Bechdel Test?
+Bechdel Buddies | Bechdel Test (yes or no) | [bechdeltest](https://bechdeltest.com/) | Does the pass rate of the Bechdel Test increase with time (year of release)?  
+Aliens | Passing the Bechdel test | [bechdeltest](https://bechdeltest.com/) | Do movies that pass the Bechdel test have lower IMBD_ratings?
 Outliers | Winner of an Oscar | [oscars.org](https://www.oscars.org/oscars/ceremonies/2023) | Is there an association between Winner of an Oscar and imdb_rating?
 Spark Minds | Winner of an Oscar since 2003? | [today.com](https://www.today.com/popculture/complete-list-every-best-picture-oscar-winner-ever-t107617) | Who are the top five actors listed as the first star in films winning the most Oscar awards from 2003 to 2023?
 Stats R Fun	| Language | [filmcrave.com](https://www.filmcrave.com/list_language_movie.php?language=English) | Do movies made initially in English have a higher proportion of action/adventure movies compared to other languages?
