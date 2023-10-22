@@ -19,7 +19,7 @@ For each movie, I gathered several characteristics from the [Internet Movie Data
 ## Breakout Session 2
 
 - Here's our [second breakout activity](breakout2.md), which we completed in Class 16 (2023-10-19).
-- I will **soon** share the results of that activity.
+- Here are some [results of that second breakout activity](breakout2_results.md), which we will discuss in Class 17 (2023-10-26).
 
 ## New Data Set: `movies_2023-10-24`
 
