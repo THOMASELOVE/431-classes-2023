@@ -29,7 +29,7 @@ Your final [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023
 
 1. Please submit the four files (`qmd`, `rds`, `HTML` and video (`mp4`)) together to the Project A Portfolio assignment on [Canvas](https://canvas.case.edu).
     - Try to avoid submitting anything other than those four files, and if you have to resubmit one thing, resubmit all four at once.
-    - If you have a partner, one of you must submit the one-pager stating who your partner is and that they will submit the materials, while the other submits the 4 files.
+    - If you have a partner, one of you must submit the one-pager stating who your partner is and that they will submit the materials, while the other submits the four files.
 2. Your [highlight video](https://thomaselove.github.io/431-projectA-2023/portfolio.html#the-highlight-video) should be a maximum of 3 minutes. That will be hard to do. Read the instructions carefully.
     - If your submitted video is over 3 minutes and 10 seconds, you are risking a substantial penalty.
 3. Do not forget to complete the [Self-Evaluation form](https://bit.ly/431-projectA-self-evaluation-2023).
