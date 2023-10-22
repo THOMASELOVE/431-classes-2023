@@ -19,11 +19,11 @@ Paranormal Distribution | Bacon number (Bacon number of the 1st actor listed fro
 
 Group | Suggested Variable | Source | Exploratory Question
 --------- | ---------------- | ------------- | ---------------------------------------------------------------------
-Outliers | Movie Revenue | https://www.boxofficemojo.com/year/ | Which category of movie has the highest gross revenue?
-Spark Minds | Highest revenue generating movies from 2003 to 2023 | https://www.boxofficemojo.com/year/ | Which genre of movie generated the most revenue between 2003 and 2023?
-How R you | How many movie theaters did the movie play in?  | https://www.the-numbers.com/ | Does the number of theaters the movie played in increase as the imdb ratings increase? 
-Bechdel brothers | Total Gross | http://bit.ly/3FviK4t | How does total gross change over time?
-Stats R Fun | worldwide gross financial performance record | https://the-numbers.com/movie/budgets | Do higher rated movies have a higher worldwide gross financial performance record?
-Bechdel Buddies  | Total Gross Revenue  | https://www.the-numbers.com/daily-box-office-chart | Do number of mentions have an association with total gross revenue?  
-Aliens | Money  | https://www.the-numbers.com/ | Do movies with higher rt_critics values made more money?
-Paranormal Distribution | Net worth (net worth of the first listed actor variable in our dataset)  | https://www.celebritynetworth.com/ | Is there a relationship between bacon number and net worth of first listed actors? 
+Outliers | Movie Revenue | [boxofficemojo](https://www.boxofficemojo.com/year/) | Which category of movie has the highest gross revenue?
+Spark Minds | Highest revenue movies (2003-2023) | [boxofficemojo](https://www.boxofficemojo.com/year/) | Which genre of movie generated the most revenue between 2003 and 2023?
+Bechdel brothers | Total Gross Revenue | [the-numbers](https://www.the-numbers.com/) | How does total gross change over time?
+Bechdel Buddies  | Total Gross Revenue  | [the-numbers](https://www.the-numbers.com/) | Do number of mentions have an association with total gross revenue?  
+Stats R Fun | Worldwide gross Revenue | [the-numbers](https://www.the-numbers.com/) | Do higher rated movies have a higher worldwide gross financial performance record?
+Aliens | Money  | [the-numbers](https://www.the-numbers.com/) | Do movies with higher rt_critics values made more money?
+How R you | How many theaters did the movie play in?  | [the-numbers](https://www.the-numbers.com/) | Does the number of theaters the movie played in increase as the imdb ratings increase? 
+Paranormal Distribution | Net worth of first listed actor  | [celebritynetworth](https://www.celebritynetworth.com/) | Is there a relationship between bacon number and net worth of first listed actors? 
