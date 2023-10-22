@@ -18,4 +18,18 @@ For each movie, I gathered several characteristics from the [Internet Movie Data
 
 ## Breakout Session 2
 
-- Here's our [second breakout activity](breakout2.md), which we will go through as early as Class 15 (2023-10-17).
+- Here's our [second breakout activity](breakout2.md), which we completed in Class 16 (2023-10-19).
+- I will **soon** share the results of that activity.
+
+## New Data Set: `movies_2023-10-24`
+
+Breakout 2 led to my creation of a **new Google Sheet** called `movies_2023-10-24`, which is available on our Shared Drive. 
+
+- This data set includes 90 variables for each of the 201 movies on our list.
+- The Google Sheet has two tabs: **Data_90vars**, which contains the data on each movie, and **Codebook_90vars** which contains:
+    - The column and number of each of the 90 variables for identification
+    - The name and the description of each variable
+    - The source of each variable
+    - The type of variable (id, integer, count, factor, character, decimal, link)
+    - The number of missing values (out of the 201 movies)
+    - for quantities: the minimum, median, maximum, mean and standard deviation of the values
