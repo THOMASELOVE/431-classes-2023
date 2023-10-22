@@ -27,7 +27,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 Your final [Project A Portfolio](https://thomaselove.github.io/431-projectA-2023/portfolio.html) is due to Canvas at **noon** on **Tuesday 2023-10-31**.
 
-1. Please submit the qmd, rds, HTML and video (mp4) files all together to the Project A Portfolio assignment on [Canvas](https://canvas.case.edu).
+1. Please submit the four files (`qmd`, `rds`, `HTML` and video (`mp4`)) together to the Project A Portfolio assignment on [Canvas](https://canvas.case.edu).
     - Try to avoid submitting anything other than those four files, and if you have to resubmit one thing, resubmit all four at once.
     - If you have a partner, one of you must submit the one-pager stating who your partner is and that they will submit the materials, while the other submits the 4 files.
 2. Your [highlight video](https://thomaselove.github.io/431-projectA-2023/portfolio.html#the-highlight-video) should be a maximum of 3 minutes. That will be hard to do. Read the instructions carefully.
