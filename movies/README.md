@@ -26,7 +26,7 @@ For each movie, I gathered several characteristics from the [Internet Movie Data
 Breakout 2 led to my creation of a **new Google Sheet** called `movies_2023-10-24`, which is available on our Shared Drive. 
 
 - This data set includes 90 variables for each of the 201 movies on our list.
-- The Google Sheet has two tabs: **Data_90vars**, which contains the data on each movie, and **Codebook_90vars** which contains:
+- The Google Sheet has two tabs: **Data_90vars**, which contains the data on each movie, and **Codebook_90vars**, which contains:
     - The column and number of each of the 90 variables for identification
     - The name and the description of each variable
     - The source of each variable
