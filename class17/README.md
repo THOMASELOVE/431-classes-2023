@@ -16,7 +16,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. Here is a nice [Editorial by Jeff Witmer](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415) (from Oberlin College) at the *Journal of Statistics Education* which is *a position paper on the use of p-values, statistical inference, terminology, and related ideas*. I got a lot out of it, and there's a lot here related to our discussion in Class 16.
 2. We have posted some of the responses to [Lab 3](https://github.com/THOMASELOVE/431-labs-2023) Question 6 that we liked to our Shared Drive in the Lab Answer Sketches folder.
-3. We will post grades and feedback for [Lab 4](https://github.com/THOMASELOVE/431-labs-2023), along with a couple of the better responses for Questions 1-4 **by class time**.
+3. We will post grades and feedback for [Lab 4](https://github.com/THOMASELOVE/431-labs-2023) **by class time**, and we posted two of the better responses for Questions 1-4 to our Shared Drive in the Lab Answer Sketches folder.
 4. We will post an Answer Sketch for [Lab 5](https://github.com/THOMASELOVE/431-labs-2023) on Saturday 2023-10-28 by noon.
 5. We went through the Movies [Breakout 2 activity](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout2.md) last week, and the [results of that work are available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/breakout2_results.md).
     - Breakout 2 led to my creation of a [new Google Sheet called `movies_2023-10-24`](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies#new-data-set-movies_2023-10-24), which is available on our Shared Drive.
