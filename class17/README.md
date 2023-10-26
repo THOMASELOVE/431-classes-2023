@@ -22,6 +22,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Breakout 2 led to my creation of a [new Google Sheet called `movies_2023-10-24`](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies#new-data-set-movies_2023-10-24), which is available on our Shared Drive.
     - For our 201 movies, the new version now includes **90** variables, vs. the 22 in the `movies_2023-09-14` data.
     - At least one more Breakout session is coming soon.
+6. No Minute Paper this week.
 
 ## Project A is due Tuesday at Noon.
 
