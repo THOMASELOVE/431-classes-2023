@@ -12,6 +12,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 - To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
+[Halloween Facts Infographic: Spooky Stats for 2023](https://wallethub.com/blog/halloween-facts/25374) by John S. Kiernan
+
 ## Announcements
 
 1. There is a Minute Paper after Class 18, due at noon Wednesday 2023-11-01. We will **post the link by class time**.
