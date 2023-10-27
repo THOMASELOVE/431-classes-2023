@@ -1,4 +1,4 @@
-# Student Submissions of Lab X
+# Student Submissions of Lab X for Fall 2023
 
 - Elaine Liu: <https://eliu98.github.io/>
 - Robert Schauner: <http://www.schauner.com/>
