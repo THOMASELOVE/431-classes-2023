@@ -12,7 +12,9 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 - To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
-[Halloween Facts Infographic: Spooky Stats for 2023](https://wallethub.com/blog/halloween-facts/25374) by John S. Kiernan
+![](halloween.png)
+
+- This is an excerpt from [Halloween Facts Infographic: Spooky Stats for 2023](https://wallethub.com/blog/halloween-facts/25374) by John S. Kiernan
 
 ## Announcements
 
