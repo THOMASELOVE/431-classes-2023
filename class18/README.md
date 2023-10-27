@@ -19,7 +19,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. There is a Minute Paper after Class 18, due at noon Wednesday 2023-11-01. We will **post the link by class time**.
-2. Project A initial checks will be completed on Wednesday 2023-11-01 at 9 AM. We hope to get you detailed feedback by class time on 2023-11-09.
+2. Project A initial checks will be completed on Wednesday 2023-11-01 at 9 AM.
+    - We hope to get you detailed feedback by class time on 2023-11-09.
 3. Remember that we don't have 431 class on Tuesday 2023-11-07 (Election Day) although this is not a CWRU holiday.
     - TA office hours will be held as usual on Election Day.
 4. [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due at Noon on Thursday 2023-11-09.
