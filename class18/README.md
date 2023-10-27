@@ -29,7 +29,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
-[The Ultimate Halloween Candy Popwer Ranking](https://fivethirtyeight.com/videos/the-ultimate-halloween-candy-power-ranking/) from FiveThirty Eight in 2017.
+[The Ultimate Halloween Candy Power Ranking](https://fivethirtyeight.com/videos/the-ultimate-halloween-candy-power-ranking/) from FiveThirty Eight in 2017.
 
 - Data available [on Github](https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking)
 - Check out the survey at [What's the best Halloween candy?](https://walthickey.com/2017/10/18/whats-the-best-halloween-candy/)
