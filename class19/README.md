@@ -16,7 +16,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Supplemental Material for Today's Class
 
-1. The `dm1.Rds` data are provided in the `data` subfolder for this class, and on our [431-data page](https://github.com/THOMASELOVE/431-data).
+1. The `dm1.Rds` data are provided in the `data` subfolder for this class, as well as on our [431-data page](https://github.com/THOMASELOVE/431-data).
 2. Wikipedia article on [Hirotogu Akaike](https://en.wikipedia.org/wiki/Hirotugu_Akaike) and the [Akaike Information Criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion) along with [How to Pronounce "Akaike"](https://www.youtube.com/watch?v=RjR1LK_SGYs)
 3. Wikipedia article on [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) and the [Bayesian Information Criterion](https://en.wikipedia.org/wiki/Bayesian_information_criterion).
 
