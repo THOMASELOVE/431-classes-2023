@@ -25,8 +25,6 @@ Class | Date | Slides | Quarto .qmd | Recording
     - TA office hours will be held as usual on Election Day.
 4. [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due at Noon on Thursday 2023-11-09.
     - You should be able to complete Lab 6 after Class 19 (Thursday 2023-11-02.)
-5. [Lab X](https://thomaselove.github.io/431-labX/) is due on 2023-12-12.
-    - Lab X submissions received so far are [posted here](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX).
 
 ## One Last Thing
 
