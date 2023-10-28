@@ -14,6 +14,15 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. Feedback from the Minute Paper after Class 18 **will be posted by class time.**
+2. Remember that we don't have 431 class on Tuesday 2023-11-07 (Election Day) although this is not a CWRU holiday.
+    - TA office hours will be held as usual on Election Day.
+3. Project A detailed feedback goal remains 2023-11-09 by 1 PM.
+4. [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due at Noon on Thursday 2023-11-09.
+    - You should be able to complete Lab 6 after today's class.
+5. [Lab X](https://thomaselove.github.io/431-labX/) is due on 2023-12-12.
+    - Lab X submissions received so far are [posted here](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX).
+
 ## Supplemental Material for Today's Class
 
 1. The `dm1.Rds` data are provided in the `data` subfolder for this class, as well as on our [431-data page](https://github.com/THOMASELOVE/431-data).
@@ -22,3 +31,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
+![](images/spurious.png)
+
+Here are some more fun examples of the [difference between correlation and causation](http://www.tylervigen.com/spurious-correlations), from Tyler Vigen.
