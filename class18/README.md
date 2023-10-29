@@ -25,7 +25,8 @@ Class | Date | Slides | Quarto .qmd | Recording
     - TA office hours will be held as usual on Election Day.
 4. [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due at Noon on Thursday 2023-11-09.
     - You should be able to complete Lab 6 after Class 19 (Thursday 2023-11-02.)
-
+5. I've added the `corrr` package to [our list of packages you should install](https://github.com/THOMASELOVE/431-packages), although we won't use it today.
+ 
 ## One Last Thing
 
 [The Ultimate Halloween Candy Power Ranking](https://fivethirtyeight.com/videos/the-ultimate-halloween-candy-power-ranking/) from FiveThirty Eight in 2017.
