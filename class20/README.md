@@ -14,6 +14,15 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+To come.
+
+## Supplemental Material for Today's Slides
+
+1. Today, we'll be discussing the [NHANES National Youth Fitness Survey of 2012](https://www.cdc.gov/nchs/nnyfs/index.htm). Lots of relevant information is found in [Chapter 10 of the Course Notes](https://thomaselove.github.io/431-notes/10-nnyfs_foundations.html), including variable descriptions.
+2. Here's the [Little's MCAR test page](https://naniar.njtierney.com/reference/mcar_test.html) at the `naniar` package's [website](https://naniar.njtierney.com/).
+    - The key paper is Roderick J. A. Little (1988) A Test of Missing Completely at Random for Multivariate Data with Missing Values, Journal of the American Statistical Association, 83:404, 1198-1202, DOI: [10.1080/01621459.1988.10478722](https://www.tandfonline.com/doi/abs/10.1080/01621459.1988.10478722).
+3. Here's the [Tutorial on `tbl_regression` with `gtsummary`](https://www.danieldsjoberg.com/gtsummary/articles/tbl_regression.html).
 
 ## One Last Thing
 
+To come.
