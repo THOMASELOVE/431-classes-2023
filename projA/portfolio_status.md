@@ -2,7 +2,7 @@
 
 ### Stages of Review
 
-- Step 0: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly.
+- Step 0: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, and if you have a partner, that partner has completed the one-page note.
 - Form 1: We have completed Form 1 of our evaluation, so that Forms 2-7 can now be completed.
 - Form 2: We have completed Form 2 ... Form 7: We have completed Form 7 (Forms 2-7 can be completed in any order.)
 - Review: All seven forms are complete for your project.
