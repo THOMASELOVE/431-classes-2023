@@ -20,7 +20,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. There is a [Minute Paper after Class 18](https://bit.ly/431-2023-minute-18), due at noon Wednesday 2023-11-01. The link is <https://bit.ly/431-2023-minute-18>.
 2. I posted a slight revision to the Answer Sketch for Lab 5 on Sunday 2023-10-29, to fix a typo in one spot in the answer to Question 9. You'll find it in our Shared Drive.
-3. Project A initial checks will be completed on Wednesday 2023-11-01 at 9 AM.
+3. Project A initial checks will be completed on Wednesday 2023-11-01 by 9 AM. You will get an email from Dr. Love if we spot an important issue.
     - Updates on our review of your projects [will be posted to this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md) but you should ignore the "Assessment" score on Canvas, which will be 1 if we've finished Form 1 for you, or if you've submitted the one-pager for your team. 
     - We hope to get you detailed feedback by class time on 2023-11-09. That will come **via email and not Canvas**.
 5. Remember that we don't have 431 class on Tuesday 2023-11-07 (Election Day) although this is not a CWRU holiday.
