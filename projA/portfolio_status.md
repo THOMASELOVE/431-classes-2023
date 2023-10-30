@@ -2,7 +2,7 @@
 
 ### Stages of Review
 
-- Step 0: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, *and* if you have a partner, that partner has completed the one-page note. (Self-Evaluation not included in this check.)
+- Step 0: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, *and* if you have a partner, that partner has completed the one-page note.
 - Self: Self-Evaluation form is complete for investigator (or for both investigators.)
 - Form 1: We have completed Form 1 (Initial Checks) of our evaluation, so that Forms 2-7 can now be completed. Note that forms 2-7 may be completed in any order.
 - Form 2: Rds/qmd/video checks, Form 3: HTML checks, Form 4: Analysis 1 review, Form 5: Analysis 2 review, Form 6: Analysis 3 review
