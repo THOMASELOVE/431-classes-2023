@@ -2,10 +2,12 @@
 
 ### Stages of Review
 
-- Step 0: We have received a complete Project A submission on Canvas (all four necessary files) and your HTML file is formatted properly.
+- Step 0: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly.
 - Form 1: We have completed Form 1 of our evaluation, so that Forms 2-7 can now be completed.
 - Form 2: We have completed Form 2 ... Form 7: We have completed Form 7 (Forms 2-7 can be completed in any order.)
 - Review: All seven forms are complete for your project.
+
+Assessment marks on **Canvas** are placed to help Dr. Love and the TAs know what's been reviewed and what hasn't. Your Project A grade will come on **2023-11-09 via email**, and not via Canvas.
 
 ### Groups 021-092
 
