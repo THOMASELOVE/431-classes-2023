@@ -31,7 +31,7 @@ G121 | Ryan Deng |
 G151 | Mary Garrity | 
 G161 | Trent George | 
 G181 | Claire Jansson-Knodell | 
-G191 | Julia Joo | 
+G191 | Julia Joo | Step 0 | Form 1 |
 
 ### Groups 201-291
 
@@ -43,7 +43,7 @@ G242 | Mengxuan Li & <br /> Yan (Zoey) Zou
 G252 | Elaine Liu & <br /> Xiuyuan Lang
 G261 | Zunren (Jack) Liu | 
 G271 | Bhavya Mahesh | 
-G281 | Ethan Martin | 
+G281 | Ethan Martin | Step 0 | Form 1 |
 G291 | Kyle McGill Percy | 
 
 ### Groups 301-391
@@ -55,7 +55,7 @@ G311 | Samir Memic |
 G321 | Gayan (Sam) Samuditha | 
 G331 | Kathryn Menta | 
 G342 | Lydia Mitchell & <br /> Manu Bulusu
-G352 | Noel Moore & <br /> Kelsey Lewis
+G352 | Noel Moore & <br /> Kelsey Lewis | Step 0 | Form 1 |
 G361 | Krishna Mridha | 
 G371 | Tony Nunnery | 
 G382 | Vern Olaker & <br /> Jacob Gardner
