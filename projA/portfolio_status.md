@@ -32,7 +32,7 @@ G111 | Dario Cabal |
 G121 | Ryan Deng | 
 G151 | Mary Garrity | 
 G161 | Trent George | 
-G181 | Claire Jansson-Knodell | 
+G181 | Claire <br /> Jansson-Knodell | 
 G191 | Julia Joo | Step 0 | Self | Form 1 |
 
 ### Groups 201-291
