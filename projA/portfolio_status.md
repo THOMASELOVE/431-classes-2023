@@ -54,7 +54,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G301 | Osmary Medina | 
 G311 | Samir Memic | 
-G321 | Gayan (Sam) Samuditha | 
+G321 | Gayan Samuditha | 
 G331 | Kathryn Menta | 
 G342 | Lydia Mitchell & <br /> Manu Bulusu |
 G352 | Noel Moore & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
