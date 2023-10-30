@@ -1,13 +1,13 @@
 # Project A Portfolio Review Status
 
-## Stages of Review
+### Stages of Review
 
 - Step 0: We have received a complete Project A submission on Canvas (all four necessary files) and your HTML file is formatted properly.
 - Form 1: We have completed Form 1 of our evaluation, so that Forms 2-7 can now be completed.
 - Form 2: We have completed Form 2 ... Form 7: We have completed Form 7 (Forms 2-7 can be completed in any order.)
 - Review: All seven forms are complete for your project.
 
-## Groups 021-092
+### Groups 021-092
 
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -20,7 +20,7 @@ G071 | David Askew |
 G081 | John Barron | 
 G092 | Alyssia Broncano & <br /> Michelle Raymond
 
-## Groups 111-191
+### Groups 111-191
 
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
