@@ -1,15 +1,15 @@
 # Project A Portfolio Review Status
 
+We aim to get your Project A feedback and grade to you on **2023-11-09 via email from Dr. Love**. "Assessment" scores on Canvas are posted only to help us track reviews.
+
 ### Stages of Review
 
-- Step 0: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, *and* if you have a partner, that partner has completed the one-page note.
-- Self: We have received a Self-Evaluation form from the investigator (from both investigators if a team) and no critical responses are blank.
-- Form 1: We have completed Form 1 (Initial Checks) of our evaluation, so that Forms 2-7 can now be completed. Note that forms 2-7 may be completed in any order.
-- Form 2: Rds/qmd/video checks, Form 3: HTML checks, Form 4: Analysis 1 review, Form 5: Analysis 2 review, Form 6: Analysis 3 review
-- Form 7: Dr. Love's review of video, self-evaluation, and portfolio report
-- Review: All seven forms are complete for your project.
-
-Assessment marks on **Canvas** are placed to help Dr. Love and the TAs know what's been reviewed and what hasn't. Your Project A grade will come on **2023-11-09 via email**, and not via Canvas.
+- **Step 0**: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, *and* if you have a partner, that partner has completed the one-page note.
+- **Self**: We have received a Self-Evaluation form from the investigator (from both investigators if a team) and no critical responses are blank.
+- **Form 1**: We have completed Form 1 (Initial Checks) of our evaluation, so that Forms 2-7 can now be completed. Forms 2-7 may be completed in any order.
+- **Form 2**: Rds/qmd/video checks, **Form 3**: HTML checks, **Form 4**: Analysis 1 review, **Form 5**: Analysis 2 review, **Form 6**: Analysis 3 review
+- **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
+- **Review**: All seven forms are complete for your project.
 
 ### Groups 021-092
 
