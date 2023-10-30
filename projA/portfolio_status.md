@@ -52,37 +52,37 @@ G291 | Kyle McGill Percy |
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G301 | Osmary Medina | 
-G311 | Samir Memic | 
-G321 | Gayan Samuditha | 
-G331 | Kathryn Menta | 
+G301 | Osmary <br /> Medina | 
+G311 | Samir <br /> Memic | 
+G321 | Gayan <br /> Samuditha | 
+G331 | Kathryn <br /> Menta | 
 G342 | Lydia Mitchell & <br /> Manu Bulusu |
 G352 | Noel Moore & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
-G361 | Krishna Mridha | 
-G371 | Tony Nunnery | 
+G361 | Krishna <br /> Mridha | 
+G371 | Tony <br /> Nunnery | 
 G382 | Vern Olaker & <br /> Jacob Gardner | 
-G391 | Sakshi Pandit | 
+G391 | Sakshi <br /> Pandit | 
 
 ### Groups 412-481
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G412 | Mauli Patel & <br /> Maksim Parfyonov |
-G421 | Juan Perez | 
-G431 | Camaryn Petersen | 
-G451 | Justin Robinson | 
-G461 | Reina Samuel | 
-G471 | Manish Sarkar | 
-G481 | Robert Schauner | 
+G421 | Juan <br /> Perez | 
+G431 | Camaryn <br /> Petersen | 
+G451 | Justin <br /> Robinson | 
+G461 | Reina <br /> Samuel | 
+G471 | Manish <br /> Sarkar | 
+G481 | Robert <br /> Schauner | 
 
 ### Groups 492-561
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G492 | Elizabeth Schultheis & <br /> Kamilla Abdurakhmanov |
-G501 | Himiede Wilson-Sesay | 
-G511 | Kareena Shah | 
-G531 | Jordan Smith | 
-G541 | Liz Stanley | 
-G561 | Kexin Zhang | 
+G492 | Elizabeth <br /> Schultheis & <br /> Kamilla <br /> Abdurakhmanov |
+G501 | Himiede <br /> Wilson-Sesay | 
+G511 | Kareena <br /> Shah | 
+G531 | Jordan <br /> Smith | 
+G541 | Liz <br /> Stanley | 
+G561 | Kexin <br /> Zhang | 
 
