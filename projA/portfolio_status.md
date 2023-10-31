@@ -30,13 +30,11 @@ G311 | Samir Memic | Step 0 | *missing* | Form 1 |
 G361 | Krishna Mridha | Step 0 | *missing* | Form 1 |
 G421 | Juan Perez | *fix* | Self |
 
-### Nothing submitted
+### Nothing submitted (from people not on leave)
 
 Group | Investigator(s) | Step 0 | Self | Form 1 
 -----: | :-------------------------: | :-------------------: | :-----: | :-----: |
-G021 | Mostafa Abouzaid | *no submission* | *missing* | 
 G071 | David Askew | *no submission* | *missing* |
-G221 | Vetrica Le Maitre | *no submission* | *missing* |
 G371 | Tony Nunnery | *no submission* | *missing* |
 
 ## 37 Projects where Step 0, Self-Evaluation and Form 1 are complete
@@ -45,7 +43,7 @@ G371 | Tony Nunnery | *no submission* | *missing* |
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G021 | - |
+G021 | on pause |
 G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Self | Form 1
 G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Self | Form 1
 G051 | Naif <br /> Alqahtani | Step 0 | Self | Form 1
@@ -75,7 +73,7 @@ G201 | Kartik <br /> Lakhotiya | Step 0 | Self | Form 1 |
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G221 | - |
+G221 | on pause |
 G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Self | Form 1
 G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Self | Form 1
 G261 | Zunren (Jack) <br /> Liu | Step 0 | Self | Form 1
