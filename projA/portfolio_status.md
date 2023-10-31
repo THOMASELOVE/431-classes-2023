@@ -88,7 +88,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Self | Form 1 |
 G391 | Sakshi <br /> Pandit | Step 0 | Self | Form 1
-G412 | Mauli Patel & <br /> Maksim Parfyonov | Step 0 | Self | Form 1
+G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Self | Form 1
 G421 | Juan <br /> Perez | 
 G431 | Camaryn <br /> Petersen | Step 0 | Self | Form 1 |
 
