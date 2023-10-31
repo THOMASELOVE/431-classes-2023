@@ -21,16 +21,23 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 ## 8 Projects where Step 0, Self-Evaluation and Form 1 are not yet complete
 
+### Partial Submissions under repair (I hope)
+
 Group | Investigator(s) | Step 0 | Self | Form 1 
 -----: | :-------------------------: | :-------------------: | :-----: | :-----: |
-G021 | Mostafa <br /> Abouzaid | *no submission* | *missing* | 
-G071 | David <br /> Askew | *no submission* | *missing* |
-G151 | Mary <br /> Garrity | *no Rds* | Self | 
-G221 | Vetrica <br /> Le Maitre | *no submission* | *missing* |
-G311 | Samir <br /> Memic | Step 0 | *missing* | Form 1 |
-G361 | Krishna <br /> Mridha | Step 0 | *missing* | Form 1 |
-G371 | Tony <br /> Nunnery | *no submission* | *missing* |
-G421 | Juan <br /> Perez | *fix* | Self |
+G151 | Mary Garrity | *no Rds* | Self | 
+G311 | Samir Memic | Step 0 | *missing* | Form 1 |
+G361 | Krishna Mridha | Step 0 | *missing* | Form 1 |
+G421 | Juan Perez | *fix* | Self |
+
+### Nothing submitted
+
+Group | Investigator(s) | Step 0 | Self | Form 1 
+-----: | :-------------------------: | :-------------------: | :-----: | :-----: |
+G021 | Mostafa Abouzaid | *no submission* | *missing* | 
+G071 | David Askew | *no submission* | *missing* |
+G221 | Vetrica Le Maitre | *no submission* | *missing* |
+G371 | Tony Nunnery | *no submission* | *missing* |
 
 ## 37 Projects where Step 0, Self-Evaluation and Form 1 are complete
 
