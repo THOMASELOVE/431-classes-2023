@@ -15,9 +15,9 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 ## Summary as of 2023-10-30 10:30 PM
 
-Projects (People) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
+Projects <br /> People | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 ----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 (56) | 8 <br /> +3 partial | 7 <br /> +1 partial | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+45 <br /> 56 | 8 <br /> +3 partial | 7 <br /> 10 | 9 <br /> 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 
 ### Groups 021-062
 
@@ -83,7 +83,7 @@ G371 | Tony <br /> Nunnery |
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G382 | Vern Olaker & <br /> *Jacob Gardner* | 1/2 | 1/2 | Form 1 |
+G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | 1/2 | Form 1 |
 G391 | Sakshi <br /> Pandit | 
 G412 | Mauli Patel & <br /> Maksim Parfyonov |
 G421 | Juan <br /> Perez | 
