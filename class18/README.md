@@ -27,7 +27,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 5. Remember that we don't have 431 class on Tuesday 2023-11-07 (Election Day) although this is not a CWRU holiday.
     - TA office hours will be held as usual on Election Day.
 6. [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due at Noon on Thursday 2023-11-09.
-    - You should be able to complete Lab 6 after Class 19 (Thursday 2023-11-02.)
+    - You should be able to complete Lab 6 after Class 19 (Thursday 2023-11-02.) I corrected a minor typo on Monday 2023-10-30.
 7. I've added the `corrr` package to [our list of packages you should install](https://github.com/THOMASELOVE/431-packages), although we won't use it today.
  
 ## One Last Thing
