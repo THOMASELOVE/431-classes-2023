@@ -20,7 +20,9 @@ Review Process | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Fo
 45 projects | 34 | 33 | 34 | - | - | - | - | - | - | - |
 56 investigators | 44 | 44 | 44 | - | - | - | - | - | - | - |
 
-*We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
+- *We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
+- Late penalties will begin to accrue to non-submitted projects at 3 PM 2023-10-31.
+- Late penalties for projects needing fixes will begin to accrue at 8 PM 2023-10-31.
 
 ### Groups 021-062
 
@@ -28,7 +30,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G021 | Mostafa <br /> Abouzaid | 
 G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Self | Form 1
-G042 | Sarah Albalawi & <br /> *Gazi Shamita* | **fix** | 1/2
+G042 | Sarah Albalawi & <br /> *Gazi Shamita* | **fix by 8PM** | 1/2
 G051 | Naif <br /> Alqahtani | Step 0 | Self | Form 1
 G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Self | Form 1
 
@@ -39,7 +41,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 G071 | David <br /> Askew | 
 G081 | John <br /> Barron | Step 0 | Self | Form 1
 G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Self | Form 1
-G111 | Dario <br /> Cabal | **fix** | Self | 
+G111 | Dario <br /> Cabal | **fix by 8PM** | Self | 
 G121 | Ryan <br /> Deng | Step 0 | Self | Form 1
 
 ### Groups 151-201
@@ -106,7 +108,7 @@ G492 | Elizabeth <br /> Schultheis & <br /> *Kamilla* <br /> *Abdurakhmanov* | S
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G501 | Himiede <br /> Wilson-Sesay | **fix** | Self |
+G501 | Himiede <br /> Wilson-Sesay | **fix by 8PM** | Self |
 G511 | Kareena <br /> Shah | 
 G531 | Jordan <br /> Smith | Step 0 | Self | Form 1
 G541 | Liz <br /> Stanley | Step 0 | Self | Form 1
