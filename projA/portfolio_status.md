@@ -13,7 +13,7 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 - **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
 - **Review**: All seven forms are complete for your project, so that Dr. Love is ready to aggregate the results and write up your final feedback.
 
-## Summary as of 2023-10-31 4:40 PM
+## Summary as of 2023-10-31 5:15 PM
 
 - *We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
 - Late penalties for projects needing fixes will begin to accrue at 8 PM 2023-10-31.
