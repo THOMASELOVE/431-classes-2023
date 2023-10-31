@@ -13,7 +13,7 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 - **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
 - **Review**: All seven forms are complete for your project, so that Dr. Love is ready to aggregate the results and write up your final feedback.
 
-## Summary as of 2023-10-30 10:55 PM
+## Summary as of 2023-10-31 11:50 AM
 
 Review Process | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 ----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -27,40 +27,40 @@ Review Process | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Fo
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G021 | Mostafa <br /> Abouzaid | 
-G032 | Abrar Alamoudi & <br /> Parishma Guttoo |
-G042 | Sarah Albalawi & <br /> Gazi Shamita |
-G051 | Naif <br /> Alqahtani | 
-G062 | Walaa Alshaia & <br /> Qiao Wang  |
+G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Self | Form 1
+G042 | Sarah Albalawi & <br /> *Gazi Shamita* | **fix** | 1/2
+G051 | Naif <br /> Alqahtani | Step 0 | Self | Form 1
+G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Self | Form 1
 
 ### Groups 071-121
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G071 | David <br /> Askew | 
-G081 | John <br /> Barron | 
-G092 | Alyssia Broncano & <br /> Michelle Raymond |
-G111 | Dario <br /> Cabal |  
-G121 | Ryan <br /> Deng | 
+G081 | John <br /> Barron | Step 0 | Self | Form 1
+G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Self | Form 1
+G111 | Dario <br /> Cabal | **fix** | Self | 
+G121 | Ryan <br /> Deng | Step 0 | Self | Form 1
 
 ### Groups 151-201
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G151 | Mary <br /> Garrity | 
-G161 | Trent <br /> George | 
+G161 | Trent <br /> George | Step 0 | Self | Form 1
 G181 | Claire <br /> Jansson-Knodell | Step 0 | Self | Form 1
 G191 | Julia <br /> Joo | Step 0 | Self | Form 1 |
-G201 | Kartik <br /> Lakhotiya | 
+G201 | Kartik <br /> Lakhotiya | Step 0 | Self | Form 1 |
 
 ### Groups 221-271
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G221 | Vetrica <br /> Le Maitre | 
-G242 | Mengxuan Li & <br /> *Yan Zou* | 1/2 | 
-G252 | *Elaine Liu* & <br /> Xiuyuan Lang | 1/2 | 
-G261 | Zunren (Jack) <br /> Liu | 
-G271 | Bhavya <br /> Mahesh | 
+G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Self | Form 1
+G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Self | Form 1
+G261 | Zunren (Jack) <br /> Liu | Step 0 | | Form 1
+G271 | Bhavya <br /> Mahesh | Step 0 | Self | Form 1
 
 ### Groups 281-321
 
@@ -68,27 +68,27 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G281 | Ethan <br /> Martin | Step 0 | Self | Form 1 |
 G291 | Kyle <br /> McGill Percy | Step 0 | Self | Form 1
-G301 | Osmary <br /> Medina | 
-G311 | Samir <br /> Memic | Step 0 | - | Form 1
+G301 | Osmary <br /> Medina | Step 0 | Self | Form 1
+G311 | Samir <br /> Memic | Step 0 | | Form 1
 G321 | Gayan <br /> Samuditha | 
 
 ### Groups 331-371
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G331 | Kathryn <br /> Menta | 
-G342 | Lydia Mitchell & <br /> Manu Bulusu |
+G331 | Kathryn <br /> Menta | Step 0 | Self | Form 1
+G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | 1/2 | Form 1
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
-G361 | Krishna <br /> Mridha | 
+G361 | Krishna <br /> Mridha | Step 0 | | Form 1
 G371 | Tony <br /> Nunnery | 
 
 ### Groups 382-431
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | 1/2 | Form 1 |
-G391 | Sakshi <br /> Pandit | 
-G412 | Mauli Patel & <br /> Maksim Parfyonov |
+G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Self | Form 1 |
+G391 | Sakshi <br /> Pandit | Step 0 | Self | Form 1
+G412 | Mauli Patel & <br /> Maksim Parfyonov | | 1/2 |
 G421 | Juan <br /> Perez | 
 G431 | Camaryn <br /> Petersen | Step 0 | Self | Form 1 |
 
@@ -96,19 +96,19 @@ G431 | Camaryn <br /> Petersen | Step 0 | Self | Form 1 |
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G451 | Justin <br /> Robinson | 
-G461 | Reina <br /> Samuel | 
-G471 | Manish <br /> Sarkar | 
+G451 | Justin <br /> Robinson | Step 0 | Self | Form 1
+G461 | Reina <br /> Samuel | Step 0 | Self | Form 1
+G471 | Manish <br /> Sarkar | Step 0 | Self | Form 1
 G481 | Robert <br /> Schauner | Step 0 | Self | Form 1
-G492 | Elizabeth <br /> Schultheis & <br /> Kamilla <br /> Abdurakhmanov |
+G492 | Elizabeth <br /> Schultheis & <br /> *Kamilla* <br /> *Abdurakhmanov* | Step 0 | Self | Form 1
 
 ### Groups 501-561
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G501 | Himiede <br /> Wilson-Sesay | 
+G501 | Himiede <br /> Wilson-Sesay | **fix** | Self |
 G511 | Kareena <br /> Shah | 
-G531 | Jordan <br /> Smith | 
-G541 | Liz <br /> Stanley | 
-G561 | Kexin <br /> Zhang | 
+G531 | Jordan <br /> Smith | Step 0 | Self | Form 1
+G541 | Liz <br /> Stanley | Step 0 | Self | Form 1
+G561 | Kexin <br /> Zhang | Step 0 | Self | Form 1 |
 
