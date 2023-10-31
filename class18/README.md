@@ -33,6 +33,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 6. [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due at Noon on Thursday 2023-11-09.
     - You should be able to complete Lab 6 after Class 19 (Thursday 2023-11-02.) I corrected a minor typo on Monday 2023-10-30.
 7. I've added the `corrr` package to [our list of packages you should install](https://github.com/THOMASELOVE/431-packages), although we won't use it today.
+8. The [Project B](https://thomaselove.github.io/431-projectB-2023/) registration form (due at 9 AM 2023-11-14) will open before Class 19 on Thursday 2023-11-02.
  
 ## One Last Thing
 
