@@ -6,8 +6,8 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 ### Stages of Review (TAs work on Forms 2-6, Dr. Love does the rest.)
 
-- **Step 0**: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, *and* if you have a partner, that partner has completed the one-page note.
-- **Self**: We have received a Self-Evaluation form from the investigator (from both investigators if a team) and no critical responses are blank.
+- **Step 0**: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, *and* if you have a partner, that partner has completed the one-page note. (1/2 means I have the note, but not the project, or vice versa.)
+- **Self**: We have received a Self-Evaluation form from the investigator (1/2 means I have it from one of the two investigators in a team) and no critical responses are blank.
 - **Form 1**: We have completed Form 1 (Initial Checks) of our evaluation, so that Forms 2-7 can now be completed. Forms 2-7 may be completed in any order.
 - **Form 2**: Rds/qmd/video checks, **Form 3**: HTML checks, **Form 4**: Analysis 1 review, **Form 5**: Analysis 2 review, **Form 6**: Analysis 3 review
 - **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
@@ -17,7 +17,7 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 Projects Expected | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 ----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 | 8 | 5 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+45 | 8 (two 1/2) | 5 (two 1/2) | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 
 ### Groups 021-062
 
@@ -45,7 +45,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G151 | Mary <br /> Garrity | 
 G161 | Trent <br /> George | 
-G181 | Claire <br /> Jansson-Knodell | Step 0 | - | Form 1
+G181 | Claire <br /> Jansson-Knodell | Step 0 | Self | Form 1
 G191 | Julia <br /> Joo | Step 0 | Self | Form 1 |
 G201 | Kartik <br /> Lakhotiya | 
 
@@ -54,8 +54,8 @@ G201 | Kartik <br /> Lakhotiya |
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G221 | Vetrica <br /> Le Maitre | 
-G242 | Mengxuan Li & <br /> Yan (Zoey) Zou |
-G252 | Elaine Liu & <br /> Xiuyuan Lang |
+G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | 1/2 | 
+G252 | Elaine Liu & <br /> Xiuyuan Lang | 1/2 | 
 G261 | Zunren (Jack) <br /> Liu | 
 G271 | Bhavya <br /> Mahesh | 
 
@@ -64,7 +64,7 @@ G271 | Bhavya <br /> Mahesh |
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G281 | Ethan <br /> Martin | Step 0 | Self | Form 1 |
-G291 | Kyle <br /> McGill Percy | Step 0 | - | Form 1
+G291 | Kyle <br /> McGill Percy | Step 0 | Self | Form 1
 G301 | Osmary <br /> Medina | 
 G311 | Samir <br /> Memic | Step 0 | - | Form 1
 G321 | Gayan <br /> Samuditha | 
@@ -83,7 +83,7 @@ G371 | Tony <br /> Nunnery |
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G382 | Vern Olaker & <br /> Jacob Gardner | 
+G382 | Vern Olaker & <br /> Jacob Gardner | 1/2 | 1/2 | Form 1 |
 G391 | Sakshi <br /> Pandit | 
 G412 | Mauli Patel & <br /> Maksim Parfyonov |
 G421 | Juan <br /> Perez | 
