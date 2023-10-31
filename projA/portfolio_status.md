@@ -17,7 +17,7 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 Projects Expected | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 ----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 | 7 | 5 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+45 | 8 | 5 | 8 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 
 ### Groups 021-062
 
@@ -87,7 +87,7 @@ G382 | Vern Olaker & <br /> Jacob Gardner |
 G391 | Sakshi <br /> Pandit | 
 G412 | Mauli Patel & <br /> Maksim Parfyonov |
 G421 | Juan <br /> Perez | 
-G431 | Camaryn <br /> Petersen | - | Self |
+G431 | Camaryn <br /> Petersen | Step 0 | Self | Form 1 |
 
 ### Groups 451-491
 
