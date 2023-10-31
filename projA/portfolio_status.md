@@ -15,9 +15,9 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 ## Summary as of 2023-10-30 10:30 PM
 
-Projects Expected | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
+Projects (People) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 ----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 | 8 (two 1/2) | 5 (two 1/2) | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+45 (56) | 8 <br /> +3 partial | 7 <br /> +1 partial | 9 | 0 | 0 | 0 | 0 | 0 | 0 | 0
 
 ### Groups 021-062
 
