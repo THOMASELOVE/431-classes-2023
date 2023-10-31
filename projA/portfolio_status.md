@@ -13,6 +13,12 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 - **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
 - **Review**: All seven forms are complete for your project.
 
+## Summary as of 2023-10-30 8:40 PM
+
+Projects Expected | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
+----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+45 | 7 | 5 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+
 ### Groups 021-062
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
