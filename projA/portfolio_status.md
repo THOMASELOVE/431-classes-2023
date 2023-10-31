@@ -17,8 +17,8 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 Review Process | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 ----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 projects | 33 | 31 | 33 | - | - | - | - | - | - | - |
-56 investigators | 42 | 42 | 42 | - | - | - | - | - | - | - |
+45 projects | 33 | 32 | 34 | - | - | - | - | - | - | - |
+56 investigators | 43 | 43 | 44 | - | - | - | - | - | - | - |
 
 *We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
 
@@ -77,7 +77,7 @@ G321 | Gayan <br /> Samuditha |
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G331 | Kathryn <br /> Menta | Step 0 | Self | Form 1
-G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | 1/2 | Form 1
+G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Self | Form 1
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
 G361 | Krishna <br /> Mridha | Step 0 | | Form 1
 G371 | Tony <br /> Nunnery | 
@@ -88,7 +88,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Self | Form 1 |
 G391 | Sakshi <br /> Pandit | Step 0 | Self | Form 1
-G412 | Mauli Patel & <br /> Maksim Parfyonov | | 1/2 |
+G412 | Mauli Patel & <br /> Maksim Parfyonov | Step 0 | Self | Form 1
 G421 | Juan <br /> Perez | 
 G431 | Camaryn <br /> Petersen | Step 0 | Self | Form 1 |
 
