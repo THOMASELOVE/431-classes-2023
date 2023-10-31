@@ -4,14 +4,14 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 **Note**: "Assessment" scores on Canvas are posted only to help us track reviews. Read our Canvas comments (if any) but ignore the score there.
 
-### Stages of Review
+### Stages of Review (TAs work on Forms 2-6, Dr. Love does the rest.)
 
 - **Step 0**: We have received a **complete** Project A submission on Canvas (all four necessary files) *and* your HTML file is formatted properly, *and* if you have a partner, that partner has completed the one-page note.
 - **Self**: We have received a Self-Evaluation form from the investigator (from both investigators if a team) and no critical responses are blank.
 - **Form 1**: We have completed Form 1 (Initial Checks) of our evaluation, so that Forms 2-7 can now be completed. Forms 2-7 may be completed in any order.
 - **Form 2**: Rds/qmd/video checks, **Form 3**: HTML checks, **Form 4**: Analysis 1 review, **Form 5**: Analysis 2 review, **Form 6**: Analysis 3 review
 - **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
-- **Review**: All seven forms are complete for your project.
+- **Review**: All seven forms are complete for your project, so that Dr. Love is ready to aggregate the results and write up your final feedback.
 
 ## Summary as of 2023-10-30 8:40 PM
 
