@@ -58,9 +58,9 @@ G271 | Bhavya <br /> Mahesh |
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G281 | Ethan <br /> Martin | Step 0 | Self | Form 1 |
-G291 | Kyle <br /> McGill Percy | 
+G291 | Kyle <br /> McGill Percy | Step 0 | - | Form 1
 G301 | Osmary <br /> Medina | 
-G311 | Samir <br /> Memic | 
+G311 | Samir <br /> Memic | Step 0 | - | Form 1
 G321 | Gayan <br /> Samuditha | 
 
 ### Groups 331-371
@@ -90,7 +90,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 G451 | Justin <br /> Robinson | 
 G461 | Reina <br /> Samuel | 
 G471 | Manish <br /> Sarkar | 
-G481 | Robert <br /> Schauner | - | Self |
+G481 | Robert <br /> Schauner | Step 0 | Self | Form 1
 G492 | Elizabeth <br /> Schultheis & <br /> Kamilla <br /> Abdurakhmanov |
 
 ### Groups 501-561
