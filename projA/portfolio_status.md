@@ -17,8 +17,8 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 Review Process | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 ----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 projects | 39 | 36 | 43 | - | - | - | - | - | - | - |
-56 investigators | 51 | 51 | 51 | - | - | - | - | - | - | - |
+45 projects | 39 | 39 | 39 | - | - | - | - | - | - | - |
+56 investigators | 50 | 50 | 50 | - | - | - | - | - | - | - |
 
 - *We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
 - Late penalties for projects needing fixes will begin to accrue at 8 PM 2023-10-31.
