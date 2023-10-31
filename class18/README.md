@@ -21,6 +21,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. There is a [Minute Paper after Class 18](https://bit.ly/431-2023-minute-18), due at noon Wednesday 2023-11-01. The link is <https://bit.ly/431-2023-minute-18>.
 2. I posted a slight revision to the Answer Sketch for Lab 5 on Sunday 2023-10-29, to fix a typo in one spot in the answer to Question 9. You'll find it in our Shared Drive.
 3. Project A initial checks will be completed on Wednesday 2023-11-01 by 9 AM. You will get an **email from Dr. Love** if we spot an important issue.
+    - If you're getting a warning like: *WARNING: Warning: diff of engine output timed out. No source lines will be available.* you may have a problem where your HTML on Canvas doesn't look like your HTML on your machine - something has gone wrong in the rendering. Potential solutions:
+        1. Close R Studio, re-open R Studio and [update your packages](https://thomaselove.github.io/431-2023/software.html#updating-your-r-packages) then close R Studio again, and re-open it, then try rendering your .qmd document again.
+        2. Shut down your computer instead of just closing R Studio, and then restart it, and open RStudio, select the qmd file, and re-render.
+        3. The `gt` package appears to create most of these problems, especially when you adjust fonts. They're working on it at Posit, but for the moment it's an issue. I just learned this last night. Not sure what to do about it, though.
     - Updates on our review [are posted here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md) irregularly.
     - Ignore the "Assessment" score on Canvas, which is 1 if we've finished Form 1, or if you've submitted the one-pager for your team. 
     - We hope to get you detailed feedback **which will come via email, not Canvas** by class time on 2023-11-09.
