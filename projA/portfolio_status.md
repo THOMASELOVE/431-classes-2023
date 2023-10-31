@@ -17,12 +17,12 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 First Steps | Step 0 | Self | Form 1 |
 ----------------: | :-----: | :-----: | :-----: |
-45 projects | 9 | 7 | 9
-56 people | - | 10 | -
+45 projects | 9 | 7 | 9 |
+56 investigators | 13 | 10 | 11 |
 
-November Work | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
-----------------: |  :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 projects | 
+November Work | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
+----------------: |  :-----: |  :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+45 projects | 9 | - | - | - | - | - | - | - |
 
 ### Groups 021-062
 
