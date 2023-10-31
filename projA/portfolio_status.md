@@ -2,7 +2,7 @@
 
 We aim to get your Project A feedback and grade to you on **2023-11-09 via email from Dr. Love**. 
 
-**Note**: "Assessment" scores on Canvas are posted only to help us track reviews. Read the comments on Canvas (if any) but ignore the scores there.
+**Note**: "Assessment" scores on Canvas are posted only to help us track reviews. Read our Canvas comments (if any) but ignore the score there.
 
 ### Stages of Review
 
