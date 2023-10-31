@@ -19,7 +19,7 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 - Late penalties for projects needing fixes will begin to accrue at 8 PM 2023-10-31.
 - Late penalties for projects not yet submitted (with *no submission* or *missing* below) have already started. Get it in, now.
 
-## 8 Projects where Step 0, Self-Evaluation and Form 1 are not yet complete
+## Projects where Step 0, Self-Evaluation and Form 1 are not yet complete
 
 ### Partial Submissions under repair (I hope)
 
@@ -30,14 +30,14 @@ G311 | Samir Memic | Step 0 | *missing* | Form 1 |
 G361 | Krishna Mridha | Step 0 | *missing* | Form 1 |
 G421 | Juan Perez | *fix* | Self |
 
-### Nothing submitted (from people not on leave)
+### Nothing submitted (from people not on pause)
 
 Group | Investigator(s) | Step 0 | Self | Form 1 
 -----: | :-------------------------: | :-------------------: | :-----: | :-----: |
 G071 | David Askew | *no submission* | *missing* |
 G371 | Tony Nunnery | *no submission* | *missing* |
 
-## 37 Projects where Step 0, Self-Evaluation and Form 1 are complete
+## 37 Projects where Step 0, Self-Evaluation and Form 1 are all complete
 
 ### Groups 021-062
 
