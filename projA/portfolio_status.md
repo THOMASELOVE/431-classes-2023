@@ -54,8 +54,8 @@ G201 | Kartik <br /> Lakhotiya |
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G221 | Vetrica <br /> Le Maitre | 
-G242 | Mengxuan Li & <br /> Yan (Zoey) Zou | 1/2 | 
-G252 | Elaine Liu & <br /> Xiuyuan Lang | 1/2 | 
+G242 | Mengxuan Li & <br /> *Yan Zou* | 1/2 | 
+G252 | *Elaine Liu* & <br /> Xiuyuan Lang | 1/2 | 
 G261 | Zunren (Jack) <br /> Liu | 
 G271 | Bhavya <br /> Mahesh | 
 
@@ -75,7 +75,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G331 | Kathryn <br /> Menta | 
 G342 | Lydia Mitchell & <br /> Manu Bulusu |
-G352 | Noel Moore & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
+G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
 G361 | Krishna <br /> Mridha | 
 G371 | Tony <br /> Nunnery | 
 
@@ -83,7 +83,7 @@ G371 | Tony <br /> Nunnery |
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G382 | Vern Olaker & <br /> Jacob Gardner | 1/2 | 1/2 | Form 1 |
+G382 | Vern Olaker & <br /> *Jacob Gardner* | 1/2 | 1/2 | Form 1 |
 G391 | Sakshi <br /> Pandit | 
 G412 | Mauli Patel & <br /> Maksim Parfyonov |
 G421 | Juan <br /> Perez | 
