@@ -39,7 +39,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G151 | Mary <br /> Garrity | 
 G161 | Trent <br /> George | 
-G181 | Claire <br /> Jansson-Knodell | 
+G181 | Claire <br /> Jansson-Knodell | Step 0 | - | Form 1
 G191 | Julia <br /> Joo | Step 0 | Self | Form 1 |
 G201 | Kartik <br /> Lakhotiya | 
 
@@ -81,7 +81,7 @@ G382 | Vern Olaker & <br /> Jacob Gardner |
 G391 | Sakshi <br /> Pandit | 
 G412 | Mauli Patel & <br /> Maksim Parfyonov |
 G421 | Juan <br /> Perez | 
-G431 | Camaryn <br /> Petersen | 
+G431 | Camaryn <br /> Petersen | - | Self |
 
 ### Groups 451-491
 
@@ -90,7 +90,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 G451 | Justin <br /> Robinson | 
 G461 | Reina <br /> Samuel | 
 G471 | Manish <br /> Sarkar | 
-G481 | Robert <br /> Schauner | 
+G481 | Robert <br /> Schauner | - | Self |
 G492 | Elizabeth <br /> Schultheis & <br /> Kamilla <br /> Abdurakhmanov |
 
 ### Groups 501-561
