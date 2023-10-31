@@ -15,14 +15,12 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 ## Summary as of 2023-10-30 10:30 PM
 
-First Steps | Step 0 | Self | Form 1 |
-----------------: | :-----: | :-----: | :-----: |
-45 projects | 9 | 7 | 9 |
-56 investigators | 13 | 10 | 11 |
+Review Process | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
+----------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+45 projects | 9 | 7 | 9 | - | - | - | - | - | - | - |
+56 investigators | 13 | 10 | 11 | - | - | - | - | - | - | - |
 
-November Work | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
-----------------: |  :-----: |  :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-45 projects | 9 | - | - | - | - | - | - | - |
+*We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
 
 ### Groups 021-062
 
