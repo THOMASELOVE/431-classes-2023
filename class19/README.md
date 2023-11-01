@@ -35,6 +35,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
-![](images/spurious.png)
+![](images/spurious.png) 
 
-Here are some more fun examples of the [difference between correlation and causation](http://www.tylervigen.com/spurious-correlations), from Tyler Vigen.
+- Note the correlation is 0.9586 for the two measures plotted above.
+- Some more fun examples of the [difference between correlation and causation](http://www.tylervigen.com/spurious-correlations), from Tyler Vigen.
