@@ -14,10 +14,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Feedback from the Minute Paper after Class 18 **will be posted by class time.**
+1. Feedback from the Minute Paper after Class 18 [is now available](https://bit.ly/431-2023-min-18-feedback). Thanks to those of you who completed it.
 2. Remember that we don't have 431 class on Tuesday 2023-11-07 (Election Day) although this is not a CWRU holiday.
     - TA office hours will be held as usual on Election Day.
-3. Project A detailed feedback goal remains 2023-11-09 by 1 PM.
+3. Project A detailed feedback goal remains 2023-11-09 by 1 PM. Updates on [our progress here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md).
 4. [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due at Noon on Thursday 2023-11-09.
     - You should be able to complete Lab 6 after today's class.
 5. [Lab X](https://thomaselove.github.io/431-labX/) is due on 2023-12-12.
