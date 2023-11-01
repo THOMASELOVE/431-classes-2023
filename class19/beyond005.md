@@ -10,7 +10,7 @@ Ten days ago, I posted a note (called "Bonus Opportunity") on Campuswire. It rea
 
 The 2019 ASA Statement citation is: Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913) *The American Statistician*, 73:sup1, 1-19, [DOI: 10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913).
 
-Here are the favorite sentences you posted:
+Here are the excerpts you posted:
 
 1. Statistical significance was never meant to imply scientific importance.
 2. Evaluate the importance of statistical results based on their practical implications.
