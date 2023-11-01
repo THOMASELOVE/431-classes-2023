@@ -13,19 +13,9 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 - **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
 - **Review**: All seven forms are complete for your project, so that Dr. Love is ready to aggregate the results and write up your final feedback.
 
-## Summary as of 2023-10-31 8:10 PM
+## Summary as of 2023-11-01 9:10 AM
 
-- *We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
-- Late penalties for projects needing fixes will begin to accrue at 8 PM 2023-10-31.
-- Late penalties for projects not yet submitted (with *no submission* or *missing* below) have already started. Get it in, now.
-
-## Partial Submissions under repair tonight (I hope)
-
-Group | Investigator(s) | Step 0 | Self | Form 1 
------: | :-------------------------: | :-------------------: | :-----: | :-----: |
-G421 | Juan Perez | *see email* | Self |
-
-## 40/45 Projects have Step 0, Self-Evaluation and Form 1 all completed
+42/45 Projects have Step 0, Self-Evaluation and Form 1 all completed
 
 ### Groups 021-062
 
@@ -85,7 +75,7 @@ G331 | Kathryn <br /> Menta | Step 0 | Self | Form 1 |
 G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Self | Form 1 |
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
 G361 | Krishna <br /> Mridha | Step 0 | Self | Form 1 |
-G371 | Tony Nunnery | *no submission*
+G371 | Tony Nunnery | Step 0 | Self | Form 1 |
 
 ### Groups 382-431
 
@@ -94,7 +84,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Self | Form 1 |
 G391 | Sakshi <br /> Pandit | Step 0 | Self | Form 1
 G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Self | Form 1
-G421 | - |
+G421 | Juan Perez | Step 0 | Self | Form 1
 G431 | Camaryn <br /> Petersen | Step 0 | Self | Form 1 |
 
 ### Groups 451-491
