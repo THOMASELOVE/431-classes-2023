@@ -13,31 +13,19 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 - **Form 7**: Dr. Love's review of video, self-evaluation, and portfolio report
 - **Review**: All seven forms are complete for your project, so that Dr. Love is ready to aggregate the results and write up your final feedback.
 
-## Summary as of 2023-10-31 5:15 PM
+## Summary as of 2023-10-31 8:10 PM
 
 - *We're trying to get all projects through Step 0, Self, and Form 1 before pressing on to Forms 2-7*.
 - Late penalties for projects needing fixes will begin to accrue at 8 PM 2023-10-31.
 - Late penalties for projects not yet submitted (with *no submission* or *missing* below) have already started. Get it in, now.
 
-## Projects where Step 0, Self-Evaluation and Form 1 are not yet complete
-
-### Partial Submissions under repair (I hope)
+## Partial Submissions under repair tonight (I hope)
 
 Group | Investigator(s) | Step 0 | Self | Form 1 
 -----: | :-------------------------: | :-------------------: | :-----: | :-----: |
-G151 | Mary Garrity | *no Rds* | Self | 
-G311 | Samir Memic | Step 0 | *missing* | Form 1 |
-G361 | Krishna Mridha | Step 0 | *missing* | Form 1 |
-G421 | Juan Perez | *fix* | Self |
+G421 | Juan Perez | *see email* | Self |
 
-### Nothing submitted (from people not on pause)
-
-Group | Investigator(s) | Step 0 | Self | Form 1 
------: | :-------------------------: | :-------------------: | :-----: | :-----: |
-G071 | David Askew | *no submission* | *missing* |
-G371 | Tony Nunnery | *no submission* | *missing* |
-
-## 37 Projects where Step 0, Self-Evaluation and Form 1 are all complete
+## 40/45 Projects have Step 0, Self-Evaluation and Form 1 all completed
 
 ### Groups 021-062
 
@@ -53,7 +41,7 @@ G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Self | Form 1
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G071 | - | 
+G071 | David Askew | *no submission*
 G081 | John <br /> Barron | Step 0 | Self | Form 1
 G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Self | Form 1
 G111 | Dario <br /> Cabal | Step 0 | Self | Form 1
@@ -63,7 +51,7 @@ G121 | Ryan <br /> Deng | Step 0 | Self | Form 1
 
 Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-G151 | - |
+G151 | Mary <br /> Garrity | Step 0 | Self | Form 1
 G161 | Trent <br /> George | Step 0 | Self | Form 1
 G181 | Claire <br /> Jansson-Knodell | Step 0 | Self | Form 1
 G191 | Julia <br /> Joo | Step 0 | Self | Form 1 |
@@ -86,7 +74,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 G281 | Ethan <br /> Martin | Step 0 | Self | Form 1 |
 G291 | Kyle <br /> McGill Percy | Step 0 | Self | Form 1 |
 G301 | Osmary <br /> Medina | Step 0 | Self | Form 1 |
-G311 | -
+G311 | Samir <br /> Memic | Step 0 | Self | Form 1 |
 G321 | Gayan <br /> Samuditha | Step 0 | Self | Form 1 |
 
 ### Groups 331-371
@@ -96,8 +84,8 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 G331 | Kathryn <br /> Menta | Step 0 | Self | Form 1 |
 G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Self | Form 1 |
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Self | Form 1 |
-G361 | - |
-G371 | - |
+G361 | Krishna <br /> Mridha | Step 0 | Self | Form 1 |
+G371 | Tony Nunnery | *no submission*
 
 ### Groups 382-431
 
