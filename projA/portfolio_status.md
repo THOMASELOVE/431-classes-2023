@@ -31,7 +31,7 @@ Group | Investigator(s) | Step 0 | Self | Form 1 | Form 2 | Form 3 | Form 4 | Fo
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G071 | David Askew | *no submission*
 G081 | John <br /> Barron | Step 0 | Self | Form 1 | | Form 3
-G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Self | Form 1 | | Form 3 | Form 4
+G092 | *Alyssia <br /> Broncano* & <br /> Michelle <br /> Raymond | Step 0 | Self | Form 1 | | Form 3 | Form 4
 G111 | Dario <br /> Cabal | Step 0 | Self | Form 1 | | Form 3
 G121 | Ryan <br /> Deng | Step 0 | Self | Form 1 | | Form 3
 
