@@ -23,8 +23,9 @@ Class | Date | Slides | Quarto .qmd | Recording
 5. I encourage you strongly to read the [Project B instructions](https://thomaselove.github.io/431-projectB-2023/) between now and our next class (Thursday 2023-11-09).
     - The [Project B registration form](https://bit.ly/431-projB-registration-2023) is now open, and is due on Tuesday 2023-11-14 at 9 AM.
     - [What do you need to do before filling out the Project B Registration Form?](https://thomaselove.github.io/431-projectB-2023/register.html#what-do-you-need-to-do-before-filling-out-the-form) Five things, as indicated in the link.
-5. [Lab X](https://thomaselove.github.io/431-labX/) is due on 2023-12-12.
+6. [Lab X](https://thomaselove.github.io/431-labX/) is due on 2023-12-12.
     - Lab X submissions received so far are [posted here](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX).
+7. [Here are some results](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class19/beyond005.md) from the Bonus Opportunity on Campuswire that expired this morning.
 
 ## Supplemental Material for Today's Class
 
