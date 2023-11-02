@@ -37,7 +37,7 @@ G121 | Ryan <br /> Deng | Step 0 | Form 1 | | Form 3
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Form 8 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G151 | Mary <br /> Garrity | Step 0 | Form 1 | | Form 3
-G161 | Trent <br /> George | Step 0 | Form 1 | | Form 3
+G161 | Trent <br /> George | Step 0 | Form 1 | | Form 3 | | | | | Form 8 |
 G181 | Claire <br /> Jansson-Knodell | Step 0 | Form 1 | | Form 3
 G191 | Julia <br /> Joo | Step 0 | Form 1 | | Form 3
 G201 | Kartik <br /> Lakhotiya | Step 0 | Form 1 | | Form 3
@@ -99,6 +99,6 @@ Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | 
 G501 | Himiede <br /> Wilson-Sesay | Step 0 | Form 1
 G511 | Kareena <br /> Shah | Step 0 | Form 1
 G531 | Jordan <br /> Smith | Step 0 | Form 1
-G541 | Liz <br /> Stanley | Step 0 | Form 1
+G541 | Liz <br /> Stanley | Step 0 | Form 1 |  |  |  |  |  |  | Form 8
 G561 | Kexin <br /> Zhang | Step 0 | Form 1
 
