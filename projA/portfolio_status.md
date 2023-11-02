@@ -17,10 +17,10 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Form 8 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G021 | on pause |
-G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Form 1 | | Form 3
-G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Form 1 | Form 2 | Form 3 | Form 4
+G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Form 1 | | Form 3 | | | | | Form 8 |
+G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
 G051 | Naif <br /> Alqahtani | Step 0 | Form 1 | Form 2 | Form 3
-G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Form 1 | Form 2 | Form 3
+G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Form 1 | Form 2 | Form 3 | | | | | Form 8 |
 
 ### Groups 071-121
 
@@ -28,7 +28,7 @@ Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | 
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G071 | not submitted |
 G081 | John <br /> Barron | Step 0 | Form 1 | | Form 3
-G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Form 1 | | Form 3 | Form 4
+G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Form 1 | | Form 3 | Form 4 | | | | Form 8 |
 G111 | Dario <br /> Cabal | Step 0 | Form 1 | | Form 3
 G121 | Ryan <br /> Deng | Step 0 | Form 1 | | Form 3
 
@@ -47,7 +47,7 @@ G201 | Kartik <br /> Lakhotiya | Step 0 | Form 1 | | Form 3
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Form 8 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G221 | on pause |
-G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Form 1 | | Form 3 |
+G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Form 1 | | Form 3 | | | | | | Form 8 |
 G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Form 1 | | Form 3
 G261 | Zunren (Jack) <br /> Liu | Step 0 | Form 1 | | Form 3
 G271 | Bhavya <br /> Mahesh | Step 0 | Form 1 | | Form 3
