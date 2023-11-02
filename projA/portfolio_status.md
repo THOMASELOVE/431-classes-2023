@@ -47,7 +47,7 @@ G201 | Kartik <br /> Lakhotiya | Step 0 | Form 1 | | Form 3
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Form 8 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G221 | on pause |
-G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Form 1 | | Form 3 | | | | | | Form 8 |
+G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Form 1 | | Form 3 | | | | | Form 8 |
 G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Form 1 | | Form 3
 G261 | Zunren (Jack) <br /> Liu | Step 0 | Form 1 | | Form 3
 G271 | Bhavya <br /> Mahesh | Step 0 | Form 1 | | Form 3
