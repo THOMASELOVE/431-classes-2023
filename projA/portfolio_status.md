@@ -67,7 +67,7 @@ G321 | Gayan <br /> Samuditha | Step 0 | Form 1 | Form 2 | Form 3 |
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Form 8 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G331 | Kathryn <br /> Menta | Step 0 | Form 1 | Form 2 | Form 3 |
-G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Form 1 | | Form 3 |
+G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Form 1 | | Form 3 | | | | | Form 8 |
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Form 1 | Form 2 | Form 3 | | | | | Form 8 |
 G361 | Krishna <br /> Mridha | Step 0 | Form 1 | | Form 3 |
 G371 | Tony <br /> Nunnery | Step 0 | Form 1 | | Form 3 |
