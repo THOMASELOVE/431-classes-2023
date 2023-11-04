@@ -39,7 +39,7 @@ Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | 
 G151 | Mary <br /> Garrity | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
 G161 | Trent <br /> George | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
 G181 | Claire <br /> Jansson-Knodell | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
-G191 | Julia <br /> Joo | Step 0 | Form 1 | Form 2 | Form 3 |
+G191 | Julia <br /> Joo | Step 0 | Form 1 | Form 2 | Form 3 | | | | | Form 8 |
 G201 | Kartik <br /> Lakhotiya | Step 0 | Form 1 | Form 2 | Form 3 |
 
 ### Groups 221-271
