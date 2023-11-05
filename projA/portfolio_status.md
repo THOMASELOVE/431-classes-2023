@@ -18,19 +18,19 @@ Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | 
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G021 | on pause | - | - | - | - | - | - | - | - | - | - |
 G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
-G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
-G051 | Naif <br /> Alqahtani | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
-G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
+G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | Form 6 | | Form 8 |
+G051 | Naif <br /> Alqahtani | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | Form 6 | | Form 8 |
+G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | Form 6 | | Form 8 |
 
 ### Groups 071-121
 
 Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | Form 6 | Form 7 | Form 8 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G071 | not submitted | - | - | - | - | - | - | - | - | - | - |
-G081 | John <br /> Barron | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 | 
+G081 | John <br /> Barron | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | Form 6 | | Form 8 | 
 G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | Form 6 | | Form 8 |
-G111 | Dario <br /> Cabal | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 | 
-G121 | Ryan <br /> Deng | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 | 
+G111 | Dario <br /> Cabal | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | Form 6 | | Form 8 | 
+G121 | Ryan <br /> Deng | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | Form 6 | | Form 8 | 
 
 ### Groups 151-201
 
@@ -39,8 +39,8 @@ Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | 
 G151 | Mary <br /> Garrity | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
 G161 | Trent <br /> George | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
 G181 | Claire <br /> Jansson-Knodell | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
-G191 | Julia <br /> Joo | Step 0 | Form 1 | Form 2 | Form 3 | | | | | Form 8 |
-G201 | Kartik <br /> Lakhotiya | Step 0 | Form 1 | Form 2 | Form 3 |
+G191 | Julia <br /> Joo | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
+G201 | Kartik <br /> Lakhotiya | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | 
 
 ### Groups 221-271
 
@@ -48,7 +48,7 @@ Group | Investigator(s) | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | Form 5 | 
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G221 | on pause | - | - | - | - | - | - | - | - | - | - |
 G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Form 1 | Form 2 | Form 3 | | | | | Form 8 |
-G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Form 1 | Form 2 | Form 3 | | | | | Form 8 |
+G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Form 1 | Form 2 | Form 3 | Form 4 | | | | Form 8 |
 G261 | Zunren (Jack) <br /> Liu | Step 0 | Form 1 | Form 2 | Form 3 | | | | | Form 8 |
 G271 | Bhavya <br /> Mahesh | Step 0 | Form 1 | Form 2 | Form 3 |
 
