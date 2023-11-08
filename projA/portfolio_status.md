@@ -17,10 +17,10 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Review |
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: |
 G021 | on pause | - | - | - | - | - |
-G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Forms 1-6 | | Form 8 |
-G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Forms 1-6 | | Form 8 |
-G051 | Naif <br /> Alqahtani | Step 0 | Forms 1-6 | | Form 8 |
-G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Forms 1-6 | | Form 8 |
+G032 | *Abrar Alamoudi* & Parishma Guttoo | Step 0 | Forms 1-6 | | Form 8 |
+G042 | Sarah Albalawi & *Gazi Shamita* | Step 0 | Forms 1-6 | | Form 8 |
+G051 | Naif Alqahtani | Step 0 | Forms 1-6 | | Form 8 |
+G062 | Walaa Alshaia & *Qiao Wang* | Step 0 | Forms 1-6 | | Form 8 |
 
 ### Groups 071-121
 
