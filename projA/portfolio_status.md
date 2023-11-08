@@ -18,13 +18,13 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
 G021 | on pause | 
-G032 | *Abrar Alamoudi* & Parishma Guttoo | Step 0 | Forms 1-6 | | Form 8 | | | G032
-G042 | Sarah Albalawi & *Gazi Shamita* | Step 0 | Forms 1-6 | | Form 8 | | | G042
+G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Forms 1-6 | | Form 8 | | | G032
+G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Forms 1-6 | | Form 8 | | | G042
 G051 | Naif Alqahtani | Step 0 | Forms 1-6 | | Form 8 | | | G051
-G062 | Walaa Alshaia & *Qiao Wang* | Step 0 | Forms 1-6 | | Form 8 | | | G062
+G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Forms 1-6 | | Form 8 | | | G062
 G071 | not submitted | 
 G081 | John Barron | Step 0 | Forms 1-6 | | Form 8 | | | G081
-G092 | *Alyssia Broncano* & Michelle Raymond | Step 0 | Forms 1-6 | | Form 8 | | | G092
+G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Forms 1-6 | | Form 8 | | | G092
 G111 | Dario Cabal | Step 0 | Forms 1-6 | | Form 8 | | | G111
 
 ### Groups 121-252
@@ -38,8 +38,8 @@ G181 | Claire Jansson-Knodell | Step 0 | Forms 1-6 | | Form 8 | | | G181
 G191 | Julia Joo | Step 0 | Forms 1-6 | | Form 8 | | | G191
 G201 | Kartik Lakhotiya | Step 0 | Forms 1-6 | | Form 8 | | | G201
 G221 | on pause | 
-G242 | Mengxuan Li & *Yan Zou* | Step 0 | Forms 1-6 | | Form 8 | | | G242
-G252 | *Elaine Liu* & Xiuyuan Lang | Step 0 | Forms 1-6 | | Form 8 | | | G252
+G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Forms 1-6 | | Form 8 | | | G242
+G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Forms 1-6 | | Form 8 | | | G252
 
 ### Groups 261-342
 
@@ -59,12 +59,12 @@ G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Forms 1-6 | | Form 8 | |
 
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
-G352 | *Noel Moore* & Kelsey Lewis | Step 0 | Forms 1-6 | | Form 8 | | | G352
+G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Forms 1-6 | | Form 8 | | | G352
 G361 | Krishna Mridha | Step 0 | Forms 1-6 | | Form 8 | | | G361
 G371 | Tony Nunnery | Step 0 | Forms 1-6 | | Form 8 | | | G371
-G382 | Vern Olaker & *Jacob Gardner* | Step 0 | Forms 1-6 | | Form 8 | | | G382
+G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Forms 1-6 | | Form 8 | | | G382
 G391 | Sakshi Pandit | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G391
-G412 | Mauli Patel & *Maksim Parfyonov* | Step 0 | Forms 1-6 | | Form 8 | | | G412
+G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Forms 1-6 | | Form 8 | | | G412
 G421 | Juan Perez | Step 0 | Forms 1-6 | | Form 8 | | | G421
 G431 | Camaryn Petersen | Step 0 | Forms 1-6 | | Form 8 | | | G431
 G451 | Justin Robinson | Step 0 | Forms 1-6 | | Form 8 | | | G451
