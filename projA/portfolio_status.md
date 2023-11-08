@@ -17,12 +17,12 @@ We aim to get your Project A feedback and grade to you on **2023-11-09 via email
 
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete
 -----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------:
-G021 | on pause | - | - | - | - | - |
+G021 | on pause | 
 G032 | *Abrar Alamoudi* & Parishma Guttoo | Step 0 | Forms 1-6 | | Form 8 |
 G042 | Sarah Albalawi & *Gazi Shamita* | Step 0 | Forms 1-6 | | Form 8 |
 G051 | Naif Alqahtani | Step 0 | Forms 1-6 | | Form 8 |
 G062 | Walaa Alshaia & *Qiao Wang* | Step 0 | Forms 1-6 | | Form 8 |
-G071 | not submitted | - | - | - | - | - |
+G071 | not submitted | 
 G081 | John Barron | Step 0 | Forms 1-6 | | Form 8 |
 G092 | *Alyssia Broncano* & Michelle Raymond | Step 0 | Forms 1-6 | | Form 8 |
 G111 | Dario Cabal | Step 0 | Forms 1-6 | | Form 8 |
@@ -37,7 +37,7 @@ G161 | Trent George | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready |
 G181 | Claire Jansson-Knodell | Step 0 | Forms 1-6 | | Form 8 |
 G191 | Julia Joo | Step 0 | Forms 1-6 | | Form 8 |
 G201 | Kartik Lakhotiya | Step 0 | Forms 1-6 | | Form 8 |
-G221 | on pause | - | - | - | - | - |
+G221 | on pause | 
 G242 | Mengxuan Li & *Yan Zou* | Step 0 | Forms 1-6 | | Form 8 |
 G252 | *Elaine Liu* & Xiuyuan Lang | Step 0 | Forms 1-6 | | Form 8 |
 
