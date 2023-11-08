@@ -53,7 +53,7 @@ G301 | Osmary Medina | Step 0 | Forms 1-6 | | Form 8 | | | G301
 G311 | Samir Memic | Step 0 | Forms 1-6 | | Form 8 | | | G311
 G321 | Gayan Samuditha | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G321
 G331 | Kathryn Menta | Step 0 | Forms 1-6 | | Form 8 | | | G331
-G342 | Lydia Mitchell & *Manu Bulusu* | Step 0 | Forms 1-6 | | Form 8 | | | G342
+G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Forms 1-6 | | Form 8 | | | G342
 
 ### Groups 352-451
 
