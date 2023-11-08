@@ -2,6 +2,7 @@
 
 - Elaine Liu: <https://eliu98.github.io/>
 - Robert Schauner: <http://www.schauner.com/>
+- Noel Moore: <https://ncm8.quarto.pub/noel-moore/>
 
 Congratulations on your excellent work!
 
