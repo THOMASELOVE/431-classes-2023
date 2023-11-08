@@ -39,7 +39,7 @@ G191 | Julia Joo | Step 0 | Forms 1-6 | | Form 8 | | | G191
 G201 | Kartik Lakhotiya | Step 0 | Forms 1-6 | | Form 8 | | | G201
 G221 | on pause | 
 G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G242
-G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Forms 1-6 | | Form 8 | | | G252
+G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G252
 
 ### Groups 261-342
 
@@ -53,7 +53,7 @@ G301 | Osmary Medina | Step 0 | Forms 1-6 | | Form 8 | | | G301
 G311 | Samir Memic | Step 0 | Forms 1-6 | | Form 8 | | | G311
 G321 | Gayan Samuditha | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G321
 G331 | Kathryn Menta | Step 0 | Forms 1-6 | | Form 8 | | | G331
-G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Forms 1-6 | | Form 8 | | | G342
+G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G342
 
 ### Groups 352-451
 
@@ -62,9 +62,9 @@ Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complet
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G352
 G361 | Krishna Mridha | Step 0 | Forms 1-6 | | Form 8 | | | G361
 G371 | Tony Nunnery | Step 0 | Forms 1-6 | | Form 8 | | | G371
-G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Forms 1-6 | | Form 8 | | | G382
+G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G382
 G391 | Sakshi Pandit | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G391
-G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Forms 1-6 | | Form 8 | | | G412
+G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G412
 G421 | Juan Perez | Step 0 | Forms 1-6 | | Form 8 | | | G421
 G431 | Camaryn Petersen | Step 0 | Forms 1-6 | | Form 8 | | | G431
 G451 | Justin Robinson | Step 0 | Forms 1-6 | | Form 8 | | | G451
