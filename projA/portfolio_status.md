@@ -76,7 +76,7 @@ Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complet
 G461 | Reina Samuel | Step 0 | Forms 1-6 | | Form 8 | | | G461
 G471 | Manish Sarkar | Step 0 | Forms 1-6 | | Form 8 | | | G471
 G481 | Robert Schauner | Step 0 | Forms 1-6 | | Form 8 | | | G481
-G492 | Elizabeth Schultheis & *Kamilla Abdurakhmanov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G492
+G492 | Elizabeth Schultheis & <br /> *Kamilla Abdurakhmanov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G492
 G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | | Form 8 | | | G501
 G511 | Kareena Shah | Step 0 | Forms 1-6 | | Form 8 | | | G511
 G531 | Jordan Smith | Step 0 | Forms 1-6 | | Form 8 | | | G531
