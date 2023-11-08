@@ -14,7 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. Today's class will be held **via Zoom**. There will be no in-person meeting. See your email for details.
 
 ## Supplemental Material for Today's Slides
 
@@ -25,4 +25,12 @@ To come.
 
 ## One Last Thing
 
-To come.
+![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class20/images/ohio_results.png)
+
+![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class20/images/state_results.png)
+
+![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class20/images/rights_by_county.png)
+
+Source: [Where Trump Counties in Ohio Voted to Support Abortion Rights](https://www.nytimes.com/interactive/2023/11/08/us/politics/ohio-abortion-rights-county-vote.html) by Lazao Gamio and Amy Schoenfeld Walker, *The New York Times* 2023-11-08.
+
+![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class20/images/source.png)
