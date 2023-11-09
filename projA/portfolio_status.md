@@ -20,7 +20,7 @@ Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complet
 G021 | on pause | 
 G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G032
 G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G042
-G051 | Naif Alqahtani | Step 0 | Forms 1-6 | | Form 8 | | | G051
+G051 | Naif Alqahtani | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G051
 G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G062
 G071 | not submitted | 
 G081 | John Barron | Step 0 | Forms 1-6 | | Form 8 | | | G081
@@ -52,7 +52,7 @@ G291 | Kyle McGill Percy | Step 0 | Forms 1-6 | | Form 8 | | | G291
 G301 | Osmary Medina | Step 0 | Forms 1-6 | | Form 8 | | | G301
 G311 | Samir Memic | Step 0 | Forms 1-6 | | Form 8 | | | G311
 G321 | Gayan Samuditha | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G321
-G331 | Kathryn Menta | Step 0 | Forms 1-6 | | Form 8 | | | G331
+G331 | Kathryn Menta | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G331
 G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G342
 
 ### Groups 352-451
@@ -81,5 +81,5 @@ G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | | Form 8 | | | G501
 G511 | Kareena Shah | Step 0 | Forms 1-6 | | Form 8 | | | G511
 G531 | Jordan Smith | Step 0 | Forms 1-6 | | Form 8 | | | G531
 G541 | Liz Stanley | Step 0 | Forms 1-6 | | Form 8 | | | G541
-G561 | Kexin Zhang | Step 0 | Forms 1-6 | | Form 8 | | | G561
+G561 | Kexin Zhang | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G561
 
