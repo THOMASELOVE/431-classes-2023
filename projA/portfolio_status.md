@@ -34,7 +34,7 @@ Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complet
 G121 | Ryan Deng | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G121
 G151 | Mary Garrity | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G151
 G161 | Trent George | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G161
-G181 | Claire Jansson-Knodell | Step 0 | Forms 1-6 | | Form 8 | | | G181
+G181 | Claire Jansson-Knodell | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G181
 G191 | Julia Joo | Step 0 | Forms 1-6 | | Form 8 | | | G191
 G201 | Kartik Lakhotiya | Step 0 | Forms 1-6 | | Form 8 | | | G201
 G221 | on pause | 
@@ -45,7 +45,7 @@ G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Forms 1-6 | Form 7 | Form 8
 
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
-G261 | Zunren (Jack) Liu | Step 0 | Forms 1-6 | | Form 8 | | | G261
+G261 | Zunren (Jack) Liu | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G261
 G271 | Bhavya Mahesh | Step 0 | Forms 1-6 | | Form 8 | | | G271
 G281 | Ethan Martin | Step 0 | Forms 1-6 | | Form 8 | | | G281
 G291 | Kyle McGill Percy | Step 0 | Forms 1-6 | | Form 8 | | | G291
@@ -80,6 +80,6 @@ G492 | Elizabeth Schultheis & <br /> *Kamilla Abdurakhmanov* | Step 0 | Forms 1-
 G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G501
 G511 | Kareena Shah | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G511
 G531 | Jordan Smith | Step 0 | Forms 1-6 | | Form 8 | | | G531
-G541 | Liz Stanley | Step 0 | Forms 1-6 | | Form 8 | | | G541
+G541 | Liz Stanley | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G541
 G561 | Kexin Zhang | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G561
 
