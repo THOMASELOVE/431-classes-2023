@@ -31,7 +31,7 @@ G111 | Dario Cabal | Step 0 | Forms 1-6 | | Form 8 | | | G111
 
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
-G121 | Ryan Deng | Step 0 | Forms 1-6 | | Form 8 | | | G121
+G121 | Ryan Deng | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G121
 G151 | Mary Garrity | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G151
 G161 | Trent George | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G161
 G181 | Claire Jansson-Knodell | Step 0 | Forms 1-6 | | Form 8 | | | G181
@@ -77,8 +77,8 @@ G461 | Reina Samuel | Step 0 | Forms 1-6 | | Form 8 | | | G461
 G471 | Manish Sarkar | Step 0 | Forms 1-6 | | Form 8 | | | G471
 G481 | Robert Schauner | Step 0 | Forms 1-6 | | Form 8 | | | G481
 G492 | Elizabeth Schultheis & <br /> *Kamilla Abdurakhmanov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G492
-G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | | Form 8 | | | G501
-G511 | Kareena Shah | Step 0 | Forms 1-6 | | Form 8 | | | G511
+G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G501
+G511 | Kareena Shah | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G511
 G531 | Jordan Smith | Step 0 | Forms 1-6 | | Form 8 | | | G531
 G541 | Liz Stanley | Step 0 | Forms 1-6 | | Form 8 | | | G541
 G561 | Kexin Zhang | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G561
