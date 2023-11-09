@@ -49,7 +49,7 @@ G261 | Zunren (Jack) Liu | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G261
 G271 | Bhavya Mahesh | Step 0 | Forms 1-6 | | Form 8 | | | G271
 G281 | Ethan Martin | Step 0 | Forms 1-6 | | Form 8 | | | G281
 G291 | Kyle McGill Percy | Step 0 | Forms 1-6 | | Form 8 | | | G291
-G301 | Osmary Medina | Step 0 | Forms 1-6 | | Form 8 | | | G301
+G301 | Osmary Medina | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G301
 G311 | Samir Memic | Step 0 | Forms 1-6 | | Form 8 | | | G311
 G321 | Gayan Samuditha | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G321
 G331 | Kathryn Menta | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G331
