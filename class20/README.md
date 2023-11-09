@@ -15,6 +15,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Today's class will be held **via Zoom**. There will be no in-person meeting. See your email for details.
+2. We now aim to get your Project A feedback and grade to you on **2023-11-10 via email from Dr. Love**.
+3. We will post an answer sketch for Lab 6 on Saturday 2023-11-11 at noon.
 
 ## Supplemental Material for Today's Slides
 
