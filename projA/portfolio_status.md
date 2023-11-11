@@ -1,6 +1,6 @@
 # Project A Portfolio Review Status
 
-We now aim to get your Project A feedback and grade to you on **2023-11-10 via email from Dr. Love**. 
+We now aim to get your Project A feedback and grade to you on **2023-11-13 via email from Dr. Love**. 
 
 **Note**: "Assessment" scores on Canvas are posted only to help us track reviews. Read our Canvas comments (if any) but ignore the score there.
 
@@ -36,7 +36,7 @@ G151 | Mary Garrity | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G151
 G161 | Trent George | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G161
 G181 | Claire Jansson-Knodell | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G181
 G191 | Julia Joo | Step 0 | Forms 1-6 | | Form 8 | | | G191
-G201 | Kartik Lakhotiya | Step 0 | Forms 1-6 | | Form 8 | | | G201
+G201 | Kartik Lakhotiya | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G201
 G221 | on pause | 
 G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G242
 G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G252
@@ -46,7 +46,7 @@ G252 | *Elaine Liu* & <br /> Xiuyuan Lang | Step 0 | Forms 1-6 | Form 7 | Form 8
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
 G261 | Zunren (Jack) Liu | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G261
-G271 | Bhavya Mahesh | Step 0 | Forms 1-6 | | Form 8 | | | G271
+G271 | Bhavya Mahesh | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G271
 G281 | Ethan Martin | Step 0 | Forms 1-6 | | Form 8 | | | G281
 G291 | Kyle McGill Percy | Step 0 | Forms 1-6 | | Form 8 | | | G291
 G301 | Osmary Medina | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G301
@@ -60,21 +60,21 @@ G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Forms 1-6 | Form 7 | For
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G352
-G361 | Krishna Mridha | Step 0 | Forms 1-6 | | Form 8 | | | G361
+G361 | Krishna Mridha | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G361
 G371 | Tony Nunnery | Step 0 | Forms 1-6 | | Form 8 | | | G371
 G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G382
 G391 | Sakshi Pandit | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G391
 G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G412
 G421 | Juan Perez | Step 0 | Forms 1-6 | | Form 8 | | | G421
 G431 | Camaryn Petersen | Step 0 | Forms 1-6 | | Form 8 | | | G431
-G451 | Justin Robinson | Step 0 | Forms 1-6 | | Form 8 | | | G451
+G451 | Justin Robinson | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G451
 
 ### Groups 451-561
 
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
 G461 | Reina Samuel | Step 0 | Forms 1-6 | | Form 8 | | | G461
-G471 | Manish Sarkar | Step 0 | Forms 1-6 | | Form 8 | | | G471
+G471 | Manish Sarkar | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G471
 G481 | Robert Schauner | Step 0 | Forms 1-6 | | Form 8 | | | G481
 G492 | Elizabeth Schultheis & <br /> *Kamilla Abdurakhmanov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G492
 G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G501
