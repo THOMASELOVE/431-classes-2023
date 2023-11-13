@@ -1,6 +1,6 @@
 # Project A Portfolio Review Status
 
-We now aim to get your Project A feedback and grade to you on **2023-11-13 via email from Dr. Love**. 
+Grades and feedback will be provided to you by Dr. Love as soon as possible.
 
 **Note**: "Assessment" scores on Canvas are posted only to help us track reviews. Read our Canvas comments (if any) but ignore the score there.
 
@@ -25,7 +25,7 @@ G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Forms 1-6 | Form 7 | Form 8
 G071 | not submitted | 
 G081 | John Barron | Step 0 | Forms 1-6 | | Form 8 | | | G081
 G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G092
-G111 | Dario Cabal | Step 0 | Forms 1-6 | | Form 8 | | | G111
+G111 | Dario Cabal | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G111
 
 ### Groups 121-252
 
@@ -35,7 +35,7 @@ G121 | Ryan Deng | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G121
 G151 | Mary Garrity | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G151
 G161 | Trent George | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G161
 G181 | Claire Jansson-Knodell | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G181
-G191 | Julia Joo | Step 0 | Forms 1-6 | | Form 8 | | | G191
+G191 | Julia Joo | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G191
 G201 | Kartik Lakhotiya | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G201
 G221 | on pause | 
 G242 | Mengxuan Li & <br /> *Yan Zou* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G242
@@ -47,10 +47,10 @@ Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complet
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
 G261 | Zunren (Jack) Liu | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G261
 G271 | Bhavya Mahesh | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G271
-G281 | Ethan Martin | Step 0 | Forms 1-6 | | Form 8 | | | G281
-G291 | Kyle McGill Percy | Step 0 | Forms 1-6 | | Form 8 | | | G291
+G281 | Ethan Martin | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G281
+G291 | Kyle McGill Percy | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G291
 G301 | Osmary Medina | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G301
-G311 | Samir Memic | Step 0 | Forms 1-6 | | Form 8 | | | G311
+G311 | Samir Memic | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G311
 G321 | Gayan Samuditha | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G321
 G331 | Kathryn Menta | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G331
 G342 | Lydia Mitchell & <br /> *Manu Bulusu* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G342
@@ -79,7 +79,7 @@ G481 | Robert Schauner | Step 0 | Forms 1-6 | | Form 8 | | | G481
 G492 | Elizabeth Schultheis & <br /> *Kamilla Abdurakhmanov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G492
 G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G501
 G511 | Kareena Shah | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G511
-G531 | Jordan Smith | Step 0 | Forms 1-6 | | Form 8 | | | G531
+G531 | Jordan Smith | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G531
 G541 | Liz Stanley | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G541
 G561 | Kexin Zhang | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G561
 
