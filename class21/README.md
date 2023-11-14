@@ -20,12 +20,14 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Project A review status is [here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md).
     - I will send (via email) grades and feedback as soon as they are available.
 4. The Minute Paper after Class 21 originally scheduled for this Wednesday is canceled. I awarded full credit to everyone.
-5. Remember that we don't have class on either Tuesday (just 431) or Thursday (all of CWRU) next week (Thanksgiving break).
+5. It is my intention to talk a little about my PQHS/CRSP 500 course on Thursday, for those of you planning your Spring 2024 schedule.
+6. Remember that we don't have class on either Tuesday (just 431) or Thursday (all of CWRU) next week (Thanksgiving break).
     - TA Office Hours are canceled SAT 11-19 through FRI 11-25, resuming SAT 2023-11-26.
 
 ## What Should I Be Working On?
 
 1. The [Project B](https://thomaselove.github.io/431-projectB-2023/) [Registration Form](https://thomaselove.github.io/431-projectB-2023/register.html) is due at 9 AM this Thursday 2023-11-16.
+    - I don't trust myself to remember details at the moment, so please look at the instructions before asking me a question, as I will.
 2. [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due on the Tuesday after Thanksgiving (2023-11-28) at noon. You should be able to complete it now.
 
 ## One Last Thing
