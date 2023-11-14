@@ -14,6 +14,11 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. Today's class will be Zoom only.
+2. I will get Project A results back to you as soon as possible. Status is [here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md).
+3. The Minute Paper after Class 21 originally scheduled to be due on Wednesday of this week is canceled.
+4. The Project B Registration Form is due at 9 AM Thursday 2023-11-16.
 
 ## One Last Thing
 
+Thanks for your patience with me as I get over this bug.
