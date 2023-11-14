@@ -15,17 +15,17 @@ Grades and feedback will be provided to you by Dr. Love as soon as possible.
 
 ### Groups 021-111
 
-Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
-:-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
+Group | Investigator(s) | Step 0 | Forms 1-8 | Complete | Group |
+:-----: | :-------------------------: | :-----: | :-----: | :--------: | :-----: |
 G021 | on pause | 
-G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G032
-G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G042
-G051 | Naif Alqahtani | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G051
-G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G062
+G032 | *Abrar Alamoudi* & <br /> Parishma Guttoo | Step 0 | Forms 1-8 | | G032
+G042 | Sarah Albalawi & <br /> *Gazi Shamita* | Step 0 | Forms 1-8 | | G042
+G051 | Naif Alqahtani | Step 0 | Forms 1-8 | | G051
+G062 | Walaa Alshaia & <br /> *Qiao Wang* | Step 0 | Forms 1-8 | | G062
 G071 | not submitted | 
-G081 | John Barron | Step 0 | Forms 1-6 | | Form 8 | | | G081
-G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G092
-G111 | Dario Cabal | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G111
+G081 | John Barron | Step 0 | Forms 1-8 | | G081
+G092 | *Alyssia Broncano* & <br /> Michelle Raymond | Step 0 | Forms 1-8 | | G092
+G111 | Dario Cabal | Step 0 | Forms 1-8 | | G111
 
 ### Groups 121-252
 
