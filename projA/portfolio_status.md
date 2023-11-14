@@ -65,15 +65,15 @@ G371 | Tony Nunnery | Step 0 | Forms 1-6 | | Form 8 | | | G371
 G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G382
 G391 | Sakshi Pandit | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G391
 G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G412
-G421 | Juan Perez | Step 0 | Forms 1-6 | | Form 8 | | | G421
-G431 | Camaryn Petersen | Step 0 | Forms 1-6 | | Form 8 | | | G431
+G421 | Juan Perez | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G421
+G431 | Camaryn Petersen | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G431
 G451 | Justin Robinson | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G451
 
 ### Groups 451-561
 
 Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complete | Group |
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
-G461 | Reina Samuel | Step 0 | Forms 1-6 | | Form 8 | | | G461
+G461 | Reina Samuel | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G461
 G471 | Manish Sarkar | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G471
 G481 | Robert Schauner | Step 0 | Forms 1-6 | | Form 8 | | | G481
 G492 | Elizabeth Schultheis & <br /> *Kamilla Abdurakhmanov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G492
