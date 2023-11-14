@@ -2,6 +2,8 @@
 
 Grades and feedback will be provided to you by Dr. Love as soon as possible.
 
+- At this stage, Dr. Love is ready to aggregate the results, review the portfolio one last time, and write up your final feedback.
+
 **Note**: "Assessment" scores on Canvas are posted only to help us track reviews. Read our Canvas comments (if any) but ignore the score there.
 
 ### Stages of Review (TAs work on Forms 2-6, Dr. Love does the rest.)
@@ -10,7 +12,6 @@ Grades and feedback will be provided to you by Dr. Love as soon as possible.
 - **Form 1**: We have completed Form 1 (Initial Checks) of our evaluation, so that Forms 2-8 can now be completed.
 - **Form 2**: Rds/qmd/video checks, **Form 3**: HTML checks, **Form 4**: Analysis 1 review, **Form 5**: Analysis 2 review, **Form 6**: Analysis 3 review
 - **Form 7**: Dr. Love's review of the Video, **Form 8**: Dr. Love's review of the Self-Evaluation (*note*: I've scored these 7-10 instead of just 9-10.)
-- **Ready**: Dr. Love is ready to aggregate the results, review the portfolio one last time, and write up your final feedback.
 - **Complete**: All reviewing is complete, and Dr. Love has developed your final feedback document and assigned a grade for Project A.
 
 ### Groups 021-111
