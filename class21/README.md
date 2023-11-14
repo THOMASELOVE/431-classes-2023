@@ -14,7 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Today's class will be Zoom only. Check your email or Canvas for the invitation.
+1. Today's class will be Zoom only. Check your email or Canvas for the invitation. Thanks for your patience with me as I get over this bug.
 2. The [Lab 6](https://github.com/THOMASELOVE/431-labs-2023/tree/main) answer sketch is posted to our Shared Drive.
     - I will post grades and feedback as soon as they are available.
 3. Project A review status is [here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md).
@@ -30,8 +30,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
-[Abandoning statistical significance is both sensible and practical](https://peerj.com/preprints/27657/), a pre-print letter to the JAMA editor from 2019 by Valentin Amrhein, Andrew Gelman, Sander Greenland, and  Blakeley B McShane may be of some interest to you.
+![](https://media.nature.com/w1248/magazine-assets/d41586-019-00857-9/d41586-019-00857-9_16546612.jpg)
 
-Thanks for your patience with me as I get over this bug.
+from [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) from *Nature* 2019-03-20.
+
+
 
 
