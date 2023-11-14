@@ -61,7 +61,7 @@ Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complet
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
 G352 | *Noel Moore* & <br /> Kelsey Lewis | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G352
 G361 | Krishna Mridha | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G361
-G371 | Tony Nunnery | Step 0 | Forms 1-6 | | Form 8 | | | G371
+G371 | Tony Nunnery | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G371
 G382 | Vern Olaker & <br /> *Jacob Gardner* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G382
 G391 | Sakshi Pandit | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G391
 G412 | Mauli Patel & <br /> *Maksim Parfyonov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G412
@@ -75,7 +75,7 @@ Group | Investigator(s) | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | Complet
 :-----: | :-------------------------: | :-----: | :-----: | :-----: | :-----: | :-----: | :--------: | :-----: |
 G461 | Reina Samuel | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G461
 G471 | Manish Sarkar | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G471
-G481 | Robert Schauner | Step 0 | Forms 1-6 | | Form 8 | | | G481
+G481 | Robert Schauner | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G481
 G492 | Elizabeth Schultheis & <br /> *Kamilla Abdurakhmanov* | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G492
 G501 | Himiede Wilson-Sesay | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G501
 G511 | Kareena Shah | Step 0 | Forms 1-6 | Form 7 | Form 8 | Ready | | G511
