@@ -32,7 +32,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ![](https://media.nature.com/w1248/magazine-assets/d41586-019-00857-9/d41586-019-00857-9_16546612.jpg)
 
-from [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) from *Nature* 2019-03-20.
+Illustration by David Parkins from [Scientists rise up against statistical significance](https://www.nature.com/articles/d41586-019-00857-9) from *Nature* 2019-03-20.
 
 
 
