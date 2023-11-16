@@ -14,7 +14,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Remember that 431 is canceled next Tuesday and all of CWRU is closed next Thursday. Our next class (Class 23) will be Tuesday 2023-11-28.
+1. 431 is canceled next Tuesday and all of CWRU is closed next Thursday. Our next class (Class 23) will be Tuesday 2023-11-28.
     - Dr. Love will be out of town and won't see email or Campuswire (essentially) between Sunday 2023-11-19 and Saturday 2023-11-25.
     - TA office hours are canceled starting SUN 2023-11-19 through SAT 2023-11-25, restarting SUN 2023-11-26.
 2. Grades and feedback on Lab 6 are now available on our Course Grading Roster.
