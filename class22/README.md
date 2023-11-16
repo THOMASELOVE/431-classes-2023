@@ -20,8 +20,20 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Grades and feedback on Lab 6 are now available on our Course Grading Roster.
     - We have also posted a few of the responses to Lab 6 Question 5 that we liked on our Shared Drive.
 3. Grades and feedback on Project A should be in your hands today.
+4. Feedback on your Project B registration form will be sent to you as soon as I can get to it.
+5. [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due on the Tuesday after Thanksgiving, 2023-11-28 at Noon.
 
-## Taking Other Courses (like 432) With Me
+## References from Today's Slides
+
+- [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) by Jonas Kristoffer Lindeløv.
+- Sterne JAC et al [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009; 338:b2393.
+- The mice (Multivariate Imputation by Chained Equations) package [reference page](https://amices.org/mice/).
+    - Stef van Buuren, Karin Groothuis-Oudshoorn (2011). [mice: Multivariate Imputation by Chained Equations in R](https://www.jstatsoft.org/article/view/v045i03). Journal of Statistical Software, 45(3), 1-67. DOI 10.18637/jss.v045.i03.
+- Framingham Heart Study at https://www.framinghamheartstudy.org/
+- Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
+- The `mipo` (Multiple Imputation pooled object) help file [can be found here](https://rdrr.io/cran/mice/man/mipo.html).
+
+## Taking Other Courses With Me
 
 In addition to 431, I teach two other semester-long courses, called **PQHS 432** and **PQHS 500**. I will teach both 432 and 500 in Spring 2024. Here's my advice, for what it's worth ...
 
@@ -35,16 +47,6 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
         1. percolation time for some of the ideas in 431/432
         2. too much of me at one time can be overwhelming
     - If Spring 2024 is your best opportunity to take 500, then I will certainly permit you to do so. Send me an email anytime if you want to discuss this.
-
-## References from Today's Slides
-
-- [Common statistical tests are linear models](https://lindeloev.github.io/tests-as-linear/) by Jonas Kristoffer Lindeløv.
-- Sterne JAC et al [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009; 338:b2393.
-- The mice (Multivariate Imputation by Chained Equations) package [reference page](https://amices.org/mice/).
-    - Stef van Buuren, Karin Groothuis-Oudshoorn (2011). [mice: Multivariate Imputation by Chained Equations in R](https://www.jstatsoft.org/article/view/v045i03). Journal of Statistical Software, 45(3), 1-67. DOI 10.18637/jss.v045.i03.
-- Framingham Heart Study at https://www.framinghamheartstudy.org/
-- Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
-- The `mipo` (Multiple Imputation pooled object) help file [can be found here](https://rdrr.io/cran/mice/man/mipo.html).
 
 ## One Last Thing
 
