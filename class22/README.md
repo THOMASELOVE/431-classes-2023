@@ -22,8 +22,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Grades and feedback on Project A should be in your hands **today**.
     - You should receive (via your **CWRU email**) a link from me to a Google Doc of feedback that only you and I can see. These documents are roughly five pages long, and represent hours of work by the TAs and myself. Please read yours when I send it to you.
 4. Feedback on your [Project B registration form](https://bit.ly/431-projB-registration-2023) will be sent to you as soon as I can get to it.
-    - If you haven't yet submitted the form (and everyone needs to do this, even if you have a partner and they have done it already), please get it in now.
-    - If you are working with a partner, there is an opportunity to indicate that on this form, and only one of you (you or your partner) should complete the whole thing, while the other person needs to only complete a few of the items, as you’ll see.
+    - If you haven't yet submitted the form (and everyone needs to do this, even if you have a partner and they have done it already), please get it in now. If you are working with a partner, there is an opportunity to indicate that on this form, and only one of you (you or your partner) should complete the whole thing, while the other person needs to only complete a few of the items, as you’ll see.
 5. [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due on the Tuesday after Thanksgiving, 2023-11-28 at Noon.
 6. If you haven't yet, you'll want to catch up on reading *The Art of Statistics*, at least through Chapter 12, over the Thanksgiving break.
 
