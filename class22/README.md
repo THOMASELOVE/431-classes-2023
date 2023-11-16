@@ -21,9 +21,8 @@ Class | Date | Slides | Quarto .qmd | Recording
     - We have also posted a few of the responses to Lab 6 Question 5 that we liked on our Shared Drive.
 3. Grades and feedback on Project A should be in your hands **today**.
     - You should receive (via your **CWRU email**) a link to a Google Doc of feedback that only you and I can see.
-    - My feedback template is [here](https://docs.google.com/document/d/1QDEKCvSiZcnBJQD7OcG9lfTthF3AQes_wgD4ETvIJyw/edit?usp=sharing).
-    - It may be helpful to be aware of how we did the reviews - [see here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md#stages-of-review-tas-work-on-forms-2-6-dr-love-does-the-rest) for those details. I wrote about 95% of the comments you'll find, and edited the rest.
-    - These documents are about five pages long, and represent hours of work by the TAs and myself. **Please** read it when you get it.
+    - My feedback template is [here](https://docs.google.com/document/d/1QDEKCvSiZcnBJQD7OcG9lfTthF3AQes_wgD4ETvIJyw/edit?usp=sharing). It may be helpful to be aware of how we did the reviews - [see here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md#stages-of-review-tas-work-on-forms-2-6-dr-love-does-the-rest) for those details. I wrote about 95% of the comments you'll find, and edited the rest.
+    - These Google Docs are about five pages long, and represent hours of work by the TAs and myself. **Please** read it when you get it.
 4. Feedback on your [Project B registration form](https://bit.ly/431-projB-registration-2023) will be sent to you as soon as I can get to it.
     - If you are one of the three people (Manu Bulusu, Lydia Mitchell and Anthony Nunnery) who haven't yet submitted the form (and everyone needs to do this, even if you have a partner and the partner has done it already), please get it in now.
 5. [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due on the Tuesday after Thanksgiving, 2023-11-28 at Noon.
