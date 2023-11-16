@@ -48,6 +48,6 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 - Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
 - The `mipo` (Multiple Imputation pooled object) help file [can be found here](https://rdrr.io/cran/mice/man/mipo.html).
 
-
 ## One Last Thing
 
+![](cox2.png)
