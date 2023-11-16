@@ -24,7 +24,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - It may be helpful to be aware of how we did the reviews - [see here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projA/portfolio_status.md#stages-of-review-tas-work-on-forms-2-6-dr-love-does-the-rest) for those details. I wrote about 95% of the comments you'll find, and edited the rest.
     - These documents are about five pages long, and represent hours of work by the TAs and myself. **Please** read it when you get it.
 4. Feedback on your [Project B registration form](https://bit.ly/431-projB-registration-2023) will be sent to you as soon as I can get to it.
-    - If you are one of the four people who haven't yet submitted the form (and everyone needs to do this, even if you have a partner and the partner has done it already), please get it in now. If you are working with a partner, there is an opportunity to indicate that on this form, and only one of you (you or your partner) should complete the whole thing, while the other person needs to only complete a few of the items, as you’ll see.
+    - If you are one of the three people (Manu Bulusu, Lydia Mitchell and Anthony Nunnery) who haven't yet submitted the form (and everyone needs to do this, even if you have a partner and the partner has done it already), please get it in now.
 5. [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due on the Tuesday after Thanksgiving, 2023-11-28 at Noon.
 6. If you haven't yet, you'll want to catch up on reading *The Art of Statistics*, at least through Chapter 12, over the Thanksgiving break.
 
