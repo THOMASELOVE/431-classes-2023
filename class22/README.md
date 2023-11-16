@@ -19,7 +19,8 @@ Class | Date | Slides | Quarto .qmd | Recording
     - TA office hours are canceled starting SUN 2023-11-19 through SAT 2023-11-25, restarting SUN 2023-11-26.
 2. Grades and feedback on Lab 6 are now available on our Course Grading Roster.
     - We have also posted a few of the responses to Lab 6 Question 5 that we liked on our Shared Drive.
-3. Grades and feedback on Project A should be in your hands **today**. You should receive (via your CWRU email) a link from me to a Google Doc of feedback that only you and I can see. These documents are roughly five pages long, and represent hours of work by the TAs and myself. Please read yours when I send it to you.
+3. Grades and feedback on Project A should be in your hands **today**.
+    - You should receive (via your **CWRU email**) a link from me to a Google Doc of feedback that only you and I can see. These documents are roughly five pages long, and represent hours of work by the TAs and myself. Please read yours when I send it to you.
 4. Feedback on your [Project B registration form](https://bit.ly/431-projB-registration-2023) will be sent to you as soon as I can get to it.
     - If you haven't yet submitted the form (and everyone needs to do this, even if you have a partner and they have done it already), please get it in now.
     - If you are working with a partner, there is an opportunity to indicate that on this form, and only one of you (you or your partner) should complete the whole thing, while the other person needs to only complete a few of the items, as you’ll see.
