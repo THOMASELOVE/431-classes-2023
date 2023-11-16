@@ -25,8 +25,9 @@ Class | Date | Slides | Quarto .qmd | Recording
     - These Google Docs are about five pages long, and represent hours of work by the TAs and myself. **Please** read it when you get it.
 4. Feedback on your [Project B registration form](https://bit.ly/431-projB-registration-2023) will be sent to you as soon as I can get to it.
     - If you are one of the three people (Manu Bulusu, Lydia Mitchell and Anthony Nunnery) who haven't yet submitted the form (and everyone needs to do this, even if you have a partner and the partner has done it already), please get it in now.
-5. [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due on the Tuesday after Thanksgiving, 2023-11-28 at Noon.
-6. If you haven't yet, you'll want to catch up on reading *The Art of Statistics*, at least through Chapter 12, over the Thanksgiving break.
+5. I am moving the deadline for final work for Project B from Monday 2023-12-18 up to 9 AM on Sunday 2023-12-17. The Calendar will reflect this before I go to bed tonight.
+6. [Lab 7](https://github.com/THOMASELOVE/431-labs-2023/tree/main) is due on the Tuesday after Thanksgiving, 2023-11-28 at Noon.
+7. If you haven't yet, you'll want to catch up on reading *The Art of Statistics*, at least through Chapter 12, over the Thanksgiving break.
 
 ## References from Today's Slides
 
