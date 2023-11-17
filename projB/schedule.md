@@ -2,6 +2,9 @@
 
 ## Monday 2023-12-11 Presentations
 
+- Most Monday presentations are via Zoom. Zoom information will be made available in December.
+- The three **IN PERSON** presentations will be held in Dr. Love's office on the Ground Floor of the Wood Building: Wood WG82-J.
+
 Date | Time | Investigator(s) | Group | Method
 ---------: | --------: | :--------------------------------- | :-----: | :------:
 MON 12-11 | 9:45 AM to 10:05 AM | Claire Jansson-Knodell | G181 | Zoom
@@ -14,9 +17,6 @@ MON 12-11 | *Break*
 MON 12-11 | 2:45 PM to 3:05 PM | Parishma Guttoo and Abrar Alamoudi | G172 | **IN PERSON**
 MON 12-11 | 3:10 PM to 3:30 PM | Naif AlQahtani | G051 | **IN PERSON**
 MON 12-11 | 3:35 PM to 3:55 PM | Robert Schauner | G481 | **IN PERSON**
-
-- IN PERSON meetings will be held in Dr. Love's office on the Ground Floor of the Wood Building: Wood WG82-J.
-- ZOOM information will be made available in December.
 
 ## Tuesday 2023-12-12 Presentations
 
@@ -35,3 +35,39 @@ TUE 12-12 | 2:20 PM to 2:40 PM | Elizabeth Schultheis and Kamilla Abdurakhmanov 
 TUE 12-12 | 2:45 PM to 3:05 PM | Mary Garrity | G151
 TUE 12-12 | 3:10 PM to 3:30 PM | Juan Perez | G421
 TUE 12-12 | 3:35 PM to 3:55 PM | Bhavya Mahesh | G271
+
+## Wednesday 2023-12-13 Presentations
+
+- All Wednesday presentations are via Zoom. Zoom information will be made available in December.
+
+Date | Time | Investigator(s) | Group 
+---------: | --------: | :--------------------------------- | :-----: 
+WED 12-13 | 8:30 AM to 8:50 AM | Jacob Gardner | G141
+WED 12-13 | 8:55 AM to 9:15 AM | Reina Samuel | G461
+WED 12-13 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
+WED 12-13 | *Break*
+WED 12-13 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
+WED 12-13 | 1:55 PM to 2:15 PM | Dario Cabal | G111
+WED 12-13 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
+WED 12-13 | 2:45 PM to 3:05 PM | Qiao Wang | G551
+WED 12-13 | 3:10 PM to 3:30 PM | Kexin Zhang and Ryan Deng | G562
+WED 12-13 | 3:35 PM to 3:55 PM | Elaine Liu and Xiuyuan Lang | G252
+
+## Thursday 2023-12-14 Presentations
+
+- All Thursday presentations are via Zoom. Zoom information will be made available in December.
+
+Date | Time | Investigator(s) | Group 
+---------: | --------: | :--------------------------------- | :-----: 
+THU 12-14 | 8:30 AM to 8:50 AM | Julia Joo | G191
+THU 12-14 | 8:55 AM to 9:15 AM | Gayan Samuditha and Krishna Mridha | G322
+THU 12-14 | 9:20 AM to 9:40 AM | Sarah Albalawi and Walaa Alshaia | G042
+THU 12-14 | *Break*
+THU 12-14 | 11:50 AM to 12:10 PM | Kareena Shah | G511
+THU 12-14 | 12:15 PM to 12:35 PM | Samir Memic | G311
+THU 12-14 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
+THU 12-14 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
+THU 12-14 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
+THU 12-14 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
+THU 12-14 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
+
