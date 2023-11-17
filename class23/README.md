@@ -15,6 +15,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
+2. I asked two of our students, Liz Stanley and Julia Joo, if I could share their excellent videos submitted as part of 431 Project A. They have each consented to let me do this, for which I am grateful. I thought this might be of interest to those of you looking to improve your communications skills, or just looking for examples of a strong presentation. Each of their videos are now posted to our Shared Drive, in the *Project A Examples* ... *Videos* subfolder. Please feel free to view them at your leisure.
+
 
 ## One Last Thing
 
