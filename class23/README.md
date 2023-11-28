@@ -20,3 +20,4 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## One Last Thing
 
+The Minute Paper after Class 23 is due at 2 PM Wednesday 2023-11-29. You'll find it at <https://bit.ly/431-2023-minute-23>.
