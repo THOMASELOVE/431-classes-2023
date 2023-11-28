@@ -17,7 +17,6 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
 2. I asked two of our students, Liz Stanley and Julia Joo, if I could share their excellent videos submitted as part of 431 Project A. They have each consented to let me do this, for which I am grateful. I thought this might be of interest to those of you looking to improve your communications skills, or just looking for examples of a strong presentation. Each of their videos are now posted to our Shared Drive, in the *Project A Examples* ... *Videos* subfolder. Please feel free to view them at your leisure.
 3. Quiz 2 materials are starting to become available, and all of the materials will be posted by 5 PM on Thursday 2023-11-30. Visit <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz2>. Quiz 2 is due Tuesday 2023-12-05 at Noon.
-
-## One Last Thing
-
-The Minute Paper after Class 23 is due at 2 PM Wednesday 2023-11-29. You'll find it at <https://bit.ly/431-2023-minute-23>.
+4. With regard to Lab X, I will post a video of myself creating and posting a basic website no later than December 7. The Lab is due (for those who choose to do it) on 2023-12-12 at noon.
+5. The Minute Paper after Class 23 is due at **2 PM** Wednesday 2023-11-29. You'll find it at <https://bit.ly/431-2023-minute-23>.
+6. We will post an Answer Sketch for Lab 7 by class time on Thursday 2023-11-30.
