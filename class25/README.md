@@ -14,6 +14,9 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. Today's class will be ZOOM only. Check your email for details.
+2. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
+3. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will close at 3:30.
 
 ## One Last Thing
 
