@@ -29,8 +29,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 5. Class 25 on Tuesday 2023-12-05 will be given **via Zoom** rather than in person, and it will include some work with [the favorite movies](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies), as well as an "Ask Me Anything" session.
 6. Feedback on the Minute Paper after Class 23 will be posted **by class time**.
 7. An Answer Sketch for Lab 7 will be posted **by class time**.
-8. With regard to Lab X, I will post a video of myself creating and posting a basic website before our class on Tuesday 2023-12-05.
-    - Lab X is due (for those who choose to do it) on 2023-12-12 at noon.
+8. With regard to [Lab X](https://thomaselove.github.io/431-labX/), I will post a video of myself creating and posting a basic website before our class on Tuesday 2023-12-05.
+    - [Lab X](https://thomaselove.github.io/431-labX/) is due (for those who choose to do it) on 2023-12-12 at noon.
 
 ## References from Today's Slides
 
