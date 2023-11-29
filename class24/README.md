@@ -46,4 +46,11 @@ Class | Date | Slides | Quarto .qmd | Recording
 - [The Adventure of PDF to Data Frame in R](https://medium.com/swlh/the-adventure-of-pdf-to-data-frame-in-r-f90609035600) by Justin Cocco
 - [read_pdf(): read a portable document format into R](https://rdrr.io/cran/textreadr/man/read_pdf.html) and [the textreadr package](https://github.com/trinker/textreadr) oif tools for reading text documents into R.
 
+## One Last Thing
 
+**Power Analysis by Data Simulation in R** is a nice set of blog posts by Julian Quandt, complete with R code, written in 2020-2022.
+
+1. [Part I](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-i/) *This part provides an introduction, some background on power-calculation and data-simulation.*
+2. [Part II](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-ii/) *This part foucuses on simple scenarios (t-tests) to introduce the simulation of correlated measurements and multivariate normal-distributions*
+3. [Part III](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-iii/) *This part extends the previous part by generalizing data simulation to ANOVA and general linear model designs.*
+4. [Part IV](https://julianquandt.com/post/power-analysis-by-data-simulation-in-r-part-iv/) *This final part extends the previous part by generalizing data simulation linear mixed-effects models.*
