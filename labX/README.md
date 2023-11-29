@@ -3,7 +3,9 @@
 - Elaine Liu: <https://eliu98.github.io/>
 - Robert Schauner: <http://www.schauner.com/>
 - Noel Moore: <https://ncm8.quarto.pub/noel-moore/>
+- Krishna Mridha: <https://krishna-mridha.github.io/>
 - Walaa Alshaia: <https://walaashaia.github.io/Website_/>
+- Xiuyuan Lang: <https://langxiuyuan.github.io/>
 
 Congratulations on your excellent work!
 
