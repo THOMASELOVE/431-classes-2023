@@ -4,6 +4,10 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+## From [The Commonwealth Fund's 2023 Scorecard on State Health System Performance](https://www.commonwealthfund.org/publications/scorecard/2023/jun/2023-scorecard-state-health-system-performance)
+
+![](figures/cfund.png)
+
 ## Today's Slides
 
 Class | Date | Slides | Quarto .qmd | Recording
