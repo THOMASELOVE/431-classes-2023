@@ -14,6 +14,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
+1. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
+2. Grades and an answer sketch for Quiz 2 should be in your hands **before class time**.
+3. [The `ggmice` package](https://amices.org/ggmice/ind) can help you enhance your multiple imputation work with visualizations for incomplete or imputed data. I'll try to get some material about it into 432.
+
 
 ## One Last Thing
 
