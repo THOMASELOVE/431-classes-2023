@@ -6,6 +6,7 @@
 - Krishna Mridha: <https://krishna-mridha.github.io/>
 - Walaa Alshaia: <https://walaashaia.github.io/Website_/>
 - Xiuyuan Lang: <https://langxiuyuan.github.io/>
+- Maksim Parfyonov: <https://mparfyonov.com/>
 
 Congratulations on your excellent work!
 
