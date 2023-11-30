@@ -16,22 +16,26 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 - To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
+## Quiz 2
+
+Quiz 2 materials are now available. Visit <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz2>.
+
+- Quiz 2 is now due **Tuesday 2023-12-05 at 3 PM**, instead of noon. The Google Form will close to submissions at 3:30 PM.
+- The Quiz involves two essays (questions 1 and 24), one of which is about Spiegelhalter's book.
+- The other 22 questions are skewed heavily towards material discussed in the slides for Classes 12-23.
+
 ## Announcements
 
 1. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
 2. I added three packages ([xfun](https://github.com/yihui/xfun), [epibasix](https://cran.r-project.org/web/packages/epibasix/index.html) and [exact2x2](https://cran.r-project.org/web/packages/exact2x2/index.html)) to the [list of recommended R packages to install](https://github.com/THOMASELOVE/431-packages/tree/main). I'll use functions from each of the three in today's class.
-3. Someone asked me a while back about saving a table built in the gt package as a file - what you want is [the `gtsave()` function](https://gt.rstudio.com/reference/gtsave.html), I think.
+3. Feedback on the Minute Paper after Class 23 [is now available](https://bit.ly/431-2023-min-23-feedback).
+4. Someone asked me a while back about saving a table built in the gt package as a file - what you want is [the `gtsave()` function](https://gt.rstudio.com/reference/gtsave.html), I think.
     - Lots of additional ways to export and extract these tables (as Word files, or LaTeX, or in other ways) are found on [the gt package reference page](https://gt.rstudio.com/reference/index.html).
-4. Quiz 2 materials will be completely posted **by 5 PM today**. Visit <https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz2>.
-    - Quiz 2 is now due **Tuesday 2023-12-05 at 3 PM**. The Google Form will close to submissions at 3:30 PM.
-    - The Quiz involves two essays (questions 1 and 24), one of which is about Spiegelhalter's book.
-    - The other 22 questions are skewed heavily towards material discussed in the slides for Classes 12-23.
-5. Class 25 on Tuesday 2023-12-05 will be given **via Zoom** rather than in person, and it will include some work with [the favorite movies](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies), as well as an "Ask Me Anything" session.
-6. Feedback on the Minute Paper after Class 23 [is now available](https://bit.ly/431-2023-min-23-feedback).
-7. An Answer Sketch for Lab 7 will be posted **by class time**.
-8. With regard to [Lab X](https://thomaselove.github.io/431-labX/), I will try to post a video of myself creating and posting a basic website before our class on Tuesday 2023-12-05.
-    - Most students have been following one (or more) of the tutorials I posted to [the Lab X website](https://thomaselove.github.io/431-labX/).
+5. An Answer Sketch for [Lab 7](https://github.com/THOMASELOVE/431-labs-2023) is now posted to our Shared Drive. Grades and feedback will be posted next week.
+6. With regard to [Lab X](https://thomaselove.github.io/431-labX/), I will try to post a video of myself creating a basic website before our class on Tuesday 2023-12-05.
     - [Lab X](https://thomaselove.github.io/431-labX/) is due (for those who choose to do it) on 2023-12-12 at noon.
+    - Most of [the students who've completed Lab X already](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX) have been following one (or more) of the tutorials I posted to [the Lab X website](https://thomaselove.github.io/431-labX/).
+7. Class 25 on Tuesday 2023-12-05 will be given **via Zoom** rather than in person, and it will include some work with [the favorite movies](https://github.com/THOMASELOVE/431-classes-2023/tree/main/movies), as well as an "Ask Me Anything" session.
 
 ## References from Today's Slides
 
