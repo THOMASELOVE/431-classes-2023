@@ -19,6 +19,16 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will close at 3:30.
 4. The R Graphics Cookbook shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
 
+## How Large Does R-Squared Need to Be?
+
+Statistics by Jim has some relevant thoughts [in this blog post](https://statisticsbyjim.com/regression/how-high-r-squared/).
+
+> A low R-squared isn’t always a problem, and a high R-squared doesn’t automatically indicate that you have a good model.
+
+> Different research questions have different amounts of variability that are inherently unexplainable. Case in point, humans are hard to predict. Any study that attempts to predict human behavior will tend to have R-squared values less than 50%. However, if you analyze a physical process and have very good measurements, you might expect R-squared values over 90%. There is no one-size fits all best answer for how high R-squared should be.
+
+> So, how high should R-squared be? The definitive answer is . . . it depends.
+ 
 ## One Last Thing
 
 [What is PHI? What is Not PHI? The List of 18 Identifiers from HIPAA](https://cphs.berkeley.edu/hipaa/hipaa18.html) from the Berkeley Human Research Protection Program
