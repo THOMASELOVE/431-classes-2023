@@ -17,7 +17,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. Today's class will be ZOOM only. Check your email for details.
 2. Grades and feedback on Lab 7 should be posted to the Course Grading Roster on our Shared Drive **by class time**.
 3. The R Graphics Cookbook shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
-
+4. Some [End of Class Logistics information](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics) is posted to [our Class 26 README](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics).
+ 
 ## Remaining Deliverables
 
 1. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will **close at 3:30 today**.
@@ -37,12 +38,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - If you are working with a partner, one of you should submit both the Study 1 and Study 2 reports to Canvas, and the other person should submit a one-page note to Canvas (word or PDF is best) containing your name, and stating something like “I worked on Project B with [your partner’s name] and they will submit Project B for our group.”
     - No late work will be accepted after 9 AM Sunday 2023-12-17.
 
-## End of Class Logistics
 
-1. Monday 2023-12-11 is the last day of TA office hours, and is also the last day for Campuswire.
-2. The 431 Zoom recordings of Fall 2023 classes will disappear on 2023-12-25, so if you want them for some reason, download them before Christmas.
-3. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will disappear on or slightly after 2024-06-01.
-4. The 432 class will begin at 1 PM on Tuesday 2024-01-16. The 432 website will be available by 2024-01-12, and all registered students will be informed via their CWRU email when it goes live. 
 
 ## How Large Does R-Squared Need to Be?
 
