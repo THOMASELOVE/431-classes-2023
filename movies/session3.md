@@ -10,7 +10,7 @@ Variable | Description | NA
 `fc_pctwins` | % of matchups won on flickchart as of 2023-10 | 0
 `rt_audiencescore` | Rotten Tomatoes Audience Score (% Fresh via Audience) as of 2023-10 | 0
 
-and we could consider using the two outcomes we don't select to be predictors of the outcome we do choose
+and we could consider using the two outcomes we don't select to be predictors of the outcome we do choose.
 
 ## What are the predictors we'll consider?
 
