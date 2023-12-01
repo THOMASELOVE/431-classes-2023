@@ -12,6 +12,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 - To print RevealJS slides **to pdf** from the Slides Link above, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 
+![](figures/schunemann_2022-12-01.png) [Link to this tweet](https://twitter.com/schunemann_mac/status/1598228310756331520); [Wikipedia on the Bradford-Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria)
+
 ## Announcements
 
 1. Today's class will be ZOOM only. Check your email for details.
