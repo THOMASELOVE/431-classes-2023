@@ -12,7 +12,7 @@ and we could consider using the two outcomes we don't select to be predictors of
 
 ## What are the predictors we'll consider?
 
-Variable | Description
+Variable | Description | NA
 :-------------: | :------------------------------------------------------------------ | ---:
 `mentions` | # of times film has been mentioned by students in 431 between 2020-2023 | 0
 `dr_love` | Has Dr. Love seen this film? (Yes or No) | 0
@@ -25,6 +25,8 @@ Variable | Description
 `budget` | Estimated Budget via IMDB (in $) | **19**
 `box_off_mult` | World Wide Gross Revenue (as a fraction of production budget) | **20**
 `ebert` | Movie Review (from Roger Ebert or other reviewer) on 0 to 4 stars scale | **25**
+
+
 
 and indicators for the following 20 genres (1-3 per film per IMDB), no missingness in any of these...
 
