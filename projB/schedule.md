@@ -25,9 +25,9 @@ MON 12-11 | 3:35 PM to 3:55 PM | Robert Schauner | G481 | **IN PERSON**
 Date | Time | Investigator(s) | Group 
 ---------: | --------: | :--------------------------------- | :-----: 
 TUE 12-12 | 8:30 AM to 8:50 AM | John Barron | G081
-TUE 12-12 | 8:55 AM to 9:15 AM | Kartik Lakhotiya | G201
 TUE 12-12 | 9:20 AM to 9:40 AM | Mengxuan Li and Yan Zou | G242
 TUE 12-12 | *Break*
+TUE 12-12 | 12:40 PM to 1:00 PM | Kexin Zhang and Ryan Deng | G562
 TUE 12-12 | 1:05 PM to 1:25 PM | Sakshi Pandit | G391
 TUE 12-12 | 1:30 PM to 1:50 PM | Justin Robinson | G451
 TUE 12-12 | 1:55 PM to 2:15 PM | Trent George | G161
@@ -46,12 +46,11 @@ WED 12-13 | 8:30 AM to 8:50 AM | Jacob Gardner | G141
 WED 12-13 | 8:55 AM to 9:15 AM | Reina Samuel | G461
 WED 12-13 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
 WED 12-13 | *Break*
+WED 12-13 | 1:05 PM to 1:25 PM | Elaine Liu and Xiuyuan Lang | G252
 WED 12-13 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
 WED 12-13 | 1:55 PM to 2:15 PM | Dario Cabal | G111
 WED 12-13 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
 WED 12-13 | 2:45 PM to 3:05 PM | Qiao Wang | G551
-WED 12-13 | *New Time Needed* | *Kexin Zhang and Ryan Deng* <br/> **See 2023-11-30 EMAIL FROM DR. LOVE** | *G562* 
-WED 12-13 | *New Time Needed* | *Elaine Liu and Xiuyuan Lang* <br/> **See 2023-11-30 EMAIL FROM DR. LOVE** | *G252*
 
 ## Thursday 2023-12-14 Presentations
 
@@ -64,7 +63,7 @@ THU 12-14 | 8:55 AM to 9:15 AM | Gayan Samuditha and Krishna Mridha | G322
 THU 12-14 | 9:20 AM to 9:40 AM | Sarah Albalawi and Walaa Alshaia | G042
 THU 12-14 | *Break*
 THU 12-14 | 11:50 AM to 12:10 PM | Kareena Shah | G511
-THU 12-14 | 12:15 PM to 12:35 PM | Samir Memic | G311
+THU 12-14 | 12:15 PM to 12:35 PM | Samir Memic & Kartik Lakhotiya | G312
 THU 12-14 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
 THU 12-14 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
 THU 12-14 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
