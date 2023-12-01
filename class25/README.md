@@ -15,14 +15,27 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Today's class will be ZOOM only. Check your email for details.
-2. The R Graphics Cookbook shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
+2. Grades and feedback on Lab 7 should be posted to the Course Grading Roster on our Shared Drive **by class time**.
+3. The R Graphics Cookbook shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
 
 ## Remaining Deliverables
 
-1. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will close at 3:30.
+1. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will **close at 3:30 today**.
 2. There is a [Minute Paper due Wednesday 2023-12-06 at noon](https://bit.ly/431-2023-minute-25). The link is <https://bit.ly/431-2023-minute-25>.
-3. Optional Lab X is due at noon on 2023-12-12. Here are [the success stories to date](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX).
-4. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
+3. If you want Dr. Love to [regrade any of your Lab work](https://github.com/THOMASELOVE/431-labs-2023#lab-regrade-requests-will-be-reviewed-in-december), fill out the form at <https://bit.ly/431-lab-regrade-form-2023> by Friday 2023-12-08 at noon.
+4. Optional [Lab X](https://thomaselove.github.io/431-labX/) is due at noon on 2023-12-12.
+    - Here are [the success stories to date](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX).
+5. Here is the [Project B Schedule of Presentations](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md).
+    - Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
+    - Come to your presentation with a completed Project B. All of my other advice for the presentation [is available here](https://thomaselove.github.io/431-projectB-2023/checklist.html#oral-presentation-of-results).
+    - Zoom information for each day of presentations will be made available to you via email **by class time today**.
+6. All [Project B](https://thomaselove.github.io/431-projectB-2023/) materials (Quarto, HTML, Data and Self-Evaluation) are due at **9 AM on Sunday 2023-12-17**.
+    - This includes the self-evaluation form at <https://bit.ly/431-2023-projectB-self-evaluation>, which you (and your partner, if you have one) should do separately once you've submitted your materials to Canvas, as well as:
+    - your Quarto report for Study 1 (.qmd and .html) submitted to Canvas. Be sure that the names of your Quarto and HTML files clearly identify whose project is being submitted and that these items refer to study 1.
+    - your Quarto report for Study 2 (.qmd and .html) submitted to Canvas. Be sure that the names of your Quarto and HTML files clearly identify whose project is being submitted and that these items refer to study 2.
+    - and, if you worked with any data other than NHANES, your submission also needs to include your data (in the form you used to ingest the data in your Quarto file(s), so that we can run your Quarto code and obtain your HTML results.)
+    - If you are working with a partner, one of you should submit both the Study 1 and Study 2 reports to Canvas, and the other person should submit a one-page note to Canvas (word or PDF is best) containing your name, and stating something like “I worked on Project B with [your partner’s name] and they will submit Project B for our group.”
+    - No late work will be accepted.
 
 ## End of Class Logistics
 
