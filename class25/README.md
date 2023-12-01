@@ -16,7 +16,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. Today's class will be ZOOM only. Check your email for details.
 2. Grades and feedback on Lab 7 should be posted to the Course Grading Roster on our Shared Drive **by class time**.
-3. The R Graphics Cookbook shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
+3. The [R Graphics Cookbook](https://r-graphics.org/) shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
 4. Some [End of Class Logistics information](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics) is posted to [our Class 26 README](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics).
  
 ## Remaining Deliverables
@@ -40,8 +40,6 @@ Class | Date | Slides | Quarto .qmd | Recording
         3. if you worked with any data other than NHANES, your submission also needs to include your data (in the form you used to ingest the data in your Quarto file(s), so that we can run your Quarto code and obtain your HTML results.)
         4. and finally, the self-evaluation form at <https://bit.ly/431-2023-projectB-self-evaluation>, which you (and your partner, if you have one) should do separately once you've submitted your materials to Canvas.
         5. You are welcome to, but *not required to*, also post your slides (if you used them) from your presentation.
-
-
 
 ## How Large Does R-Squared Need to Be?
 
