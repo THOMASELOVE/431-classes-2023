@@ -8,6 +8,8 @@
 - Xiuyuan Lang: <https://langxiuyuan.github.io/>
 - Maksim Parfyonov: <https://mparfyonov.com/>
 - Gazi Shamita: <https://samwise01.github.io/github.io/>
+- Abrar Alamoudi: <https://abraraalamoudi.github.io/website/>
+- Parishma Guttoo: <https://parixima.github.io/Parishma/>
 
 Congratulations on your excellent work!
 
