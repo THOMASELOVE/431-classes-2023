@@ -3,7 +3,7 @@
 ## What are the interesting outcomes?
 
 Variable | Description | NA
-:-------------: | :------------------------------------------------------------------ : ---:
+:-------------: | :------------------------------------------------------------------ | ---:
 `imdb_pct10` | % of 10-star public ratings in IMDB as of 2023-09 | 0
 `fc_pctwins` | % of matchups won on flickchart as of 2023-10 | 0
 `rt_audiencescore` | Rotten Tomatoes Audience Score (% Fresh via Audience) as of 2023-10 | 0
