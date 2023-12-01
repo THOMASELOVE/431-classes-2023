@@ -50,8 +50,8 @@ WED 12-13 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
 WED 12-13 | 1:55 PM to 2:15 PM | Dario Cabal | G111
 WED 12-13 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
 WED 12-13 | 2:45 PM to 3:05 PM | Qiao Wang | G551
-WED 12-13 | 3:10 PM to 3:30 PM | Kexin Zhang and Ryan Deng | G562
-WED 12-13 | 3:35 PM to 3:55 PM | Elaine Liu and Xiuyuan Lang | G252
+WED 12-13 | *3:10 PM to 3:30 PM* | Kexin Zhang and Ryan Deng | G562 - **See EMAIL FROM DR. LOVE**
+WED 12-13 | *3:35 PM to 3:55 PM* | Elaine Liu and Xiuyuan Lang | G252 - **See EMAIL FROM DR. LOVE**
 
 ## Thursday 2023-12-14 Presentations
 
