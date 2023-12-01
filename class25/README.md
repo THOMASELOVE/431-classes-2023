@@ -15,9 +15,21 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Today's class will be ZOOM only. Check your email for details.
-2. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
-3. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will close at 3:30.
-4. The R Graphics Cookbook shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
+2. The R Graphics Cookbook shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
+
+## Remaining Deliverables
+
+1. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will close at 3:30.
+2. There is a [Minute Paper due Wednesday 2023-12-06 at noon](https://bit.ly/431-2023-minute-25). The link is <https://bit.ly/431-2023-minute-25>.
+3. Optional Lab X is due at noon on 2023-12-12. Here are [the success stories to date](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX).
+4. The Project B Schedule of Presentations [is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md). Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
+
+## End of Class Logistics
+
+1. Monday 2023-12-11 is the last day of TA office hours, and is also the last day for Campuswire.
+2. The 431 Zoom recordings of Fall 2023 classes will disappear on 2023-12-25, so if you want them for some reason, download them before Christmas.
+3. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will disappear on or slightly after 2024-06-01.
+4. The 432 class will begin at 1 PM on Tuesday 2024-01-16. The 432 website will be available by 2024-01-12, and all registered students will be informed via their CWRU email when it goes live. 
 
 ## How Large Does R-Squared Need to Be?
 
