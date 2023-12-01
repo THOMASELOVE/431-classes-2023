@@ -29,6 +29,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 5. Here is the [Project B Schedule of Presentations](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md).
     - Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
     - Come to your presentation with a completed Project B. All of my other advice for the presentation [is available here](https://thomaselove.github.io/431-projectB-2023/checklist.html#oral-presentation-of-results).
+    - There is no need to post anything to Canvas about Project B before giving your presentation.
     - Zoom information for each day of presentations will be made available to you via email **by class time today**.
 6. All [Project B](https://thomaselove.github.io/431-projectB-2023/) materials (Quarto, HTML, Data and Self-Evaluation) are due at **9 AM on Sunday 2023-12-17**.
     - No late work will be accepted after 9 AM Sunday 2023-12-17.
