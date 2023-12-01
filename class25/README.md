@@ -24,7 +24,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. There is a [Minute Paper due Wednesday 2023-12-06 at noon](https://bit.ly/431-2023-minute-25). The link is <https://bit.ly/431-2023-minute-25>.
 3. If you want Dr. Love to [regrade any of your Lab work](https://github.com/THOMASELOVE/431-labs-2023#lab-regrade-requests-will-be-reviewed-in-december), visit <https://bit.ly/431-lab-regrade-form-2023> by Friday 2023-12-08 at noon.
 4. Optional [Lab X](https://thomaselove.github.io/431-labX/) is due at noon on 2023-12-12.
-    - Here are [the success stories to date](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX).
+    - Here are [the success stories to date](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX). Congratulations to all of you!
 5. Here is the [Project B Schedule of Presentations](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md).
     - Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
     - Come to your presentation with a completed Project B. All of my other advice for the presentation [is available here](https://thomaselove.github.io/431-projectB-2023/checklist.html#oral-presentation-of-results).
