@@ -21,7 +21,7 @@ Class | Date | Slides | Quarto .qmd | Recording
  
 ## Remaining Deliverables
 
-1. Quiz 2 is due at 3 PM today. Please don't miss the deadline. The Google Form will **close at 3:30 today**.
+1. [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2023/tree/main/quiz2) is due at 3 PM today. Please don't miss the deadline. [The Google Form](https://bit.ly/431-2023-quiz2-form) will **close at 3:30 today**.
 2. There is a [Minute Paper due Wednesday 2023-12-06 at noon](https://bit.ly/431-2023-minute-25). The link is <https://bit.ly/431-2023-minute-25>.
 3. If you want Dr. Love to [regrade any of your Lab work](https://github.com/THOMASELOVE/431-labs-2023#lab-regrade-requests-will-be-reviewed-in-december), visit <https://bit.ly/431-lab-regrade-form-2023> by Friday 2023-12-08 at noon.
 4. Optional [Lab X](https://thomaselove.github.io/431-labX/) is due at noon on 2023-12-12.
