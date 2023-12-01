@@ -33,7 +33,7 @@ Variable | Description | NA
 and indicators for the following 20 genres (1-3 per film per IMDB), no missingness in any of these...
 
 variable | % of our movies
----------: | -----------:
+---------: | :----------:
 drama | 57
 comedy | 36
 adventure | 33
