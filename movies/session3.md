@@ -1,5 +1,7 @@
 # Plans for Favorite Movies, Session 3
 
+We have 201 movies in the data base. I've selected some potential predictors and outcomes from the 90 variables in the `movies_2023-10-24` data on our Shared Drive.
+
 ## What are the interesting outcomes?
 
 Variable | Description | NA
