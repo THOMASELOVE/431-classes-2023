@@ -23,8 +23,8 @@ Variable | Description | NA | Min, Med, Max
 `bw_rating` | Bechdel-Wallace Test Criteria Met (0-3) | **8** | 0, 3, 3
 `imdb_oscars` | # of Oscar (Academy Award) wins | **2** | 0, 0, 11
 `mentions` | # of times movie has been mentioned by students in 431 between 2020-2023 | 0 | 1, 1, 6
-`dr_love` | Has Dr. Love seen this film? (Yes or No) | 0 | 77 Yes (38.3%)
-`gen_1` | Gender of star_1 (M or F) | 0 | 45 F (22.3%)
+`dr_love` | Has Dr. Love seen this movie? (Yes or No) | 0 | 77 Yes (38.3%)
+`gen_1` | Gender of Star 1 (M or F) | 0 | 45 F (22.3%)
 `bacon_1` | Star 1's Bacon Number (Movies only, as actor, no Soap no TV Movie) | 0 | 1, 2, 3
 `lang_1` | Primary language used in the Movie | 0 | 177 English (88.1%)
 
