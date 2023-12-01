@@ -4,11 +4,11 @@ We have 201 movies in the data base. I've selected some potential predictors and
 
 ## What are the interesting outcomes?
 
-Variable | Description | NA
-:-------------: | :------------------------------------------------------------------ | ---:
-`imdb_pct10` | % of 10-star public ratings in IMDB as of 2023-09 | 0
-`fc_pctwins` | % of matchups won on flickchart as of 2023-10 | 0
-`rt_audiencescore` | Rotten Tomatoes Audience Score (% Fresh via Audience) as of 2023-10 | 0
+Variable | Description | NA | Min, Med, Max
+:-------------: | :------------------------------------------------------------------ | ---: | :---------:
+`imdb_pct10` | % of 10-star public ratings in IMDB as of 2023-09 | 0 | 3.8, 15.6, 55.0
+`fc_pctwins` | % of matchups won on Flickchart as of 2023-10 | 0 | 24, 52, 79
+`rt_audiencescore` | Rotten Tomatoes Audience Score (% Fresh via Audience) as of 2023-10 | 0 | 28, 86, 98
 
 and we could consider using the two outcomes we don't select to be predictors of the outcome we do choose.
 
