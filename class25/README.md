@@ -35,7 +35,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - your Quarto report for Study 2 (.qmd and .html) submitted to Canvas. Be sure that the names of your Quarto and HTML files clearly identify whose project is being submitted and that these items refer to study 2.
     - and, if you worked with any data other than NHANES, your submission also needs to include your data (in the form you used to ingest the data in your Quarto file(s), so that we can run your Quarto code and obtain your HTML results.)
     - If you are working with a partner, one of you should submit both the Study 1 and Study 2 reports to Canvas, and the other person should submit a one-page note to Canvas (word or PDF is best) containing your name, and stating something like “I worked on Project B with [your partner’s name] and they will submit Project B for our group.”
-    - No late work will be accepted.
+    - No late work will be accepted after 9 AM Sunday 2023-12-17.
 
 ## End of Class Logistics
 
