@@ -13,7 +13,7 @@ and we could consider using the two outcomes we don't select to be predictors of
 ## What are the predictors we'll consider?
 
 Variable | Description
-:-------------: | :------------------------------------------------------------------ : ---:
+:-------------: | :------------------------------------------------------------------ | ---:
 `mentions` | # of times film has been mentioned by students in 431 between 2020-2023 | 0
 `dr_love` | Has Dr. Love seen this film? (Yes or No) | 0
 `bw_rating` | Bechdel-Wallace Test Criteria Met (0-3) | **8**
