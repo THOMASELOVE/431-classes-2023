@@ -2,7 +2,7 @@
 
 ## Monday 2023-12-11 Presentations
 
-- Most Monday presentations are via Zoom. Zoom information will be made available in December. Please join the Zoom 5 minutes before your presentation is scheduled to start.
+- Most Monday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
 - The three **IN PERSON** presentations will be held in Dr. Love's office on the Ground Floor of the Wood Building: Wood WG82-J. Please arrive 5 minutes before your presentation is scheduled to start.
 
 Date | Time | Investigator(s) | Group | Method
@@ -20,7 +20,7 @@ MON 12-11 | 3:35 PM to 3:55 PM | Robert Schauner | G481 | **IN PERSON**
 
 ## Tuesday 2023-12-12 Presentations
 
-- All Tuesday presentations are via Zoom. Zoom information will be made available in December. Please join the Zoom 5 minutes before your presentation is scheduled to start.
+- All Tuesday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
 
 Date | Time | Investigator(s) | Group 
 ---------: | --------: | :--------------------------------- | :-----: 
@@ -38,7 +38,7 @@ TUE 12-12 | 3:35 PM to 3:55 PM | Bhavya Mahesh | G271
 
 ## Wednesday 2023-12-13 Presentations
 
-- All Wednesday presentations are via Zoom. Zoom information will be made available in December. Please join the Zoom 5 minutes before your presentation is scheduled to start.
+- All Wednesday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
 
 Date | Time | Investigator(s) | Group 
 ---------: | --------: | :--------------------------------- | :-----: 
@@ -54,7 +54,7 @@ WED 12-13 | 2:45 PM to 3:05 PM | Qiao Wang | G551
 
 ## Thursday 2023-12-14 Presentations
 
-- All Thursday presentations are via Zoom. Zoom information will be made available in December. Please join the Zoom 5 minutes before your presentation is scheduled to start.
+- All Thursday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
 
 Date | Time | Investigator(s) | Group 
 ---------: | --------: | :--------------------------------- | :-----: 
