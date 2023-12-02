@@ -32,7 +32,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Optional [Lab X](https://thomaselove.github.io/431-labX/) is due at noon on 2023-12-12.
     - Here are [the success stories to date](https://github.com/THOMASELOVE/431-classes-2023/tree/main/labX). Congratulations to all of you!
 3. Here is the [Project B Schedule of Presentations](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/schedule.md).
-    - Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins.
+    - Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). 
     - Come to your presentation with a completed Project B. All of my other advice for the presentation [is available here](https://thomaselove.github.io/431-projectB-2023/checklist.html#oral-presentation-of-results).
     - There is no need to post anything to Canvas about Project B before giving your presentation.
     - Zoom information for each day of presentations will be made available to you via email **by class time today**.
