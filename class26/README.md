@@ -17,6 +17,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. Grades and an answer sketch for Quiz 2 should be in your hands **before class time**.
 2. Feedback on the Minute Paper after Class 25 should also be available **by class time**.
 3. [The `ggmice` package](https://amices.org/ggmice/ind) can help you enhance your multiple imputation work with visualizations for incomplete or imputed data. I'll try to get some material about it into 432.
+4. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource.
 
 ## End of Class Logistics
 
@@ -46,7 +47,15 @@ Class | Date | Slides | Quarto .qmd | Recording
         4. and finally, the self-evaluation form at <https://bit.ly/431-2023-projectB-self-evaluation>, which you (and your partner, if you have one) should do separately once you've submitted your materials to Canvas.
         5. You are welcome to, but *not required to*, also post your slides (if you used them) from your presentation.
 
+## Empirical Bayes
 
+- Julia Silge's YouTube video on "[Empirical Bayes for Doctor Who episodes](https://www.youtube.com/watch?v=OtDpYeiwbj8)" working with the [TidyTuesday 2023-11-28](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-11-28/readme.md) data.
+    - A 2016 blog post from Julia on [Singing the Bayesian Beginner Blues](https://juliasilge.com/blog/bayesian-blues/).
+- Material from David Robinson at Variance Explained, including:
+    - "[Understanding the beta distribution (using baseball statistics)](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)"
+    - "[Understanding Empirical Bayes Estimation (using baseball statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)"
+    - David's [post announcing his e-book](http://varianceexplained.org/r/empirical-bayes-book/).
+    - David's [e-book: Introduction to Empirical Bayes: Examples from Baseball Statistics](https://drob.gumroad.com/l/empirical-bayes).
 
 ## One Last Thing
 
