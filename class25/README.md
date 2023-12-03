@@ -18,7 +18,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. Today's class will be ZOOM only. Check your email or Canvas for details.
 2. Grades and feedback on Lab 7 should be posted to the Course Grading Roster on our Shared Drive **by class time**.
-3. A [YouTube Playlist of Fall 2022 431 students' favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (which includes two of my favorites) is available.
+3. A [YouTube Playlist of Fall 2023 431 students' favorite songs](https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH) is now available. I asked for your Favorite Song as [part of the Project B instructions](https://thomaselove.github.io/431-projectB-2023/checklist.html#a-special-note). The list of songs is also posted to our Shared Drive. If you're not listed, please respond to my email on 12-02 asking for your favorite song.
+    - A [YouTube Playlist of Fall 2022 431 students' favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (which includes two of my favorites) is also available.
 4. Some [End of Class Logistics information](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics) is posted to [our Class 26 README](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics).
 5. The [R Graphics Cookbook](https://r-graphics.org/) shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you.
  
