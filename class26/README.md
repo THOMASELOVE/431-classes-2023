@@ -19,7 +19,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 3. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource.
 4. Alex Reinhart's book [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) is well worth your time.
 5. Need some motivation to work with public health data and don't mind that the subject matter is horribly depressing? Here's the [Gun Violence Archive](https://www.gunviolencearchive.org/).
-6. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
+6. Looking for a video to watch over the break? Check out the work of [David Robinson](https://www.youtube.com/@safe4democracy), [Frank Harrell](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA) or [Julia Silge](https://www.youtube.com/@JuliaSilge).
+    - One good option is David's [Tidy Tuesday screencast: analyzing student/teacher ratios and other country statistics](https://www.youtube.com/watch?v=NoUHdrailxA)
+    - Another is Julia's [Resampling to understand gender in art history textbooks](https://www.youtube.com/watch?v=Ac7V848uBuo) with this [accompanying blog post](https://juliasilge.com/blog/art-history/).
+7. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
 
 ## End of Class Logistics
 
@@ -52,6 +55,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Empirical Bayes
 
 - Julia Silge's YouTube video on "[Empirical Bayes for Doctor Who episodes](https://www.youtube.com/watch?v=OtDpYeiwbj8)" working with the [TidyTuesday 2023-11-28](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-11-28/readme.md) data.
+    - Here's Julia's [blog post about the Doctor Who data](https://juliasilge.com/blog/doctor-who-bayes/).
     - A 2016 blog post from Julia on [Singing the Bayesian Beginner Blues](https://juliasilge.com/blog/bayesian-blues/).
 - Material from David Robinson at Variance Explained, including:
     - "[Understanding the beta distribution (using baseball statistics)](http://varianceexplained.org/statistics/beta_distribution_and_baseball/)"
