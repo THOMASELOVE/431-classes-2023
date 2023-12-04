@@ -52,6 +52,10 @@ Class | Date | Slides | Quarto .qmd | Recording
         4. and finally, the self-evaluation form at <https://bit.ly/431-2023-projectB-self-evaluation>, which you (and your partner, if you have one) should do separately once you've submitted your materials to Canvas.
         5. You are welcome to, but *not required to*, also post your slides (if you used them) from your presentation.
 
+## References for Today's Class
+
+- Riley RD et al. [Calculating the sample size required for developing a clinical prediction model](https://www.bmj.com/content/368/bmj.m441) BMJ 2020; 368 doi: <https://doi.org/10.1136/bmj.m441>
+
 ## How Large Does R-Squared Need to Be?
 
 Statistics by Jim has some relevant thoughts [in this blog post](https://statisticsbyjim.com/regression/how-high-r-squared/).
