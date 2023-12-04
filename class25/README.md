@@ -54,6 +54,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## References for Today's Class
 
+- Harrell FE <https://hbiostat.org/bbr/> Biostatistics for Biomedical Research course materials.
 - Riley RD et al. [Calculating the sample size required for developing a clinical prediction model](https://www.bmj.com/content/368/bmj.m441) BMJ 2020; 368: m441. <https://doi.org/10.1136/bmj.m441>
 
 ## How Large Does R-Squared Need to Be?
