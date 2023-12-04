@@ -24,7 +24,7 @@ MON 12-11 | 3:35 PM to 3:55 PM | Robert Schauner | G481 | **IN PERSON**
 
 Date | Time | Investigator(s) | Group 
 ---------: | --------: | :--------------------------------- | :-----: 
-TUE 12-12 | 8:30 AM to 8:50 AM | John Barron | G081
+TUE 12-12 | 8:55 AM to 9:15 AM | John Barron | G081
 TUE 12-12 | 9:20 AM to 9:40 AM | Mengxuan Li and Yan Zou | G242
 TUE 12-12 | *Break*
 TUE 12-12 | 12:40 PM to 1:00 PM | Kexin Zhang and Ryan Deng | G562
