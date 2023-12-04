@@ -48,7 +48,7 @@ Date | # | Time | Investigator(s) | Group | Method
 WED 12-13 | 1 | 8:30 AM to 8:50 AM | Jacob Gardner | G141
 WED 12-13 | 2 | 8:55 AM to 9:15 AM | Reina Samuel | G461
 WED 12-13 | 3 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
-WED 12-13 | *Break*
+WED 12-13 | | *Break*
 WED 12-13 | 4 | 1:05 PM to 1:25 PM | Elaine Liu and Xiuyuan Lang | G252
 WED 12-13 | 5 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
 WED 12-13 | 6 | 1:55 PM to 2:15 PM | Dario Cabal | G111
