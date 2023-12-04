@@ -16,8 +16,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. Grades and an answer sketch for Quiz 2 should be in your hands **before class time**.
 2. Feedback on the Minute Paper after Class 25 should also be available **by class time**.
-3. [The `ggmice` package](https://amices.org/ggmice/ind) can help you enhance your multiple imputation work with visualizations for incomplete or imputed data. I'll try to get some material about it into 432.
-4. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource.
+3. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource.
 
 ## End of Class Logistics
 
