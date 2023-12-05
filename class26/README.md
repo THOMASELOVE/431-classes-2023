@@ -85,6 +85,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 9. Prediction models need to predict well in new situations.
 10. Statistical thinking is far too important to be left to statisticians.
 
+![](figures/cox1.png)
+
 ## One Last Thing
 
 Frank Harrell posted this [Biostatistical Modeling Plan](https://hbiostat.org/blog/post/modplan/), most recently on 2023-01-26. This is the kind of thing we will work towards in 432.
