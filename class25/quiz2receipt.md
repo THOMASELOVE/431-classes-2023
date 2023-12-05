@@ -24,7 +24,7 @@ Qiao Wang | 1 (Q24)
 Michelle Raymond | 3 (Q1 and Q24) 
 Reina Samuel | 3 (Q1 and Q24)
 Kexin Zhang | 1 (Q24 essay)
-Yan (Zoey) Zou | 4 (Q15 part b, Q17 part 1, Q18, Q24 essay,
+Yan (Zoey) Zou | 4 (Q15 part b, Q17 part 1, Q18, Q24)
 
 ## Students who have not yet submitted the Quiz 2 form
 
