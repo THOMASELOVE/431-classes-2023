@@ -28,6 +28,12 @@ Class | Date | Slides | Quarto .qmd | Recording
 6. Today I will demonstrate the use of functions from the `corrplot` and `ggmice` packages. I have added these two packages to [our recommended packages for installation](https://github.com/THOMASELOVE/431-packages/tree/main).
     - The [R Graphics Cookbook](https://r-graphics.org/) shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you. That's the motivation for the `corrplot` package.
     - [The `ggmice` package](https://amices.org/ggmice/ind) can help you enhance your multiple imputation work with visualizations for incomplete or imputed data. I'll try to get some material about it into 432, as well as today's little demonstration.
+
+## Quote of the Day
+
+> Imputing one value for a missing datum cannot be correct in general, because we don’t know what value to impute with certainty (if we did, it wouldn’t be missing).
+
+— Donald B. Rubin
  
 ## Remaining Deliverables
 
