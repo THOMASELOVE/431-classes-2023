@@ -52,7 +52,7 @@ Class | Date | Slides | Quarto .qmd | Recording
         4. and finally, the self-evaluation form at <https://bit.ly/431-2023-projectB-self-evaluation>, which you (and your partner, if you have one) should do separately once you've submitted your materials to Canvas.
         5. You are welcome to, but *not required to*, also post your slides (if you used them) from your presentation.
 
-## Empirical Bayes
+## Empirical Bayes (An Early and new 432 Topic)
 
 - Julia Silge's YouTube video on "[Empirical Bayes for Doctor Who episodes](https://www.youtube.com/watch?v=OtDpYeiwbj8)" working with the [TidyTuesday 2023-11-28](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-11-28/readme.md) data.
     - Here's Julia's [blog post about the Doctor Who data](https://juliasilge.com/blog/doctor-who-bayes/).
