@@ -63,6 +63,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 - Harrell FE <https://hbiostat.org/bbr/> Biostatistics for Biomedical Research course materials.
 - Riley RD et al. [Calculating the sample size required for developing a clinical prediction model](https://www.bmj.com/content/368/bmj.m441) BMJ 2020; 368: m441. <https://doi.org/10.1136/bmj.m441>
 - van Buuren S *Flexible Imputation of Missing Data* [How Many Imputations?](https://stefvanbuuren.name/fimd/sec-howmany.html)
+- [The Favorite Movies Data, Session 3](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/session3.md)
+- <https://www.flickchart.com/>
 
 ## How Large Does R-Squared Need to Be?
 
