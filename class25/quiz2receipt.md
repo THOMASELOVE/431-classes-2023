@@ -4,7 +4,7 @@ As of `12/5/2023 10:46:46`
 
 ## Students who have submitted a complete (no blanks) Quiz 2
 
-  |  |  |  | 
+-- | --  | --  | --  | --
 :--------: | :--------: | :--------: | :--------: | :--------: |
 Abrar Alamoudi | Sarah Albalawi | Naif AlQahtani | John Barron | Ryan Deng
 Trent George | Claire Jansson-Knodell | Julia Joo | Kelsey Lewis | Mengxuan  Li
@@ -14,17 +14,11 @@ Justin Robinson | Manish Sarkar | Robert Schauner | Himiede Wilson-Sesay | Liz S
 
 ## Students who have submitted the Quiz 2 form but with some blanks
 
-Parishma Guttoo
-Gazi Samita
-Qiao Wang
-Mauli Patel
-Xiuyuan Lang
-Michelle Raymond
-Kexin Zhang
-Mary Garrity
-Walaa Alshaia
-Reina Samuel
-Yan (Zoey) Zou
+-- | --  | --  | --  
+:--------: | :--------: | :--------: | :--------: 
+Walaa Alshaia | Mary Garrity | Parishma Guttoo | Xiuyuan Lang 
+Mauli Patel | Michelle Raymond | Gazi Samita | Reina Samuel
+Qiao Wang | Kexin Zhang | Yan (Zoey) Zou
 
 ## Students who have not yet submitted the Quiz 2 form
 
