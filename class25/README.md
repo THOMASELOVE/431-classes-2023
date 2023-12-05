@@ -17,7 +17,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 ## Announcements
 
 1. Today's class will be ZOOM only. Check your email or Canvas for details.
-2. Grades and feedback on Lab 7 should be posted to the Course Grading Roster on our Shared Drive **by class time**.
+2. Grades and feedback on Lab 7 are posted to the Course Grading Roster on our Shared Drive.
 3. A [YouTube Playlist of Fall 2023 431 students' favorite songs](https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH) is now available.
     - I asked for your Favorite Song as [part of the Project B instructions](https://thomaselove.github.io/431-projectB-2023/checklist.html#a-special-note).
     - The list of songs is also posted to our Shared Drive. If you're not listed, please respond to my email on 12-02 asking for your favorite song.
