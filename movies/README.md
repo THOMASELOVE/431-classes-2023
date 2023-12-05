@@ -33,3 +33,7 @@ Breakout 2 led to my creation of a **new Google Sheet** called `movies_2023-10-2
     - The type of variable (id, integer, count, factor, character, decimal, link)
     - The number of missing values (out of the 201 movies)
     - for quantities: the minimum, median, maximum, mean and standard deviation of the values
+
+## Session 3
+
+Here's an outline of what we'll do in our [third movie session](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/session3.md) during [Class 25](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class25) (2023-12-05)
