@@ -10,6 +10,7 @@
 - Gazi Shamita: <https://samwise01.github.io/github.io/>
 - Abrar Alamoudi: <https://abraraalamoudi.github.io/website/>
 - Parishma Guttoo: <https://parixima.github.io/Parishma/>
+- Sakshi Pandit: <https://sakshigautampandit.github.io/>
 
 Congratulations on your excellent work!
 
