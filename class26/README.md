@@ -32,7 +32,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. The 431 Zoom recordings of Fall 2023 classes will disappear on 2023-12-25, so if you want them, download them before Christmas.
 3. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will stay where they are until 2024-06-01.
 4. Dr. Love will not be available to answer emails or address other issues from December 18 through January 2.
-5. This Spring's 432 class will begin at 1 PM on Tuesday 2024-01-16. The 432 website will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+5. This Spring's 432 class will begin at 1 PM on Tuesday 2024-01-16. The [432 website](https://thomaselove.github.io/432-2024/) exists in an early form now, and will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
 6. This Spring's 500 class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will also go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
 
 ## Remaining Deliverables
