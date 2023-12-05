@@ -25,9 +25,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 4. Once you've submitted Quiz 2, it would be a good time to [update your R packages](https://thomaselove.github.io/431-2023/software.html#updating-your-r-packages).
     - There is a new version of R, version 4.3.2, so you can upgrade if you like at <https://cran.case.edu/>, but I'm fine with you sticking with version 4.3.1 through the end of 2023.
 5. Some [End of Class Logistics information](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics) is posted to [our Class 26 README](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class26/README.md#end-of-class-logistics).
-6. Today I will demonstrate the use of functions from the `corrplot` and `ggmice` packages. I have added these two packages to [our recommended packages for installation](https://github.com/THOMASELOVE/431-packages/tree/main).
+6. Today I will demonstrate the use of functions from the `corrplot`, `ggmice` and `caret` packages. I have added these three packages to [our recommended packages for installation](https://github.com/THOMASELOVE/431-packages/tree/main).
     - The [R Graphics Cookbook](https://r-graphics.org/) shows some interesting [ways to visualize a correlation matrix](https://r-graphics.org/recipe-miscgraph-corrmatrix), which might be helpful to you. That's the motivation for the `corrplot` package.
     - [The `ggmice` package](https://amices.org/ggmice/ind) can help you enhance your multiple imputation work with visualizations for incomplete or imputed data. I'll try to get some material about it into 432, as well as today's little demonstration.
+    - [The `caret` package](https://topepo.github.io/caret/) will allow us to complete a 10-fold cross-validation of a regression model for an imputed data set.
 
 ## Quote of the Day
 
