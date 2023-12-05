@@ -1,6 +1,6 @@
 # Quiz 2 Submission Status
 
-As of `12/5/2023 11:09 AM`
+As of `12/5/2023 11:13 AM`
 
 ## Students who have submitted a complete (no blanks) Quiz 2
 
@@ -11,7 +11,7 @@ Trent George | Claire Jansson-Knodell | Julia Joo | Kelsey Lewis | Mengxuan  Li
 Elaine Liu | Ethan Martin | Kyle McGill Percy | Samir Memic | Kathryn Menta
 Noel Moore | Vern Olaker | Sakshi Pandit | Maksim (Max) Parfyonov | Camaryn Petersen
 Justin Robinson | Manish Sarkar | Robert Schauner | Himiede Wilson-Sesay | Gazi Samita
-Liz Stanley
+Gayan (Sam) Samuditha | Liz Stanley
 
 ## Students who have submitted the Quiz 2 form but with some blanks
 
@@ -41,7 +41,6 @@ Yan (Zoey) Zou | 4
 - Zunren (Jack) Liu
 - Bhavya Mahesh
 - Osmary Medina
-- Gayan (Sam) Samuditha
 - Lydia Mitchell
 - Krishna Mridha
 - Tony Nunnery
