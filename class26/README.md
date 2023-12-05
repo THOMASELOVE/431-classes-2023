@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+![](figures/taylor_2020.png)
+
 ## Today's Slides
 
 Class | Date | Slides | Quarto .qmd | Recording
