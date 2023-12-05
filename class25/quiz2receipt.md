@@ -1,17 +1,18 @@
 # Quiz 2 Submission Status
 
-As of `12/5/2023 11:47 AM`
+As of `12/5/2023 12:02 PM`
 
 ## Students who have submitted a complete (no blanks) Quiz 2
 
 Complete | --  | --  | --  | --
 :--------: | :--------: | :--------: | :--------: | :--------: |
 Abrar Alamoudi | Sarah Albalawi | Naif AlQahtani | John Barron | Ryan Deng 
-Trent George | Claire Jansson-Knodell | Julia Joo | Kelsey Lewis | Mengxuan  Li
-Elaine Liu | Ethan Martin | Kyle McGill Percy | Samir Memic | Kathryn Menta
-Noel Moore | Vern Olaker | Sakshi Pandit | Maksim (Max) Parfyonov | Mauli Patel 
-Camaryn Petersen | Justin Robinson | Manish Sarkar | Robert Schauner | Himiede Wilson-Sesay
-Gazi Samita | Gayan (Sam) Samuditha | Elizabeth Schultheis | Liz Stanley
+Trent George | Parishma Guttoo | Claire Jansson-Knodell | Julia Joo | Kelsey Lewis 
+Mengxuan  Li | Elaine Liu | Ethan Martin | Kyle McGill Percy | Samir Memic
+Kathryn Menta | Noel Moore | Vern Olaker | Sakshi Pandit | Maksim (Max) Parfyonov
+Mauli Patel | Camaryn Petersen | Justin Robinson | Manish Sarkar | Robert Schauner
+Himiede Wilson-Sesay | Gazi Samita | Gayan (Sam) Samuditha | Elizabeth Schultheis | Jordan Smith
+Liz Stanley
 
 ## Students who have submitted the Quiz 2 form but with some blanks
 
@@ -19,7 +20,6 @@ Student | Blanks
 :-----------: | ---:
 Walaa Alshaia | 36
 Mary Garrity | 9
-Parishma Guttoo | 1
 Xiuyuan Lang | 3
 Qiao Wang | 1
 Michelle Raymond | 3
@@ -45,5 +45,4 @@ Yan (Zoey) Zou | 4
 - Tony Nunnery
 - Juan Perez
 - Kareena Shah
-- Jordan Smith
 
