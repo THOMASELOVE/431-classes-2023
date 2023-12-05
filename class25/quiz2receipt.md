@@ -22,23 +22,11 @@ Qiao Wang | Kexin Zhang | Yan (Zoey) Zou
 
 ## Students who have not yet submitted the Quiz 2 form
 
-Kamilla Abdurakhmanov
-Alyssia Broncano
-Manu Bulusu
-Dario Cabal
-Richael Gambrah
-Jacob Gardner
-Kartik Lakhotiya
-Vetrica Le Maitre
-Zunren (Jack) Liu
-Bhavya Mahesh
-Osmary Medina
-Gayan (Sam) Samuditha
-Lydia Mitchell
-Krishna Mridha
-Tony Nunnery
-Juan Perez
-Elizabeth Schultheis
-Kareena Shah
-Jordan Smith
+No Form Yet | --  | --  | --  
+:--------: | :--------: | :--------: | :--------: 
+Kamilla Abdurakhmanov | Alyssia Broncano | Manu Bulusu | Dario Cabal
+Richael Gambrah | Jacob Gardner | Kartik Lakhotiya | Vetrica Le Maitre
+Zunren (Jack) Liu | Bhavya Mahesh | Osmary Medina | Gayan (Sam) Samuditha
+Lydia Mitchell | Krishna Mridha | Tony Nunnery | Juan Perez
+Elizabeth Schultheis | Kareena Shah | Jordan Smith
 
