@@ -31,8 +31,9 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. Monday 2023-12-11 is the last day of TA office hours, and is also the last day for Campuswire.
 2. The 431 Zoom recordings of Fall 2023 classes will disappear on 2023-12-25, so if you want them, download them before Christmas.
 3. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will stay where they are until 2024-06-01.
-4. This Spring's 432 class will begin at 1 PM on Tuesday 2024-01-16. The 432 website will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
-5. This Spring's 500 class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will also go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+4. Dr. Love will not be available to answer emails or address other issues from December 18 through January 2.
+5. This Spring's 432 class will begin at 1 PM on Tuesday 2024-01-16. The 432 website will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+6. This Spring's 500 class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will also go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
 
 ## Remaining Deliverables
 
@@ -54,7 +55,7 @@ Class | Date | Slides | Quarto .qmd | Recording
         4. and finally, the self-evaluation form at <https://bit.ly/431-2023-projectB-self-evaluation>, which you (and your partner, if you have one) should do separately once you've submitted your materials to Canvas.
         5. You are welcome to, but *not required to*, also post your slides (if you used them) from your presentation.
 
-## Empirical Bayes (An Early and new 432 Topic)
+## Empirical Bayes (An Early and new 432 Topic, if you're interested)
 
 - Julia Silge's YouTube video on "[Empirical Bayes for Doctor Who episodes](https://www.youtube.com/watch?v=OtDpYeiwbj8)" working with the [TidyTuesday 2023-11-28](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-11-28/readme.md) data.
     - Here's Julia's [blog post about the Doctor Who data](https://juliasilge.com/blog/doctor-who-bayes/).
@@ -64,6 +65,27 @@ Class | Date | Slides | Quarto .qmd | Recording
     - "[Understanding Empirical Bayes Estimation (using baseball statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)"
     - David's [post announcing his e-book](http://varianceexplained.org/r/empirical-bayes-book/).
     - David's [e-book: Introduction to Empirical Bayes: Examples from Baseball Statistics](https://drob.gumroad.com/l/empirical-bayes).
+
+## References from Today's Slides
+
+- [Get Started with Tidymodels](https://www.tidymodels.org/start/). The sea urchins example comes from [Build a Model](https://www.tidymodels.org/start/models/).
+- [TidyTuesday and tidymodels](https://juliasilge.com/blog/intro-tidymodels/) by [Julia Silge](https://juliasilge.com/).
+- I have a semi-surprise visualization example, which (after the surprise has been revealed) might interest you in reading more from [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html), [Steph Locke](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html), [Tomas Westlake](https://r-mageddon.netlify.com/post/reanimating-the-datasaurus/), [Julia Silge](https://juliasilge.com/blog/datasaurus-multiclass/) and [Justin Mareika and George Fitzmaurice](https://www.autodesk.com/research/publications/same-stats-different-graphs) in addition to what you've already read about it in Spiegelhalter. 
+
+![](figures/harrell_2021-11-24.png)
+
+# Ten of the Most Important Ideas from 431
+
+1. You have to visualize and count data to understand it.
+2. 90% of statistical work could be described as data management.
+3. R Markdown and the tidyverse make it easier to do the right thing.
+4. Statistical significance is not a helpful concept.
+5. Point estimates and confidence intervals are useful ideas.
+6. Most statistical procedures are in fact regression models.
+7. All statistical methods involve assumptions worth checking.
+8. The bootstrap is a very useful, and somewhat underused tool.
+9. Prediction models need to predict well in new situations.
+10. Statistical thinking is far too important to be left to statisticians.
 
 ## One Last Thing
 
