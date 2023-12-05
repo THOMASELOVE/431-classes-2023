@@ -20,7 +20,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 2. Grades and feedback on Lab 7 are posted to the Course Grading Roster on our Shared Drive.
 3. A [YouTube Playlist of Fall 2023 431 students' favorite songs](https://youtube.com/playlist?list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH) is now available.
     - I asked for your Favorite Song as [part of the Project B instructions](https://thomaselove.github.io/431-projectB-2023/checklist.html#a-special-note).
-    - The list of songs is also posted to our Shared Drive. If you're not listed, please respond to my email on 12-02 asking for your favorite song.
+    - The list of songs is also posted to our Shared Drive.
     - A [YouTube Playlist of the Fall 2022 list of favorite songs](https://youtube.com/playlist?list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) (which includes two of my favorites) is also available.
 4. Once you've submitted Quiz 2, it would be a good time to [update your R packages](https://thomaselove.github.io/431-2023/software.html#updating-your-r-packages).
     - There is a new version of R, version 4.3.2, so you can upgrade if you like at <https://cran.case.edu/>, but I'm fine with you sticking with version 4.3.1 through the end of 2023.
