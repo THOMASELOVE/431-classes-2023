@@ -4,31 +4,13 @@ As of `12/5/2023 10:46:46`
 
 ## Students who have submitted a complete (no blanks) Quiz 2
 
-Abrar Alamoudi
-Sarah Albalawi
-Naif AlQahtani
-John Barron
-Ryan Deng
-Trent George
-Claire Jansson-Knodell
-Julia Joo
-Kelsey Lewis
-Mengxuan  Li
-Elaine Liu
-Ethan Martin
-Kyle McGill Percy
-Samir Memic
-Kathryn Menta
-Noel Moore
-Vern Olaker
-Sakshi Pandit
-Maksim (Max) Parfyonov
-Camaryn Petersen
-Justin Robinson
-Manish Sarkar
-Robert Schauner
-Himiede Wilson-Sesay
-Liz Stanley
+-- | -- | -- | -- | -- 
+:--------: | :--------: | :--------: | :--------: | :--------: |
+Abrar Alamoudi | Sarah Albalawi | Naif AlQahtani | John Barron | Ryan Deng
+Trent George | Claire Jansson-Knodell | Julia Joo | Kelsey Lewis | Mengxuan  Li
+Elaine Liu | Ethan Martin | Kyle McGill Percy | Samir Memic | Kathryn Menta
+Noel Moore | Vern Olaker | Sakshi Pandit | Maksim (Max) Parfyonov | Camaryn Petersen
+Justin Robinson | Manish Sarkar | Robert Schauner | Himiede Wilson-Sesay | Liz Stanley
 
 ## Students who have submitted the Quiz 2 form but with some blanks
 
