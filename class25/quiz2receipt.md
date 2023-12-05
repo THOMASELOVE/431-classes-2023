@@ -17,7 +17,7 @@ Gazi Samita | Gayan (Sam) Samuditha | Elizabeth Schultheis | Jordan Smith | Liz 
 ## Students who have submitted the Quiz 2 form but with some blanks
 
 Student | Blanks
-:-----------: | ---:
+:-----------: | :---:
 Walaa Alshaia | 36
 Mary Garrity | 9 (Q18-Q19, Q21-Q24)
 Qiao Wang | 1 (Q24)
