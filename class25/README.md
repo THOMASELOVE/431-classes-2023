@@ -66,6 +66,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 - van Buuren S *Flexible Imputation of Missing Data* [How Many Imputations?](https://stefvanbuuren.name/fimd/sec-howmany.html)
 - [The Favorite Movies Data, Session 3](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/session3.md)
 - <https://www.flickchart.com/>
+- The source of the k-fold cross-validation image is [here](https://www.kaggle.com/code/taejoopark/kfold-for-small-image-dataset-vgg16-94-test-acc).
 
 ## How Large Does R-Squared Need to Be?
 
