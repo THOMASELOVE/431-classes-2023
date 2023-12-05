@@ -4,7 +4,6 @@ As of `12/5/2023 10:46:46`
 
 ## Students who have submitted a complete (no blanks) Quiz 2
 
--- | -- | -- | -- | -- 
 :--------: | :--------: | :--------: | :--------: | :--------: |
 Abrar Alamoudi | Sarah Albalawi | Naif AlQahtani | John Barron | Ryan Deng
 Trent George | Claire Jansson-Knodell | Julia Joo | Kelsey Lewis | Mengxuan  Li
