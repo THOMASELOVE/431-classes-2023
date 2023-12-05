@@ -1,5 +1,7 @@
 # Plans for Favorite Movies, Session 3
 
+We will discuss this material and build a model for one of the outcomes using some of the predictors, and multiple imputation, in Class 25 (2023-12-05).
+
 We have 201 movies and 90 variables in the `movies_2023-10-24` data on our Shared Drive.
 
 ## What are the interesting outcomes?
