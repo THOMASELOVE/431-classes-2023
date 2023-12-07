@@ -23,12 +23,12 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## End of Class Logistics
 
-1. Monday 2023-12-11 is the last day of TA office hours, and is also the last day for Campuswire.
-2. The 431 Zoom recordings of Fall 2023 classes will disappear on 2023-12-25, so if you want them, download them before Christmas.
-3. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will stay where they are until 2024-06-01.
-4. Dr. Love will not be available to answer emails or address other issues from December 18 through January 2.
-5. This Spring's 432 class will begin at 1 PM on Tuesday 2024-01-16. The [432 website](https://thomaselove.github.io/432-2024/) exists in an early form now, and will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
-6. This Spring's 500 class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will also go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+1. **Monday 2023-12-11** is the last day of TA office hours, and is also the last day for Campuswire.
+2. The 431 Zoom recordings of Fall 2023 classes will **disappear on 2023-12-25**, so if you want them, download them before Christmas.
+3. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will stay where they are **until 2024-06-01**.
+4. Dr. Love will **not be available** from December 18 through January 2.
+5. This Spring's **432** class will begin at 1 PM on Tuesday 2024-01-16. The [432 website](https://thomaselove.github.io/432-2024/) exists in an early form now, and will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+6. This Spring's **500** class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will appear at <https://thomaselove.github.io/432-2024/> eventually, and go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
 
 ## Remaining Deliverables
 
@@ -52,6 +52,12 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ![](figures/taylor_2020.png)
 
+## References from Today's Slides
+
+- [Get Started with Tidymodels](https://www.tidymodels.org/start/). The sea urchins example comes from [Build a Model](https://www.tidymodels.org/start/models/).
+- [TidyTuesday and tidymodels](https://juliasilge.com/blog/intro-tidymodels/) by [Julia Silge](https://juliasilge.com/).
+- I have a semi-surprise visualization example, which (after the surprise has been revealed) might interest you in reading more from [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html), [Steph Locke](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html), [Tomas Westlake](https://r-mageddon.netlify.com/post/reanimating-the-datasaurus/), [Julia Silge](https://juliasilge.com/blog/datasaurus-multiclass/) and [Justin Mareika and George Fitzmaurice](https://www.autodesk.com/research/publications/same-stats-different-graphs) in addition to what you've already read about it in Spiegelhalter. 
+
 ## Empirical Bayes (An Early and new 432 Topic, if you're interested)
 
 - Julia Silge's YouTube video on "[Empirical Bayes for Doctor Who episodes](https://www.youtube.com/watch?v=OtDpYeiwbj8)" working with the [TidyTuesday 2023-11-28](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-11-28/readme.md) data.
@@ -72,12 +78,6 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Another is Julia's [Resampling to understand gender in art history textbooks](https://www.youtube.com/watch?v=Ac7V848uBuo) with this [accompanying blog post](https://juliasilge.com/blog/art-history/).
     - Several additional "get ready for 432" recommendations are in [my response to the Minute Paper](https://bit.ly/431-2023-min-25-feedback).
 4. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
-
-## References from Today's Slides
-
-- [Get Started with Tidymodels](https://www.tidymodels.org/start/). The sea urchins example comes from [Build a Model](https://www.tidymodels.org/start/models/).
-- [TidyTuesday and tidymodels](https://juliasilge.com/blog/intro-tidymodels/) by [Julia Silge](https://juliasilge.com/).
-- I have a semi-surprise visualization example, which (after the surprise has been revealed) might interest you in reading more from [Alberto Cairo](http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html), [Steph Locke](https://cran.r-project.org/web/packages/datasauRus/vignettes/Datasaurus.html), [Tomas Westlake](https://r-mageddon.netlify.com/post/reanimating-the-datasaurus/), [Julia Silge](https://juliasilge.com/blog/datasaurus-multiclass/) and [Justin Mareika and George Fitzmaurice](https://www.autodesk.com/research/publications/same-stats-different-graphs) in addition to what you've already read about it in Spiegelhalter. 
 
 # Ten of the Most Important Ideas from 431
 
