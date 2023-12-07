@@ -16,19 +16,21 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Grades and an answer sketch for Quiz 2 should be in your email.
+1. **Quiz 2**: Your grade and a link to an answer sketch for Quiz 2 should be in your email (sent yesterday.)
     - The answer sketch has some small revisions today from the one that appeared last night, addressing some questions students had.
+    - If you have any questions about the Quiz, please send them to me **before Sunday at noon via email**. After that, I want to be thinking solely about projects.
 2. Feedback on the Minute Paper after Class 25 [is now available](https://bit.ly/431-2023-min-25-feedback).
-3. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource.
+3. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource, and might be helpful if you're trying to do something fancy in Project B.
 
 ## End of Class Logistics
 
 1. **Monday 2023-12-11** is the last day of TA office hours, and is also the last day for Campuswire.
-2. The 431 Zoom recordings of Fall 2023 classes will **disappear on 2023-12-25**, so if you want them, download them before Christmas.
-3. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will stay where they are **until 2024-06-01**.
-4. Dr. Love will **not be available** from December 18 through January 2.
-5. This Spring's **432** class will begin at 1 PM on Tuesday 2024-01-16. The [432 website](https://thomaselove.github.io/432-2024/) exists in an early form now, and will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
-6. This Spring's **500** class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will appear at <https://thomaselove.github.io/432-2024/> eventually, and go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+2. I will post Course Grades to SIS no later than Sunday 2023-12-17. That probably means you'll see them on Monday the 18th.
+3. The 431 Zoom recordings of Fall 2023 classes will **disappear on 2023-12-25**, so if you want them, download them before Christmas.
+4. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will stay where they are **until 2024-06-01**.
+5. Dr. Love will **not be available** from December 18 through January 2.
+6. This Spring's **432** class will begin at 1 PM on Tuesday 2024-01-16. The [432 website](https://thomaselove.github.io/432-2024/) exists in an early form now, and will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+7. This Spring's **500** class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will appear at <https://thomaselove.github.io/432-2024/> eventually, and go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
 
 ## Remaining Deliverables
 
