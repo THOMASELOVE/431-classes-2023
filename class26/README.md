@@ -16,7 +16,8 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Grades and an answer sketch for Quiz 2 should be in your hands **before class time**.
+1. Grades and an answer sketch for Quiz 2 should be in your email.
+    - The answer sketch has some small revisions today from the one that appeared last night, addressing some questions students had.
 2. Feedback on the Minute Paper after Class 25 [is now available](https://bit.ly/431-2023-min-25-feedback).
 3. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource.
 4. Alex Reinhart's book [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) is well worth your time.
@@ -24,6 +25,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 6. Looking for a video to watch over the break? Check out the work of [David Robinson](https://www.youtube.com/@safe4democracy), [Frank Harrell](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA) or [Julia Silge](https://www.youtube.com/@JuliaSilge).
     - One good option is David's [Tidy Tuesday screencast: analyzing student/teacher ratios and other country statistics](https://www.youtube.com/watch?v=NoUHdrailxA)
     - Another is Julia's [Resampling to understand gender in art history textbooks](https://www.youtube.com/watch?v=Ac7V848uBuo) with this [accompanying blog post](https://juliasilge.com/blog/art-history/).
+    - Several additional "get ready for 432" recommendations are in [my response to the Minute Paper](https://bit.ly/431-2023-min-25-feedback).
 7. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
 
 ## End of Class Logistics
