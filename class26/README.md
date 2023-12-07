@@ -32,7 +32,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 4. The Fall 2023 431 Course Slides, Class Notes, Website and Google Drive Folder will stay where they are **until 2024-06-01**.
 5. Dr. Love will **not be available** from December 18 through January 2.
 6. This Spring's **432** class will begin at 1 PM on Tuesday 2024-01-16. The [432 website](https://thomaselove.github.io/432-2024/) exists in an early form now, and will go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
-7. This Spring's **500** class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will appear at <https://thomaselove.github.io/432-2024/> eventually, and go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
+7. This Spring's **500** class will begin at 8:30 AM on Thursday 2024-01-18. The 500 website will appear at <https://thomaselove.github.io/500-2024/> eventually, and go live on 2024-01-12, and all registered students will be informed via their CWRU email when it does.
 
 ## Remaining Deliverables
 
