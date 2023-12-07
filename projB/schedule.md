@@ -8,16 +8,17 @@
 
 Date | # | Time | Investigator(s) | Group | Method | Completed?
 ---------: | :-: | --------: | :--------------------------------- | :-----: | :------: | :------: 
-MON 12-11 | 1 | 9:45 AM to 10:05 AM | Claire Jansson-Knodell | G181 | Zoom
-MON 12-11 | 2 | 10:10 AM to 10:30 AM | Jordan Smith | G531 | Zoom
-MON 12-11 | 3 | 10:35 AM to 10:55 AM | Kyle McGill Percy | G291 | Zoom
-MON 12-11 | 4 | 11:00 AM to 11:20 AM | Manish Sarkar and Osmary Medina-Baez | G472 | Zoom
-MON 12-11 | 5 | 11:25 AM to 11:45 AM | Zunren (Jack) Liu | G261 | Zoom
-MON 12-11 | 6 | 11:50 AM to 12:10 PM | Liz Stanley | G541 | Zoom
+MON 12-11 | 1 | 9:20 AM to 9:40 AM | Manu Bulusu and Lydia Mitchell | G102 | Zoom
+MON 12-11 | 2 | 9:45 AM to 10:05 AM | Claire Jansson-Knodell | G181 | Zoom
+MON 12-11 | 3 | 10:10 AM to 10:30 AM | Jordan Smith | G531 | Zoom
+MON 12-11 | 4 | 10:35 AM to 10:55 AM | Kyle McGill Percy | G291 | Zoom
+MON 12-11 | 5 | 11:00 AM to 11:20 AM | Manish Sarkar and Osmary Medina-Baez | G472 | Zoom
+MON 12-11 | 6 | 11:25 AM to 11:45 AM | Zunren (Jack) Liu | G261 | Zoom
+MON 12-11 | 7 | 11:50 AM to 12:10 PM | Liz Stanley | G541 | Zoom
 MON 12-11 | | *Break*
-MON 12-11 | 7 | 2:45 PM to 3:05 PM | Parishma Guttoo and Abrar Alamoudi | G172 | **IN PERSON**
-MON 12-11 | 8 | 3:10 PM to 3:30 PM | Naif AlQahtani | G051 | **IN PERSON**
-MON 12-11 | 9 | 3:35 PM to 3:55 PM | Robert Schauner | G481 | **IN PERSON**
+MON 12-11 | 8 | 2:45 PM to 3:05 PM | Parishma Guttoo and Abrar Alamoudi | G172 | **IN PERSON**
+MON 12-11 | 9 | 3:10 PM to 3:30 PM | Naif AlQahtani | G051 | **IN PERSON**
+MON 12-11 | 10 | 3:35 PM to 3:55 PM | Robert Schauner | G481 | **IN PERSON**
 
 ## Tuesday 2023-12-12 Presentations
 
