@@ -43,7 +43,7 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Plan to join the Zoom call (or arrive at my office) five minutes before your presentation begins. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). 
     - Come to your presentation with a completed Project B. All of my other advice for the presentation [is available here](https://thomaselove.github.io/431-projectB-2023/checklist.html#oral-presentation-of-results).
     - There is no need to post anything to Canvas about Project B before giving your presentation.
-    - Zoom information for each day of presentations will be made available to you via email **by class time today**.
+    - Zoom information for each day of presentations will be made available to you on our Shared Drive,
 4. All [Project B](https://thomaselove.github.io/431-projectB-2023/) materials (Quarto, HTML, Data and Self-Evaluation) are due at **9 AM on Sunday 2023-12-17**.
     - No late work will be accepted after 9 AM Sunday 2023-12-17.
     - If you are working with a partner, one of you should submit both the Study 1 and Study 2 reports to Canvas, and the other person should submit a one-page note to Canvas (word or PDF is best) containing your name, and stating something like “I worked on Project B with [your partner’s name] and they will submit Project B for our group.”
