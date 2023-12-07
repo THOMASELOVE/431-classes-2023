@@ -18,7 +18,7 @@ Class | Date | Slides | Quarto .qmd | Recording
 
 1. **Quiz 2**: Your grade and a link to an answer sketch for Quiz 2 should be in your email (sent yesterday.)
     - The answer sketch has some small revisions today from the one that appeared last night, addressing some questions students had.
-    - If you have any questions about the Quiz, please send them to me **before Sunday at noon via email**. After that, I want to be thinking solely about projects.
+    - If you have any questions about the Quiz, please email me **before Sunday at noon**. After that, I want to be thinking solely about projects.
 2. **Course Grades**: If your course grade is a concern, the **most** important thing to do is an excellent job on all elements of Project B.
     - The second most useful thing to do is complete and submit [Lab X](https://thomaselove.github.io/431-labX/), which is due at noon on Tuesday 2023-12-12.
 3. Feedback on the Minute Paper after Class 25 [is now available](https://bit.ly/431-2023-min-25-feedback).
