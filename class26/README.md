@@ -19,8 +19,10 @@ Class | Date | Slides | Quarto .qmd | Recording
 1. **Quiz 2**: Your grade and a link to an answer sketch for Quiz 2 should be in your email (sent yesterday.)
     - The answer sketch has some small revisions today from the one that appeared last night, addressing some questions students had.
     - If you have any questions about the Quiz, please send them to me **before Sunday at noon via email**. After that, I want to be thinking solely about projects.
-2. Feedback on the Minute Paper after Class 25 [is now available](https://bit.ly/431-2023-min-25-feedback).
-3. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource, and might be helpful if you're trying to do something fancy in Project B.
+2. **Course Grades**: If you want to improve your course grade, the **most** important thing to do at this point is an excellent job on all elements of Project B.
+    - The second most useful thing to do is complete and submit [Lab X](https://thomaselove.github.io/431-labX/), which is due at noon on Tuesday 2023-12-12.
+3. Feedback on the Minute Paper after Class 25 [is now available](https://bit.ly/431-2023-min-25-feedback).
+4. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource, and might be helpful if you're trying to do something fancy in Project B.
 
 ## End of Class Logistics
 
