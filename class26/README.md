@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
-![](figures/taylor_2020.png)
+![](https://imgs.xkcd.com/comics/compact_graphs.png) from <https://xkcd.com/2864/>
 
 ## Today's Slides
 
@@ -27,6 +27,8 @@ Class | Date | Slides | Quarto .qmd | Recording
     - Another is Julia's [Resampling to understand gender in art history textbooks](https://www.youtube.com/watch?v=Ac7V848uBuo) with this [accompanying blog post](https://juliasilge.com/blog/art-history/).
     - Several additional "get ready for 432" recommendations are in [my response to the Minute Paper](https://bit.ly/431-2023-min-25-feedback).
 7. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
+
+![](figures/taylor_2020.png)
 
 ## End of Class Logistics
 
