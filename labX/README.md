@@ -11,6 +11,7 @@
 - Abrar Alamoudi: <https://abraraalamoudi.github.io/website/>
 - Parishma Guttoo: <https://parixima.github.io/Parishma/>
 - Sakshi Pandit: <https://sakshigautampandit.github.io/>
+- Camaryn Peterson: <https://clp100.github.io/>
 
 Congratulations on your excellent work!
 
