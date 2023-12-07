@@ -20,15 +20,6 @@ Class | Date | Slides | Quarto .qmd | Recording
     - The answer sketch has some small revisions today from the one that appeared last night, addressing some questions students had.
 2. Feedback on the Minute Paper after Class 25 [is now available](https://bit.ly/431-2023-min-25-feedback).
 3. Interested in R Color Palettes? I think I've mentioned this before, but <https://github.com/EmilHvitfeldt/r-color-palettes> is a great resource.
-4. Alex Reinhart's book [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) is well worth your time.
-5. Need some motivation to work with public health data and don't mind that the subject matter is horribly depressing? Here's the [Gun Violence Archive](https://www.gunviolencearchive.org/).
-6. Looking for a video to watch over the break? Check out the work of [David Robinson](https://www.youtube.com/@safe4democracy), [Frank Harrell](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA) or [Julia Silge](https://www.youtube.com/@JuliaSilge).
-    - One good option is David's [Tidy Tuesday screencast: analyzing student/teacher ratios and other country statistics](https://www.youtube.com/watch?v=NoUHdrailxA)
-    - Another is Julia's [Resampling to understand gender in art history textbooks](https://www.youtube.com/watch?v=Ac7V848uBuo) with this [accompanying blog post](https://juliasilge.com/blog/art-history/).
-    - Several additional "get ready for 432" recommendations are in [my response to the Minute Paper](https://bit.ly/431-2023-min-25-feedback).
-7. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
-
-![](figures/taylor_2020.png)
 
 ## End of Class Logistics
 
@@ -59,6 +50,8 @@ Class | Date | Slides | Quarto .qmd | Recording
         4. and finally, the self-evaluation form at <https://bit.ly/431-2023-projectB-self-evaluation>, which you (and your partner, if you have one) should do separately once you've submitted your materials to Canvas.
         5. You are welcome to, but *not required to*, also post your slides (if you used them) from your presentation.
 
+![](figures/taylor_2020.png)
+
 ## Empirical Bayes (An Early and new 432 Topic, if you're interested)
 
 - Julia Silge's YouTube video on "[Empirical Bayes for Doctor Who episodes](https://www.youtube.com/watch?v=OtDpYeiwbj8)" working with the [TidyTuesday 2023-11-28](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-11-28/readme.md) data.
@@ -69,6 +62,16 @@ Class | Date | Slides | Quarto .qmd | Recording
     - "[Understanding Empirical Bayes Estimation (using baseball statistics)](http://varianceexplained.org/r/empirical_bayes_baseball/)"
     - David's [post announcing his e-book](http://varianceexplained.org/r/empirical-bayes-book/).
     - David's [e-book: Introduction to Empirical Bayes: Examples from Baseball Statistics](https://drob.gumroad.com/l/empirical-bayes).
+
+## Some Other Things To Look At Over Break
+
+1. Alex Reinhart's book [Statistics Done Wrong](https://www.statisticsdonewrong.com/index.html) is well worth your time.
+2. Need some motivation to work with public health data and don't mind that the subject matter is horribly depressing? Here's the [Gun Violence Archive](https://www.gunviolencearchive.org/).
+3. Looking for a video to watch over the break? Check out the work of [David Robinson](https://www.youtube.com/@safe4democracy), [Frank Harrell](https://www.youtube.com/channel/UC-o_ZZ0tuFUYn8e8rf-QURA) or [Julia Silge](https://www.youtube.com/@JuliaSilge).
+    - One good option is David's [Tidy Tuesday screencast: analyzing student/teacher ratios and other country statistics](https://www.youtube.com/watch?v=NoUHdrailxA)
+    - Another is Julia's [Resampling to understand gender in art history textbooks](https://www.youtube.com/watch?v=Ac7V848uBuo) with this [accompanying blog post](https://juliasilge.com/blog/art-history/).
+    - Several additional "get ready for 432" recommendations are in [my response to the Minute Paper](https://bit.ly/431-2023-min-25-feedback).
+4. Need a break? Perhaps you'll enjoy these [10 GIFs for Stats/Data People](https://graphpaperdiaries.com/2017/03/15/7-gifs-for-statsdata-people/) from BS King.
 
 ## References from Today's Slides
 
