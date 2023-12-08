@@ -13,6 +13,7 @@
 - Sakshi Pandit: <https://sakshigautampandit.github.io/>
 - Camaryn Peterson: <https://clp100.github.io/>
 - Kelsey Lewis: <https://kelseyjlewis.netlify.app/>
+- Naif Alqahtani <https://inaif94.github.io/github.io/>
 
 Congratulations on your excellent work!
 
