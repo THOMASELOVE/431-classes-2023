@@ -12,6 +12,7 @@
 - Parishma Guttoo: <https://parixima.github.io/Parishma/>
 - Sakshi Pandit: <https://sakshigautampandit.github.io/>
 - Camaryn Peterson: <https://clp100.github.io/>
+- Kelsey Lewis: <https://kelseyjlewis.netlify.app/>
 
 Congratulations on your excellent work!
 
