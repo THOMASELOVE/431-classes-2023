@@ -16,6 +16,9 @@
 - Naif Alqahtani <https://inaif94.github.io/github.io/>
 - Justin Robinson <https://jrobi23.github.io/>
 - Sarah Albalawi <https://albalawisarah.github.io/SarahAlbalawi/>
+- Mauli Patel <https://mauli247.github.io/>
+- Julia Joo <https://juliahjoo.github.io/>
+- Gayan Samuditha <https://gayansamuditha.github.io/>
 
 Congratulations on your excellent work!
 
