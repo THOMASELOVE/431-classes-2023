@@ -1,26 +1,5 @@
 # Schedule for Project B presentations
 
-## Monday 2023-12-11 Presentations
-
-- Most Monday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
-- The three **IN PERSON** presentations will be held in Dr. Love's office on the Ground Floor of the Wood Building: Wood WG82-J. Please arrive 5 minutes before your presentation is scheduled to start.
-- Final bits of advice came to you Sunday via email. If needed, [you can find them here, too](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/final_presentation_advice.md).
-- Any problems on presentation day? Email Dr. Love at `thomas dot love at case dot edu`. Good luck!
-
-Date | # | Time | Investigator(s) | Group | Method | Completed?
----------: | :-: | --------: | :--------------------------------- | :-----: | :------: | :------: 
-MON 12-11 | 1 | 9:45 AM to 10:05 AM | Claire Jansson-Knodell | G181 | Zoom | Yes
-MON 12-11 | 2 | 10:10 AM to 10:30 AM | Jordan Smith | G531 | Zoom | Yes
-MON 12-11 | 3 | 10:35 AM to 10:55 AM | Kyle McGill Percy | G291 | Zoom | Yes
-MON 12-11 | 4 | 11:00 AM to 11:20 AM | Manish Sarkar and Osmary Medina-Baez | G472 | Zoom | Yes
-MON 12-11 | 5 | 11:25 AM to 11:45 AM | Zunren (Jack) Liu | G261 | Zoom | Yes
-MON 12-11 | 6 | 11:50 AM to 12:10 PM | Liz Stanley | G541 | Zoom | Yes
-MON 12-11 | | *Break*
-MON 12-11 | 7 | 2:45 PM to 3:05 PM | Parishma Guttoo and Abrar Alamoudi | G172 | **IN PERSON**
-MON 12-11 | 8 | 3:10 PM to 3:30 PM | Naif AlQahtani | G051 | **IN PERSON**
-MON 12-11 | 9 | 3:35 PM to 3:55 PM | Robert Schauner | G481 | **IN PERSON**
-MON 12-11 | 10 | 4:00 PM to 4:20 PM | Manu Bulusu and Lydia Mitchell | G102 | Zoom
-
 ## Tuesday 2023-12-12 Presentations
 
 - All Tuesday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
@@ -80,3 +59,18 @@ THU 12-14 | 7 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
 THU 12-14 | 8 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
 THU 12-14 | 9 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
+## Monday 2023-12-11 Presentations (Done)
+
+Date | # | Time | Investigator(s) | Group | Completed?
+---------: | :-: | --------: | :--------------------------------- | :-----: | :---: 
+MON 12-11 | 1 | 9:45 AM to 10:05 AM | Claire Jansson-Knodell | G181 | Yes
+MON 12-11 | 2 | 10:10 AM to 10:30 AM | Jordan Smith | G531  | Yes
+MON 12-11 | 3 | 10:35 AM to 10:55 AM | Kyle McGill Percy | G291  | Yes
+MON 12-11 | 4 | 11:00 AM to 11:20 AM | Manish Sarkar and Osmary Medina-Baez | G472  | Yes
+MON 12-11 | 5 | 11:25 AM to 11:45 AM | Zunren (Jack) Liu | G261 |  Yes
+MON 12-11 | 6 | 11:50 AM to 12:10 PM | Liz Stanley | G541 |  Yes
+MON 12-11 | | *Break*
+MON 12-11 | 7 | 2:45 PM to 3:05 PM | Parishma Guttoo and Abrar Alamoudi | G172 | Yes
+MON 12-11 | 8 | 3:10 PM to 3:30 PM | Naif AlQahtani | G051 | Yes
+MON 12-11 | 9 | 3:35 PM to 3:55 PM | Robert Schauner | G481 |  Yes
+MON 12-11 | 10 | 4:00 PM to 4:20 PM | Manu Bulusu and Lydia Mitchell | G102 | Yes
