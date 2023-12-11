@@ -61,17 +61,17 @@ THU 12-14 | 7 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
 THU 12-14 | 8 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
 THU 12-14 | 9 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
-## Monday 2023-12-11 Presentations (Done)
+## Completed Presentations (Done)
 
-Date | Investigator(s) | Group | Completed?
----------: | :---------------------------------: | :-----: | :---: 
-MON 12-11 | Claire Jansson-Knodell | G181 | Yes
-MON 12-11 | Jordan Smith | G531  | Yes
-MON 12-11 | Kyle McGill Percy | G291  | Yes
-MON 12-11 | Manish Sarkar and Osmary Medina-Baez | G472  | Yes
-MON 12-11 | Zunren (Jack) Liu | G261 |  Yes
-MON 12-11 | Liz Stanley | G541 |  Yes
-MON 12-11 | Parishma Guttoo and Abrar Alamoudi | G172 | Yes
-MON 12-11 | Naif AlQahtani | G051 | Yes
-MON 12-11 | Robert Schauner | G481 |  Yes
-MON 12-11 | Manu Bulusu and Lydia Mitchell | G102 | Yes
+Group | Investigator(s) | Completed?
+---------: | :---------------------------------: | :-----: 
+G051 | Naif AlQahtani | Monday
+G102 | Manu Bulusu and Lydia Mitchell | Monday
+G172 | Parishma Guttoo and Abrar Alamoudi | Monday
+G181 | Claire Jansson-Knodell | Monday
+G261 | Zunren (Jack) Liu | Monday
+G291 | Kyle McGill Percy | Monday
+G472 | Manish Sarkar and Osmary Medina-Baez | Monday
+G481 | Robert Schauner | Monday
+G531 | Jordan Smith | Monday
+G541 | Liz Stanley | Monday
