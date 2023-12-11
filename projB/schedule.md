@@ -1,5 +1,7 @@
 # Schedule for Project B presentations
 
+**10** presentations are complete. 28 to go.
+
 ## Tuesday 2023-12-12 Presentations
 
 - All Tuesday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
@@ -69,7 +71,6 @@ MON 12-11 | 3 | 10:35 AM to 10:55 AM | Kyle McGill Percy | G291  | Yes
 MON 12-11 | 4 | 11:00 AM to 11:20 AM | Manish Sarkar and Osmary Medina-Baez | G472  | Yes
 MON 12-11 | 5 | 11:25 AM to 11:45 AM | Zunren (Jack) Liu | G261 |  Yes
 MON 12-11 | 6 | 11:50 AM to 12:10 PM | Liz Stanley | G541 |  Yes
-MON 12-11 | | *Break*
 MON 12-11 | 7 | 2:45 PM to 3:05 PM | Parishma Guttoo and Abrar Alamoudi | G172 | Yes
 MON 12-11 | 8 | 3:10 PM to 3:30 PM | Naif AlQahtani | G051 | Yes
 MON 12-11 | 9 | 3:35 PM to 3:55 PM | Robert Schauner | G481 |  Yes
