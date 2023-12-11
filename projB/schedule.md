@@ -38,7 +38,6 @@ TUE 12-12 | 5 | 1:55 PM to 2:15 PM | Trent George | G161
 TUE 12-12 | 6 | 2:20 PM to 2:40 PM | Elizabeth Schultheis and Kamilla Abdurakhmanov | G492
 TUE 12-12 | 7 | 2:45 PM to 3:05 PM | Mary Garrity | G151
 TUE 12-12 | 8 | 3:10 PM to 3:30 PM | Juan Perez | G421
-TUE 12-12 | 9 | 3:35 PM to 3:55 PM | Bhavya Mahesh | G271
 
 ## Wednesday 2023-12-13 Presentations
 
@@ -54,12 +53,13 @@ WED 12-13 | 3 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
 WED 12-13 | 4 | 9:45 AM to 10:05 AM | Sakshi Pandit | G391
 WED 12-13 | | *Break*
 WED 12-13 | 5 | 11:00 AM to 11:20 AM | Julia Joo | G191
+WED 12-13 | 6 | 11:25 AM to 11:45 AM | Bhavya Mahesh | G271
 WED 12-13 | | *Break*
-WED 12-13 | 6 | 1:05 PM to 1:25 PM | Elaine Liu and Xiuyuan Lang | G252
-WED 12-13 | 7 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
-WED 12-13 | 8 | 1:55 PM to 2:15 PM | Dario Cabal | G111
-WED 12-13 | 9 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
-WED 12-13 | 10 | 2:45 PM to 3:05 PM | Qiao Wang | G551
+WED 12-13 | 7 | 1:05 PM to 1:25 PM | Elaine Liu and Xiuyuan Lang | G252
+WED 12-13 | 8 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
+WED 12-13 | 9 | 1:55 PM to 2:15 PM | Dario Cabal | G111
+WED 12-13 | 10 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
+WED 12-13 | 11 | 2:45 PM to 3:05 PM | Qiao Wang | G551
 
 ## Thursday 2023-12-14 Presentations
 
