@@ -9,7 +9,7 @@
 - Any problems on presentation day? Email Dr. Love at `thomas dot love at case dot edu`. Good luck!
 
 Date | # | Time | Investigator(s) | Group | Completed?
----------: | :-: | --------: | :--------------------------------- | :-----: | :------: 
+---------: | :-: | --------: | :---------------------------------: | :-----: | :------: 
 TUE 12-12 | 1 | 8:55 AM to 9:15 AM | John Barron | G081
 TUE 12-12 | 2 | 9:20 AM to 9:40 AM | Mengxuan Li and Yan Zou | G242
 TUE 12-12 | | *Break*
@@ -27,7 +27,7 @@ TUE 12-12 | 8 | 3:10 PM to 3:30 PM | Juan Perez | G421
 - Any problems on presentation day? Email Dr. Love at `thomas dot love at case dot edu`. Good luck!
 
 Date | # | Time | Investigator(s) | Group | Completed?
----------: | :-: | --------: | :--------------------------------- | :-----: | :------:
+---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
 WED 12-13 | 1 | 8:30 AM to 8:50 AM | Jacob Gardner | G141
 WED 12-13 | 2 | 8:55 AM to 9:15 AM | Reina Samuel | G461
 WED 12-13 | 3 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
@@ -49,7 +49,7 @@ WED 12-13 | 11 | 2:45 PM to 3:05 PM | Qiao Wang | G551
 - Any problems on presentation day? Email Dr. Love at `thomas dot love at case dot edu`. Good luck!
 
 Date | # | Time | Investigator(s) | Group | Completed?
----------: | :-: | --------: | :--------------------------------- | :-----: | :------:
+---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
 THU 12-14 | 1 | 8:55 AM to 9:15 AM | Gayan Samuditha and Krishna Mridha | G322
 THU 12-14 | 2 | 9:20 AM to 9:40 AM | Sarah Albalawi and Walaa Alshaia | G042
 THU 12-14 | | *Break*
@@ -63,15 +63,15 @@ THU 12-14 | 9 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
 ## Monday 2023-12-11 Presentations (Done)
 
-Date | # | Time | Investigator(s) | Group | Completed?
----------: | :-: | --------: | :--------------------------------- | :-----: | :---: 
-MON 12-11 | 1 | 9:45 AM to 10:05 AM | Claire Jansson-Knodell | G181 | Yes
-MON 12-11 | 2 | 10:10 AM to 10:30 AM | Jordan Smith | G531  | Yes
-MON 12-11 | 3 | 10:35 AM to 10:55 AM | Kyle McGill Percy | G291  | Yes
-MON 12-11 | 4 | 11:00 AM to 11:20 AM | Manish Sarkar and Osmary Medina-Baez | G472  | Yes
-MON 12-11 | 5 | 11:25 AM to 11:45 AM | Zunren (Jack) Liu | G261 |  Yes
-MON 12-11 | 6 | 11:50 AM to 12:10 PM | Liz Stanley | G541 |  Yes
-MON 12-11 | 7 | 2:45 PM to 3:05 PM | Parishma Guttoo and Abrar Alamoudi | G172 | Yes
-MON 12-11 | 8 | 3:10 PM to 3:30 PM | Naif AlQahtani | G051 | Yes
-MON 12-11 | 9 | 3:35 PM to 3:55 PM | Robert Schauner | G481 |  Yes
-MON 12-11 | 10 | 4:00 PM to 4:20 PM | Manu Bulusu and Lydia Mitchell | G102 | Yes
+Date | Investigator(s) | Group | Completed?
+---------: | :---------------------------------: | :-----: | :---: 
+MON 12-11 | Claire Jansson-Knodell | G181 | Yes
+MON 12-11 | Jordan Smith | G531  | Yes
+MON 12-11 | Kyle McGill Percy | G291  | Yes
+MON 12-11 | Manish Sarkar and Osmary Medina-Baez | G472  | Yes
+MON 12-11 | Zunren (Jack) Liu | G261 |  Yes
+MON 12-11 | Liz Stanley | G541 |  Yes
+MON 12-11 | Parishma Guttoo and Abrar Alamoudi | G172 | Yes
+MON 12-11 | Naif AlQahtani | G051 | Yes
+MON 12-11 | Robert Schauner | G481 |  Yes
+MON 12-11 | Manu Bulusu and Lydia Mitchell | G102 | Yes
