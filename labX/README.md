@@ -21,6 +21,7 @@
 - Gayan Samuditha <https://gayansamuditha.github.io/>
 - Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
 - John Barron <https://jbarron9.github.io/jbarron9/>
+- Kathryn Menta <https://kkmenta.github.io/kkmenta/>
 
 Congratulations on your excellent work!
 
