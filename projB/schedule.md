@@ -61,7 +61,7 @@ THU 12-14 | 7 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
 THU 12-14 | 8 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
 THU 12-14 | 9 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
-## Completed Presentations (Done)
+## Completed Presentations
 
 Group | Investigator(s) | Completed?
 ---------: | :---------------------------------: | :-----: 
