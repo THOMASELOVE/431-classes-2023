@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**10** presentations are complete. 28 to go.
+**10** presentations are complete. There are 28 to go.
 
 ## Tuesday 2023-12-12 Presentations
 
