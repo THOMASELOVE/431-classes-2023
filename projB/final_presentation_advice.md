@@ -37,7 +37,7 @@ You can do this. Most people are more worried before they start than after they 
 
 At the end (and as we go) I will give you a little feedback on how I thought it went, and tell you about things I would suggest or require you to work on before submitting the final materials. 
 
-Please remember to do the CWRU Course Evaluation when they ask you to do it, and to submit all of your Project B materials (Qmd, HTML and data if not NHANES) to Canvas and complete the self-evaluation by 9 AM on Sunday 2023-12-17. Otherwise, I'll have to give you an incomplete grade in the course.
+**Please remember** to do the CWRU Course Evaluation when they ask you to do it, and to submit all of your Project B materials (Qmd, HTML and data if not NHANES) to Canvas and complete the self-evaluation **by 9 AM on Sunday 2023-12-17**. Otherwise, I'll have to give you an incomplete grade in the course.
 
 Thanks and good luck!
 TEL
