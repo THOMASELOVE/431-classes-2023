@@ -1,33 +1,35 @@
 # Student Submissions of Lab X for Fall 2023
 
-- Elaine Liu: <https://eliu98.github.io/>
-- Robert Schauner: <http://www.schauner.com/>
-- Noel Moore: <https://ncm8.quarto.pub/noel-moore/>
-- Krishna Mridha: <https://krishna-mridha.github.io/>
-- Walaa Alshaia: <https://walaashaia.github.io/Website_/>
-- Xiuyuan Lang: <https://langxiuyuan.github.io/>
-- Maksim Parfyonov: <https://mparfyonov.com/>
-- Gazi Shamita: <https://samwise01.github.io/github.io/>
-- Abrar Alamoudi: <https://abraraalamoudi.github.io/website/>
-- Parishma Guttoo: <https://parixima.github.io/Parishma/>
-- Sakshi Pandit: <https://sakshigautampandit.github.io/>
-- Camaryn Peterson: <https://clp100.github.io/>
-- Kelsey Lewis: <https://kelseyjlewis.netlify.app/>
-- Naif Alqahtani <https://inaif94.github.io/github.io/>
-- Justin Robinson <https://jrobi23.github.io/>
-- Sarah Albalawi <https://albalawisarah.github.io/SarahAlbalawi/>
-- Mauli Patel <https://mauli247.github.io/>
-- Julia Joo <https://juliahjoo.github.io/>
-- Gayan Samuditha <https://gayansamuditha.github.io/>
-- Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
-- John Barron <https://jbarron9.github.io/jbarron9/>
-- Kathryn Menta <https://kkmenta.github.io/kkmenta/>
-- Manish Sarkar <https://manishnsarkar.github.io/>
-- Osmary A. Medina-Báez <https://osmarymedina.github.io/>
-- Kareena Shah <https://kareenashah5.github.io/personal-website/>
-- Mary Garrity <https://mgmgrand2023.github.io/MaryG/>
-- Kexin Zhang <https://kx-z09.github.io/Kexin-s-Website/>
-- Himiede Wilson-Sesay <https://himiede.github.io/>
+(in reverse alphabetical order, by family name)
+
+1. Kexin Zhang <https://kx-z09.github.io/Kexin-s-Website/>
+2. Himiede Wilson-Sesay <https://himiede.github.io/>
+3. Gazi Shamita: <https://samwise01.github.io/github.io/>
+4. Kareena Shah <https://kareenashah5.github.io/personal-website/>
+5. Robert Schauner: <http://www.schauner.com/>
+6. Manish Sarkar <https://manishnsarkar.github.io/>
+7. Gayan Samuditha <https://gayansamuditha.github.io/>
+8. Justin Robinson <https://jrobi23.github.io/>
+9. Camaryn Peterson: <https://clp100.github.io/>
+10. Mauli Patel <https://mauli247.github.io/>
+11. Maksim Parfyonov: <https://mparfyonov.com/>
+12. Sakshi Pandit: <https://sakshigautampandit.github.io/>
+13. Krishna Mridha: <https://krishna-mridha.github.io/>
+14. Noel Moore: <https://ncm8.quarto.pub/noel-moore/>
+15. Kathryn Menta <https://kkmenta.github.io/kkmenta/>
+16. Osmary A. Medina-Báez <https://osmarymedina.github.io/>
+17. Elaine Liu: <https://eliu98.github.io/>
+18. Kelsey Lewis: <https://kelseyjlewis.netlify.app/>
+19. Xiuyuan Lang: <https://langxiuyuan.github.io/>
+20. Julia Joo <https://juliahjoo.github.io/>
+21. Parishma Guttoo: <https://parixima.github.io/Parishma/>
+22. Mary Garrity <https://mgmgrand2023.github.io/MaryG/>
+23. Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
+24. John Barron <https://jbarron9.github.io/jbarron9/>
+25. Walaa Alshaia: <https://walaashaia.github.io/Website_/>
+26. Naif Alqahtani <https://inaif94.github.io/github.io/>
+27. Sarah Albalawi <https://albalawisarah.github.io/SarahAlbalawi/>
+28. Abrar Alamoudi: <https://abraraalamoudi.github.io/website/>
 
 Congratulations on your excellent work!
 
