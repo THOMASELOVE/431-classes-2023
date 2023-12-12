@@ -54,9 +54,9 @@ THU 12-14 | 10 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
 Group | Investigator(s) | Completed? | - | Group | Investigator(s) | Completed?
 ---: | :--------------------------------: | :-----: | -- | ---: | :--------------------------------: | :-----: 
-G051 | Naif AlQahtani | Monday
-G081 | John Barron | Tuesday
-G102 | Manu Bulusu and Lydia Mitchell | Monday
+G042 | | | | G051 | Naif AlQahtani | Monday
+G081 | John Barron | Tuesday | | G092 |
+G102 | Manu Bulusu and Lydia Mitchell | Monday | | G111 |
 G161 | Trent George | Tuesday
 G172 | Parishma Guttoo and Abrar Alamoudi | Monday
 G181 | Claire Jansson-Knodell | Monday
