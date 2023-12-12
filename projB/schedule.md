@@ -17,8 +17,7 @@ TUE 12-12 | 3 | 12:40 PM to 1:00 PM | Kexin Zhang and Ryan Deng | G562
 TUE 12-12 | 4 | 1:30 PM to 1:50 PM | Justin Robinson | G451
 TUE 12-12 | 5 | 1:55 PM to 2:15 PM | Trent George | G161
 TUE 12-12 | 6 | 2:20 PM to 2:40 PM | Elizabeth Schultheis and Kamilla Abdurakhmanov | G492
-TUE 12-12 | 7 | 2:45 PM to 3:05 PM | Mary Garrity | G151
-TUE 12-12 | 8 | 3:10 PM to 3:30 PM | Juan Perez | G421
+TUE 12-12 | 7 | 3:10 PM to 3:30 PM | Juan Perez | G421
 
 ## Wednesday 2023-12-13 Presentations
 
@@ -52,14 +51,15 @@ Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
 THU 12-14 | 1 | 8:55 AM to 9:15 AM | Gayan Samuditha and Krishna Mridha | G322
 THU 12-14 | 2 | 9:20 AM to 9:40 AM | Sarah Albalawi and Walaa Alshaia | G042
+THU 12-14 | 3 | 9:45 AM or 11:25 AM (TBD) | Mary Garrity | G151
 THU 12-14 | | *Break*
-THU 12-14 | 3 | 11:50 AM to 12:10 PM | Kareena Shah | G511
-THU 12-14 | 4 | 12:15 PM to 12:35 PM | Samir Memic & Kartik Lakhotiya | G312
-THU 12-14 | 5 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
-THU 12-14 | 6 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
-THU 12-14 | 7 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
-THU 12-14 | 8 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
-THU 12-14 | 9 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
+THU 12-14 | 4 | 11:50 AM to 12:10 PM | Kareena Shah | G511
+THU 12-14 | 5 | 12:15 PM to 12:35 PM | Samir Memic & Kartik Lakhotiya | G312
+THU 12-14 | 6 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
+THU 12-14 | 7 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
+THU 12-14 | 8 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
+THU 12-14 | 9 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
+THU 12-14 | 10 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
 ## Completed Presentations
 
