@@ -1,16 +1,11 @@
 # Schedule for Project B presentations
 
-**15** presentations are complete. There are 23 to go.
+**16** presentations are complete. There are 22 to go.
 
-## Tuesday 2023-12-12 Presentations
-
-- All Tuesday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
-- Final bits of advice came to you Sunday via email. If needed, [you can find them here, too](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/final_presentation_advice.md).
-- Any problems on presentation day? Email Dr. Love at `thomas dot love at case dot edu`. Good luck!
+## Remaining Tuesday 2023-12-12 Presentations
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------: 
-TUE 12-12 | 6 | 2:20 PM to 2:40 PM | Elizabeth Schultheis and Kamilla Abdurakhmanov | G492
 TUE 12-12 | 7 | 3:10 PM to 3:30 PM | Juan Perez | G421
 
 ## Wednesday 2023-12-13 Presentations
@@ -71,6 +66,7 @@ G291 | Kyle McGill Percy | Monday
 G451 | Justin Robinson | Tuesday
 G472 | Manish Sarkar and Osmary Medina-Baez | Monday
 G481 | Robert Schauner | Monday
+G492 | Elizabeth Schultheis and Kamilla Abdurakhmanov | Tuesday
 G531 | Jordan Smith | Monday
 G541 | Liz Stanley | Monday
 G562 | Kexin Zhang and Ryan Deng | Tuesday
