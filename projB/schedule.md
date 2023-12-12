@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**14** presentations are complete. There are 24 to go.
+**15** presentations are complete. There are 23 to go.
 
 ## Tuesday 2023-12-12 Presentations
 
@@ -10,7 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------: 
-TUE 12-12 | 5 | 1:55 PM to 2:15 PM | Trent George | G161
 TUE 12-12 | 6 | 2:20 PM to 2:40 PM | Elizabeth Schultheis and Kamilla Abdurakhmanov | G492
 TUE 12-12 | 7 | 3:10 PM to 3:30 PM | Juan Perez | G421
 
@@ -63,6 +62,7 @@ Group | Investigator(s) | Completed?
 G051 | Naif AlQahtani | Monday
 G081 | John Barron | Tuesday
 G102 | Manu Bulusu and Lydia Mitchell | Monday
+G161 | Trent George | Tuesday
 G172 | Parishma Guttoo and Abrar Alamoudi | Monday
 G181 | Claire Jansson-Knodell | Monday
 G242 | Mengxuan Li and Yan Zou | Tuesday
@@ -74,3 +74,4 @@ G481 | Robert Schauner | Monday
 G531 | Jordan Smith | Monday
 G541 | Liz Stanley | Monday
 G562 | Kexin Zhang and Ryan Deng | Tuesday
+
