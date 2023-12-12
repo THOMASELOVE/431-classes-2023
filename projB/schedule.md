@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**13** presentations are complete. There are 25 to go.
+**14** presentations are complete. There are 24 to go.
 
 ## Tuesday 2023-12-12 Presentations
 
@@ -10,7 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------: 
-TUE 12-12 | 4 | 1:30 PM to 1:50 PM | Justin Robinson | G451
 TUE 12-12 | 5 | 1:55 PM to 2:15 PM | Trent George | G161
 TUE 12-12 | 6 | 2:20 PM to 2:40 PM | Elizabeth Schultheis and Kamilla Abdurakhmanov | G492
 TUE 12-12 | 7 | 3:10 PM to 3:30 PM | Juan Perez | G421
@@ -69,6 +68,7 @@ G181 | Claire Jansson-Knodell | Monday
 G242 | Mengxuan Li and Yan Zou | Tuesday
 G261 | Zunren (Jack) Liu | Monday
 G291 | Kyle McGill Percy | Monday
+G451 | Justin Robinson | Tuesday
 G472 | Manish Sarkar and Osmary Medina-Baez | Monday
 G481 | Robert Schauner | Monday
 G531 | Jordan Smith | Monday
