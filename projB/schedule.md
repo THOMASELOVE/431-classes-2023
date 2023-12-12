@@ -52,8 +52,8 @@ THU 12-14 | 10 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
 ## Completed Presentations
 
-Group | Investigator(s) | Completed?
----------: | :---------------------------------: | :-----: 
+Group | Investigator(s) | Completed? | - | Group | Investigator(s) | Completed?
+---: | :--------------------------------: | :-----: | -- | ---: | :--------------------------------: | :-----: 
 G051 | Naif AlQahtani | Monday
 G081 | John Barron | Tuesday
 G102 | Manu Bulusu and Lydia Mitchell | Monday
