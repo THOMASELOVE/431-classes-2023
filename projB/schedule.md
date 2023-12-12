@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**11** presentations are complete. There are 27 to go.
+**12** presentations are complete. There are 26 to go.
 
 ## Tuesday 2023-12-12 Presentations
 
@@ -10,9 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------: 
-TUE 12-12 | 1 | 8:55 AM to 9:15 AM | John Barron | G081 | Done
-TUE 12-12 | 2 | 9:20 AM to 9:40 AM | Mengxuan Li and Yan Zou | G242
-TUE 12-12 | | *Break*
 TUE 12-12 | 3 | 12:40 PM to 1:00 PM | Kexin Zhang and Ryan Deng | G562
 TUE 12-12 | 4 | 1:30 PM to 1:50 PM | Justin Robinson | G451
 TUE 12-12 | 5 | 1:55 PM to 2:15 PM | Trent George | G161
@@ -66,9 +63,11 @@ THU 12-14 | 10 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 Group | Investigator(s) | Completed?
 ---------: | :---------------------------------: | :-----: 
 G051 | Naif AlQahtani | Monday
+G081 | John Barron | Tuesday
 G102 | Manu Bulusu and Lydia Mitchell | Monday
 G172 | Parishma Guttoo and Abrar Alamoudi | Monday
 G181 | Claire Jansson-Knodell | Monday
+G242 | Mengxuan Li and Yan Zou | Tuesday
 G261 | Zunren (Jack) Liu | Monday
 G291 | Kyle McGill Percy | Monday
 G472 | Manish Sarkar and Osmary Medina-Baez | Monday
