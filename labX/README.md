@@ -22,6 +22,12 @@
 - Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
 - John Barron <https://jbarron9.github.io/jbarron9/>
 - Kathryn Menta <https://kkmenta.github.io/kkmenta/>
+- Manish Sarkar <https://manishnsarkar.github.io/>
+- Osmary A. Medina-Báez <https://osmarymedina.github.io/>
+- Kareena Shah <https://kareenashah5.github.io/personal-website/>
+- Mary Garrity <https://mgmgrand2023.github.io/MaryG/>
+- Kexin Zhang <https://kx-z09.github.io/Kexin-s-Website/>
+- Himiede Wilson-Sesay <https://himiede.github.io/>
 
 Congratulations on your excellent work!
 
