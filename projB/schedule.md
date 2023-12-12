@@ -52,22 +52,25 @@ THU 12-14 | 10 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
 ## Completed Presentations
 
-Group | Investigator(s) | Completed? | - | Group | Investigator(s) | Completed?
+Group | Investigator(s) | Date | - | Group | Investigator(s) | Date
 ---: | :--------------------------------: | :-----: | -- | ---: | :--------------------------------: | :-----: 
 G042 | | | | G051 | Naif AlQahtani | Monday
 G081 | John Barron | Tuesday | | G092 |
-G102 | Manu Bulusu and Lydia Mitchell | Monday | | G111 |
-G161 | Trent George | Tuesday
-G172 | Parishma Guttoo and Abrar Alamoudi | Monday
-G181 | Claire Jansson-Knodell | Monday
-G242 | Mengxuan Li and Yan Zou | Tuesday
-G261 | Zunren (Jack) Liu | Monday
-G291 | Kyle McGill Percy | Monday
-G451 | Justin Robinson | Tuesday
-G472 | Manish Sarkar and Osmary Medina-Baez | Monday
-G481 | Robert Schauner | Monday
-G492 | Elizabeth Schultheis and Kamilla Abdurakhmanov | Tuesday
-G531 | Jordan Smith | Monday
-G541 | Liz Stanley | Monday
-G562 | Kexin Zhang and Ryan Deng | Tuesday
+G102 | Manu Bulusu & Lydia Mitchell | Monday | | G111 |
+G141 | | | | G151 | 
+G161 | Trent George | Tuesday | | G172 | Parishma Guttoo & Abrar Alamoudi | Monday
+G181 | Claire Jansson-Knodell | Monday | | G191 |
+G232 | | | | G242 | Mengxuan Li & Yan Zou | Tuesday
+G252 | | | | G261 | Zunren (Jack) Liu | Monday
+G271 | | | | G282 |
+G291 | Kyle McGill Percy | Monday | G312 |
+G322 | | | | G331 |
+G371 | | | | G391 | 
+G412 | | | | G421 |
+G431 | | | | G451 | Justin Robinson | Tuesday
+G461 | | | | G472 | Manish Sarkar & Osmary Medina-Baez | Monday
+G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis & Kamilla Abdurakhmanov | Tuesday
+G511 | | | | G522 | 
+G531 | Jordan Smith | Monday | | G541 | Liz Stanley | Monday
+G551 | | | | G562 | Kexin Zhang & Ryan Deng | Tuesday
 
