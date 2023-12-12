@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**10** presentations are complete. There are 28 to go.
+**11** presentations are complete. There are 27 to go.
 
 ## Tuesday 2023-12-12 Presentations
 
@@ -10,7 +10,7 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------: 
-TUE 12-12 | 1 | 8:55 AM to 9:15 AM | John Barron | G081
+TUE 12-12 | 1 | 8:55 AM to 9:15 AM | John Barron | G081 | Done
 TUE 12-12 | 2 | 9:20 AM to 9:40 AM | Mengxuan Li and Yan Zou | G242
 TUE 12-12 | | *Break*
 TUE 12-12 | 3 | 12:40 PM to 1:00 PM | Kexin Zhang and Ryan Deng | G562
