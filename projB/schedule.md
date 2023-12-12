@@ -63,7 +63,7 @@ G181 | Claire Jansson-Knodell | Monday | | G191 |
 G232 | | | | G242 | Mengxuan Li & Yan Zou | Tuesday
 G252 | | | | G261 | Zunren (Jack) Liu | Monday
 G271 | | | | G282 |
-G291 | Kyle McGill Percy | Monday | G312 |
+G291 | Kyle McGill Percy | Monday | | G312 |
 G322 | | | | G331 |
 G371 | | | | G391 | 
 G412 | | | | G421 |
