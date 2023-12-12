@@ -1,12 +1,6 @@
 # Schedule for Project B presentations
 
-**16** presentations are complete. There are 22 to go.
-
-## Remaining Tuesday 2023-12-12 Presentations
-
-Date | # | Time | Investigator(s) | Group | Completed?
----------: | :-: | --------: | :---------------------------------: | :-----: | :------: 
-TUE 12-12 | 7 | 3:10 PM to 3:30 PM | Juan Perez | G421
+**17** presentations are complete. There are 21 to go.
 
 ## Wednesday 2023-12-13 Presentations
 
@@ -66,7 +60,7 @@ G271 | | | | G282 |
 G291 | Kyle McGill Percy | Monday | | G312 |
 G322 | | | | G331 |
 G371 | | | | G391 | 
-G412 | | | | G421 |
+G412 | | | | G421 | Juan Perez | Tuesday
 G431 | | | | G451 | Justin Robinson | Tuesday
 G461 | | | | G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday
 G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday
