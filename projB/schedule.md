@@ -56,11 +56,11 @@ Group | Investigator(s) | Date | - | Group | Investigator(s) | Date
 ---: | :--------------------------------: | :-----: | -- | ---: | :--------------------------------: | :-----: 
 G042 | | | | G051 | Naif AlQahtani | Monday
 G081 | John Barron | Tuesday | | G092 |
-G102 | Manu Bulusu & Lydia Mitchell | Monday | | G111 |
+G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | | G111 |
 G141 | | | | G151 | 
-G161 | Trent George | Tuesday | | G172 | Parishma Guttoo & Abrar Alamoudi | Monday
+G161 | Trent George | Tuesday | | G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday
 G181 | Claire Jansson-Knodell | Monday | | G191 |
-G232 | | | | G242 | Mengxuan Li & Yan Zou | Tuesday
+G232 | | | | G242 | Mengxuan Li and <br /> Yan Zou | Tuesday
 G252 | | | | G261 | Zunren (Jack) Liu | Monday
 G271 | | | | G282 |
 G291 | Kyle McGill Percy | Monday | | G312 |
@@ -68,8 +68,8 @@ G322 | | | | G331 |
 G371 | | | | G391 | 
 G412 | | | | G421 |
 G431 | | | | G451 | Justin Robinson | Tuesday
-G461 | | | | G472 | Manish Sarkar & Osmary Medina-Baez | Monday
-G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis & Kamilla Abdurakhmanov | Tuesday
+G461 | | | | G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday
+G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday
 G511 | | | | G522 | 
 G531 | Jordan Smith | Monday | | G541 | Liz Stanley | Monday
 G551 | | | | G562 | Kexin Zhang & Ryan Deng | Tuesday
