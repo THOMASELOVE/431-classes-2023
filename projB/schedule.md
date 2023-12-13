@@ -1,12 +1,6 @@
 # Schedule for Project B presentations
 
-**26** presentations are complete. There are 12 to go.
-
-## Wednesday 2023-12-13 Presentations
-
-Date | # | Time | Investigator(s) | Group | Completed?
----------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-WED 12-13 | 10 | 2:45 PM to 3:05 PM | Qiao Wang | G551
+**27** presentations are complete. There are 11 to go.
 
 ## Thursday 2023-12-14 Presentations
 
@@ -40,7 +34,7 @@ G141 | Jacob Gardner | Wednesday | | *G151* |
 G161 | Trent George | Tuesday | | G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday
 G181 | Claire Jansson-Knodell | Monday | | G191 | Julia Joo | Wednesday
 *G232* | | | | G242 | Mengxuan Li and <br /> Yan Zou | Tuesday
-G252 | Elaine Liu and <br /> Xiuyuan Lang | G252 | | | G261 | Zunren (Jack) Liu | Monday
+G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday | | G261 | Zunren (Jack) Liu | Monday
 G271 | Bhavya Mahesh | Wednesday | | *G282* |
 G291 | Kyle McGill Percy | Monday | | *G312* |
 *G322* | | | | *G331* |
@@ -49,6 +43,6 @@ G371 | Anthony Nunnery | Wednesday | | G391 | Sakshi Pandit | Wednesday
 *G431* | | | | G451 | Justin Robinson | Tuesday
 *G461* | | | | G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday
 G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday
-*G511* | | | | *G522* | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday
+*G511* | | | | G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday
 G531 | Jordan Smith | Monday | | G541 | Liz Stanley | Monday
-*G551* | | | | G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday
+G551 | Qiao Wang | Wednesday | | G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday
