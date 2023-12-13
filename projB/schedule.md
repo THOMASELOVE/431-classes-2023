@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**23** presentations are complete. There are 15 to go.
+**25** presentations are complete. There are 13 to go.
 
 ## Wednesday 2023-12-13 Presentations
 
@@ -10,7 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-WED 12-13 | 8 | 1:55 PM to 2:15 PM | Dario Cabal | G111
 WED 12-13 | 9 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
 WED 12-13 | 10 | 2:45 PM to 3:05 PM | Qiao Wang | G551
 
@@ -40,14 +39,14 @@ THU 12-14 | 11 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 Group | Investigator(s) | Date | - | Group | Investigator(s) | Date
 ---: | :--------------------------------: | :-----: | -- | ---: | :--------------------------------: | :-----: 
 *G042* | | | | G051 | Naif AlQahtani | Monday
-G081 | John Barron | Tuesday | | G092 | Alyssia Broncano and <br /> Michelle Raymond
-G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | | *G111* |
+G081 | John Barron | Tuesday | | G092 | Alyssia Broncano and <br /> Michelle Raymond | Wednesday
+G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | | G111 | Dario Cabal | Wednesday
 G141 | Jacob Gardner | Wednesday | | *G151* | 
 G161 | Trent George | Tuesday | | G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday
 G181 | Claire Jansson-Knodell | Monday | | G191 | Julia Joo | Wednesday
 *G232* | | | | G242 | Mengxuan Li and <br /> Yan Zou | Tuesday
 G252 | Elaine Liu and <br /> Xiuyuan Lang | G252 | | | G261 | Zunren (Jack) Liu | Monday
-G271 | Bhavya Mahesh | | | *G282* |
+G271 | Bhavya Mahesh | Wednesday | | *G282* |
 G291 | Kyle McGill Percy | Monday | | *G312* |
 *G322* | | | | *G331* |
 G371 | Anthony Nunnery | Wednesday | | G391 | Sakshi Pandit | Wednesday
