@@ -31,7 +31,7 @@ THU 12-14 | 1 | 8:55 AM to 9:15 AM | Gayan Samuditha and Krishna Mridha | G322
 THU 12-14 | 2 | 9:20 AM to 9:40 AM | Sarah Albalawi and Walaa Alshaia | G042
 THU 12-14 | 3 | 9:45 AM to 10:05 AM | Reina Samuel | G461
 THU 12-14 | | *Break*
-THU 12-14 | 4 | 11:25 AM to 11:45 AM | Mary Garrity | G151
+THU 12-14 | 4 | 11:25 AM to 11:45 AM | Mary Garrity (tentative) | G151
 THU 12-14 | 5 | 11:50 AM to 12:10 PM | Kareena Shah | G511
 THU 12-14 | 6 | 12:15 PM to 12:35 PM | Samir Memic & Kartik Lakhotiya | G312
 THU 12-14 | 7 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
