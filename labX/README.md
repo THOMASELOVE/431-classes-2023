@@ -18,23 +18,24 @@
 14. Sakshi Pandit <https://sakshigautampandit.github.io/>
 15. Krishna Mridha <https://krishna-mridha.github.io/>
 16. Noel Moore <https://ncm8.quarto.pub/noel-moore/>
-17. Kathryn Menta <https://kkmenta.github.io/kkmenta/>
-18. Osmary A. Medina-Báez <https://osmarymedina.github.io/>
-19. Elaine Liu <https://eliu98.github.io/>
-20. Kelsey Lewis <https://kelseyjlewis.netlify.app/>
-21. Xiuyuan Lang <https://langxiuyuan.github.io/>
-22. Kartik Lakhotiya <https://kartiklakhotiya.quarto.pub/website/>
-23. Julia Joo <https://juliahjoo.github.io/>
-24. Parishma Guttoo <https://parixima.github.io/Parishma/>
-25. Mary Garrity <https://mgmgrand2023.github.io/MaryG/>
-26. Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
-27. Alyssia Broncano <https://abroncano.github.io/personal-website/>
-28. John Barron <https://jbarron9.github.io/jbarron9/>
-29. Walaa Alshaia <https://walaashaia.github.io/Website_/>
-30. Naif Alqahtani <https://inaif94.github.io/github.io/>
-31. Sarah Albalawi <https://albalawisarah.github.io/SarahAlbalawi/>
-32. Abrar Alamoudi <https://abraraalamoudi.github.io/website/>
-33. Kamilla Abdurakhmanov <https://kabdurak.quarto.pub/kamilla-abdurakhmanov/>
+17. Lydia Mitchell <https://lydia-j-mitchell.github.io/>
+18. Kathryn Menta <https://kkmenta.github.io/kkmenta/>
+19. Osmary A. Medina-Báez <https://osmarymedina.github.io/>
+20. Elaine Liu <https://eliu98.github.io/>
+21. Kelsey Lewis <https://kelseyjlewis.netlify.app/>
+22. Xiuyuan Lang <https://langxiuyuan.github.io/>
+23. Kartik Lakhotiya <https://kartiklakhotiya.quarto.pub/website/>
+24. Julia Joo <https://juliahjoo.github.io/>
+25. Parishma Guttoo <https://parixima.github.io/Parishma/>
+26. Mary Garrity <https://mgmgrand2023.github.io/MaryG/>
+27. Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
+28. Alyssia Broncano <https://abroncano.github.io/personal-website/>
+29. John Barron <https://jbarron9.github.io/jbarron9/>
+30. Walaa Alshaia <https://walaashaia.github.io/Website_/>
+31. Naif Alqahtani <https://inaif94.github.io/github.io/>
+32. Sarah Albalawi <https://albalawisarah.github.io/SarahAlbalawi/>
+33. Abrar Alamoudi <https://abraraalamoudi.github.io/website/>
+34. Kamilla Abdurakhmanov <https://kabdurak.quarto.pub/kamilla-abdurakhmanov/>
 
 Congratulations on your excellent work!
 
