@@ -66,5 +66,5 @@ G461 | | | | G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday
 G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday
 G511 | | | | G522 | 
 G531 | Jordan Smith | Monday | | G541 | Liz Stanley | Monday
-G551 | | | | G562 | Kexin Zhang & Ryan Deng | Tuesday
+G551 | | | | G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday
 
