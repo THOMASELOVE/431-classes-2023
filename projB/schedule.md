@@ -1,16 +1,11 @@
 # Schedule for Project B presentations
 
-**25** presentations are complete. There are 13 to go.
+**26** presentations are complete. There are 12 to go.
 
 ## Wednesday 2023-12-13 Presentations
 
-- All Wednesday presentations are via Zoom. Zoom information is found [on our Shared Drive in the Project B Presentations: Zoom Information document](https://docs.google.com/document/d/1ARSzHgUeoPW45ljzvecc46pHzUEQvjpDARB0a4-5418/edit?usp=sharing). Please join the Zoom 5 minutes before your presentation is scheduled to start.
-- Final bits of advice came to you Sunday via email. If needed, [you can find them here, too](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/final_presentation_advice.md).
-- Any problems on presentation day? Email Dr. Love at `thomas dot love at case dot edu`. Good luck!
-
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-WED 12-13 | 9 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
 WED 12-13 | 10 | 2:45 PM to 3:05 PM | Qiao Wang | G551
 
 ## Thursday 2023-12-14 Presentations
@@ -54,6 +49,6 @@ G371 | Anthony Nunnery | Wednesday | | G391 | Sakshi Pandit | Wednesday
 *G431* | | | | G451 | Justin Robinson | Tuesday
 *G461* | | | | G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday
 G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday
-*G511* | | | | *G522* | 
+*G511* | | | | *G522* | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday
 G531 | Jordan Smith | Monday | | G541 | Liz Stanley | Monday
 *G551* | | | | G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday
