@@ -12,28 +12,29 @@
 8. Justin Robinson <https://jrobi23.github.io/>
 9. Michelle Raymond <https://mlr1700.wixsite.com/michelle-l-raymond>
 10. Camaryn Peterson <https://clp100.github.io/>
-11. Mauli Patel <https://mauli247.github.io/>
-12. Maksim Parfyonov <https://mparfyonov.com/>
-13. Sakshi Pandit <https://sakshigautampandit.github.io/>
-14. Krishna Mridha <https://krishna-mridha.github.io/>
-15. Noel Moore <https://ncm8.quarto.pub/noel-moore/>
-16. Kathryn Menta <https://kkmenta.github.io/kkmenta/>
-17. Osmary A. Medina-Báez <https://osmarymedina.github.io/>
-18. Elaine Liu <https://eliu98.github.io/>
-19. Kelsey Lewis <https://kelseyjlewis.netlify.app/>
-20. Xiuyuan Lang <https://langxiuyuan.github.io/>
-21. Kartik Lakhotiya <https://kartiklakhotiya.quarto.pub/website/>
-22. Julia Joo <https://juliahjoo.github.io/>
-23. Parishma Guttoo <https://parixima.github.io/Parishma/>
-24. Mary Garrity <https://mgmgrand2023.github.io/MaryG/>
-25. Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
-26. Alyssia Broncano <https://abroncano.github.io/personal-website/>
-27. John Barron <https://jbarron9.github.io/jbarron9/>
-28. Walaa Alshaia <https://walaashaia.github.io/Website_/>
-29. Naif Alqahtani <https://inaif94.github.io/github.io/>
-30. Sarah Albalawi <https://albalawisarah.github.io/SarahAlbalawi/>
-31. Abrar Alamoudi <https://abraraalamoudi.github.io/website/>
-32. Kamilla Abdurakhmanov <https://kabdurak.quarto.pub/kamilla-abdurakhmanov/>
+11. Juan Perez <https://weras2.github.io/quarto-website/>
+12. Mauli Patel <https://mauli247.github.io/>
+13. Maksim Parfyonov <https://mparfyonov.com/>
+14. Sakshi Pandit <https://sakshigautampandit.github.io/>
+15. Krishna Mridha <https://krishna-mridha.github.io/>
+16. Noel Moore <https://ncm8.quarto.pub/noel-moore/>
+17. Kathryn Menta <https://kkmenta.github.io/kkmenta/>
+18. Osmary A. Medina-Báez <https://osmarymedina.github.io/>
+19. Elaine Liu <https://eliu98.github.io/>
+20. Kelsey Lewis <https://kelseyjlewis.netlify.app/>
+21. Xiuyuan Lang <https://langxiuyuan.github.io/>
+22. Kartik Lakhotiya <https://kartiklakhotiya.quarto.pub/website/>
+23. Julia Joo <https://juliahjoo.github.io/>
+24. Parishma Guttoo <https://parixima.github.io/Parishma/>
+25. Mary Garrity <https://mgmgrand2023.github.io/MaryG/>
+26. Ryan Deng <https://rainze13.github.io/ryandeng.github.io/>
+27. Alyssia Broncano <https://abroncano.github.io/personal-website/>
+28. John Barron <https://jbarron9.github.io/jbarron9/>
+29. Walaa Alshaia <https://walaashaia.github.io/Website_/>
+30. Naif Alqahtani <https://inaif94.github.io/github.io/>
+31. Sarah Albalawi <https://albalawisarah.github.io/SarahAlbalawi/>
+32. Abrar Alamoudi <https://abraraalamoudi.github.io/website/>
+33. Kamilla Abdurakhmanov <https://kabdurak.quarto.pub/kamilla-abdurakhmanov/>
 
 Congratulations on your excellent work!
 
