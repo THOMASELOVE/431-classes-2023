@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**17** presentations are complete. There are 21 to go.
+**18** presentations are complete. There are 20 to go.
 
 ## Wednesday 2023-12-13 Presentations
 
@@ -10,8 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-WED 12-13 | 1 | 8:30 AM to 8:50 AM | Jacob Gardner | G141
-WED 12-13 | | *Break*
 WED 12-13 | 2 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
 WED 12-13 | 3 | 9:45 AM to 10:05 AM | Sakshi Pandit | G391
 WED 12-13 | | *Break*
@@ -52,7 +50,7 @@ Group | Investigator(s) | Date | - | Group | Investigator(s) | Date
 G042 | | | | G051 | Naif AlQahtani | Monday
 G081 | John Barron | Tuesday | | G092 |
 G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | | G111 |
-G141 | | | | G151 | 
+G141 | Jacob Gardner | Wednesday | | G151 | 
 G161 | Trent George | Tuesday | | G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday
 G181 | Claire Jansson-Knodell | Monday | | G191 |
 G232 | | | | G242 | Mengxuan Li and <br /> Yan Zou | Tuesday
