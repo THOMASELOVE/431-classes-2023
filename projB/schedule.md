@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**21** presentations are complete. There are 17 to go.
+**22** presentations are complete. There are 16 to go.
 
 ## Wednesday 2023-12-13 Presentations
 
@@ -10,8 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-WED 12-13 | 5 | 11:25 AM to 11:45 AM | Bhavya Mahesh | G271
-WED 12-13 | | *Break*
 WED 12-13 | 6 | 1:05 PM to 1:25 PM | Elaine Liu and Xiuyuan Lang | G252
 WED 12-13 | 7 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
 WED 12-13 | 8 | 1:55 PM to 2:15 PM | Dario Cabal | G111
@@ -51,7 +49,7 @@ G161 | Trent George | Tuesday | | G172 | Parishma Guttoo and <br /> Abrar Alamou
 G181 | Claire Jansson-Knodell | Monday | | G191 | Julia Joo | Wednesday
 *G232* | | | | G242 | Mengxuan Li and <br /> Yan Zou | Tuesday
 *G252* | | | | G261 | Zunren (Jack) Liu | Monday
-*G271* | | | | *G282* |
+G271 | Bhavya Mahesh | | | *G282* |
 G291 | Kyle McGill Percy | Monday | | *G312* |
 *G322* | | | | *G331* |
 G371 | Anthony Nunnery | Wednesday | | G391 | Sakshi Pandit | Wednesday
