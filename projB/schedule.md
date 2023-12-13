@@ -11,18 +11,18 @@
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
 WED 12-13 | 1 | 8:30 AM to 8:50 AM | Jacob Gardner | G141
-WED 12-13 | 2 | 8:55 AM to 9:15 AM | Reina Samuel | G461
-WED 12-13 | 3 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
-WED 12-13 | 4 | 9:45 AM to 10:05 AM | Sakshi Pandit | G391
 WED 12-13 | | *Break*
-WED 12-13 | 5 | 11:00 AM to 11:20 AM | Julia Joo | G191
-WED 12-13 | 6 | 11:25 AM to 11:45 AM | Bhavya Mahesh | G271
+WED 12-13 | 2 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
+WED 12-13 | 3 | 9:45 AM to 10:05 AM | Sakshi Pandit | G391
 WED 12-13 | | *Break*
-WED 12-13 | 7 | 1:05 PM to 1:25 PM | Elaine Liu and Xiuyuan Lang | G252
-WED 12-13 | 8 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
-WED 12-13 | 9 | 1:55 PM to 2:15 PM | Dario Cabal | G111
-WED 12-13 | 10 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
-WED 12-13 | 11 | 2:45 PM to 3:05 PM | Qiao Wang | G551
+WED 12-13 | 4 | 11:00 AM to 11:20 AM | Julia Joo | G191
+WED 12-13 | 5 | 11:25 AM to 11:45 AM | Bhavya Mahesh | G271
+WED 12-13 | | *Break*
+WED 12-13 | 6 | 1:05 PM to 1:25 PM | Elaine Liu and Xiuyuan Lang | G252
+WED 12-13 | 7 | 1:30 PM to 1:50 PM | Alyssia Broncano and Michelle Raymond | G092
+WED 12-13 | 8 | 1:55 PM to 2:15 PM | Dario Cabal | G111
+WED 12-13 | 9 | 2:20 PM to 2:40 PM | Gazi Shamita and Himiede Wilson-Sesay | G522
+WED 12-13 | 10 | 2:45 PM to 3:05 PM | Qiao Wang | G551
 
 ## Thursday 2023-12-14 Presentations
 
@@ -34,15 +34,16 @@ Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
 THU 12-14 | 1 | 8:55 AM to 9:15 AM | Gayan Samuditha and Krishna Mridha | G322
 THU 12-14 | 2 | 9:20 AM to 9:40 AM | Sarah Albalawi and Walaa Alshaia | G042
-THU 12-14 | 3 | 9:45 AM or 11:25 AM (TBD) | Mary Garrity | G151
+THU 12-14 | 3 | 9:45 AM to 10:05 AM | Reina Samuel | G461
 THU 12-14 | | *Break*
-THU 12-14 | 4 | 11:50 AM to 12:10 PM | Kareena Shah | G511
-THU 12-14 | 5 | 12:15 PM to 12:35 PM | Samir Memic & Kartik Lakhotiya | G312
-THU 12-14 | 6 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
-THU 12-14 | 7 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
-THU 12-14 | 8 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
-THU 12-14 | 9 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
-THU 12-14 | 10 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
+THU 12-14 | 4 | 11:25 AM to 11:45 AM | Mary Garrity | G151
+THU 12-14 | 5 | 11:50 AM to 12:10 PM | Kareena Shah | G511
+THU 12-14 | 6 | 12:15 PM to 12:35 PM | Samir Memic & Kartik Lakhotiya | G312
+THU 12-14 | 7 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
+THU 12-14 | 8 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
+THU 12-14 | 9 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
+THU 12-14 | 10 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
+THU 12-14 | 11 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
 ## Completed Presentations
 
