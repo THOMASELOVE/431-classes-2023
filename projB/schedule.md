@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**18** presentations are complete. There are 20 to go.
+**20** presentations are complete. There are 18 to go.
 
 ## Wednesday 2023-12-13 Presentations
 
@@ -10,9 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-WED 12-13 | 2 | 9:20 AM to 9:40 AM | Anthony Nunnery | G371
-WED 12-13 | 3 | 9:45 AM to 10:05 AM | Sakshi Pandit | G391
-WED 12-13 | | *Break*
 WED 12-13 | 4 | 11:00 AM to 11:20 AM | Julia Joo | G191
 WED 12-13 | 5 | 11:25 AM to 11:45 AM | Bhavya Mahesh | G271
 WED 12-13 | | *Break*
@@ -47,23 +44,22 @@ THU 12-14 | 11 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
 Group | Investigator(s) | Date | - | Group | Investigator(s) | Date
 ---: | :--------------------------------: | :-----: | -- | ---: | :--------------------------------: | :-----: 
-G042 | | | | G051 | Naif AlQahtani | Monday
-G081 | John Barron | Tuesday | | G092 |
-G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | | G111 |
-G141 | Jacob Gardner | Wednesday | | G151 | 
+*G042* | | | | G051 | Naif AlQahtani | Monday
+G081 | John Barron | Tuesday | | *G092* |
+G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | | *G111* |
+G141 | Jacob Gardner | Wednesday | | *G151* | 
 G161 | Trent George | Tuesday | | G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday
-G181 | Claire Jansson-Knodell | Monday | | G191 |
-G232 | | | | G242 | Mengxuan Li and <br /> Yan Zou | Tuesday
-G252 | | | | G261 | Zunren (Jack) Liu | Monday
-G271 | | | | G282 |
-G291 | Kyle McGill Percy | Monday | | G312 |
-G322 | | | | G331 |
-G371 | | | | G391 | 
-G412 | | | | G421 | Juan Perez | Tuesday
-G431 | | | | G451 | Justin Robinson | Tuesday
-G461 | | | | G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday
+G181 | Claire Jansson-Knodell | Monday | | *G191* |
+*G232* | | | | G242 | Mengxuan Li and <br /> Yan Zou | Tuesday
+*G252* | | | | G261 | Zunren (Jack) Liu | Monday
+*G271* | | | | *G282* |
+G291 | Kyle McGill Percy | Monday | | *G312* |
+*G322* | | | | *G331* |
+G371 | Anthony Nunnery | Wednesday | | G391 | Sakshi Pandit | Wednesday
+*G412* | | | | G421 | Juan Perez | Tuesday
+*G431* | | | | G451 | Justin Robinson | Tuesday
+*G461* | | | | G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday
 G481 | Robert Schauner | Monday | | G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday
-G511 | | | | G522 | 
+*G511* | | | | *G522* | 
 G531 | Jordan Smith | Monday | | G541 | Liz Stanley | Monday
-G551 | | | | G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday
-
+*G551* | | | | G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday
