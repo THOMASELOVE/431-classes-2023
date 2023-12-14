@@ -28,12 +28,12 @@ G181 | **Claire Jansson-Knodell** | Monday | Self-E | Qmds | HTMLs | **Ready**
 Group | Investigator(s) | Date | Self-E | Qmds | HTMLs | Ready for TEL?
 ---: | :-----------------: | :-----: | :---: | :---: | :---: | :-----: 
 G191 | Julia Joo | Wednesday |
-*G232* |
+G232 | Kelsey Lewis and Noel Moore | Thursday |
 G242 | Mengxuan Li and <br /> Yan Zou | Tuesday |
 G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday |
 G261 | Zunren (Jack) Liu | Monday |
 G271 | Bhavya Mahesh | Wednesday |
-*G282* |
+G282 | Ethan Martin and <br /> Vern Olaker | Thursday |
 G291 | **Kyle McGill Percy** | Monday | Self-E | Qmds | HTMLs | **Ready**
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday |
 G322 | Gayan Samuditha and <br /> Krishna Mridha | Thursday |
