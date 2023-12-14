@@ -34,7 +34,7 @@ G111 | Dario Cabal | Wednesday |
 G141 | Jacob Gardner | Wednesday |
 G161 | Trent George | Tuesday | 
 G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday |
-G181 | Claire Jansson-Knodell | Monday |
+G181 | Claire Jansson-Knodell | Monday | Self-E | Qmds | HTMLs | Ready
 G191 | Julia Joo | Wednesday |
 *G232* |
 G242 | Mengxuan Li and <br /> Yan Zou | Tuesday |
@@ -42,7 +42,7 @@ G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday |
 G261 | Zunren (Jack) Liu | Monday |
 G271 | Bhavya Mahesh | Wednesday |
 *G282* |
-G291 | Kyle McGill Percy | Monday |
+G291 | Kyle McGill Percy | Monday | Self-E | Qmds | HTMLs | Ready
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday |
 
 ### Second set
@@ -59,11 +59,11 @@ G421 | Juan Perez | Tuesday |
 G451 | Justin Robinson | Tuesday |
 G461 | Reina Samuel | Thursday |
 G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday |
-G481 | Robert Schauner | Monday |
+G481 | Robert Schauner | Monday | Self-E | Qmds | HTMLs | Ready
 G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday |
 G511 | Kareena Shah | Thursday |
 G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday |
 G531 | Jordan Smith | Monday |
 G541 | Liz Stanley | Monday |
 G551 | Qiao Wang | Wednesday |
-G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday |
+G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday | Self-E <br /> Self-E | Qmds | HTMLs | Ready
