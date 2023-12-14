@@ -10,7 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-THU 12-14 | 4 | 1:05 PM to 1:25 PM |  | G331
 THU 12-14 | 3 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
 THU 12-14 | 2 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
 THU 12-14 | 1 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
