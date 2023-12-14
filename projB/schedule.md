@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**36** presentations are complete. There are 1 to go.
+**36** presentations are complete. There is 1 to go.
 
 If you want to see whether or not I have received all of your materials for Project B, [visit this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/submission_status.md).
 
