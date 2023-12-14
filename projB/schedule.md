@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**33** presentations are complete. There are 4 to go.
+**34** presentations are complete. There are 3 to go.
 
 ## Thursday 2023-12-14 Presentations
 
@@ -10,7 +10,7 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-THU 12-14 | 4 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
+THU 12-14 | 4 | 1:05 PM to 1:25 PM |  | G331
 THU 12-14 | 3 | 1:30 PM to 1:50 PM | Camaryn Petersen | G431
 THU 12-14 | 2 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
 THU 12-14 | 1 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
@@ -29,7 +29,7 @@ G242 | Mengxuan Li and <br /> Yan Zou | Tuesday | | G252 | Elaine Liu and <br />
 G261 | Zunren (Jack) Liu | Monday | | G271 | Bhavya Mahesh | Wednesday 
 *G282* | | | | G291 | Kyle McGill Percy | Monday 
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday | | G322 | Gayan Samuditha and <br /> Krishna Mridha | Thursday
-*G331* | | | | G371 | Anthony Nunnery | Wednesday 
+G331 | Kathryn Menta | Thursday | | G371 | Anthony Nunnery | Wednesday 
 G391 | Sakshi Pandit | Wednesday | | G412 | Mauli Patel and <br /> Maksim Parfyonov | Thursday
 G421 | Juan Perez | Tuesday | | *G431* |
 G451 | Justin Robinson | Tuesday | | G461 | Reina Samuel | Thursday
