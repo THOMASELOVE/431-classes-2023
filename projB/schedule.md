@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**27** presentations are complete. There are 10 to go.
+**28** presentations are complete. There are 9 to go.
 
 ## Thursday 2023-12-14 Presentations
 
@@ -10,7 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-THU 12-14 | 1 | 8:55 AM to 9:15 AM | Gayan Samuditha and Krishna Mridha | G322
 THU 12-14 | 2 | 9:20 AM to 9:40 AM | Sarah Albalawi and Walaa Alshaia | G042
 THU 12-14 | 3 | 9:45 AM to 10:05 AM | Reina Samuel | G461
 THU 12-14 | | *Break*
@@ -35,7 +34,7 @@ G191 | Julia Joo | Wednesday | | *G232* |
 G242 | Mengxuan Li and <br /> Yan Zou | Tuesday | | G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday 
 G261 | Zunren (Jack) Liu | Monday | | G271 | Bhavya Mahesh | Wednesday 
 *G282* | | | | G291 | Kyle McGill Percy | Monday 
-*G312* | | | | *G322* | 
+*G312* | | | | *G322* | Gayan Samuditha and <br /> Krishna Mridha
 *G331* | | | | G371 | Anthony Nunnery | Wednesday 
 G391 | Sakshi Pandit | Wednesday | | *G412* | 
 G421 | Juan Perez | Tuesday | | *G431* |
