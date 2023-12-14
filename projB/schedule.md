@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**30** presentations are complete. There are 7 to go.
+**31** presentations are complete. There are 6 to go.
 
 ## Thursday 2023-12-14 Presentations
 
@@ -10,7 +10,6 @@
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-THU 12-14 | 7 | 11:50 AM to 12:10 PM | Kareena Shah | G511
 THU 12-14 | 6 | 12:15 PM to 12:35 PM | Samir Memic & Kartik Lakhotiya | G312
 THU 12-14 | 5 | 12:40 PM to 1:00 PM | Mauli Patel and Maksim Parfyonov | G412
 THU 12-14 | 4 | 1:05 PM to 1:25 PM | Kathryn Menta | G331
@@ -37,7 +36,7 @@ G391 | Sakshi Pandit | Wednesday | | *G412* |
 G421 | Juan Perez | Tuesday | | *G431* |
 G451 | Justin Robinson | Tuesday | | G461 | Reina Samuel | Thursday
 G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday | | G481 | Robert Schauner | Monday 
-G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday | | *G511* |
+G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday | | G511 | Kareena Shah | Thursday
 G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday | | G531 | Jordan Smith | Monday 
 G541 | Liz Stanley | Monday | | G551 | Qiao Wang | Wednesday
 G562 | Kexin Zhang and <br /> Ryan Deng | Tuesday
