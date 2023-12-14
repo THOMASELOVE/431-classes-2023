@@ -45,12 +45,12 @@ G322 | Gayan Samuditha and <br /> Krishna Mridha | Thursday |
 
 Group | Investigator(s) | Date | Self-E | Qmds | HTMLs | Ready for TEL?
 ---: | :-----------------: | :-----: | :---: | :---: | :---: | :-----: 
-G331 | Kathryn Menta | Thursday |
+G331 | **Kathryn Menta** | Thursday | Self-E | Qmds | HTMLs | **Ready**
 G371 | Anthony Nunnery | Wednesday |
 G391 | Sakshi Pandit | Wednesday |
 G412 | Mauli Patel and <br /> Maksim Parfyonov | Thursday |
 G421 | Juan Perez | Tuesday |
-G431 | Camaryn Petersen | Thursday |
+G431 | Camaryn Petersen | Thursday | Self-E | Qmds | HTMLs | Resubmit Study 1 HTML, please
 G451 | Justin Robinson | Tuesday |
 G461 | Reina Samuel | Thursday |
 G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday |
