@@ -1,6 +1,6 @@
 # Schedule for Project B presentations
 
-**35** presentations are complete. There are 2 to go.
+**36** presentations are complete. There are 1 to go.
 
 If you want to see whether or not I have received all of your materials for Project B, [visit this link](https://github.com/THOMASELOVE/431-classes-2023/blob/main/projB/submission_status.md).
 
@@ -12,6 +12,5 @@ If you want to see whether or not I have received all of your materials for Proj
 
 Date | # | Time | Investigator(s) | Group | Completed?
 ---------: | :-: | --------: | :---------------------------------: | :-----: | :------:
-THU 12-14 | 2 | 1:55 PM to 2:15 PM | Kelsey Lewis and Noel Moore | G232
 THU 12-14 | 1 | 2:20 PM to 2:40 PM | Ethan Martin and Vern Olaker | G282
 
