@@ -1,6 +1,6 @@
 # Status of 431 Project B Material Submission
 
-Everything is due at 9 AM Sunday 2023-12-17. If your project says **READY** below, you're all set.
+Everything is due at 9 AM Sunday 2023-12-17. If your project says **Ready** below, you're all set.
 
 ## First set of 10 (alphabetically)
 
