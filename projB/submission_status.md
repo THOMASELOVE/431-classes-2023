@@ -39,7 +39,7 @@ G242 | Mengxuan Li and <br /> Yan Zou | Tuesday |
 G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday |
 G261 | Zunren (Jack) Liu | Monday |
 G271 | Bhavya Mahesh | Wednesday |
-G282 | Ethan Martin and <br /> Vern Olaker | Thursday | Self-E <br /> |
+G282 | Ethan Martin and <br /> Vern Olaker | Thursday | Self-E <br /> -- |
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday |
 G371 | Anthony Nunnery | Wednesday |
 G391 | Sakshi Pandit | Wednesday |
