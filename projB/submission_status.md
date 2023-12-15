@@ -1,14 +1,29 @@
 # Status of 431 Project B Material Submission
 
-Everything is due at 9 AM Sunday 2023-12-17. If your project says **Ready** below, you're all set.
+Everything is due at **9 AM Sunday 2023-12-17**. 
 
-## First set of 10 (alphabetically)
+## People who've submitted everything
+
+I have completed the grading for the following people. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
+
+- 
+- Ryan Deng
+- 
+- Claire Jansson-Knodell
+- 
+- Kyle McGill Percy, Kathryn Menta
+- Krishna Mridha
+- Camaryn Petersen
+- Gayan Samuditha
+- Robert Schauner
+- Kexin Zhang 
+
+## People who've not yet submitted everything
 
 - Date = Date presentation was given, - Self-E = Self-Evaluation submitted via Google Form, Qmds / HTMLs - submitted via Canvas
-- Ready for TEL? - Ready for Dr. Love to grade (all items are in)
 
-Group | Investigator(s) | Date | Self-E | Qmds | HTMLs | Ready for TEL?
----: | :-----------------: | :-----: | :---: | :---: | :---: | :-----: 
+Group | Investigator(s) | Date | Self-E | Qmds | HTMLs 
+---: | :-----------------: | :-----: | :---: | :---: | :---:  
 G042 | Sarah Albalawi and <br /> Walaa Alshaia | Thursday |
 G051 | Naif AlQahtani | Monday |
 G081 | John Barron | Tuesday |
@@ -18,15 +33,6 @@ G111 | Dario Cabal | Wednesday |
 G141 | Jacob Gardner | Wednesday |
 G161 | Trent George | Tuesday | 
 G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday |
-G181 | **Claire Jansson-Knodell** | Monday | Self-E | Qmds | HTMLs | **Ready**
-
-## Second set of 10
-
-- Date = Date presentation was given, - Self-E = Self-Evaluation submitted via Google Form, Qmds / HTMLs - submitted via Canvas
-- Ready for TEL? - Ready for Dr. Love to grade (all items are in)
-
-Group | Investigator(s) | Date | Self-E | Qmds | HTMLs | Ready for TEL?
----: | :-----------------: | :-----: | :---: | :---: | :---: | :-----: 
 G191 | Julia Joo | Wednesday |
 G232 | Kelsey Lewis and Noel Moore | Thursday |
 G242 | Mengxuan Li and <br /> Yan Zou | Tuesday |
@@ -34,39 +40,17 @@ G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday |
 G261 | Zunren (Jack) Liu | Monday |
 G271 | Bhavya Mahesh | Wednesday |
 G282 | Ethan Martin and <br /> Vern Olaker | Thursday |
-G291 | **Kyle McGill Percy** | Monday | Self-E | Qmds | HTMLs | **Ready**
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday |
-G322 | **Gayan Samuditha and <br /> Krishna Mridha** | Thursday | Self-E <br /> Self-E | Qmds | HTMLs | **Ready**
-
-# Third set of 10
-
-- Date = Date presentation was given, - Self-E = Self-Evaluation submitted via Google Form, Qmds / HTMLs - submitted via Canvas
-- Ready for TEL? - Ready for Dr. Love to grade (all items are in) or *see comment in italics (also sent via Canvas and email)*
-
-Group | Investigator(s) | Date | Self-E | Qmds | HTMLs | Ready for TEL?
----: | :-----------------: | :-----: | :---: | :---: | :---: | :-----: 
-G331 | **Kathryn Menta** | Thursday | Self-E | Qmds | HTMLs | **Ready**
 G371 | Anthony Nunnery | Wednesday |
 G391 | Sakshi Pandit | Wednesday |
 G412 | Mauli Patel and <br /> Maksim Parfyonov | Thursday |
 G421 | Juan Perez | Tuesday |
-G431 | **Camaryn Petersen** | Thursday | Self-E | Qmds | HTMLs | **Ready**
 G451 | Justin Robinson | Tuesday |
 G461 | Reina Samuel | Thursday |
 G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday |
-G481 | **Robert Schauner** | Monday | Self-E | Qmds | HTMLs | **Ready**
-
-# Final set of 7
-
-- Date = Date presentation was given, - Self-E = Self-Evaluation submitted via Google Form, Qmds / HTMLs - submitted via Canvas
-- Ready for TEL? - Ready for Dr. Love to grade (all items are in)
-
-Group | Investigator(s) | Date | Self-E | Qmds | HTMLs | Ready for TEL?
----: | :-----------------: | :-----: | :---: | :---: | :---: | :-----: 
 G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday |
 G511 | Kareena Shah | Thursday |
 G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday |
 G531 | Jordan Smith | Monday |
 G541 | Liz Stanley | Monday |
 G551 | Qiao Wang | Wednesday |
-G562 | **Kexin Zhang and <br /> Ryan Deng** | Tuesday | Self-E <br /> Self-E | Qmds | HTMLs | **Ready**
