@@ -36,7 +36,7 @@ G271 | Bhavya Mahesh | Wednesday |
 G282 | Ethan Martin and <br /> Vern Olaker | Thursday |
 G291 | **Kyle McGill Percy** | Monday | Self-E | Qmds | HTMLs | **Ready**
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday |
-G322 | **Gayan Samuditha and <br /> Krishna Mridha** | Thursday | Self-E | Qmds | HTMLs | **Ready**
+G322 | **Gayan Samuditha and <br /> Krishna Mridha** | Thursday | Self-E <br /> Self-E | Qmds | HTMLs | **Ready**
 
 # Third set of 10
 
