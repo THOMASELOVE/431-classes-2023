@@ -6,7 +6,7 @@ Everything is due at **9 AM Sunday 2023-12-17**.
 
 I have completed the grading for the following people. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
 
-Name | Name | Name | Name | Name 
+Grading | Completed | For | These | People 
 :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------:
 -- | -- | -- | -- | -- 
 -- | -- | -- | -- | Ryan Deng
