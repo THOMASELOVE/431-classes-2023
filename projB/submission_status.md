@@ -18,7 +18,7 @@ Claire Jansson-Knodell | -- | -- | -- | *Vetrica Le Maitre*
 -- | -- | -- | -- | Camaryn Petersen
 -- | -- | Gayan Samuditha | -- | --
 Robert Schauner | -- | -- | -- | --
--- | -- | -- | Kexin Zhang --
+-- | -- | -- | Kexin Zhang | --
 
 ## People who've not yet submitted everything
 
