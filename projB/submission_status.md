@@ -36,7 +36,7 @@ G161 | Trent George | Tuesday | -- |
 G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday | -- <br /> -- |
 G191 | Julia Joo | Wednesday | -- | *resubmit* | *resubmit* |
 G242 | Mengxuan Li and <br /> Yan Zou | Tuesday | Self-E <br /> -- |
-G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday | -- |
+G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday | -- <br /> -- |
 G261 | Zunren (Jack) Liu | Monday | -- |
 G271 | Bhavya Mahesh | Wednesday | -- |
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday | -- <br /> -- |
