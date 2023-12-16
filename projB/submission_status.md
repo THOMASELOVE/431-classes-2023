@@ -26,28 +26,28 @@ Liz Stanley | -- | -- | Kexin Zhang | --
 
 Group | Investigator(s) | Date | Self-E | Qmds | HTMLs 
 ---: | :-----------------: | :-----: | :---: | :---: | :---:  
-G042 | Sarah Albalawi and <br /> Walaa Alshaia | Thursday |
-G051 | Naif AlQahtani | Monday |
-G092 | Alyssia Broncano and <br /> Michelle Raymond | Wednesday |
-G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday |
-G111 | Dario Cabal | Wednesday |
-G141 | Jacob Gardner | Wednesday |
-G161 | Trent George | Tuesday | 
-G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday |
-G191 | Julia Joo | Wednesday |
+G042 | Sarah Albalawi and <br /> Walaa Alshaia | Thursday | -- <br /> -- |
+G051 | Naif AlQahtani | Monday | -- |
+G092 | Alyssia Broncano and <br /> Michelle Raymond | Wednesday | -- |
+G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | -- |
+G111 | Dario Cabal | Wednesday | -- |
+G141 | Jacob Gardner | Wednesday | -- |
+G161 | Trent George | Tuesday | -- |
+G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday | -- <br /> -- |
+G191 | Julia Joo | Wednesday | -- | *resubmit* | *resubmit* |
 G242 | Mengxuan Li and <br /> Yan Zou | Tuesday | Self-E <br /> -- |
-G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday |
-G261 | Zunren (Jack) Liu | Monday |
-G271 | Bhavya Mahesh | Wednesday |
-G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday |
-G371 | Anthony Nunnery | Wednesday |
-G391 | Sakshi Pandit | Wednesday |
-G412 | Mauli Patel and <br /> Maksim Parfyonov | Thursday |
-G421 | Juan Perez | Tuesday |
+G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday | -- |
+G261 | Zunren (Jack) Liu | Monday | -- |
+G271 | Bhavya Mahesh | Wednesday | -- |
+G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday | -- <br /> -- |
+G371 | Anthony Nunnery | Wednesday | -- |
+G391 | Sakshi Pandit | Wednesday | -- |
+G412 | Mauli Patel and <br /> Maksim Parfyonov | Thursday | -- <br /> -- |
+G421 | Juan Perez | Tuesday | -- |
 G451 | Justin Robinson | Tuesday | -- | Qmds | HTMLs
-G461 | Reina Samuel | Thursday |
+G461 | Reina Samuel | Thursday | -- |
 G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday | -- <br /> -- | Qmds | HTMLs |
-G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday |
-G511 | Kareena Shah | Thursday |
-G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday |
-G551 | Qiao Wang | Wednesday |
+G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday | -- <br /> -- |
+G511 | Kareena Shah | Thursday | -- |
+G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday | -- <br /> -- | 
+G551 | Qiao Wang | Wednesday | -- |
