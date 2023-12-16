@@ -4,13 +4,13 @@ Everything is due at **9 AM Sunday 2023-12-17**.
 
 ## People from whom I have what I expect to receive by 9 AM Sunday 2023-12-17
 
-I have completed the grading for **24 of 55** people so far. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
+I have completed the grading for **26 of 55** people so far. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
 
 Grading | Completed | For | These | People 
 :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------:
--- | -- | -- | -- | -- 
+-- | Abrar Alamoudi | -- | -- | -- 
 John Barron | -- | -- | -- | Ryan Deng
-*Richael Gambrah* | Jacob Gardner | *Mary Garrity* | Trent George | --
+*Richael Gambrah* | Jacob Gardner | *Mary Garrity* | Trent George | Parishma Guttoo
 Claire Jansson-Knodell | Julia Joo | -- | -- | *Vetrica Le Maitre*
 Kelsey Lewis | -- | -- | -- | --
 Ethan Martin | Kyle McGill Percy | -- | -- | Kathryn Menta
@@ -31,7 +31,6 @@ G051 | Naif AlQahtani | Monday | -- |
 G092 | Alyssia Broncano and <br /> Michelle Raymond | Wednesday | -- <br /> -- |
 G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | -- <br /> -- |
 G111 | Dario Cabal | Wednesday | -- |
-G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday | -- <br /> -- |
 G242 | Mengxuan Li and <br /> Yan Zou | Tuesday | Self-E <br /> -- |
 G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday | -- <br /> -- |
 G261 | Zunren (Jack) Liu | Monday | -- |
