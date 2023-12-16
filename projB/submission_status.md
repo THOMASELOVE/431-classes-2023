@@ -22,7 +22,7 @@ Liz Stanley | -- | -- | Kexin Zhang | --
 
 ## People who've not yet submitted everything
 
-- Date = Date presentation was given, - Self-E = Self-Evaluation submitted via Google Form, Qmds / HTMLs - submitted via Canvas
+- Date = Date presentation was given, Self-E = Self-Evaluation submitted via Google Form, Qmds / HTMLs - submitted via Canvas
 
 Group | Investigator(s) | Date | Self-E | Qmds | HTMLs 
 ---: | :-----------------: | :-----: | :---: | :---: | :---:  
