@@ -4,7 +4,7 @@ Everything is due at **9 AM Sunday 2023-12-17**.
 
 ## People from whom I have what I expect to receive by 9 AM Sunday 2023-12-17
 
-I have completed the grading for **18 of 55** people so far. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
+I have completed the grading for **19 of 55** people so far. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
 
 Grading | Completed | For | These | People 
 :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------:
@@ -18,7 +18,7 @@ Ethan Martin | Kyle McGill Percy | -- | -- | Kathryn Menta
 -- | -- | -- | -- | Camaryn Petersen
 -- | -- | Gayan Samuditha | -- | --
 Robert Schauner | -- | -- | -- | Jordan Smith
--- | -- | -- | Kexin Zhang | --
+Liz Stanley | -- | -- | Kexin Zhang | --
 
 ## People who've not yet submitted everything
 
@@ -35,7 +35,7 @@ G141 | Jacob Gardner | Wednesday |
 G161 | Trent George | Tuesday | 
 G172 | Parishma Guttoo and <br /> Abrar Alamoudi | Monday |
 G191 | Julia Joo | Wednesday |
-G242 | Mengxuan Li and <br /> Yan Zou | Tuesday |
+G242 | Mengxuan Li and <br /> Yan Zou | Tuesday | Self-E <br /> -- |
 G252 | Elaine Liu and <br /> Xiuyuan Lang | Wednesday |
 G261 | Zunren (Jack) Liu | Monday |
 G271 | Bhavya Mahesh | Wednesday |
@@ -46,9 +46,8 @@ G412 | Mauli Patel and <br /> Maksim Parfyonov | Thursday |
 G421 | Juan Perez | Tuesday |
 G451 | Justin Robinson | Tuesday | -- | Qmds | HTMLs
 G461 | Reina Samuel | Thursday |
-G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday |
+G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday | | Qmds | HTMLs |
 G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday |
 G511 | Kareena Shah | Thursday |
 G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday |
-G541 | Liz Stanley | Monday |
 G551 | Qiao Wang | Wednesday |
