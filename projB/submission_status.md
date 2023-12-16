@@ -46,7 +46,7 @@ G412 | Mauli Patel and <br /> Maksim Parfyonov | Thursday |
 G421 | Juan Perez | Tuesday |
 G451 | Justin Robinson | Tuesday | -- | Qmds | HTMLs
 G461 | Reina Samuel | Thursday |
-G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday | | Qmds | HTMLs |
+G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday | -- <br /> -- | Qmds | HTMLs |
 G492 | Elizabeth Schultheis and <br /> Kamilla Abdurakhmanov | Tuesday |
 G511 | Kareena Shah | Thursday |
 G522 | Gazi Shamita and <br /> Himiede Wilson-Sesay | Wednesday |
