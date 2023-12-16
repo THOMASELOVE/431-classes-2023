@@ -28,7 +28,7 @@ Group | Investigator(s) | Date | Self-E | Qmds | HTMLs
 ---: | :-----------------: | :-----: | :---: | :---: | :---:  
 G042 | Sarah Albalawi and <br /> Walaa Alshaia | Thursday | -- <br /> -- |
 G051 | Naif AlQahtani | Monday | -- |
-G092 | Alyssia Broncano and <br /> Michelle Raymond | Wednesday | -- |
+G092 | Alyssia Broncano and <br /> Michelle Raymond | Wednesday | -- <br /> -- |
 G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | -- |
 G111 | Dario Cabal | Wednesday | -- |
 G141 | Jacob Gardner | Wednesday | -- |
