@@ -28,7 +28,7 @@ Group | Investigator | Self-E? | Qmds? | HTMLs?
 ----: | :----------------: | :---: | :---: | :---: 
 G102 | Manu Bulusu |
 G102 | Lydia Mitchell | Self-E |
-G371 | Anthony Nunnery |
+G371 | Anthony Nunnery | | Qmd | HTML
 G391 | Sakshi Pandit | Self-E | resubmit | resubmit
 G461 | Reina Samuel | Self-E | resubmit | resubmit
 
