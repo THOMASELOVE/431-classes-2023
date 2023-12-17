@@ -26,29 +26,29 @@ Liz Stanley | -- | -- | Kexin Zhang | --
 
 Group | Investigator | Self-E? | Qmds? | HTMLs?
 ----: | :----------------: | :---: | :---: | :---: 
-G492 | Kamilla Abdurakhmanov |
-G492 | Elizabeth Schultheis | 
-G042 | Sarah Albalawi |
-G042 | Walaa Alshaia | 
-G092 | Alyssia Broncano |
-G092 | Michelle Raymond |
+G492 | Kamilla Abdurakhmanov | Self-E |
+G492 | Elizabeth Schultheis | Self-E |
+G042 | Sarah Albalawi | Self-E |
+G042 | Walaa Alshaia | Self-E |
+G092 | Alyssia Broncano | Self-E |
+G092 | Michelle Raymond | Self-E |
 G102 | Manu Bulusu |
-G102 | Lydia Mitchell |
-G111 | Dario Cabal |
-G312 | Kartik Lakhotiya |
-G312 | Samir Memic |
-G252 | Xiuyuan Lang |
-G252 | Elaine Liu | 
-G261 | Zunren (Jack) Liu |
-G271 | Bhavya Mahesh |
-G472 | Osmary Medina-Baez | **NO** | Yes | Yes
-G472 | Manish Sarkar | **NO** | Yes | Yes
+G102 | Lydia Mitchell | Self-E |
+G111 | Dario Cabal | Self-E |
+G312 | Kartik Lakhotiya | Self-E |
+G312 | Samir Memic | Self-E |
+G252 | Xiuyuan Lang | Self-E |
+G252 | Elaine Liu | Self-E |
+G261 | Zunren (Jack) Liu | Self-E |
+G271 | Bhavya Mahesh | Self-E |
+G472 | Osmary Medina-Baez | Self-E | Yes | Yes
+G472 | Manish Sarkar | Self-E | Yes | Yes
 G371 | Anthony Nunnery |
-G391 | Sakshi Pandit |
-G421 | Juan Perez |
-G461 | Reina Samuel |
-G511 | Kareena Shah |
-G522 | Himiede Wilson-Sesay | **NO** | Yes | Yes
-G551 | Qiao Wang | 
-G242 | Yan Zou | **NO** | Yes | Yes
+G391 | Sakshi Pandit | Self-E |
+G421 | Juan Perez | Self-E |
+G461 | Reina Samuel | Self-E |
+G511 | Kareena Shah | Self-E |
+G522 | Himiede Wilson-Sesay | Self-E | Yes | Yes
+G551 | Qiao Wang | Self-E |
+G242 | Yan Zou | Self-E | Yes | Yes
 
