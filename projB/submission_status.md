@@ -2,24 +2,21 @@
 
 Everything is due at **9 AM Sunday 2023-12-17**. 
 
-## The 3 People who've NOT yet submitted everything
-
-- `Self-E?` = Self-Evaluation submitted via Google Form, `Qmds?` / `HTMLs?` - submitted via Canvas
+## The 2 People who need to re-render and re-submit their Qmd and HTML to Canvas
 
 Group | Investigator | Self-E? | Qmds? | HTMLs?
 ----: | :----------------: | :---: | :---: | :---: 
-G102 | Manu Bulusu | | Qmd | HTML
 G391 | Sakshi Pandit | Self-E | resubmit, see email | re-render and resubmit, see email
 G461 | Reina Samuel | Self-E | resubmit, see email | re-render and resubmit, see email
 
-## The 52 People Who Have Submitted All of the Project B Materials So Far
+## The 53 People Who Have Successfully Submitted All Project B Materials
 
-Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have graded your work, and I have everything I need from you - just please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
+Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - just please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
 
 Grading | Completed | For | These | People 
 :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------:
 Kamilla Abdurakhmanov | Abrar Alamoudi | Sarah Albalawi | Naif AlQahtani | Walaa Alshaia 
-John Barron | Alyssia Broncano | -- | Dario Cabal | Ryan Deng
+John Barron | Alyssia Broncano | Manu Bulusu | Dario Cabal | Ryan Deng
 *Richael Gambrah* | Jacob Gardner | *Mary Garrity* | Trent George | Parishma Guttoo
 Claire Jansson-Knodell | Julia Joo | Kartik Lakhotiya | Xiuyuan Lang | *Vetrica Le Maitre*
 Kelsey Lewis | Mengxuan Li | Elaine Liu | Zunren (Jack) Liu | Bhavya Mahesh
