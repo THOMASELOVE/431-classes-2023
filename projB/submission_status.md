@@ -24,31 +24,33 @@ Liz Stanley | -- | -- | Kexin Zhang | --
 
 - `Self-E?` = Self-Evaluation submitted via Google Form, `Qmds?` / `HTMLs?` - submitted via Canvas
 
+- The 1 in Assessment just means I've received all of your Project B Materials. Thank you.
+
 Group | Investigator | Self-E? | Qmds? | HTMLs?
 ----: | :----------------: | :---: | :---: | :---: 
-G492 | Kamilla Abdurakhmanov | Self-E |
-G492 | Elizabeth Schultheis | Self-E |
-G042 | Sarah Albalawi | Self-E |
-G042 | Walaa Alshaia | Self-E |
-G092 | Alyssia Broncano | Self-E |
-G092 | Michelle Raymond | Self-E |
+G492 | Kamilla Abdurakhmanov | Self-E | Yes | Yes
+G492 | Elizabeth Schultheis | Self-E | Yes | Yes
+G042 | Sarah Albalawi | Self-E | Yes | Yes
+G042 | Walaa Alshaia | Self-E | Yes | Yes
+G092 | Alyssia Broncano | Self-E | Yes | Yes
+G092 | Michelle Raymond | Self-E | Yes | Yes
 G102 | Manu Bulusu |
 G102 | Lydia Mitchell | Self-E |
-G111 | Dario Cabal | Self-E |
-G312 | Kartik Lakhotiya | Self-E |
-G312 | Samir Memic | Self-E |
-G252 | Xiuyuan Lang | Self-E |
-G252 | Elaine Liu | Self-E |
-G261 | Zunren (Jack) Liu | Self-E |
-G271 | Bhavya Mahesh | Self-E |
+G111 | Dario Cabal | Self-E | Yes | Yes
+G312 | Kartik Lakhotiya | Self-E | Yes | Yes
+G312 | Samir Memic | Self-E | Yes | Yes
+G252 | Xiuyuan Lang | Self-E | Yes | Yes
+G252 | Elaine Liu | Self-E | Yes | Yes
+G261 | Zunren (Jack) Liu | Self-E | Yes | Yes
+G271 | Bhavya Mahesh | Self-E | Yes | Yes
 G472 | Osmary Medina-Baez | Self-E | Yes | Yes
 G472 | Manish Sarkar | Self-E | Yes | Yes
 G371 | Anthony Nunnery |
-G391 | Sakshi Pandit | Self-E |
-G421 | Juan Perez | Self-E |
-G461 | Reina Samuel | Self-E |
-G511 | Kareena Shah | Self-E |
+G391 | Sakshi Pandit | Self-E | resubmit | resubmit
+G421 | Juan Perez | Self-E | Yes | Yes
+G461 | Reina Samuel | Self-E | resubmit | resubmit
+G511 | Kareena Shah | Self-E | Yes | Yes
 G522 | Himiede Wilson-Sesay | Self-E | Yes | Yes
-G551 | Qiao Wang | Self-E |
+G551 | Qiao Wang | Self-E | Yes | Yes
 G242 | Yan Zou | Self-E | Yes | Yes
 
