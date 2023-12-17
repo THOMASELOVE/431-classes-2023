@@ -4,6 +4,8 @@ Everything is due at **9 AM Sunday 2023-12-17**.
 
 ## The 2 People who need to re-render and re-submit their Qmd and HTML to Canvas
 
+- I think the problem is that you've left out `embed-resources: true` from your YAML under `html`...
+
 Group | Investigator | Self-E? | Qmds? | HTMLs?
 ----: | :----------------: | :---: | :---: | :---: 
 G391 | Sakshi Pandit | Self-E | resubmit, see email | re-render and resubmit, see email
