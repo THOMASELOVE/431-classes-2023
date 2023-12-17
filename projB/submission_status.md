@@ -20,7 +20,7 @@ Ethan Martin | Kyle McGill Percy | -- | -- | Kathryn Menta
 Robert Schauner | -- | -- | Gazi Shamita | Jordan Smith
 Liz Stanley | -- | -- | Kexin Zhang | --
 
-## People who've not yet submitted everything
+## The 25 People who've NOT yet submitted everything
 
 - `Self-E?` = Self-Evaluation submitted via Google Form, `Qmds?` / `HTMLs?` - submitted via Canvas
 
