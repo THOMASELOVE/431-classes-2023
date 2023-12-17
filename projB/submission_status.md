@@ -4,18 +4,18 @@ Everything is due at **9 AM Sunday 2023-12-17**.
 
 ## People from whom I have what I expect to receive by 9 AM Sunday 2023-12-17
 
-I have completed the grading for **26 of 55** people so far. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
+I have completed the grading for **28 of 55** people so far. Grades for all students will be posted to SIS on Sunday 2023-12-17. If you're in this group, I have everything I need from you - please be sure to complete [the CWRU course evaluation](https://webapps.case.edu/courseevals/).
 
 Grading | Completed | For | These | People 
 :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------:
--- | Abrar Alamoudi | -- | -- | -- 
+-- | Abrar Alamoudi | -- | Naif AlQahtani | -- 
 John Barron | -- | -- | -- | Ryan Deng
 *Richael Gambrah* | Jacob Gardner | *Mary Garrity* | Trent George | Parishma Guttoo
 Claire Jansson-Knodell | Julia Joo | -- | -- | *Vetrica Le Maitre*
 Kelsey Lewis | -- | -- | -- | --
 Ethan Martin | Kyle McGill Percy | -- | -- | Kathryn Menta
 -- | Noel Moore | Krishna Mridha | -- | Vern Olaker
--- | -- | Mauli Patel | -- | Camaryn Petersen
+-- | Maksim Parfyonov | Mauli Patel | -- | Camaryn Petersen
 -- | Justin Robinson | Gayan Samuditha | -- | --
 Robert Schauner | -- | -- | -- | Jordan Smith
 Liz Stanley | -- | -- | Kexin Zhang | --
@@ -27,7 +27,6 @@ Liz Stanley | -- | -- | Kexin Zhang | --
 Group | Investigator(s) | Date | Self-E | Qmds | HTMLs 
 ---: | :-----------------: | :-----: | :---: | :---: | :---:  
 G042 | Sarah Albalawi and <br /> Walaa Alshaia | Thursday | -- <br /> -- |
-G051 | Naif AlQahtani | Monday | -- |
 G092 | Alyssia Broncano and <br /> Michelle Raymond | Wednesday | -- <br /> -- |
 G102 | Manu Bulusu and <br /> Lydia Mitchell | Monday | -- <br /> -- |
 G111 | Dario Cabal | Wednesday | -- |
@@ -38,7 +37,6 @@ G271 | Bhavya Mahesh | Wednesday | -- |
 G312 | Samir Memic and <br /> Kartik Lakhotiya | Thursday | -- <br /> -- |
 G371 | Anthony Nunnery | Wednesday | -- |
 G391 | Sakshi Pandit | Wednesday | -- |
-G412 | Maksim Parfyonov | Thursday | -- | Qmds | HTMLs |
 G421 | Juan Perez | Tuesday | -- |
 G461 | Reina Samuel | Thursday | -- |
 G472 | Manish Sarkar and <br /> Osmary Medina-Baez | Monday | -- <br /> -- | Qmds | HTMLs |
