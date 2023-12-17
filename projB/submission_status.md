@@ -18,7 +18,7 @@ Ethan Martin | Kyle McGill Percy | -- | -- | Kathryn Menta
 -- | Maksim Parfyonov | Mauli Patel | -- | Camaryn Petersen
 -- | Justin Robinson | Gayan Samuditha | -- | --
 Robert Schauner | -- | -- | Gazi Shamita | Jordan Smith
-Liz Stanley | -- | -- | Kexin Zhang | Yan Zou
+Liz Stanley | -- | -- | Kexin Zhang | --
 
 ## People who've not yet submitted everything
 
